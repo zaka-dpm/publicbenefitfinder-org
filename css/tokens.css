@@ -6,7 +6,7 @@
 @font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-800.woff2") format("woff2"); font-weight: 800; font-display: swap; }
 
 :root, [data-theme="light"] {
-  --surface: #fafbfd;
+  --surface: #ffffff;
   --surface-alt: #edf1f7;
   --line: #c9d2e0;
   --ink: #0e1c33;
@@ -15,13 +15,13 @@
   --navy-soft: #e2e9f4;
   --red: #b31942;
   --red-soft: #fbe8ed;
-  --on-fill: #fafbfd;
+  --on-fill: #ffffff;
   --line-strong: #7a879c;
   --navy-hover: #062247;
   --red-hover: #951233;
   --band: #0a3161;
   --band-red: #b31942;
-  --on-band: #fafbfd;
+  --on-band: #ffffff;
   --on-band-muted: #c3d0e6;
   --focus: #2463c7;
   --link: var(--navy);
