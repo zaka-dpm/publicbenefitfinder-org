@@ -47,7 +47,9 @@
 .pbf-header { background: var(--band); color: var(--on-band); }
 .pbf-header .pbf-wrap { display: flex; align-items: center; gap: var(--space-5); min-height: 72px; }
 .pbf-header__logo { display: block; flex: none; line-height: 0; }
-.pbf-header__logo img { height: 36px; width: auto; }
+.pbf-header__logo { display: inline-flex; align-items: center; gap: 10px; color: var(--on-band); text-decoration: none; }
+.pbf-header__logo img { display: block; width: 40px; height: 40px; padding: 3px; box-sizing: border-box; border-radius: 4px; background: var(--surface); }
+.pbf-header__logo span { font-size: 19px; line-height: 1.15; font-weight: 800; letter-spacing: -.02em; }
 .pbf-nav { display: flex; gap: 28px; margin-left: auto; }
 .pbf-nav a { color: var(--on-band); font-size: 16px; line-height: 22px; font-weight: 600; text-decoration: none; padding: 25px 0 22px; border-bottom: 3px solid transparent; transition: border-color .18s ease; white-space: nowrap; }
 .pbf-nav a:hover { border-bottom-color: var(--on-band-muted); }
@@ -61,7 +63,8 @@
   .pbf-nav, .pbf-header .pbf-btn { display: none; }
   .pbf-menu-btn { display: inline-flex; }
   .pbf-header .pbf-wrap { min-height: 64px; }
-  .pbf-header__logo img { height: 30px; }
+  .pbf-header__logo img { width: 34px; height: 34px; }
+  .pbf-header__logo span { font-size: 16px; }
 }
 
 /* Finder form */
@@ -159,6 +162,9 @@
 .pbf-footer::before { content: ""; display: block; height: 4px; background: var(--red); }
 .pbf-footer__top { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 3fr) minmax(0, 3fr); gap: var(--space-5); padding-top: var(--space-5); padding-bottom: var(--space-5); }
 .pbf-footer__brand img, .pbf-footer__brand .pbf-logo-svg { height: 26px; width: auto; display: block; }
+.pbf-footer__brand > a { display: inline-flex; align-items: center; gap: 10px; color: var(--on-band); text-decoration: none; }
+.pbf-footer__brand > a img { width: 34px; height: 34px; padding: 2px; box-sizing: border-box; border-radius: 4px; background: var(--surface); }
+.pbf-footer__brand > a span { font-size: 17px; line-height: 1.2; font-weight: 800; letter-spacing: -.02em; }
 .pbf-footer__brand p { margin: var(--space-2) 0 0; font-size: 16px; line-height: 24px; color: var(--on-band-muted); max-width: 46ch; }
 .pbf-footer h2 { font-size: 16px; line-height: 22px; font-weight: 700; margin: 0 0 var(--space-1); color: var(--on-band); }
 .pbf-footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; font-size: 16px; line-height: 24px; }

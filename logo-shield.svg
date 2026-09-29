@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">Public Benefit Finder shield</title>
+  <defs>
+    <clipPath id="shield">
+      <path d="M50 0 96 16 88 74 50 100 12 74 4 16Z"/>
+    </clipPath>
+  </defs>
+  <path fill="#142d4c" d="M50 0 96 16 88 74 50 100 12 74 4 16Z"/>
+  <g clip-path="url(#shield)">
+    <path fill="#b72e35" d="M0 58h100v9H0zM0 72h100v9H0zM0 86h100v9H0z"/>
+  </g>
+  <path fill="#fff" d="m50 9 4.4 9.3 10.2 1.5-7.3 7.1 1.7 10.1L50 32.2l-9 4.8 1.7-10.1-7.3-7.1 10.2-1.5z"/>
+</svg>
