@@ -1,0 +1,96 @@
+/* Public Benefit Finder design tokens. Light by default; dark follows the system setting,
+   or force a theme with <html data-theme="light"> or <html data-theme="dark">. */
+@font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-600.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-700.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-800.woff2") format("woff2"); font-weight: 800; font-display: swap; }
+
+:root, [data-theme="light"] {
+  --surface: #fafbfd;
+  --surface-alt: #edf1f7;
+  --line: #c9d2e0;
+  --ink: #0e1c33;
+  --ink-muted: #48566d;
+  --navy: #0a3161;
+  --navy-soft: #e2e9f4;
+  --red: #b31942;
+  --red-soft: #fbe8ed;
+  --on-fill: #fafbfd;
+  --line-strong: #7a879c;
+  --navy-hover: #062247;
+  --red-hover: #951233;
+  --band: #0a3161;
+  --band-red: #b31942;
+  --on-band: #fafbfd;
+  --on-band-muted: #c3d0e6;
+  --focus: #2463c7;
+  --link: var(--navy);
+  --shadow-lift: 0 1px 2px #0a31611a, 0 6px 20px #0a316114;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+  --surface: #0b1526;
+  --surface-alt: #132139;
+  --line: #2e3e5a;
+  --ink: #edf1f7;
+  --ink-muted: #a9b5c9;
+  --navy: #9dbbef;
+  --navy-soft: #1a2d4f;
+  --red: #f0859d;
+  --red-soft: #3b1422;
+  --on-fill: #0b1526;
+  --line-strong: #5d6e8c;
+  --navy-hover: #bcd0f4;
+  --red-hover: #f5a3b6;
+  --band: #102a52;
+  --band-red: #8a1633;
+  --on-band: #edf1f7;
+  --on-band-muted: #c3d0e6;
+  --focus: #9cc0ff;
+  --link: var(--navy);
+  --shadow-lift: 0 1px 2px #00000066, 0 8px 24px #00000059;
+  }
+}
+[data-theme="dark"] {
+  --surface: #0b1526;
+  --surface-alt: #132139;
+  --line: #2e3e5a;
+  --ink: #edf1f7;
+  --ink-muted: #a9b5c9;
+  --navy: #9dbbef;
+  --navy-soft: #1a2d4f;
+  --red: #f0859d;
+  --red-soft: #3b1422;
+  --on-fill: #0b1526;
+  --line-strong: #5d6e8c;
+  --navy-hover: #bcd0f4;
+  --red-hover: #f5a3b6;
+  --band: #102a52;
+  --band-red: #8a1633;
+  --on-band: #edf1f7;
+  --on-band-muted: #c3d0e6;
+  --focus: #9cc0ff;
+  --link: var(--navy);
+  --shadow-lift: 0 1px 2px #00000066, 0 8px 24px #00000059;
+}
+:root {
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-5: 40px;
+  --space-8: 64px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --container: 1200px;
+  --measure: 68ch;
+  --tap: 48px;
+  --font-sans: "Public Sans", "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.pbf-t-display { font-family: var(--font-sans); font-size: 48px; line-height: 52px; font-weight: 800; letter-spacing: -0.02em; }
+.pbf-t-h1 { font-family: var(--font-sans); font-size: 36px; line-height: 42px; font-weight: 700; letter-spacing: -0.01em; }
+.pbf-t-h2 { font-family: var(--font-sans); font-size: 28px; line-height: 34px; font-weight: 700; }
+.pbf-t-h3 { font-family: var(--font-sans); font-size: 21px; line-height: 28px; font-weight: 600; }
+.pbf-t-body { font-family: var(--font-sans); font-size: 18px; line-height: 28px; font-weight: 400; }
+.pbf-t-small { font-family: var(--font-sans); font-size: 15px; line-height: 22px; font-weight: 400; }
+.pbf-t-label { font-family: var(--font-sans); font-size: 16px; line-height: 22px; font-weight: 700; }
