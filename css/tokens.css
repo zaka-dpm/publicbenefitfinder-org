@@ -7,25 +7,25 @@
 
 :root, [data-theme="light"] {
   --surface: #ffffff;
-  --surface-alt: #edf1f7;
-  --line: #c9d2e0;
-  --ink: #0e1c33;
-  --ink-muted: #48566d;
-  --navy: #0a3161;
-  --navy-soft: #e2e9f4;
-  --red: #b31942;
-  --red-soft: #fbe8ed;
+  --surface-alt: #e8eef3;
+  --line: #cdd5dc;
+  --ink: #192b3d;
+  --ink-muted: #5f6d78;
+  --navy: #142d4c;
+  --navy-soft: #dbe7f2;
+  --red: #b72e35;
+  --red-soft: #f7e8e8;
   --on-fill: #ffffff;
-  --line-strong: #7a879c;
-  --navy-hover: #062247;
-  --red-hover: #951233;
-  --band: #0a3161;
-  --band-red: #b31942;
+  --line-strong: #8795a4;
+  --navy-hover: #203f63;
+  --red-hover: #98262c;
+  --band: #142d4c;
+  --band-red: #b72e35;
   --on-band: #ffffff;
-  --on-band-muted: #c3d0e6;
-  --focus: #2463c7;
+  --on-band-muted: #c3d5e7;
+  --focus: #2f6fa8;
   --link: var(--navy);
-  --shadow-lift: 0 1px 2px #0a31611a, 0 6px 20px #0a316114;
+  --shadow-lift: 0 1px 2px #142d4c1a, 0 6px 20px #142d4c14;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
