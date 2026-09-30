@@ -44,7 +44,7 @@
 .pbf-crisis strong { font-weight: 700; }
 .pbf-crisis a { color: inherit; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; display: inline-flex; align-items: center; gap: 6px; }
 .pbf-crisis .pbf-icon { width: 16px; height: 16px; }
-.pbf-header { background: var(--surface); color: var(--navy); }
+.pbf-header { background: var(--surface); color: var(--navy); position: sticky; top: 0; z-index: 100; }
 .pbf-header .pbf-wrap { display: flex; align-items: center; gap: var(--space-5); min-height: 78px; }
 .pbf-header__logo { display: block; flex: none; line-height: 0; }
 .pbf-header__logo { display: inline-flex; align-items: center; gap: 10px; color: var(--navy); text-decoration: none; }
@@ -53,7 +53,7 @@
 .pbf-header__wordmark span:last-child { color: var(--red); }
 .pbf-nav { display: flex; gap: 28px; margin-left: auto; }
 .pbf-nav a { color: var(--navy); font-size: 16px; line-height: 22px; font-weight: 600; text-decoration: none; padding: 25px 0 22px; border-bottom: 3px solid transparent; transition: border-color .18s ease; white-space: nowrap; }
-.pbf-nav a:hover { border-bottom-color: var(--red); }
+.pbf-nav a:hover { color: var(--red); }
 .pbf-nav a[aria-current="page"] { border-bottom-color: var(--navy); }
 .pbf-header .pbf-btn--on-band { background: var(--navy); color: var(--on-fill); }
 .pbf-header .pbf-btn--on-band:hover { background: var(--navy-hover); }
