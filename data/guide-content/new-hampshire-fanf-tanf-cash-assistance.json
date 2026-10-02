@@ -1,0 +1,44 @@
+{
+  "status": "reviewed",
+  "introduction": "Financial Assistance to Needy Families is New Hampshire\u2019s family cash-assistance program. Request an eligibility assessment through NH EASY or a DHHS district office.",
+  "description": "Financial Assistance to Needy Families is New Hampshire\u2019s family cash-assistance program. Request an eligibility assessment through NH EASY or a DHHS district office.",
+  "sections": {
+    "who": "<p>FANF evaluates families with dependent children who lack parental support because of absence, death, disability or qualifying two-parent circumstances. DHHS assigns the appropriate category: NHEP, Family Assistance Program, Interim Disabled Parent or Families With Older Children. Financial rules and participation requirements apply.</p>",
+    "get": "<p>Approved cash benefits are issued twice monthly by electronic transfer or EBT. Work-eligible recipients participate in NHEP, which offers education, training and job preparation. Depending on the case, supports can include child care, transportation and employment-related supplies.</p>",
+    "docs": "<ul><li>Household income and requested resource records.</li><li>Children\u2019s ages and caregiver relationship information.</li><li>Housing costs and relevant expenses.</li><li>Evidence supporting a disability, hardship or participation exception when requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request family cash assistance</h3><p>Use <a href=\"https://nheasy.nh.gov/\">NH EASY</a> or ask a district office for the current application.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Respond to the interview and document requests. Explain any barriers to employment or unusual caregiving circumstances.</p></li><li><h3 class=\"pbf-h3\">Read the category and participation notice</h3><p>Ask about the cash decision, employment-plan obligations and how to document a claimed exception.</p></li></ol>",
+    "after": "<p>Read your cash and participation notices together. The usual maximum is 60 months, with exceptions including some children-only relative-caregiver cases. Ask DHHS how prior assistance counts and about any hardship process before a limit affects your case. Keep copies of submitted records and follow the reporting instructions in your notice.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf\">DHHS current family and emergency assistance guidance</a>, <a href=\"https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf/new-hampshire-employment-program-nhep\">Program instructions and forms</a>, <a href=\"https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/bfa-785.pdf\">Additional agency guidance</a>. <a href=\"https://usaassistance.org/programs/new-hampshire-fanf-tanf-cash-assistance/\">USA Assistance background guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Is FANF a separate tax refund?",
+      "No. It is family financial assistance administered by DHHS."
+    ],
+    [
+      "Does every case have identical employment obligations?",
+      "No. Ask which FANF category and participation rules apply."
+    ],
+    [
+      "Can a hardship extension be considered?",
+      "DHHS publishes an extension-request process, but eligibility and current requirements must be confirmed for the case."
+    ],
+    [
+      "What can NHEP help with?",
+      "Its services include education, career preparation and employment activities, with possible supports such as child care and transportation. Your worker explains the services approved for your case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf",
+      "https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf/new-hampshire-employment-program-nhep",
+      "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/bfa-785.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [],
+    "reviewed_on": "2026-10-01",
+    "resolved_notes": "Current TANF and NHEP agency pages read in Chrome after research-tool access failed."
+  }
+}

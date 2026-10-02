@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana LIHEAP helps eligible households with heating, cooling and energy crises through parish providers. The statewide online application portal is currently closed; crisi",
+  "introduction": "Louisiana LIHEAP helps eligible households with heating, cooling and energy crises through parish providers. The statewide online application portal is currently closed; crisis applications use local agencies.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Applicants must meet income and other component rules and be responsible for a household energy bill with an active heating or cooling account.",
+      "The published cooling intake window ran through September 30, 2026 or exhaustion of funds. Ask the parish provider about the current crisis or next seasonal intake."
+    ],
+    "get": "<p>Available assistance may cover approved energy bills, a crisis or qualifying equipment work. Funds and eligibility determine what the provider can approve.</p>",
+    "docs": "<p>LHC lists a recent utility bill, household income for the previous 30 days, address proof, applicant photo ID and household Social Security documentation. Bring a disconnect notice for a crisis request. Ask about accepted alternatives where applicable.</p>",
+    "apply": "<ol><li>Use the parish map on <a href=\"https://www.lhc.la.gov/energy-assistance\">LHC’s energy assistance page</a> to find your local agency.</li><li>Contact the agency for crisis appointments or the current application procedure. No crisis application is accepted through the statewide online portal.</li><li>Provide the requested records and keep your application receipt.</li></ol>",
+    "after": "<p>Confirm the decision and whether payment reached the utility. Discuss disconnection arrangements with the utility while the application is pending. LIHEAP has no application fee; the agency should not need your banking password or credit-card details.</p>",
+    "sources": "<ul><li><a href=\"https://www.lhc.la.gov/energy-assistance\">Louisiana LIHEAP and parish directory</a></li><li><a href=\"https://usaassistance.org/programs/liheap-energy-assistance-louisiana/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply online statewide now?",
+      "LHC’s current notice says statewide online applications are closed. Contact the local parish agency."
+    ],
+    [
+      "Where do I request crisis help?",
+      "Request an appointment from your parish provider. LHC says crisis applications are not taken online through the statewide portal."
+    ],
+    [
+      "Is cooling assistance still open in October?",
+      "The published 2026 cooling window ended September 30. Ask the agency about another active component."
+    ],
+    [
+      "Is there an application fee?",
+      "No. LHC states that applying for LIHEAP is free."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "liheap-energy-assistance-louisiana",
+    "source_url": "https://usaassistance.org/programs/liheap-energy-assistance-louisiana/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.lhc.la.gov/energy-assistance",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.lhc.la.gov/energy-assistance"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

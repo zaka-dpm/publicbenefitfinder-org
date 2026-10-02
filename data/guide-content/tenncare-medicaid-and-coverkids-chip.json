@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "TennCare Connect is Tennessee’s health-coverage application route. Apply online, by telephone or on paper to have TennCare and relevant CoverKids eligibility assessed.",
+  "description": "TennCare Connect is Tennessee’s health-coverage application route. Apply online, by telephone or on paper to have TennCare and relevant CoverKids eligibility assessed.",
+  "sections": {
+    "who": "<p>The state uses coverage categories including children, caregivers, pregnancy, former foster care and age or disability circumstances. CoverKids has separate child and pregnancy-related categories.</p>",
+    "get": "<p>Approved health coverage depends on the category and plan. Read member information to understand providers and services.</p>",
+    "docs": "<ul><li>Household income and members.</li><li>Existing insurance.</li><li>Requested identity, status and relevant resource evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through TennCare Connect</h3><p>Use <a href=\"https://www.tn.gov/tenncare/members-applicants/how-do-i-apply-for-tenncare.html\">the application links</a> or call 855-259-0701.</p></li><li><h3 class=\"pbf-h3\">Respond to the review</h3><p>Read letters requesting additional information and submit the specified records.</p></li><li><h3 class=\"pbf-h3\">Check each decision</h3><p>Review coverage dates and enrollment instructions for each applicant.</p></li></ol>",
+    "after": "<p>Keep contact information current and follow renewals. Local health departments can provide in-person application help.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tn.gov/tenncare/members-applicants/how-do-i-apply-for-tenncare.html\">TennCare intake and help</a>, <a href=\"https://www.tn.gov/tenncare/members-applicants/eligibility-reference-guide.html\">TennCare and CoverKids categories</a>. <a href=\"https://usaassistance.org/programs/tenncare-medicaid-and-coverkids-chip/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is a paper route available?",
+      "Yes. The state links English and Spanish forms and mail or fax submission instructions."
+    ],
+    [
+      "Does low income alone guarantee every adult coverage?",
+      "No. The eligibility guide uses specific coverage categories."
+    ],
+    [
+      "Can I get in-person help?",
+      "The state directs applicants to local Department of Health offices."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tn.gov/tenncare/members-applicants/how-do-i-apply-for-tenncare.html",
+      "https://www.tn.gov/tenncare/members-applicants/eligibility-reference-guide.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

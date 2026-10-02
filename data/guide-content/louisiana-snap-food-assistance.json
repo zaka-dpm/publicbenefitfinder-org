@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana SNAP helps eligible households buy food through EBT. The Department of Health now administers the program, with applications and case documents handled through CAFÉ ",
+  "introduction": "Louisiana SNAP helps eligible households buy food through EBT. The Department of Health now administers the program, with applications and case documents handled through CAFÉ and LAHelpU.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Eligibility depends on household income, size and other SNAP rules. Asset treatment varies; some households qualify for categorical exemptions.",
+      "Report the household accurately and ask the worker about any student, immigration or work-rule issue that applies."
+    ],
+    "get": "<p>Approved SNAP benefits pay for eligible household food. They generally do not cover household supplies, supplements, alcohol or hot prepared meals. The eligibility notice gives your award and reporting instructions.</p>",
+    "docs": "<p>Prepare identity, income and relevant expense proof. Include wages or job separation records, self-employment information and other benefit income. Upload readable documents and retain a copy of the checklist.</p>",
+    "apply": "<ol><li>Apply through the CAFÉ link at <a href=\"https://ldh.la.gov/page/snap-success-center\">LDH’s SNAP Success Center</a>, or call 888-524-3578.</li><li>A paper application can be mailed, faxed to 225-663-3164 or delivered to a local office. Applications cannot be emailed.</li><li>Complete the interview and provide requested verification by the deadline shown.</li></ol>",
+    "after": "<p>Watch for the interview instructions and decision. If you miss a call, contact LAHelpU to arrange the interview rather than starting a duplicate application. Report changes and complete redetermination when required. Use the case instructions to challenge a decision you believe is incorrect.</p>",
+    "sources": "<ul><li><a href=\"https://ldh.la.gov/page/snap-success-center\">SNAP Success Center</a></li><li><a href=\"https://ldh.la.gov/faq/category/snap\">SNAP eligibility and document FAQ</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I email the application?",
+      "No. Louisiana says applications cannot be emailed. Use CAFÉ, telephone or the listed paper-submission methods."
+    ],
+    [
+      "Can I submit supporting documents separately?",
+      "Yes. CAFÉ is the recommended method; LDH also lists other document-submission channels. Follow the identifiers and instructions on its document page."
+    ],
+    [
+      "Does unemployment income automatically disqualify me?",
+      "No. It must be reported and evaluated with household size and other income."
+    ],
+    [
+      "How can I get application instructions by text?",
+      "Text GETSNAP to 898211 for Louisiana’s SNAP application guidance."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/louisiana-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://ldh.la.gov/supplemental-nutrition-assistance-program",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://ldh.la.gov/page/snap-success-center",
+      "https://ldh.la.gov/faq/category/snap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

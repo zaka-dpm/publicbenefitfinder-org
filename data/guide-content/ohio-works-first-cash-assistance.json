@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio Works First offers temporary cash support to eligible families while adults prepare for employment. Your county JFS assesses the request.",
+  "description": "Ohio Works First offers temporary cash support to eligible families while adults prepare for employment. Your county JFS assesses the request.",
+  "sections": {
+    "who": "<p>The program is income-based and serves qualifying families with children. The county determines household eligibility, participation duties and any exceptions.</p>",
+    "get": "<p>Assistance helps meet immediate family needs. The usual lifetime limit is 36 months; ask the county about your history and any hardship extension.</p>",
+    "docs": "<ul><li>Household and income records.</li><li>Identity and requested child or family relationship evidence.</li><li>Previous cash-assistance information and any barriers to participation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://benefits.ohio.gov/\">Ohio Benefits</a> or your county JFS.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>Discuss work, child care, transport and other circumstances relevant to the plan.</p></li><li><h3 class=\"pbf-h3\">Read the requirements</h3><p>Ask the worker to explain your participation agreement, reporting duties and payment decision.</p></li></ol>",
+    "after": "<p>Keep appointments and discuss barriers promptly rather than missing required activities without contacting the worker.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Cash-Assistance\">County OWF overview</a>; <a href=\"https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Cash-Assistance/Cash-Assistance-FAQs\">OWF questions</a>; <a href=\"https://codes.ohio.gov/ohio-administrative-code/rule-5101%3A1-2-01\">State interview rule</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is OWF permanent income?",
+      "It is temporary assistance with program limits."
+    ],
+    [
+      "Can I assume an extension?",
+      "No. Ask the county to review hardship eligibility."
+    ],
+    [
+      "Where do I explain child care problems?",
+      "Discuss them with the worker during assessment and when circumstances change."
+    ],
+    [
+      "What should I do after approval?",
+      "Follow the notice and participation plan, and report changes as instructed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Cash-Assistance",
+      "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Cash-Assistance/Cash-Assistance-FAQs",
+      "https://codes.ohio.gov/ohio-administrative-code/rule-5101%3A1-2-01"
+    ],
+    "background_source": "https://usaassistance.org/programs/ohio-works-first-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

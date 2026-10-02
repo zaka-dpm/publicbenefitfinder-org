@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Idaho’s former grocery credit is now called the Food Tax Credit. It is claimed through the tax system, including a route for eligible residents who are not required to file an income-tax return.",
+  "description": "Idaho’s former grocery credit is now called the Food Tax Credit. It is claimed through the tax system, including a route for eligible residents who are not required to file an",
+  "sections": {
+    "who": "<p>Idaho residence and the credit’s restrictions matter. The correct form depends on whether you must file, your age, dependents and other circumstances. Receiving SNAP during part of the year can affect the computation.</p>",
+    "get": "<p>For tax year 2025, the state describes a standard $155 per qualifying person, or a receipt-based claim up to $250 per person under the return instructions. This is a tax credit, not a monthly grocery allowance.</p>",
+    "docs": "<ul><li>Income and residence information for the return year.</li><li>Dependent details and months of SNAP receipt, if applicable.</li><li>Qualifying food-tax receipts if using the receipt-based calculation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the proper form</h3><p>Use the <a href=\"https://tax.idaho.gov/taxes/income-tax/individual-income/popular-credits-and-deductions/idaho-grocery-credit/\">Tax Commission’s current Food Tax Credit page</a> and worksheet. Depending on your circumstances, it identifies Form 24, 40 or 43.</p></li><li><h3 class=\"pbf-h3\">Follow the year-specific instructions</h3><p>Form 24 has narrower eligibility and cannot be used for the receipt-based claim. If required to file, claim the credit on the income-tax return.</p></li><li><h3 class=\"pbf-h3\">Submit one claim</h3><p>Do not claim the same credit on more than one form. Keep the form and submission record.</p></li></ol>",
+    "after": "<p>Read any Tax Commission request and retain the records used in the calculation. Ask for tax help if uncertain which form applies.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://tax.idaho.gov/taxes/income-tax/individual-income/popular-credits-and-deductions/idaho-grocery-credit/\">Food Tax Credit overview and form selection</a>, <a href=\"https://tax.idaho.gov/wp-content/uploads/forms/EFO00086/EFO00086_09-18-2025.pdf\">2025 Form 24 instructions</a>, <a href=\"https://apps-tax.idaho.gov/GroceryCreditWorksheet/\">Credit worksheet</a>. <a href=\"https://usaassistance.org/programs/idaho-grocery-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I lose the credit because I earn too little to file?",
+      "Not necessarily. The state provides a claim route for eligible residents who are not required to file."
+    ],
+    [
+      "Is Form 24 available to every older resident?",
+      "No. The 2025 instructions have additional restrictions, including dependents and specified circumstances during the year."
+    ],
+    [
+      "Are older residents given a larger standard amount for 2025?",
+      "The state worksheet says residents aged 65 or older receive the same standard amount as younger residents for 2025."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://tax.idaho.gov/taxes/income-tax/individual-income/popular-credits-and-deductions/idaho-grocery-credit/",
+      "https://tax.idaho.gov/wp-content/uploads/forms/EFO00086/EFO00086_09-18-2025.pdf",
+      "https://apps-tax.idaho.gov/GroceryCreditWorksheet/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Maine WIC provides food benefits, nutrition support and breastfeeding help. Parents and caregivers can apply for eligible infants and children in their care.",
+  "introduction": "Maine WIC provides food benefits, nutrition support and breastfeeding help. Parents and caregivers can apply for eligible infants and children in their care.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Eligible groups include pregnant participants, lactating participants, recent postpartum participants and children younger than five living in Maine.",
+      "Income and nutrition-screening conditions apply. MaineCare, SNAP or TANF proof can establish an income-eligibility pathway."
+    ],
+    "get": "<p>The clinic assigns foods for the participant and provides nutrition education and referrals. Use the current food list and clinic instructions rather than an older description of paper checks.</p>",
+    "docs": "<p>Prepare identification, physical-address proof and income or qualifying-benefit documentation. Ask the clinic which applicants must attend and what else is needed for the initial visit. Keep copies of uploaded records.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.maine.gov/dhhs/mecdc/healthy-living/wic/apply-and-get-started\">Apply and Get Started</a> to contact a nearby clinic or request a staff call through the contact form.</li><li>Arrange an appointment and confirm the checklist.</li><li>Complete the eligibility and health assessment and ask how food benefits are used.</li></ol>",
+    "after": "<p>Keep follow-up appointments and tell the clinic about feeding concerns or difficulty buying an approved item. Ask about breastfeeding help and current shopping guidance. For state program questions, call 800-437-9300.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/dhhs/mecdc/healthy-living/wic\">Maine WIC categories</a></li><li><a href=\"https://www.maine.gov/dhhs/mecdc/healthy-living/wic/apply-and-get-started\">WIC appointment and application</a></li><li><a href=\"https://usaassistance.org/programs/maine-wic-nutrition-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a father or foster parent apply for a child?",
+      "Yes. Maine lists fathers, legal guardians, adoptive parents and foster parents among caregivers who can apply."
+    ],
+    [
+      "Does MaineCare proof complete WIC enrollment?",
+      "No. It can establish income eligibility, but WIC still completes its category and nutrition review."
+    ],
+    [
+      "Can I request a call rather than find an office myself?",
+      "The state contact form allows a WIC staff member to call and arrange an appointment."
+    ],
+    [
+      "How long should I allow for the first visit?",
+      "Maine’s current application page suggests about an hour. Confirm the appointment arrangements with your clinic."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maine-wic-nutrition-program",
+    "source_url": "https://usaassistance.org/programs/maine-wic-nutrition-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/dhhs/mecdc/population-health/wic/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/dhhs/mecdc/healthy-living/wic",
+      "https://www.maine.gov/dhhs/mecdc/healthy-living/wic/apply-and-get-started"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

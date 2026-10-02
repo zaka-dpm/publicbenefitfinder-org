@@ -1,0 +1,39 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota WIC enrollment starts with an appointment at a local clinic. A caregiver can apply for an eligible child even if the caregiver does not receive WIC.",
+  "description": "North Dakota WIC enrollment starts with an appointment at a local clinic. A caregiver can apply for an eligible child even if the caregiver does not receive WIC.",
+  "sections": {
+    "who": "<p>Pregnancy, recent pregnancy, breastfeeding, infancy or age under five must fit a WIC category. Staff check nutrition needs and income; Medicaid, SNAP or TANF can establish income eligibility.</p>",
+    "get": "<p>WIC supplies approved foods, nutrition support, breastfeeding guidance and referrals.</p>",
+    "docs": "<ul><li>Identification for each applicant.</li><li>Address and household income evidence or qualifying benefit records.</li><li>Infant or child vaccination records requested by the clinic.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Arrange an appointment</h3><p>Use <a href=\"https://www.hhs.nd.gov/food-programs/WIC/apply\">the state clinic directory</a> or call 800-472-2286.</p></li><li><h3 class=\"pbf-h3\">Attend with the child</h3><p>Enrollment is in person. Bring the infant or child and records the clinic requests.</p></li><li><h3 class=\"pbf-h3\">Complete the nutrition assessment</h3><p>Staff review health and nutrition information and explain your food benefits if approved.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and ask staff about food substitutions, breastfeeding questions or a change of address.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hhs.nd.gov/food-programs/WIC/eligible\">WIC categories</a>, <a href=\"https://www.hhs.nd.gov/food-programs/WIC/appointment\">Appointment records</a>, <a href=\"https://www.hhs.nd.gov/food-programs/WIC/apply\">Clinic intake</a>, <a href=\"https://www.hhs.nd.gov/food-programs/WIC\">Program services</a>. <a href=\"https://usaassistance.org/programs/north-dakota-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a father apply for a child?",
+      "Yes. WIC welcomes parents and other caregivers of eligible children."
+    ],
+    [
+      "Is citizenship evidence required?",
+      "The state says WIC does not require citizenship or immigration-status proof."
+    ],
+    [
+      "Can SNAP establish income eligibility?",
+      "Yes, although WIC still assesses the applicable category and nutrition needs."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hhs.nd.gov/food-programs/WIC/eligible",
+      "https://www.hhs.nd.gov/food-programs/WIC/appointment",
+      "https://www.hhs.nd.gov/food-programs/WIC/apply",
+      "https://www.hhs.nd.gov/food-programs/WIC"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

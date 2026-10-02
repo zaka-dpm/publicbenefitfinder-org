@@ -1,0 +1,39 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi WIC combines supplemental foods with nutrition and breastfeeding support. A pre-application starts the contact process; the clinic completes eligibility and nutrition assessment.",
+  "description": "Hawaiʻi WIC combines supplemental foods with nutrition and breastfeeding support. A pre-application starts the contact process; the clinic completes eligibility and nutrition ",
+  "sections": {
+    "who": "<p>Participants must live in Hawaiʻi and meet income and medical or nutrition-risk requirements. The program covers eligible pregnant, postpartum or breastfeeding applicants, infants and children younger than five. A parent or caregiver can arrange an application for a child.</p>",
+    "get": "<p>WIC supplies selected foods, nutrition education, breastfeeding help and healthcare or social-service referrals. The clinic explains the eWIC card and current shopping guide.</p>",
+    "docs": "<ul><li>Identity and Hawaiʻi residence records.</li><li>Household income records, or evidence of QUEST, TANF or SNAP participation.</li><li>Available child immunization records; confirm which applicants must attend.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start with the current WIC page</h3><p>Use the application route at <a href=\"https://health.hawaii.gov/wic/\">Hawaiʻi WIC</a> or contact a clinic in the <a href=\"https://health.hawaii.gov/wic/find-a-wic-clinic/\">island clinic directory</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange certification</h3><p>A staff member follows up on the pre-application. Ask about appointment arrangements and the clinic’s document checklist.</p></li><li><h3 class=\"pbf-h3\">Complete the assessment</h3><p>Provide the records and discuss the applicant’s health and nutrition needs, then review benefit and shopping instructions.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and use the current allowed-food list. Contact the clinic for card issues, benefit questions or breastfeeding support.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://health.hawaii.gov/wic/\">Hawaiʻi WIC overview</a>, <a href=\"https://health.hawaii.gov/wic/program_details/\">WIC appointment preparation</a>, <a href=\"https://health.hawaii.gov/wic/find-a-wic-clinic/\">WIC clinic directory</a>, <a href=\"https://health.hawaii.gov/news/newsroom/hawai%CA%BBi-wic-clinics-and-enrollment-remain-open/\">State pre-application instructions</a>. <a href=\"https://usaassistance.org/programs/hawaii-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does a pre-application approve benefits?",
+      "No. It begins contact with staff; the clinic decides eligibility."
+    ],
+    [
+      "Can other public benefits help establish income eligibility?",
+      "The state’s appointment page says proof of QUEST, TANF or SNAP meets WIC income requirements. Other eligibility checks remain."
+    ],
+    [
+      "How do I find a clinic on my island?",
+      "The state clinic directory lists locations and phone contacts for the islands."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://health.hawaii.gov/wic/",
+      "https://health.hawaii.gov/wic/program_details/",
+      "https://health.hawaii.gov/wic/find-a-wic-clinic/",
+      "https://health.hawaii.gov/news/newsroom/hawai%CA%BBi-wic-clinics-and-enrollment-remain-open/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

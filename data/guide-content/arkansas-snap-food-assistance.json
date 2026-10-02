@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Arkansas SNAP provides food benefits through an EBT card for qualifying households. Access Arkansas handles online applications; DHS also provides paper forms in several langu",
+  "introduction": "Arkansas SNAP provides food benefits through an EBT card for qualifying households. Access Arkansas handles online applications; DHS also provides paper forms in several languages.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "DHS considers the food household, income, resources and applicable individual requirements. Work rules and exceptions can also affect eligibility.",
+      "Submit the application for a case-specific determination. Being eligible for another program does not by itself establish every SNAP condition."
+    ],
+    "get": "<p>Benefits help cover eligible food purchases, including qualifying food-producing plants and seeds. Approved retailers and participating farmers markets accept SNAP. Check current purchase rules rather than assuming every grocery item is eligible.</p>",
+    "docs": "<p>The state’s application checklist includes identity, residence, income, Social Security numbers or proof of applying for them for benefit applicants, and applicable immigration records. Gather expense records if the worker requests them.</p>",
+    "apply": "<ol><li>Use <a href=\"https://humanservices.arkansas.gov/divisions-shared-services/county-operations/supplemental-nutrition-assistance-snap/snap-overview-and-how-to-apply/\">DHS’s SNAP application page</a> to reach Access Arkansas or a paper form.</li><li>Complete and sign the application and retain confirmation.</li><li>Complete the interview. Online applicants are offered a telephone interview; follow the appointment notice and provide verification.</li></ol>",
+    "after": "<p>If you miss the interview, contact DHS to request another appointment rather than expecting automatic rescheduling. Read the decision and reporting instructions. Use Access Arkansas to maintain contact information and submit requested records.</p>",
+    "sources": "<ul><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/county-operations/supplemental-nutrition-assistance-snap/snap-overview-and-how-to-apply/\">SNAP application, food benefits and forms</a></li><li><a href=\"https://humanservices.arkansas.gov/wp-content/uploads/Application_for_SNAP_and_TEA_DCO-0215.pdf\">SNAP/TEA application and interview checklist</a></li><li><a href=\"https://usaassistance.org/programs/arkansas-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is an interview required?",
+      "The DHS SNAP/TEA application identifies an interview for eligibility, with a phone option for online applications."
+    ],
+    [
+      "Can I apply with a paper form?",
+      "Yes. The SNAP page links English, Spanish and Marshallese forms."
+    ],
+    [
+      "What if I miss the interview?",
+      "Ask DHS to reschedule. The application says another interview is not automatically scheduled."
+    ],
+    [
+      "Can the card buy plants?",
+      "SNAP can buy eligible seeds and plants that produce food for the household. Check current item restrictions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arkansas-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/arkansas-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://access.arkansas.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/county-operations/supplemental-nutrition-assistance-snap/snap-overview-and-how-to-apply/",
+      "https://humanservices.arkansas.gov/wp-content/uploads/Application_for_SNAP_and_TEA_DCO-0215.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

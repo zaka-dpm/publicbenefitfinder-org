@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "M Street Navigation Center offers shelter and support for adults experiencing homelessness in Kern County. Start with coordinated entry to ask about placement rather than assu",
+  "introduction": "M Street Navigation Center offers shelter and support for adults experiencing homelessness in Kern County. Start with coordinated entry to ask about placement rather than assuming a bed is available.",
+  "service_type": "housing",
+  "sections": {
+    "who": [
+      "The center serves unsheltered adults age 18 and older. Placement and available beds require intake; men and women sleep in separate dormitory areas."
+    ],
+    "get": "<p>Services include shelter, meals, laundry, secure storage and connections to medical, mental health, housing and employment support. Canine kennel support depends on availability and rules.</p>",
+    "docs": "<p>Explain your location, shelter need, accessibility needs and whether a dog is with you. Ask intake about transport, registration and belongings before travelling; prohibited items and storage rules apply.</p>",
+    "apply": "<p>Call <a href=\"tel:211\">211</a> and ask to connect with Kern County Coordinated Entry System intake staff. <a href=\"https://www.capk.org/facts/\">CAPK’s center FAQ</a> explains this referral route.</p>",
+    "after": "<p>Follow the intake and arrival instructions. Tell staff about health or safety needs and ask how to meet a housing navigator. Shelter admission is separate from permanent housing approval.</p>",
+    "sources": "<ul><li><a href=\"https://www.capk.org/m-street-navigation-center/\">CAPK M Street services</a></li><li><a href=\"https://www.capk.org/facts/\">M Street intake and guest FAQ</a></li><li><a href=\"https://usaassistance.org/programs/m-street-navigation-center-capk/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a couple share a dorm area?",
+      "The FAQ says men and women are housed in separate dorm areas."
+    ],
+    [
+      "Can I bring a dog?",
+      "Kennel support is subject to availability and rules; ask intake first."
+    ],
+    [
+      "Are belongings stored?",
+      "Overnight guests have secure storage subject to registration and prohibited-item rules."
+    ],
+    [
+      "Does 211 guarantee a bed?",
+      "No. Coordinated entry connects you with services and placement depends on intake and availability."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "m-street-navigation-center-capk",
+    "source_url": "https://usaassistance.org/programs/m-street-navigation-center-capk/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.capk.org/m-street-navigation-center/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.capk.org/m-street-navigation-center/",
+      "https://www.capk.org/facts/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

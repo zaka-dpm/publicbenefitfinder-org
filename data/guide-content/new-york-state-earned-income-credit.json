@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "New York’s earned income credit is claimed on the state income-tax return. It is linked to the same-year federal EITC.",
+  "description": "New York’s earned income credit is claimed on the state income-tax return. It is linked to the same-year federal EITC.",
+  "sections": {
+    "who": "<p>You must qualify for and claim federal EITC and meet identification rules. The noncustodial-parent credit cannot also be claimed.</p>",
+    "get": "<p>The credit is generally30% of allowable federal EITC, reduced by household credit. Refundability differs by residency.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Valid Social Security numbers for required people.</li><li>Earned-income records, including self-employment books.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Establish federal eligibility</h3><p>Complete the federal return.</p></li><li><h3 class=\"pbf-h3\">Complete IT-215</h3><p>Use <a href=\"https://www.tax.ny.gov/pit/credits/earned_income_credit.htm\">Tax Department guidance</a> and correct-year instructions.</p></li><li><h3 class=\"pbf-h3\">File state taxes</h3><p>Include the credit form and retain supporting records.</p></li></ol>",
+    "after": "<p>Keep business evidence if self-employed; the department can request it.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.tax.ny.gov/pit/credits/earned_income_credit.htm\">New York earned income credit</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it fully refundable for everyone?",
+      "Full-year residents:yes; other residency categories differ."
+    ],
+    [
+      "Is federal EITC required?",
+      "Yes."
+    ],
+    [
+      "Can I also claim the noncustodial-parent credit?",
+      "No."
+    ],
+    [
+      "Do self-employed filers need records?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.tax.ny.gov/pit/credits/earned_income_credit.htm"
+    ],
+    "background_source": "https://usaassistance.org/programs/new-york-state-earned-income-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

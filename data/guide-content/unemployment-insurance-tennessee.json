@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Tennessee unemployment uses Unemployment Claimant e-Services through Jobs4TN. Weekly certifications and required work-search activities begin while the claim is being decided.",
+  "description": "Tennessee unemployment uses Unemployment Claimant e-Services through Jobs4TN. Weekly certifications and required work-search activities begin while the claim is being decided.",
+  "sections": {
+    "who": "<p>The agency assesses covered earnings, separation circumstances and ability, availability and search for work. Reduced hours can also be reviewed.</p>",
+    "get": "<p>Approved eligible weeks provide temporary payments. A monetary determination estimates possible benefits and is not an approval.</p>",
+    "docs": "<ul><li>Identity and employment records.</li><li>Employer and separation details.</li><li>Weekly earnings and search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open claimant e-Services</h3><p>Use <a href=\"https://www.tn.gov/workforce/unemployment/apply-for-benefits.html\">Jobs4TN’s File for Unemployment route</a>.</p></li><li><h3 class=\"pbf-h3\">Answer fact-finding</h3><p>Check the Summary screen and Action Center for questionnaires.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Report the prior week’s circumstances and the state’s required work-search activities.</p></li></ol>",
+    "after": "<p>Keep certifying while awaiting the result and monitor nonmonetary decisions. Read notices about waiting-week and payment arrangements.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tn.gov/workforce/unemployment/apply-for-benefits.html\">Current e-Services intake</a>, <a href=\"https://www.tn.gov/workforce/unemployment/apply-for-benefits-redirect-2/what-to-expect-after-you-file.html\">Weekly filing and determination rules</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-tennessee/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is a monetary determination approval?",
+      "No. The agency expressly distinguishes the possible amount from an eligibility decision."
+    ],
+    [
+      "Should I certify before approval?",
+      "Yes. Its instructions say to attempt weekly certification while the decision is pending."
+    ],
+    [
+      "Where are follow-up questions?",
+      "The e-Services Summary screen and Action Center contain fact-finding requests."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tn.gov/workforce/unemployment/apply-for-benefits.html",
+      "https://www.tn.gov/workforce/unemployment/apply-for-benefits-redirect-2/what-to-expect-after-you-file.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

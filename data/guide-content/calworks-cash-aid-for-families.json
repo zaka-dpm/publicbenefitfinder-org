@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "CalWORKs provides cash aid and related services to eligible California families. County welfare departments administer applications and ongoing cases.",
+  "introduction": "CalWORKs provides cash aid and related services to eligible California families. County welfare departments administer applications and ongoing cases.",
+  "service_type": "cash",
+  "sections": {
+    "who": "<p>Eligibility considers family circumstances, income and other rules. The state describes children lacking parental support because of absence, disability or death, qualifying unemployed-parent families and certain caretaker relatives.</p>",
+    "get": "<p>Monthly cash aid depends on the eligible family members, income and special needs. Families with immediate needs should ask the county about short-term assistance.</p>",
+    "docs": "<p>Prepare caregiver and child information, household income and the county’s requested evidence. Explain housing instability, childcare needs or health barriers during screening.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply at <a href=\"https://BenefitsCal.com/\">BenefitsCal</a> or a social-services office in your county.</p></li><li><p>Complete the county interview and verification requests. Discuss Welfare-to-Work participation and any exemptions or good-cause circumstances.</p></li></ol>",
+    "after": "<p>Follow reporting, activity and renewal notices. The state describes a 60-month adult time limit with specified exemptions. Ask about childcare and other supportive services for required activities.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.cdss.ca.gov/calworks\">CalWORKs eligibility and application</a>, <a href=\"https://www.cdss.ca.gov/inforesources/calworks-summary/program-overview/eligibility-and-participation-program-requirements\">Welfare-to-Work and time-limit guidance</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/calworks-cash-aid-for-families/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does every family receive the same amount?",
+      "No. Income, eligible members and other circumstances affect cash aid."
+    ],
+    [
+      "Who manages my CalWORKs case?",
+      "Your county social-services agency."
+    ],
+    [
+      "Are all adults required to do the same work activities?",
+      "No. Requirements and exemptions depend on the case."
+    ],
+    [
+      "Can the program help with an urgent need?",
+      "Ask the county about immediate short-term help and relevant services."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.cdss.ca.gov/calworks",
+      "https://www.cdss.ca.gov/inforesources/calworks-summary/program-overview/eligibility-and-participation-program-requirements"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

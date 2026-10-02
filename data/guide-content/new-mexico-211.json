@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "New Mexico’s 211 coverage is regional. United Way of North Central New Mexico publishes weekday helpline hours and a coverage map to identify the right service for your location.",
+  "description": "New Mexico’s 211 coverage is regional. United Way of North Central New Mexico publishes weekday helpline hours and a coverage map to identify the right service for your locati",
+  "sections": {
+    "who": "<p>Anyone seeking resource information can ask for a referral. Each organization receiving the referral assesses its own eligibility and available assistance.</p>",
+    "get": "<p>The service connects callers to health, human-service and community organizations. It does not award benefits or replace a provider’s intake.</p>",
+    "docs": "<ul><li>Your county, town or ZIP code.</li><li>A description of the need and urgency.</li><li>Details of agencies already contacted.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check coverage</h3><p>Use <a href=\"https://uwncnm.org/211a-2/\">the provider’s statewide coverage map</a> rather than assuming one center serves every county.</p></li><li><h3 class=\"pbf-h3\">Call the appropriate center</h3><p>North Central publishes 505-245-1735, Monday–Friday 8 a.m.–5 p.m., closed major holidays. Dialing 211 is another starting route.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Confirm location, current intake and needed documents with the receiving organization.</p></li></ol>",
+    "after": "<p>Ask for alternatives if the referral cannot help. Keep the provider name and reason for the unsuccessful contact to support the next search.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://uwncnm.org/211a-2/\">North Central 211 hours and New Mexico coverage map</a>. <a href=\"https://usaassistance.org/programs/new-mexico-211/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is every NM center open around the clock?",
+      "Do not assume so. North Central publishes weekday 8 a.m.–5 p.m. hours; check the center serving you."
+    ],
+    [
+      "Why does my county matter?",
+      "The provider publishes a coverage map with regional contacts."
+    ],
+    [
+      "Does a referral approve cash assistance?",
+      "No. The receiving agency makes its own decision."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://uwncnm.org/211a-2/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

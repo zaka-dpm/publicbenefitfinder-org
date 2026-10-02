@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida KidCare uses one application to assess children for its health-coverage programs. The program matches eligible children to the appropriate option based on age, household circumstances and health needs.",
+  "description": "Florida KidCare uses one application to assess children for its health-coverage programs. The program matches eligible children to the appropriate option based on age, househo",
+  "sections": {
+    "who": "<p>Low-cost coverage is for eligible Florida children under 19 who meet residency, financial and status requirements. Working parents can apply; employment alone does not settle a child’s eligibility.</p>",
+    "get": "<p>KidCare includes Medicaid for Children, MediKids, Florida Healthy Kids and Children’s Medical Services coverage. Subsidized and full-pay options differ, so review the placement and cost notice.</p>",
+    "docs": "<ul><li>Prepare each child’s date of birth and household information.</li><li>Have household earnings and current insurance details available.</li><li>Use KidCare’s requirements page for the accepted citizenship and identity records relevant to the child.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Create a Parent Portal account</h3><p>Apply at <a href=\"https://www.floridakidcare.org/\">Florida KidCare</a>. One application covers its program options.</p></li><li><h3 class=\"pbf-h3\">Use an alternative if needed</h3><p>A paper application is available. Call 1-888-540-5437 for application help or to request a copy.</p></li><li><h3 class=\"pbf-h3\">Complete the file</h3><p>Submit requested records and read the coverage placement and payment instructions.</p></li></ol>",
+    "after": "<p>Confirm when coverage starts and whether a premium is due. Keep the Parent Portal contact details current and read renewal messages.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://floridakidcare.org/requirements/\">KidCare requirements</a>, <a href=\"https://floridakidcare.org/faqs/\">KidCare application FAQs</a>. <a href=\"https://usaassistance.org/programs/florida-kidcare/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I apply separately to each KidCare program?",
+      "No. One application is used to determine the appropriate coverage option."
+    ],
+    [
+      "Can I apply during the year?",
+      "KidCare describes year-round enrollment."
+    ],
+    [
+      "Is Florida Healthy Kids the same as KidCare?",
+      "Florida Healthy Kids is one of the programs within the Florida KidCare umbrella."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://floridakidcare.org/requirements/",
+      "https://floridakidcare.org/faqs/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

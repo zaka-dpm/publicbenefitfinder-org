@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington ABD provides cash and disability-application support to eligible adults. DSHS conducts financial and medical assessments.",
+  "description": "Washington ABD provides cash and disability-application support to eligible adults. DSHS conducts financial and medical assessments.",
+  "sections": {
+    "who": "<p>Applicants must live in Washington, meet income, resource and status rules, and be 65 or older, blind, or an adult with a condition preventing work for at least 12 consecutive months.</p>",
+    "get": "<p>Assistance includes a monthly grant, an HEN referral and help pursuing SSI or SSDI.</p>",
+    "docs": "<ul><li>Income, resources and identity records.</li><li>Medical evidence requested by the social worker.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.washingtonconnection.org/\">Washington Connection</a>, a Community Services Office or 877-501-2233.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Financial interviews are available by phone or in person, weekdays 8 a.m.–2 p.m.</p></li><li><h3 class=\"pbf-h3\">Complete medical review</h3><p>If financially eligible, work with the assigned social worker.</p></li></ol>",
+    "after": "<p>Follow SSI application and case-management requests. ABD is not available to someone whose spouse or self already receives SSI.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dshs.wa.gov/family-food-and-housing-services/cash-assistance/aged-blind-or-disabled-program\">DSHS ABD</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does ABD approve federal disability benefits?",
+      "No. It helps with the separate federal application."
+    ],
+    [
+      "Is medical assessment required?",
+      "Disability applicants undergo medical eligibility review."
+    ],
+    [
+      "Does HEN referral guarantee housing?",
+      "Ask the HEN provider about available support."
+    ],
+    [
+      "Where can I apply offline?",
+      "Contact a Community Services Office or phone intake."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dshs.wa.gov/family-food-and-housing-services/cash-assistance/aged-blind-or-disabled-program"
+    ],
+    "background_source": "https://usaassistance.org/programs/aged-blind-or-disabled-abd-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

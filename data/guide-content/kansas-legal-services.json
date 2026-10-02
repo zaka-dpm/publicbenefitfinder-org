@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Kansas Legal Services screens requests for civil legal help by telephone and an online intake process. State any court deadline when applying.",
+  "introduction": "Kansas Legal Services screens requests for civil legal help by telephone and an online intake process. State any court deadline when applying.",
+  "service_type": "legal",
+  "sections": {
+    "who": "<p>The organization helps qualifying low- and moderate-income Kansans. Screening considers household finances, the legal problem and available services; the intake team decides what help can be offered.</p>",
+    "get": "<p>Services include civil issues such as housing, benefits, employment and family matters. Self-help forms and referrals are also available.</p>",
+    "docs": "<p>Prepare notices, court dates, the opposing party’s name, household income and relevant expenses. Keep copies of everything already filed.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call 316-267-3975, Monday–Friday, 8 a.m.–4:30 p.m. The main Get Help page lists online intake from Monday 8 a.m. through Thursday 4:30 p.m.; check the online application’s current status.</p></li><li><p>Complete follow-up screening. Watch for a call or email from intake and explain urgent deadlines promptly.</p></li></ol>",
+    "after": "<p>Confirm whether advice, representation or a referral is offered. Contacting intake does not change a court deadline. Ask who will file any required response.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.kansaslegalservices.org/page/63/get-help\">Get Help</a>, <a href=\"https://www.kansaslegalservices.org/node/809\">Online intake and preparation</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-legal-services/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a separate intake number for older adults?",
+      "The Elder Law Hotline uses the same main number: 316-267-3975."
+    ],
+    [
+      "Does online intake stay open over the weekend?",
+      "No. The Get Help page lists Thursday 4:30 p.m. to Monday 8 a.m. as closed."
+    ],
+    [
+      "Do I need the opposing party’s name?",
+      "Yes. Intake asks about the other side of the legal problem."
+    ],
+    [
+      "Will every applicant receive a lawyer?",
+      "No. The office screens eligibility and service availability."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.kansaslegalservices.org/page/63/get-help",
+      "https://www.kansaslegalservices.org/node/809"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

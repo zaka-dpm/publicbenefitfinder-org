@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware Energy Assistance Program helps eligible households with heating, cooling and energy emergencies. It supplements energy costs rather than paying every bill.",
+  "description": "Delaware Energy Assistance Program helps eligible households with heating, cooling and energy emergencies. It supplements energy costs rather than paying every bill.",
+  "sections": {
+    "who": "<p>Household income and the type of assistance determine eligibility. Renters and homeowners can apply for winter heating support.</p>",
+    "get": "<p>The state lists winter heating assistance from October 1 to March 31 and crisis help year-round. Summer support has separate conditions.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Energy account or delivered-fuel details.</li><li>Any shutoff notice, overdue bill or low-fuel information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply or request an appointment</h3><p>Use ASSIST or the contacts on <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/\">DHSS Utility Assistance</a>.</p></li><li><h3 class=\"pbf-h3\">Contact the county partner</h3><p>Catholic Charities lists New Castle 302-654-9295, Kent 302-674-1782 and Sussex 302-856-6310.</p></li><li><h3 class=\"pbf-h3\">Explain the emergency</h3><p>Specify the shutoff date or remaining fuel and ask what immediate assessment is available.</p></li></ol>",
+    "after": "<p>Keep paying what you can and speak with the energy supplier about arrangements. An application is not confirmation that disconnection is stopped.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/\">DHSS energy assistance and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is crisis assistance limited to winter?",
+      "The state lists it year-round."
+    ],
+    [
+      "Can renters apply?",
+      "Yes. Winter heating support serves renters and homeowners."
+    ],
+    [
+      "Will the program pay every energy expense?",
+      "No. It is supplemental support."
+    ],
+    [
+      "Where do I ask about current intake?",
+      "Use the county partner contacts on the state page."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-energy-assistance-program-liheap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

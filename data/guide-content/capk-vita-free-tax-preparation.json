@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "CAPK VITA offers free tax preparation and e-filing for eligible low- and moderate-income taxpayers. Ask whether your return is within the service’s scope.",
+  "description": "CAPK VITA offers free tax preparation and e-filing for eligible low- and moderate-income taxpayers. Ask whether your return is within the service’s scope.",
+  "sections": {
+    "who": "<p>Income and return complexity affect service availability. CAPK also lists ITIN application assistance and help with tax-agency letters.</p>",
+    "get": "<p>Staff and volunteers prepare eligible returns and assess applicable credits. A refund is not guaranteed.</p>",
+    "docs": "<ul><li>Photo ID and SSN or ITIN documentation for everyone on the return.</li><li>W-2s, 1099s and other income records.</li><li>Applicable education, health-insurance and child-care documents.</li><li>Bank details if requesting direct deposit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Book intake</h3><p>Call 661-834-1724 or211 using <a href=\"https://www.capk.org/vita/\">CAPK VITA</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm scope</h3><p>Ask about the tax year, return type and documents.</p></li><li><h3 class=\"pbf-h3\">Review before filing</h3><p>Check the completed return and retain copies.</p></li></ol>",
+    "after": "<p>Track the filing confirmation and respond to tax-agency notices. Confirm appointment availability even outside filing season.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.capk.org/vita/\">CAPK VITA</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is preparation free?",
+      "CAPK describes free preparation and e-filing."
+    ],
+    [
+      "Can VITA help with ITINs?",
+      "CAPK lists ITIN application and renewal services."
+    ],
+    [
+      "Is a refund promised?",
+      "No. It depends on the return."
+    ],
+    [
+      "What health form may be needed?",
+      "Bring 1095-A if insurance was purchased through Covered California."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.capk.org/vita/"
+    ],
+    "background_source": "https://usaassistance.org/programs/capk-vita-free-tax-preparation/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

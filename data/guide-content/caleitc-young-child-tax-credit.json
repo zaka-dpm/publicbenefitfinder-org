@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "CalEITC and the Young Child Tax Credit are California tax-return credits. Use the forms and limits for the year you are filing.",
+  "introduction": "CalEITC and the Young Child Tax Credit are California tax-return credits. Use the forms and limits for the year you are filing.",
+  "service_type": "tax",
+  "sections": {
+    "who": "<p>For 2025, CalEITC requires qualifying earned income up to $32,900, a qualifying age or child, California residency and valid SSNs or ITINs, with filing-status and dependency rules. YCTC requires an eligible child under six at year-end.</p>",
+    "get": "<p>The refund or tax reduction depends on income and family circumstances. The published 2025 maximums are up to $3,756 for CalEITC and $1,189 for YCTC; they are not guaranteed awards.</p>",
+    "docs": "<p>Keep wages/self-employment records, taxpayer and child IDs, residency and qualifying-child information. For YCTC with zero or negative earned income, check its additional wage and loss rules.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Calculate eligibility using <a href=\"https://www.ftb.ca.gov/file/personal/credits/caleitc/eligibility-and-credit-information.html\">FTB’s tax-year guidance</a>.</p></li><li><p>Complete FTB 3514 and include it with the California return. Free CalFile or VITA help may be available. Use prior-year forms for a prior-year claim.</p></li></ol>",
+    "after": "<p>Keep the return and credit worksheet. Respond to FTB verification requests using the instructions in its notice.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.ftb.ca.gov/file/personal/credits/caleitc/eligibility-and-credit-information.html\">2025 eligibility and credit amounts</a>, <a href=\"https://www.ftb.ca.gov/forms/2025/2025-3514-booklet.html\">2025 FTB 3514 and YCTC instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/caleitc-young-child-tax-credit/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can ITIN filers qualify?",
+      "Yes, when the remaining requirements are met."
+    ],
+    [
+      "Must a YCTC applicant always have positive earned income?",
+      "No. Zero or negative income can qualify under additional rules."
+    ],
+    [
+      "Does having a child under six guarantee YCTC?",
+      "No. The other qualifying-child and credit conditions still apply."
+    ],
+    [
+      "Are the maximum amounts the same every year?",
+      "No. Use the guidance for the return’s tax year."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.ftb.ca.gov/file/personal/credits/caleitc/eligibility-and-credit-information.html",
+      "https://www.ftb.ca.gov/forms/2025/2025-3514-booklet.html"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

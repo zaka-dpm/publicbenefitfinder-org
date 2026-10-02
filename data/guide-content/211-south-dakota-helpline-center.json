@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota’s Helpline Center provides 211 resource help around the clock. Call, text your ZIP code or use its online directory.",
+  "description": "South Dakota’s Helpline Center provides 211 resource help around the clock. Call, text your ZIP code or use its online directory.",
+  "sections": {
+    "who": "<p>Anyone can request information. Each receiving program assesses eligibility for its services.</p>",
+    "get": "<p>Specialists connect people with financial assistance, food, healthcare and other community resources.</p>",
+    "docs": "<ul><li>ZIP code or county.</li><li>Need and any urgent date.</li><li>A way to save referrals.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the Helpline</h3><p>Dial or text 211, email help@helplinecenter.org or use <a href=\"https://www.helplinecenter.org/services/211-helpline/\">the resource links</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the situation</h3><p>Mention your location and providers already tried.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Confirm openings, eligibility and records with the provider.</p></li></ol>",
+    "after": "<p>Ask for alternatives if the referred service cannot help.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.helplinecenter.org/services/211-helpline/\">211 services and contact</a>. <a href=\"https://usaassistance.org/programs/211-south-dakota-helpline-center/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I reach a specialist at night?",
+      "The provider publishes 24-hour specialist availability."
+    ],
+    [
+      "Is this an emergency response line?",
+      "The provider describes 211 as a non-emergency resource helpline."
+    ],
+    [
+      "Can I search without calling?",
+      "Yes. Its website links a searchable South Dakota resource directory."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.helplinecenter.org/services/211-helpline/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

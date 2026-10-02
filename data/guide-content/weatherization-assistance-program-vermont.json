@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont weatherization improves home energy efficiency, safety and comfort through approved services. Regional agencies handle applications.",
+  "description": "Vermont weatherization improves home energy efficiency, safety and comfort through approved services. Regional agencies handle applications.",
+  "sections": {
+    "who": "<p>DCF lists no free weatherization within the prior 15 years plus an income or qualifying-benefit route. Active Fuel Assistance, SSI or qualifying adult Reach Up benefits can establish eligibility; child-only Reach Up does not.</p>",
+    "get": "<p>Approved services include a home assessment and energy improvements rather than unrestricted cash.</p>",
+    "docs": "<ul><li>Agency application and signature.</li><li>Requested household income or benefit evidence.</li><li>Form 407 for each applicable wage job in the previous 12 months.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the regional agency</h3><p>Use the service-area links on <a href=\"https://dcf.vermont.gov/benefits/weatherization\">DCF Weatherization</a>.</p></li><li><h3 class=\"pbf-h3\">Complete agency forms</h3><p>Fill the application and required employee sections of employment-verification forms.</p></li><li><h3 class=\"pbf-h3\">Submit signed records</h3><p>Use the address on the application. Ask about extra forms if the home has separate living areas.</p></li></ol>",
+    "after": "<p>Discuss scheduling, property permission and assessment findings with the agency before work begins.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dcf.vermont.gov/benefits/weatherization\">DCF weatherization</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does child-only Reach Up automatically qualify?",
+      "DCF says that route does not count."
+    ],
+    [
+      "Where do I apply?",
+      "The regional weatherization agency listed by DCF."
+    ],
+    [
+      "Can I pick any renovation?",
+      "The agency provides approved energy services."
+    ],
+    [
+      "What if the building has separate apartments?",
+      "Ask the agency whether additional forms are needed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dcf.vermont.gov/benefits/weatherization"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-vermont/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

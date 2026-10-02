@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma TANF provides temporary cash and employment-related support to qualifying families with minor children. Apply through OKDHSLive to begin the review.",
+  "description": "Oklahoma TANF provides temporary cash and employment-related support to qualifying families with minor children. Apply through OKDHSLive to begin the review.",
+  "sections": {
+    "who": "<p>The state considers responsibility for a child in the home, income and status requirements. Child-support cooperation and a personalized TANF Work Plan are part of the listed conditions.</p>",
+    "get": "<p>Eligible families can receive temporary cash, employment preparation and related support. The agency page also identifies qualifying child-care assistance.</p>",
+    "docs": "<ul><li>Household and child information.</li><li>Income records and requested status proof.</li><li>Social Security information for people included in the benefit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through OKDHSLive</h3><p>Use <a href=\"https://oklahoma.gov/okdhs/services/tanf/tanfhome.html\">the state TANF page</a> to reach the application.</p></li><li><h3 class=\"pbf-h3\">Complete the case assessment</h3><p>Answer requests about finances, caregiving and the child’s circumstances.</p></li><li><h3 class=\"pbf-h3\">Review your plan</h3><p>Ask how work-plan and child-support requirements apply and raise any safety or participation concern.</p></li></ol>",
+    "after": "<p>Read the award and participation instructions. Keep records of required activities and ask the worker how a change in work or caregiving should be reported.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/okdhs/services/tanf/tanfhome.html\">TANF eligibility, services and application</a>. <a href=\"https://usaassistance.org/programs/oklahoma-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must a child live with me?",
+      "The state lists responsibility for a minor child living in the home as a requirement."
+    ],
+    [
+      "Is TANF only cash?",
+      "The program also describes job-readiness and related family support."
+    ],
+    [
+      "Where can I ask a program question?",
+      "The TANF page lists 866-411-1877 and TANF@okdhs.org."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/okdhs/services/tanf/tanfhome.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

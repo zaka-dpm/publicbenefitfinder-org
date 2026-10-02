@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada’s Energy Assistance Program accepts a completed application with supporting records through several DSS routes. Tell the agency about a shutoff notice when requesting help.",
+  "description": "Nevada’s Energy Assistance Program accepts a completed application with supporting records through several DSS routes. Tell the agency about a shutoff notice when requesting h",
+  "sections": {
+    "who": "<p>DSS reviews household income and other program criteria. The agency asks for income evidence for every household member and documentation about the heating or cooling account.</p>",
+    "get": "<p>Approved assistance offsets qualifying home-energy costs. Ask DSS how the payment will be applied and whether a specialized crisis option fits your situation.</p>",
+    "docs": "<ul><li>Income for every household member for at least the last 30 days.</li><li>Head-of-household identity and requested status records.</li><li>The most recent heating or cooling bills.</li><li>If the bill is in another person’s name, their signed authorization with contact details.</li><li>An explanation of how expenses are met when they exceed income.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Get the current application</h3><p>Use the <a href=\"https://www.dss.nv.gov/programs/energy/apply-for-assistance/\">EAP application page</a>, which includes accessible and Spanish forms.</p></li><li><h3 class=\"pbf-h3\">Submit the completed packet</h3><p>DSS lists mail, fax, office drop boxes, lobbies and energyassistance@dss.nv.gov. Intake sites can help complete and mail it.</p></li><li><h3 class=\"pbf-h3\">Follow agency requests</h3><p>Save a copy and confirm receipt. Ask about additional evidence and any pending utility deadline.</p></li></ol>",
+    "after": "<p>Prior recipients should ask when they may reapply: the state currently describes an interval of approximately 11 months after the previous benefit. Confirm any unpaid balance with the utility.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.dss.nv.gov/programs/energy/apply-for-assistance/\">Nevada EAP application and evidence requirements</a>. <a href=\"https://usaassistance.org/programs/nevada-energy-assistance-program-liheap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "What if the account is not in my name?",
+      "DSS requests a signed statement from the named person authorizing the application and providing their address and phone."
+    ],
+    [
+      "Can an intake site help with the form?",
+      "Yes. The state says intake sites assist with completion and mailing."
+    ],
+    [
+      "Can I apply again immediately after an award?",
+      "The published instructions say prior recipients generally wait approximately 11 months; confirm your case with EAP."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dss.nv.gov/programs/energy/apply-for-assistance/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

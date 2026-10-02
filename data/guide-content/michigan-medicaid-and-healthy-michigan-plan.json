@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan offers several health-coverage pathways, including Medicaid and Healthy Michigan Plan. MI Bridges or the current paper application starts the assessment.",
+  "description": "Michigan offers several health-coverage pathways, including Medicaid and Healthy Michigan Plan. MI Bridges or the current paper application starts the assessment.",
+  "sections": {
+    "who": "<p>Each pathway has its own financial and nonfinancial conditions. Age, income, resources and household circumstances affect which coverage may fit.</p>",
+    "get": "<p>Approved coverage helps with eligible health services. Read the notice for the specific program and any plan-enrollment steps.</p>",
+    "docs": "<ul><li>Household names, birth dates and income information.</li><li>Identity, residency and requested status records.</li><li>Additional financial or disability evidence requested for the pathway.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through MI Bridges</h3><p>Use <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/medicaid/portalhome/beneficiaries/apply\">MDHHS healthcare application guidance</a>.</p></li><li><h3 class=\"pbf-h3\">Use the current paper form if needed</h3><p>DCH-1426 is the listed paper application. The state says older Plan First and Healthy Kids/MIChild applications are obsolete.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Provide requested records and review each applicant’s decision.</p></li></ol>",
+    "after": "<p>Keep contact details and renewal notices current. Confirm the provider accepts the specific coverage.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/medicaid/portalhome/beneficiaries/apply\">Current Michigan healthcare application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does every pathway have the same rules?",
+      "No. MDHHS lists different eligibility requirements for different groups."
+    ],
+    [
+      "Which paper application is current?",
+      "DCH-1426, Application for Health Coverage & Help Paying Costs."
+    ],
+    [
+      "Can I reuse an old MIChild application?",
+      "The state says DCH-0373 is obsolete and not accepted."
+    ],
+    [
+      "Where can I check the application?",
+      "Use MI Bridges and any instructions in the notice."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/medicaid/portalhome/beneficiaries/apply"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-medicaid-and-healthy-michigan-plan/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

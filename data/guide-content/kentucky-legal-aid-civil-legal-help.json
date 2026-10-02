@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky’s four regional legal aid organizations provide free civil legal assistance. Your county and legal problem determine which organization should review your request.",
+  "introduction": "Kentucky’s four regional legal aid organizations provide free civil legal assistance. Your county and legal problem determine which organization should review your request.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Services focus on low-income and other vulnerable residents with civil legal problems. Intake also reviews the issue, conflicts and available resources.",
+      "Kentucky Justice Online says its income eligibility screening does not apply in the usual way to people over 59 or experiencing domestic violence. Contact a provider for an individual assessment."
+    ],
+    "get": "<p>Help may include advice or representation for accepted housing, family, benefits and other civil matters. Online information is available, but reading it does not establish an attorney-client relationship.</p>",
+    "docs": "<p>Prepare court papers, deadlines and a short timeline. Keep income information and the names of everyone involved available for intake. For a safety concern, explain a safe way and time to contact you.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.kyjustice.org/contact-us\">the regional contact map</a> to identify your legal aid organization.</li><li>Contact Kentucky Legal Aid at 800-782-1924, Legal Aid Society at 502-584-1254, Legal Aid of the Bluegrass at 859-431-8200, or AppalReD at 866-277-5733, according to your region.</li><li>Tell intake about any court deadline immediately and follow the provider’s application instructions.</li></ol>",
+    "after": "<p>Confirm whether the organization has accepted the case and what help it will provide. Keep attending court and meeting deadlines unless an attorney tells you otherwise. If the provider cannot take the matter, ask about a referral or relevant self-help material.</p>",
+    "sources": "<ul><li><a href=\"https://www.kyjustice.org/contact-us\">Regional legal aid contacts</a></li><li><a href=\"https://www.kyjustice.org/intake-form\">Eligibility screening explanation</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-legal-aid-civil-legal-help/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the Kentucky Justice screening form an application?",
+      "No. It is an eligibility screening tool. Contact the regional legal aid program to request assistance."
+    ],
+    [
+      "Which organization should I contact?",
+      "Use the regional map and your county. The four programs cover different parts of Kentucky."
+    ],
+    [
+      "Will an intake call guarantee a lawyer?",
+      "No. The program must assess your case and capacity before accepting representation."
+    ],
+    [
+      "What if I have a hearing soon?",
+      "Give intake the hearing date immediately. Keep following court requirements while waiting for a response."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-legal-aid-civil-legal-help",
+    "source_url": "https://usaassistance.org/programs/kentucky-legal-aid-civil-legal-help/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.kyjustice.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.kyjustice.org/contact-us",
+      "https://www.kyjustice.org/intake-form"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

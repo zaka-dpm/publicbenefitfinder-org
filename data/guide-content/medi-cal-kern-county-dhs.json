@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "Kern County Human Services handles local Medi-Cal applications. The county assesses the coverage category and financial and other rules that apply to each person seeking healt",
+  "introduction": "Kern County Human Services handles local Medi-Cal applications. The county assesses the coverage category and financial and other rules that apply to each person seeking health insurance.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility varies by category and current state rules. Working or owning a home does not by itself establish that you cannot qualify; ask the county to assess your circumstances."
+    ],
+    "get": "<p>Medi-Cal offers free or low-cost health coverage for eligible people, including medical, dental and vision services. Some eligibility pathways can involve a share of cost.</p>",
+    "docs": "<p>Prepare identity, household and income information and follow the county’s case-specific verification request. Avoid treating the webpage’s long property checklist as a requirement for every applicant; ask which items apply to your category.</p>",
+    "apply": "<p>Apply online at <a href=\"https://benefitscal.com/\">BenefitsCal</a> or call <a href=\"tel:6616316807\">661-631-6807</a> to request an application. The <a href=\"https://www.kcdhs.org/services/apply-for-benefits/medi-cal\">county Medi-Cal page</a> lists regional offices and phone, interview and mail alternatives.</p>",
+    "after": "<p>Save the application confirmation and respond to county requests. Keep contact details current and read renewal notices. After approval, ask about your card, health plan and finding a participating provider.</p>",
+    "sources": "<ul><li><a href=\"https://www.kcdhs.org/services/apply-for-benefits/medi-cal\">Kern County Medi-Cal applications</a></li><li><a href=\"https://usaassistance.org/programs/medi-cal-kern-county-dhs/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply without using the internet?",
+      "Yes. The county lists phone, office and mail options."
+    ],
+    [
+      "Must I attend an in-person interview?",
+      "The county lists phone and mail alternatives; follow your case instructions."
+    ],
+    [
+      "Where is the main county office?",
+      "100 East California Avenue, Bakersfield. Regional offices are listed on the county page."
+    ],
+    [
+      "Does applying also choose my doctor?",
+      "Eligibility and obtaining care are separate steps; ask about health plan and provider enrollment after approval."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "medi-cal-kern-county-dhs",
+    "source_url": "https://usaassistance.org/programs/medi-cal-kern-county-dhs/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.kcdhs.org/services/apply-for-benefits/medi-cal",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.kcdhs.org/services/apply-for-benefits/medi-cal"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

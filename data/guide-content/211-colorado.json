@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "211 Colorado connects residents with local food, housing, utility, child care and other assistance providers. Start with your ZIP code and the help you need.",
+  "description": "211 Colorado connects residents with local food, housing, utility, child care and other assistance providers. Start with your ZIP code and the help you need.",
+  "sections": {
+    "who": "<p>The directory is available to people seeking help in Colorado. Each referred provider has its own service area and eligibility rules.</p>",
+    "get": "<p>You receive contact information and guidance on where to ask for assistance. A referral does not reserve funding or approve a benefit.</p>",
+    "docs": "<ul><li>Your ZIP code or county.</li><li>A short explanation of the need and any urgent deadline.</li><li>Notes about transport, language or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call or search</h3><p>Dial 211, call 866-760-6489, or text your ZIP code to 898-211. You can also search <a href=\"https://www.211colorado.org/\">211 Colorado</a> online.</p></li><li><h3 class=\"pbf-h3\">Explain the immediate problem</h3><p>Tell the navigator whether you need food today, face a utility shutoff, or need longer-term support.</p></li><li><h3 class=\"pbf-h3\">Contact the provider</h3><p>Ask each referral about current intake, required documents and available appointments. Keep the name and phone number.</p></li></ol>",
+    "after": "<p>If a referral is closed or has no funds, return to 211 and ask for another option in your area.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.211colorado.org/\">211 Colorado</a>; <a href=\"https://www.coloradovirtuallibrary.org/wp-content/uploads/211-General-English_Spanish-PDF.pdf\">State library’s 211 information</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 pay bills?",
+      "It connects you with service providers; the provider decides whether it can offer financial help."
+    ],
+    [
+      "Can I search without calling?",
+      "Yes. The online directory lets you look for local services."
+    ],
+    [
+      "What should I have ready?",
+      "Your ZIP code, the type of assistance and any deadline are useful starting points."
+    ],
+    [
+      "Does a referral mean I qualify?",
+      "No. Confirm the referred program’s eligibility and current availability."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.211colorado.org/",
+      "https://www.coloradovirtuallibrary.org/wp-content/uploads/211-General-English_Spanish-PDF.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-colorado/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

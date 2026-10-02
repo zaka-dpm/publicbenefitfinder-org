@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas Child Care Services scholarships use Parent Central and local Workforce Solutions review. Joining a waiting list is the first stage, not approval for funded care.",
+  "description": "Texas Child Care Services scholarships use Parent Central and local Workforce Solutions review. Joining a waiting list is the first stage, not approval for funded care.",
+  "sections": {
+    "who": "<p>Eligibility depends on child age, family finances, Texas residence and a qualifying work, job-search, education or training situation. Disability-related age rules can differ.</p>",
+    "get": "<p>Help with approved child-care costs; a parent share may apply.</p>",
+    "docs": "<ul><li>Household and child information.</li><li>Income and work or education records.</li><li>Provider information requested by the caseworker.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Create Parent Central access</h3><p>Use <a href=\"https://www.childcare.texas.gov/for-families/child-care-scholarships\">the scholarship application links</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the screener</h3><p>Submit the Eligibility Screener and Waitlist application.</p></li><li><h3 class=\"pbf-h3\">Respond to local review</h3><p>When invited, complete the Standard Application and provider-selection steps.</p></li></ol>",
+    "after": "<p>Ask the local Workforce Solutions office about waitlist status. Use KinderConnect for requested case records and communications.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.childcare.texas.gov/for-families/child-care-scholarships\">Current scholarship eligibility and application sequence</a>. <a href=\"https://usaassistance.org/programs/child-care-services-twc-scholarships/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the screener the full application?",
+      "No. The state describes a later Standard Application after local review."
+    ],
+    [
+      "Can I choose any unregulated sitter?",
+      "Provider requirements apply; review eligible provider types before choosing care."
+    ],
+    [
+      "Who knows my waiting-list position?",
+      "The local Workforce Solutions office handles status questions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.childcare.texas.gov/for-families/child-care-scholarships"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

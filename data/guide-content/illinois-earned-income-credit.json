@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois EITC is a state tax credit for qualifying workers. Its expanded rules can include some taxpayers who cannot claim the federal EITC.",
+  "description": "Illinois EITC is a state tax credit for qualifying workers. Its expanded rules can include some taxpayers who cannot claim the federal EITC.",
+  "service_type": "tax",
+  "sections": {
+    "who": "<p>For tax year 2025, Illinois includes eligible ITIN filers and eligible adults age 18 or older without qualifying children. Income, identification, filing and other rules still apply; federal ineligibility is not an automatic bar to the expanded state credit.</p>",
+    "get": "<p>The credit reduces tax and can result in a refund. An additional child tax credit can apply to qualifying Illinois EITC claimants with a child younger than 12 for 2025.</p>",
+    "docs": "<ul><li>Income and investment records for the claim year.</li><li>Taxpayer and qualifying-child SSN or ITIN information.</li><li>The federal return and Illinois IL-1040.</li><li>Schedule IL-E/EITC and any expanded-credit worksheet required.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the correct pathway</h3><p>Use the <a href=\"https://tax.illinois.gov/programs/eitc/qualifications.html\">Illinois qualification rules</a>.</p></li><li><h3 class=\"pbf-h3\">Calculate the credit</h3><p>Complete Schedule IL-E/EITC. Expanded-credit claimants may need its separate worksheet.</p></li><li><h3 class=\"pbf-h3\">File the state return</h3><p>Follow the claim-year instructions for carrying the credit to IL-1040.</p></li></ol>",
+    "after": "<p>Keep the worksheet and supporting records. Reply to any IDOR request using the instructions in its notice.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://tax.illinois.gov/programs/eitc.html\">Illinois EITC overview</a>, <a href=\"https://tax.illinois.gov/programs/eitc/qualifications.html\">2025 qualifications</a>, <a href=\"https://tax.illinois.gov/programs/eitc/how-to-claim.html\">claiming instructions</a>. The administering organization decides eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Must I qualify for federal EITC?",
+      "Not always. Illinois has expanded age and ITIN pathways with other conditions."
+    ],
+    [
+      "Can a child have an ITIN?",
+      "Illinois’s 2025 guidance allows a qualifying child to have an SSN or ITIN."
+    ],
+    [
+      "What if I owe no state tax?",
+      "The state says to file a return to claim the credit even if no tax is owed."
+    ],
+    [
+      "Which schedule calculates it?",
+      "Schedule IL-E/EITC; follow the state’s separate federal and expanded-credit instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://tax.illinois.gov/programs/eitc.html",
+      "https://tax.illinois.gov/programs/eitc/qualifications.html",
+      "https://tax.illinois.gov/programs/eitc/how-to-claim.html"
+    ]
+  }
+}

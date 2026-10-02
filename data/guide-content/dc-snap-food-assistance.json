@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "DC SNAP supplies food benefits through an EBT card to eligible households. Apply through District Direct or DHS paper application routes.",
+  "description": "DC SNAP supplies food benefits through an EBT card to eligible households. Apply through District Direct or DHS paper application routes.",
+  "sections": {
+    "who": "<p>DHS reviews income, expenses, household size and applicable status, student and work rules. Ask about current exemptions rather than assuming all adults have the same requirements.</p>",
+    "get": "<p>Monthly benefits are loaded onto EBT. Eligible groceries can be bought at participating shops and approved online retailers; order fees are separate.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Address, identity and requested status evidence.</li><li>Housing, utility, care or medical expenses relevant to the calculation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through DHS</h3><p>Use <a href=\"https://districtdirect.dc.gov/\">District Direct</a> or the application methods listed on DHS Public Benefits.</p></li><li><h3 class=\"pbf-h3\">Respond to case follow-up</h3><p>Watch for interview and verification requests and retain copies of submitted evidence.</p></li><li><h3 class=\"pbf-h3\">Explain immediate food needs</h3><p>Ask DHS whether expedited assessment applies and seek local food help while awaiting a decision.</p></li></ol>",
+    "after": "<p>Read recertification and mid-certification notices. Keep the EBT card and PIN secure.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhs.dc.gov/service/supplemental-nutrition-assistance-program-snap\">DC SNAP overview</a>; <a href=\"https://dhs.dc.gov/page/public-benefits\">DHS application methods</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I use SNAP online?",
+      "Participating online retailers accept it for eligible food, not delivery fees."
+    ],
+    [
+      "Can I apply on paper?",
+      "Yes. DHS lists paper routes."
+    ],
+    [
+      "Do work rules apply to all adults?",
+      "No. Check current rules and exemptions with DHS."
+    ],
+    [
+      "How are approved benefits delivered?",
+      "They are loaded onto an EBT card."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhs.dc.gov/service/supplemental-nutrition-assistance-program-snap",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

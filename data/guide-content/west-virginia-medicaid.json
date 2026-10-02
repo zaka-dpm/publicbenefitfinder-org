@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "West Virginia Medicaid has several eligibility categories. WV PATH is the recommended application route for most health coverage requests, with county office and paper options",
+  "introduction": "West Virginia Medicaid has several eligibility categories. WV PATH is the recommended application route for most health coverage requests, with county office and paper options available.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligible West Virginia adults, children, pregnant people, older adults and people with disabilities.",
+      "Income and other rules differ by category; some applications need asset information.",
+      "People receiving SSI are automatically eligible for Medicaid according to the state application guidance."
+    ],
+    "get": "<p>Health coverage for the type approved by DoHS. Check the eligibility notice and managed care instructions before relying on a specific service or provider.</p>",
+    "docs": "<p>Prepare household income, identity, applicant status and existing insurance information. Ask whether the Supplemental Form collecting assets is required for your category.</p>",
+    "apply": "<ol><li>Apply through WV PATH or visit the local DoHS county office.</li><li>For paper filing, use the All Programs application if seeking several benefits or uncertain which Medicaid type fits.</li><li>Complete additional forms requested for assets or special circumstances.</li><li>For guidance call 877-716-1212; the state says this line can also accept some coverage applications.</li></ol>",
+    "after": "<p>Read requests and the eligibility determination carefully. Follow any plan enrollment instructions and confirm the provider accepts your coverage. Tell the county office about address changes so renewal information reaches you.</p>",
+    "sources": "<ul><li><a href=\"https://bms.wv.gov/members/applying-healthcare\">BMS healthcare application guidance</a></li><li><a href=\"https://dohs.wv.gov/programs\">DoHS coverage programs</a></li><li><a href=\"https://usaassistance.org/programs/west-virginia-medicaid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is every Medicaid category based on the same rules?",
+      "No; the state explains that categories have distinct eligibility guidelines."
+    ],
+    [
+      "Can I apply for SNAP and Medicaid together?",
+      "The All Programs application covers multiple benefits."
+    ],
+    [
+      "What if I receive SSI?",
+      "The state says SSI recipients are automatically eligible and should receive a Medicaid card."
+    ],
+    [
+      "Can I get help if disability prevents an office visit?",
+      "Ask the local office about a home visit; the application guidance lists this option."
+    ],
+    [
+      "Does Medicaid require marketplace open enrollment?",
+      "The DoHS programs page lists Medicaid and CHIP as coverage routes outside yearly open enrollment."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "west-virginia-medicaid",
+    "source_url": "https://usaassistance.org/programs/west-virginia-medicaid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.wvpath.wv.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://bms.wv.gov/members/applying-healthcare",
+      "https://dohs.wv.gov/programs"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

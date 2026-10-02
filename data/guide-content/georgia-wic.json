@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia WIC offers food and nutrition support for pregnancy and early childhood. Begin through Georgia Gateway or a local WIC clinic, then complete the clinic’s nutrition assessment.",
+  "description": "Georgia WIC offers food and nutrition support for pregnancy and early childhood. Begin through Georgia Gateway or a local WIC clinic, then complete the clinic’s nutrition asse",
+  "sections": {
+    "who": "<p>Georgia WIC serves eligible low-income pregnant, postpartum or breastfeeding applicants and children younger than five who are at nutritional risk. The clinic assesses eligibility; an online assessment is only a preliminary check.</p>",
+    "get": "<p>Benefits include selected foods on an eWIC card, nutrition information, breastfeeding support and referrals to healthcare or community services.</p>",
+    "docs": "<ul><li>Ask the local clinic for its current document checklist.</li><li>Prepare identity, residence and household-income records.</li><li>Have available pregnancy, child-health or existing-benefit information ready for the appointment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the application</h3><p>Choose WIC at <a href=\"https://gateway.ga.gov/\">Georgia Gateway</a> or contact a clinic through the <a href=\"https://dph.georgia.gov/WIC/details-and-eligibility\">state WIC directory</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange the appointment</h3><p>The clinic follows up about assessment and benefits. Confirm who needs to attend and which documents it needs.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Discuss the applicant’s nutrition needs and ask staff to explain the eWIC card and approved foods.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and use its instructions for benefit changes or card problems. Ask for breastfeeding assistance when needed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dph.georgia.gov/WIC/details-and-eligibility\">Georgia WIC eligibility and application guidance</a>. <a href=\"https://usaassistance.org/programs/georgia-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does an online assessment enroll me?",
+      "No. It indicates possible eligibility; the clinic completes the assessment and certification."
+    ],
+    [
+      "Where can I use the food benefits?",
+      "Use the eWIC card with WIC-authorized vendors and the program’s approved-food guidance."
+    ],
+    [
+      "Can I start through Gateway?",
+      "Yes. Georgia’s WIC page links Gateway for applications and a clinic locator for appointment help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dph.georgia.gov/WIC/details-and-eligibility"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

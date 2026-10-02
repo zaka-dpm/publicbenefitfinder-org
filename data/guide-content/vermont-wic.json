@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont WIC provides food benefits, nutrition education and breastfeeding support for eligible pregnant participants and families with young children.",
+  "description": "Vermont WIC provides food benefits, nutrition education and breastfeeding support for eligible pregnant participants and families with young children.",
+  "sections": {
+    "who": "<p>The local WIC staff reviews residence, income, participant category and nutritional need. Caregivers can request assessment for a child younger than five.</p>",
+    "get": "<p>You receive an assigned nutrition package and related services rather than a general cash allowance.</p>",
+    "docs": "<ul><li>Identity and residence information requested by staff.</li><li>Income or benefit information.</li><li>Pregnancy or child records relevant to certification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://www.healthvermont.gov/family/wic/apply-wic\">Apply to WIC</a>, text Apply to 844-839-8942, or contact a local office.</p></li><li><h3 class=\"pbf-h3\">Speak with staff</h3><p>The local team follows up on online requests to review eligibility and needs.</p></li><li><h3 class=\"pbf-h3\">Complete the appointment</h3><p>Confirm required records and whether an in-person or remote visit is appropriate.</p></li></ol>",
+    "after": "<p>Follow benefit-use and appointment instructions. The prescreen and initial online request do not replace certification.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.healthvermont.gov/family/wic/apply-wic\">Vermont WIC intake</a>; <a href=\"https://www.healthvermont.gov/family/wic\">WIC services</a>; <a href=\"https://www.healthvermont.gov/family/wic/wic-remote-appointments\">Remote visits</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I start by text?",
+      "Yes. Text Apply to 844-839-8942."
+    ],
+    [
+      "Is the online form final approval?",
+      "Local staff must review eligibility."
+    ],
+    [
+      "Can some appointments be remote?",
+      "Vermont WIC offers some phone and video appointments."
+    ],
+    [
+      "Does WIC cover every grocery item?",
+      "It provides assigned approved foods."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.healthvermont.gov/family/wic/apply-wic",
+      "https://www.healthvermont.gov/family/wic",
+      "https://www.healthvermont.gov/family/wic/wic-remote-appointments"
+    ],
+    "background_source": "https://usaassistance.org/programs/vermont-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

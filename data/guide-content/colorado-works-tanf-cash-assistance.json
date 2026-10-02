@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado Works is the state’s TANF program for eligible families. It combines cash assistance with case management, education, training and employment support.",
+  "description": "Colorado Works is the state’s TANF program for eligible families. It combines cash assistance with case management, education, training and employment support.",
+  "sections": {
+    "who": "<p>Families with children, some caregivers and pregnant applicants can apply. Colorado residency, qualifying status and financial rules apply. Your county makes the eligibility decision; a general screening statement is not a guaranteed award.</p>",
+    "get": "<p>Cash can be delivered by EBT or direct deposit. A case manager helps build a Colorado Works Journey plan around family and employment goals.</p>",
+    "docs": "<ul><li>Identification and household members’ information.</li><li>Income and relevant family or pregnancy records.</li><li>Contact details and information about barriers to education, training or work.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an application option</h3><p>Use PEAK, MyCOBenefits or a paper application linked from <a href=\"https://cdhs.colorado.gov/colorado-works\">Colorado Works</a>.</p></li><li><h3 class=\"pbf-h3\">Work with your county</h3><p>Respond to requests for verification. The county human or social services office can help with the application.</p></li><li><h3 class=\"pbf-h3\">Plan the next steps</h3><p>If approved, discuss goals and supportive services with the case manager. Ask how payment will be delivered and what participation requirements apply.</p></li></ol>",
+    "after": "<p>Keep appointments and case notices. Report changes as directed and tell the case manager about difficulties that affect participation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://cdhs.colorado.gov/colorado-works\">Colorado Works overview and application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a caregiver apply for a child?",
+      "The state says some children not living with their parents can participate; ask the county about your arrangement."
+    ],
+    [
+      "Is this only a cash payment?",
+      "No. Colorado Works also offers case management and education, training and employment support."
+    ],
+    [
+      "How is payment delivered?",
+      "The state lists EBT or direct deposit."
+    ],
+    [
+      "Who helps me apply?",
+      "Your county human or social services office can help."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://cdhs.colorado.gov/colorado-works"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-works-tanf-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

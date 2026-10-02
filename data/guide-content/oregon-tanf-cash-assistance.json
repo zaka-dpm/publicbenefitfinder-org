@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon TANF supports qualifying families, pregnant people and certain young household heads. Apply online, by phone or at a local ODHS office.",
+  "description": "Oregon TANF supports qualifying families, pregnant people and certain young household heads. Apply online, by phone or at a local ODHS office.",
+  "sections": {
+    "who": "<p>The state reviews Oregon residence, low income and limited resources. The applicant must fit the program’s child-caregiver, pregnancy or young-head-of-household category.</p>",
+    "get": "<p>Approved cash uses the Oregon Trail EBT card. Most participants also receive a JOBS program assignment to support employment.</p>",
+    "docs": "<ul><li>Household and dependent information.</li><li>Income and resource records.</li><li>Other evidence listed in the interview request.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the benefit application</h3><p>Use <a href=\"https://www.oregon.gov/odhs/cash/Pages/tanf.aspx\">the TANF Apply Now route</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>ODHS schedules a telephone or in-person review.</p></li><li><h3 class=\"pbf-h3\">Review the award and JOBS plan</h3><p>Ask what activities apply and explain any barrier requiring help.</p></li></ol>",
+    "after": "<p>Keep participation records and report changes under your case instructions. SNAP and OHP can be requested alongside TANF but receive their own eligibility review.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/odhs/cash/Pages/tanf.aspx\">TANF categories, interview and JOBS</a>. <a href=\"https://usaassistance.org/programs/oregon-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can pregnancy qualify without an existing child?",
+      "The state lists pregnancy as an applicant category."
+    ],
+    [
+      "How is cash delivered?",
+      "Approved recipients receive an Oregon Trail EBT card."
+    ],
+    [
+      "Can I request food benefits too?",
+      "Yes. The state says the TANF application can also request SNAP and OHP."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/odhs/cash/Pages/tanf.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

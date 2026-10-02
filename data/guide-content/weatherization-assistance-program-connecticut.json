@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut weatherization helps income-eligible households improve home efficiency and address related health and safety issues. Local Community Action Agencies administer the work.",
+  "description": "Connecticut weatherization helps income-eligible households improve home efficiency and address related health and safety issues. Local Community Action Agencies administer the wor",
+  "sections": {
+    "who": "<p>The state lists income eligibility based on state median income. The local provider checks the household and property requirements and whether work is available.</p>",
+    "get": "<p>Weatherization is energy-efficiency work in the home, not a cash payment for the heating bill. The provider determines appropriate measures after assessment.</p>",
+    "docs": "<ul><li>Household income and member information.</li><li>Property address, heating details and ownership or lease records.</li><li>For rentals, ask about owner consent and required property paperwork.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the local provider</h3><p>Follow the Weatherization in Connecticut link on the <a href=\"https://portal.ct.gov/deep/business-and-financial-assistance/grants-financial-assistance/weatherization-assistance-program\">DEEP weatherization page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the intake</h3><p>Ask the Community Action Agency whether its heating-assistance intake also screens for weatherization and which documents to submit.</p></li><li><h3 class=\"pbf-h3\">Arrange the assessment</h3><p>Discuss access to the home, health or safety concerns and any owner permission needed before work.</p></li></ol>",
+    "after": "<p>Ask about waiting times and renewal. DEEP says applications can be submitted at any time and must be renewed annually.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/deep/business-and-financial-assistance/grants-financial-assistance/weatherization-assistance-program\">DEEP weatherization overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this help with an overdue bill?",
+      "Weatherization funds home efficiency work. CEAP is the separate heating-bill assistance program."
+    ],
+    [
+      "Where is intake handled?",
+      "Local Community Action Agencies administer the program."
+    ],
+    [
+      "Can I apply outside winter?",
+      "DEEP says applications may be submitted at any time."
+    ],
+    [
+      "Does the application need renewal?",
+      "The state page says it must be renewed annually."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/deep/business-and-financial-assistance/grants-financial-assistance/weatherization-assistance-program"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-connecticut/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

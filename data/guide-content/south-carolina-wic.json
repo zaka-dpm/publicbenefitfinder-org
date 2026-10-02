@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina WIC starts with a clinic appointment or the online pre-application. Call 855-472-3432 to arrange an appointment.",
+  "description": "South Carolina WIC starts with a clinic appointment or the online pre-application. Call 855-472-3432 to arrange an appointment.",
+  "sections": {
+    "who": "<p>WIC serves qualifying pregnant, postpartum and breastfeeding participants, infants and children under five. Caregivers can sign up eligible children.</p>",
+    "get": "<p>Approved services include food, nutrition education and breastfeeding support at no cost.</p>",
+    "docs": "<ul><li>Applicant identification.</li><li>Current address evidence.</li><li>Recent income or qualifying benefit eligibility notices.</li><li>Requested measurements or medical referral information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the pre-application</h3><p>Use <a href=\"https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program\">the state WIC link</a> or call for an appointment.</p></li><li><h3 class=\"pbf-h3\">Prepare the evidence</h3><p>Use the clinic checklist. A SNAP EBT card alone is not acceptable income proof.</p></li><li><h3 class=\"pbf-h3\">Complete the clinic review</h3><p>Discuss health and nutrition needs and learn how to use approved foods.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and contact staff about shopping or breastfeeding questions.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program\">WIC categories and intake</a>, <a href=\"https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/apply-wic-its-easy\">Document and medical checklist</a>. <a href=\"https://usaassistance.org/programs/south-carolina-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a grandparent apply for a child?",
+      "Yes. The state welcomes grandparents and other caregivers."
+    ],
+    [
+      "Is the SNAP card enough to prove income eligibility?",
+      "No. The state checklist asks for a valid SNAP eligibility notice."
+    ],
+    [
+      "Why might I need a medical referral form?",
+      "The application checklist requests measurements and bloodwork information through its referral form."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program",
+      "https://dph.sc.gov/health-wellness/family-planning/women-infants-and-children-wic-nutrition-program/apply-wic-its-easy"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

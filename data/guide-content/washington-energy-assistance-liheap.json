@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington LIHEAP helps eligible households with energy costs through local providers. Commerce supplies the provider map.",
+  "description": "Washington LIHEAP helps eligible households with energy costs through local providers. Commerce supplies the provider map.",
+  "sections": {
+    "who": "<p>The provider assesses income, household size and heating costs. The program year runs October through September.</p>",
+    "get": "<p>Help commonly pays a heating grant to the utility. Cooling or unsafe-system assistance may also be available.</p>",
+    "docs": "<ul><li>Identity and residence evidence.</li><li>Household income and heating-cost records.</li><li>Any shutoff notice or equipment concern.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the provider</h3><p>Select your county on the map linked from <a href=\"https://www.commerce.wa.gov/community-opportunities/liheap/\">Commerce LIHEAP</a>.</p></li><li><h3 class=\"pbf-h3\">Schedule locally</h3><p>Follow that agency’s appointment process and ask for its checklist.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Explain urgent disconnection or equipment problems.</p></li></ol>",
+    "after": "<p>Confirm the award with the provider and utility. Commerce does not schedule appointments or determine household awards.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.commerce.wa.gov/community-opportunities/liheap/\">Commerce LIHEAP</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Will Commerce book my appointment?",
+      "No. Contact the local provider."
+    ],
+    [
+      "Is payment normally sent to me?",
+      "It usually goes to the energy provider."
+    ],
+    [
+      "Does fuel type matter?",
+      "Commerce lists assistance for several heating fuels."
+    ],
+    [
+      "How often can I apply?",
+      "The state lists one application per program year."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.commerce.wa.gov/community-opportunities/liheap/"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-energy-assistance-liheap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

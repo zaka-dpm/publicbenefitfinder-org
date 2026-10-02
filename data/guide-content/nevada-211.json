@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada 211 connects residents with community services. Specialists operate Monday–Friday, 9 a.m.–9 p.m. Pacific, excluding holidays; the searchable directory remains available outside those hours.",
+  "description": "Nevada 211 connects residents with community services. Specialists operate Monday–Friday, 9 a.m.–9 p.m. Pacific, excluding holidays; the searchable directory remains available",
+  "sections": {
+    "who": "<p>Anyone seeking resource information can contact the service. Each referred organization decides its own eligibility and whether assistance is available.</p>",
+    "get": "<p>Free, confidential referrals cover needs such as food, housing, utilities, transportation and childcare.</p>",
+    "docs": "<ul><li>Your ZIP code or county.</li><li>A description of the need and any urgent date.</li><li>Contact details and notes from agencies already approached.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact a specialist</h3><p>Dial 211 or 866-535-5654, or text your ZIP code to 898211.</p></li><li><h3 class=\"pbf-h3\">Explain what you need</h3><p>Use the <a href=\"https://www.nevada211.org/contact/\">contact page</a> for chat and other options.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Ask the receiving provider about eligibility, intake hours and documents before visiting.</p></li></ol>",
+    "after": "<p>Request alternatives if a referral cannot help. The directory is useful when specialists are unavailable, but a listing does not confirm that funding is open.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nevada211.org/faq/\">Nevada 211 service and hours</a>, <a href=\"https://www.nevada211.org/contact/\">Contact options</a>. <a href=\"https://usaassistance.org/programs/nevada-211/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the specialist service available all night?",
+      "No. Current published hours are weekdays 9 a.m.–9 p.m. Pacific, excluding holidays."
+    ],
+    [
+      "Can I text rather than call?",
+      "Yes. Send your ZIP code to 898211."
+    ],
+    [
+      "Does 211 award assistance?",
+      "It provides referrals; the receiving organization makes assistance decisions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nevada211.org/faq/",
+      "https://www.nevada211.org/contact/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

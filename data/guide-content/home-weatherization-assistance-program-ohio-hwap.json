@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio HWAP provides home energy improvements to eligible households at no cost. A home inspection determines suitable work.",
+  "description": "Ohio HWAP provides home energy improvements to eligible households at no cost. A home inspection determines suitable work.",
+  "sections": {
+    "who": "<p>The current income standard is 200% of federal guidelines. Certain recent HEAP, PIPP Plus, SSI or TANF recipients receive automatic eligibility under the program’s rules.</p>",
+    "get": "<p>Services may include insulation, air sealing, heating-system work and safety testing. This is home improvement assistance rather than a cash grant.</p>",
+    "docs": "<ul><li>Income or qualifying benefit records.</li><li>Household and property information requested by the provider.</li><li>Landlord approval if renting.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request assessment</h3><p>Use <a href=\"https://energyhelp.ohio.gov/\">Ohio Energy Assistance</a> or contact the local energy assistance/community action provider.</p></li><li><h3 class=\"pbf-h3\">Arrange access</h3><p>Discuss ownership or landlord permission and schedule the inspection.</p></li><li><h3 class=\"pbf-h3\">Confirm the work</h3><p>Ask which measures are approved and when the provider expects to perform them.</p></li></ol>",
+    "after": "<p>Priority and scheduling affect when work happens. Discuss any home safety issue before workers visit.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://occ.ohio.gov/factsheet/home-weatherization-assistance-program-hwap\">OCC HWAP</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters qualify?",
+      "Yes, but landlord approval is needed."
+    ],
+    [
+      "Can I choose any renovation?",
+      "No. The inspection identifies cost-effective energy measures."
+    ],
+    [
+      "Will I receive cash?",
+      "The program provides approved services."
+    ],
+    [
+      "Can I express interest when applying for HEAP?",
+      "Yes. The HEAP application allows you to indicate interest in HWAP."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://occ.ohio.gov/factsheet/home-weatherization-assistance-program-hwap"
+    ],
+    "background_source": "https://usaassistance.org/programs/home-weatherization-assistance-program-ohio-hwap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

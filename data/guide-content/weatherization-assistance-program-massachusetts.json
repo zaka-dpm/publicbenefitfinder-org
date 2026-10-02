@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts weatherization provides home energy efficiency services for households eligible for HEAP. The HEAP application also serves as the weatherization application.",
+  "introduction": "Massachusetts weatherization provides home energy efficiency services for households eligible for HEAP. The HEAP application also serves as the weatherization application.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Households meeting Massachusetts HEAP eligibility.",
+      "The local weatherization agency determines the work suitable for the property."
+    ],
+    "get": "<p>Energy efficiency improvements determined by the local agency, followed by inspection of completed work. This is a home service rather than spending money paid to the household.</p>",
+    "docs": "<p>Have the HEAP application information ready and note drafts, insulation concerns and heating problems. If renting, ask what property owner paperwork is required before arranging work.</p>",
+    "apply": "<ol><li>Find the agency serving your town through the state weatherization page.</li><li>Submit a HEAP application online or through the local energy assistance agency.</li><li>Ask to be considered for weatherization and arrange the property assessment.</li></ol>",
+    "after": "<p>Ask about the assessment queue, access arrangements and approved work. Keep the agency’s inspection information and report any concern about completed work to it.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/info-details/weatherization-assistance-program-wap\">State weatherization application guidance</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-massachusetts/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must I submit a separate state WAP application?",
+      "The state says a HEAP application also serves as the weatherization application."
+    ],
+    [
+      "Does HEAP approval mean work starts immediately?",
+      "Ask the local agency about scheduling and assessment."
+    ],
+    [
+      "Who carries out the program locally?",
+      "A network of local agencies administers services."
+    ],
+    [
+      "Will someone inspect the work?",
+      "The local agency inspects completed work."
+    ],
+    [
+      "What number helps find local energy assistance?",
+      "The state lists the Cold Relief Heatline at 800-632-8175."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-massachusetts",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-massachusetts/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/info-details/weatherization-assistance-program-wap",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/info-details/weatherization-assistance-program-wap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio Legal Help offers legal information, forms and connections to local assistance. Start promptly if a notice or court paper has a deadline.",
+  "description": "Ohio Legal Help offers legal information, forms and connections to local assistance. Start promptly if a notice or court paper has a deadline.",
+  "sections": {
+    "who": "<p>The information is available online. Legal-aid organizations screen applicants separately for service area, issue, eligibility and capacity.</p>",
+    "get": "<p>You can read topic guides, find legal-aid intake and use available self-help tools. A website visit does not mean a lawyer represents you.</p>",
+    "docs": "<ul><li>Court papers and notices.</li><li>Lease, payment records or benefit decision relevant to the problem.</li><li>Household information requested during legal-aid screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose your issue</h3><p>Use <a href=\"https://www.ohiolegalhelp.org/\">Ohio Legal Help</a> to find the relevant topic.</p></li><li><h3 class=\"pbf-h3\">Locate intake</h3><p>Answer the questions at <a href=\"https://www.ohiolegalhelp.org/find-your-legal-aid\">Find your legal aid</a>.</p></li><li><h3 class=\"pbf-h3\">Explain deadlines</h3><p>Tell the intake organization any hearing or response date and ask what assistance it can provide.</p></li></ol>",
+    "after": "<p>Keep track of deadlines while waiting. Ask whether your case has actually been accepted before relying on representation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ohiolegalhelp.org/\">Ohio Legal Help</a>; <a href=\"https://www.ohiolegalhelp.org/find-your-legal-aid\">Find legal aid</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does reading a guide create representation?",
+      "No. Confirm acceptance directly with the lawyer or organization."
+    ],
+    [
+      "Can the site help me locate legal aid?",
+      "Yes. It has a location and issue screening tool."
+    ],
+    [
+      "What should I bring to intake?",
+      "The notices and records connected to your legal problem."
+    ],
+    [
+      "What if I have a hearing soon?",
+      "State the date immediately when requesting help."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ohiolegalhelp.org/",
+      "https://www.ohiolegalhelp.org/find-your-legal-aid"
+    ],
+    "background_source": "https://usaassistance.org/programs/ohio-legal-help-eviction-and-legal-aid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

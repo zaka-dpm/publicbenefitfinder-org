@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "TANF supports eligible families facing financial hardship. State and Tribal programs have different names, rules and application processes.",
+  "introduction": "TANF supports eligible families facing financial hardship. State and Tribal programs have different names, rules and application processes.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Your state or Tribal program determines household and financial eligibility. Apply in the state where you live; a national summary cannot establish your eligibility."
+    ],
+    "get": "<p>Programs can help families with food, housing, energy and child care. Some also offer employment training or work-related education assistance.</p>",
+    "docs": "<p>Ask your local office about household, income and residence evidence. Prepare information about children and other household members, income sources and current benefits, and explain any barrier to attending an appointment.</p>",
+    "apply": "<p>Use <a href=\"https://www.usa.gov/welfare-benefits\">USAGov’s TANF page</a> and its Find your local TANF office link. Contact that office for the state or Tribal application.</p>",
+    "after": "<p>Read the decision and any participation instructions. Ask which changes must be reported and when. Keep payment and case information separate from SNAP or other benefit records.</p>",
+    "sources": "<ul><li><a href=\"https://www.usa.gov/welfare-benefits\">USAGov TANF overview and local offices</a></li><li><a href=\"https://usaassistance.org/programs/tanf-cash-assistance-for-families/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is there a single national TANF form?",
+      "Programs are administered by states and Tribal governments; obtain the relevant local application."
+    ],
+    [
+      "Can the program name be different in my state?",
+      "Yes. TANF programs use different local names."
+    ],
+    [
+      "Does every state offer the same amount?",
+      "No. Requirements and program administration differ."
+    ],
+    [
+      "Can it include employment help?",
+      "Some programs offer job training and assistance with work-related education."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "tanf-cash-assistance-for-families",
+    "source_url": "https://usaassistance.org/programs/tanf-cash-assistance-for-families/",
+    "source_updated": "August 2026",
+    "primary_url": "https://acf.gov/ofa/programs/temporary-assistance-needy-families-tanf",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.usa.gov/welfare-benefits"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

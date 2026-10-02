@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Kansas WIC provides approved foods and nutrition support through local clinics. A new applicant can start with the state’s online pre-application.",
+  "introduction": "Kansas WIC provides approved foods and nutrition support through local clinics. A new applicant can start with the state’s online pre-application.",
+  "service_type": "wic",
+  "sections": {
+    "who": "<p>Kansas residents may qualify during pregnancy, breastfeeding through the baby’s first birthday, or non-breastfeeding postpartum through six months. Infants and children under five also qualify when income and nutrition-risk conditions are met.</p>",
+    "get": "<p>The WIC card buys approved foods. Clinics provide nutrition education, breastfeeding support and referrals.</p>",
+    "docs": "<p>Bring applicant and child identification, Kansas residence evidence and household income proof. Ask the clinic which records it accepts for your circumstances.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the pre-application linked from <a href=\"https://www.kdhe.ks.gov/1017/For-Families\">Kansas WIC’s family page</a>; a local agency contacts you for an appointment.</p></li><li><p>Attend the clinic assessment. If transferring from another state, contact WIC directly instead of submitting the new-applicant pre-application.</p></li></ol>",
+    "after": "<p>Follow clinic appointments and food-shopping instructions. If moving away, ask for a Verification of Certification to help transfer services.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.kdhe.ks.gov/1017/For-Families\">Eligibility and first appointment</a>, <a href=\"https://www.kdhe.ks.gov/1000/Nutrition-WIC-Services/\">WIC services and transfers</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-wic/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does the pre-application immediately approve benefits?",
+      "No. The local clinic arranges eligibility and nutrition screening."
+    ],
+    [
+      "Should an interstate transfer use the pre-application?",
+      "No. The state directs transferring participants to contact WIC instead."
+    ],
+    [
+      "Can a working parent qualify?",
+      "Yes. Income and the other WIC conditions determine eligibility."
+    ],
+    [
+      "What should I request before moving?",
+      "Ask the clinic for Verification of Certification."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.kdhe.ks.gov/1017/For-Families",
+      "https://www.kdhe.ks.gov/1000/Nutrition-WIC-Services/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

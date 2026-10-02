@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Maryland Unemployment Insurance uses BEACON for claims and weekly certifications. Job-search records are entered separately in the Maryland Workforce Exchange.",
+  "introduction": "Maryland Unemployment Insurance uses BEACON for claims and weekly certifications. Job-search records are entered separately in the Maryland Workforce Exchange.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Eligibility depends on sufficient covered wages, the circumstances of job separation and continuing weekly requirements.",
+      "You generally must be able and available for work and conduct required job-search activity unless the state recognizes an exemption."
+    ],
+    "get": "<p>The state determines temporary unemployment payments from the claim. A wage calculation does not guarantee payment for a week with an unresolved eligibility issue.</p>",
+    "docs": "<p>Prepare personal identity information and employment history for the last 18 months. Keep separation records and follow any identity verification request. Save job-search confirmations as activities occur.</p>",
+    "apply": "<ol><li>Start from <a href=\"https://labor.maryland.gov/unemployment-insurance/\">Maryland Labor’s Apply Now link</a> to the claimant BEACON portal, or call a claims agent at 667-207-6520.</li><li>Register in Maryland Workforce Exchange and complete required profile and résumé steps.</li><li>Unless exempt, record three weekly search activities, including one direct employer contact, in MWE before submitting the weekly BEACON certification.</li></ol>",
+    "after": "<p>Continue the weekly steps while a decision or payment is pending, as instructed. MWE and BEACON have different credentials. Read determinations and use the stated appeal deadline if you disagree.</p>",
+    "sources": "<ul><li><a href=\"https://labor.maryland.gov/unemployment-insurance/\">Maryland unemployment claimant entry</a></li><li><a href=\"https://labor.maryland.gov/unemployment-insurance/claimants/job-search.shtml\">Maryland weekly search and certification order</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-maryland/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is MWE the same login as BEACON?",
+      "No. Maryland says the two systems use different usernames and passwords."
+    ],
+    [
+      "Which weekly step comes first?",
+      "Document job-search activities in MWE before completing the BEACON weekly certification."
+    ],
+    [
+      "How much job searching is required?",
+      "Unless exempt, at least three weekly activities, including one direct job contact."
+    ],
+    [
+      "Should I stop certifying while waiting for payment?",
+      "The state directs claimants to continue search documentation and certifications while waiting."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-maryland",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-maryland/",
+    "source_updated": "August 2026",
+    "primary_url": "https://beacon.labor.maryland.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://labor.maryland.gov/unemployment-insurance/",
+      "https://labor.maryland.gov/unemployment-insurance/claimants/job-search.shtml"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota weatherization applications go through the Community Action agency serving your area. The agency evaluates the home and decides which improvements are appropriate.",
+  "description": "North Dakota weatherization applications go through the Community Action agency serving your area. The agency evaluates the home and decides which improvements are appropriate",
+  "sections": {
+    "who": "<p>Low-income owners and renters may qualify. The provider identifies LIHEAP recipients as income-eligible, but additional home and program requirements still apply.</p>",
+    "get": "<p>Approved work improves energy efficiency and household safety. Applicants are not charged a fee.</p>",
+    "docs": "<ul><li>Household income or LIHEAP approval evidence.</li><li>Address and utility information.</li><li>Owner details and landlord consent information for a rental.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the regional agency</h3><p>Use <a href=\"https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/\">CAPND’s regional links</a> to locate the provider.</p></li><li><h3 class=\"pbf-h3\">Request its application</h3><p>Ask for the current income checklist; the statewide page’s older dollar table should not replace current intake guidance.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Provide access and resolve required owner permissions before work can be scheduled.</p></li></ol>",
+    "after": "<p>Keep the provider’s contact details and ask about waiting lists, assessment findings and any condition preventing work.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/\">Housing types and regional intake</a>, <a href=\"https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/eligibility-guidelines.html\">Eligibility and application guidance</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-north-dakota/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a renter apply?",
+      "Yes, but the landlord must meet program requirements."
+    ],
+    [
+      "Are manufactured homes excluded?",
+      "CAPND says manufactured homes, conventional houses and apartments can be served."
+    ],
+    [
+      "Does LIHEAP approval guarantee immediate work?",
+      "It can establish income eligibility; the provider still reviews other requirements and scheduling."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/",
+      "https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/eligibility-guidelines.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

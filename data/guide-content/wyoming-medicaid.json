@@ -1,0 +1,56 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming Medicaid covers eligible people through specific categories, including children, pregnant people, qualifying parents and people who are aged, blind or disabled. Apply ",
+  "introduction": "Wyoming Medicaid covers eligible people through specific categories, including children, pregnant people, qualifying parents and people who are aged, blind or disabled. Apply through the state health coverage portal or customer service center.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Wyoming residents meeting the rules of a Medicaid eligibility category.",
+      "Low income alone does not establish eligibility; the state lists different categories and financial requirements.",
+      "The state announces immigration policy changes effective October 1, 2026; affected applicants should follow their notice and ask customer service how the change applies."
+    ],
+    "get": "<p>Health coverage for the approved category. Confirm covered services and provider participation, especially for limited coverage or long-term care pathways.</p>",
+    "docs": "<p>Prepare household income, applicant identity and status, current insurance and relevant category records. Asset or medical information can be needed for certain categories.</p>",
+    "apply": "<ol><li>Use Apply for Medicaid or Kid Care CHIP on the state website to reach the online portal.</li><li>Alternatively apply by telephone at 855-294-2127 or use the English or Spanish paper form.</li><li>Return paper forms through the current application page’s mail, in-person, fax or email instructions.</li><li>Supply requested proof and read the coverage notice.</li></ol>",
+    "after": "<p>Keep customer service contact and renewal notices. Use the address on your current renewal or verify it by phone; state pages display differing street numbers. Do not pay anyone a fee to enroll or renew.</p>",
+    "sources": "<ul><li><a href=\"https://health.wyo.gov/healthcarefin/medicaid/programs-and-eligibility/\">Medicaid categories</a></li><li><a href=\"https://health.wyo.gov/healthcarefin/apply/\">Application routes and current policy notices</a></li><li><a href=\"https://health.wyo.gov/healthcarefin/medicaid/\">Medicaid renewal and case contact</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-medicaid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does every low-income adult qualify?",
+      "The state uses defined Medicaid categories; apply for an individual assessment."
+    ],
+    [
+      "Can I apply by phone?",
+      "Yes, call 855-294-2127."
+    ],
+    [
+      "Does Wyoming have the new Medicaid work requirement?",
+      "The current state application notice says Wyoming is not affected by those requirements."
+    ],
+    [
+      "What if I receive an immigration policy notice?",
+      "Contact customer service about the October 2026 change and required action."
+    ],
+    [
+      "Why should I confirm the mailing address?",
+      "Use your current notice or customer service because state pages show different street numbers."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-medicaid",
+    "source_url": "https://usaassistance.org/programs/wyoming-medicaid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.wyo.gov/healthcarefin/medicaid/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.wyo.gov/healthcarefin/medicaid/programs-and-eligibility/",
+      "https://health.wyo.gov/healthcarefin/apply/",
+      "https://health.wyo.gov/healthcarefin/medicaid/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

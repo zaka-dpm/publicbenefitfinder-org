@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania UC provides temporary income support after qualifying job loss or reduced hours. The state evaluates wage history and separation circumstances.",
+  "description": "Pennsylvania UC provides temporary income support after qualifying job loss or reduced hours. The state evaluates wage history and separation circumstances.",
+  "sections": {
+    "who": "<p>You need qualifying wages and credit weeks, a qualifying separation and continuing ability and availability for suitable work. A financial determination alone does not resolve every eligibility issue.</p>",
+    "get": "<p>Eligible weekly payments replace part of earnings. An initial claim and weekly certifications are separate steps.</p>",
+    "docs": "<ul><li>Identity and contact details.</li><li>Employer, employment dates and wage information.</li><li>Separation explanation and any requested records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the claim</h3><p>Use <a href=\"https://benefits.uc.pa.gov/\">UC benefits</a> or call 888-313-7284 during the published service hours.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Follow identity and information requests in the dashboard.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>File for each week you request benefits, including the required waiting-week certification.</p></li></ol>",
+    "after": "<p>Read dashboard notices and keep accurate earnings and work-search records. For face-to-face help, ask about UC Connect appointments.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits\">Pennsylvania UC application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do reduced hours ever qualify?",
+      "They can, subject to the state’s review."
+    ],
+    [
+      "Is a wage determination final approval?",
+      "Other separation and weekly issues can still require decisions."
+    ],
+    [
+      "Must I file for the waiting week?",
+      "Yes, even though that week is unpaid."
+    ],
+    [
+      "Can I get in-person help?",
+      "UC Connect provides appointments at PA CareerLink locations."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-compensation-pa-l-and-i/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

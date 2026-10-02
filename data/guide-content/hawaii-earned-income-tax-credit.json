@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi’s earned income tax credit is claimed on the state tax return, not through a public-assistance portal. For tax year 2025, use Form N-356 and Schedule CR with the applicable Hawaiʻi return.",
+  "description": "Hawaiʻi’s earned income tax credit is claimed on the state tax return, not through a public-assistance portal. For tax year 2025, use Form N-356 and Schedule CR with the appli",
+  "sections": {
+    "who": "<p>The 2025 instructions require claiming federal EITC and using the same filing status and dependents on the Hawaiʻi return. Part-year residents and nonresidents use an income-ratio adjustment. Other exclusions in the instructions can apply.</p>",
+    "get": "<p>For tax year 2025, the new refundable credit starts at 40% of the federal EITC, with the required adjustment for part-year or nonresident filers. The 2025 instructions also distinguish an older, nonrefundable 2022 carryover.</p>",
+    "docs": "<ul><li>Your federal return and the federal EITC amount for the same tax year.</li><li>Your Hawaiʻi return, income records and dependent information.</li><li>The tax-year-specific N-356 and Schedule CR, plus any relevant prior carryover records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select the correct tax year</h3><p>Use the <a href=\"https://tax.hawaii.gov/forms/a1_b1_1income/\">Department of Taxation forms directory</a>. Do not apply 2025 instructions to a different return year without checking.</p></li><li><h3 class=\"pbf-h3\">Complete the credit calculation</h3><p>Follow the N-356 qualification questions and computation. A tax preparer can help distinguish a new credit from an older carryover.</p></li><li><h3 class=\"pbf-h3\">File the state return</h3><p>Attach the required credit forms and retain the return and submission confirmation.</p></li></ol>",
+    "after": "<p>Read tax-agency requests and correct errors through the appropriate return process. The 2025 instructions state a credit-claim deadline and special rules for later IRS adjustments; consult them promptly if amending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://files.hawaii.gov/tax/forms/current/n356_i.pdf\">2025 Form N-356 and instructions</a>, <a href=\"https://tax.hawaii.gov/tax-year-information/\">Tax-year 2025 changes</a>, <a href=\"https://tax.hawaii.gov/forms/a1_b1_1income/\">State tax forms</a>. <a href=\"https://usaassistance.org/programs/hawaii-earned-income-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a monthly cash benefit?",
+      "No. It is a credit claimed through the Hawaiʻi income-tax return."
+    ],
+    [
+      "Which forms apply to a 2025 claim?",
+      "The state instructions identify Form N-356 and Schedule CR attached to the applicable state return."
+    ],
+    [
+      "Can I reuse the 2022 carryover for future years?",
+      "The 2025 instructions say unused 2022 EITC cannot be carried into tax years beginning after December 31, 2025. Check the instructions for your return year."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://files.hawaii.gov/tax/forms/current/n356_i.pdf",
+      "https://tax.hawaii.gov/tax-year-information/",
+      "https://tax.hawaii.gov/forms/a1_b1_1income/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

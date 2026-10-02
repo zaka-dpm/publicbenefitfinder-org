@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Child Health Plus provides health coverage for eligible New York children younger than19 who are not eligible for Medicaid.",
+  "description": "Child Health Plus provides health coverage for eligible New York children younger than19 who are not eligible for Medicaid.",
+  "sections": {
+    "who": "<p>Residency, existing coverage and other program rules apply. Income affects premiums; ask about current immigration and coverage conditions.</p>",
+    "get": "<p>The program provides child health coverage. Premium requirements depend on the approved category.</p>",
+    "docs": "<ul><li>Child identity and residence information.</li><li>Household income.</li><li>Existing insurance and requested eligibility records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through NY State of Health</h3><p>Use <a href=\"https://www.health.ny.gov/health_care/child_health_plus/how_do_i_apply.htm\">the state application guidance</a> or call855-355-5777.</p></li><li><h3 class=\"pbf-h3\">Find an enroller</h3><p>Free community assistance can help with the application.</p></li><li><h3 class=\"pbf-h3\">Complete enrollment</h3><p>Review plan and premium instructions and provide requested proof.</p></li></ol>",
+    "after": "<p>Follow current renewal notices. Older claims of continuous coverage through age6 should not replace current rules.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.health.ny.gov/health_care/child_health_plus/how_do_i_apply.htm\">Child Health Plus applying</a>; <a href=\"https://www.health.ny.gov/health_care/child_health_plus/eligibility_and_cost.htm\">Eligibility</a>; <a href=\"https://portal.311.nyc.gov/article/?kanumber=KA-02093\">Current child coverage notice</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does the application also check Medicaid?",
+      "Ask the enroller to screen the child’s coverage options."
+    ],
+    [
+      "Is help available by phone?",
+      "Yes,855-355-5777."
+    ],
+    [
+      "Are premiums identical for all families?",
+      "No. Income affects them."
+    ],
+    [
+      "Can I assume no renewal until age6?",
+      "No. NYC311 says that continuous-coverage policy endedJuly1,2026."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.health.ny.gov/health_care/child_health_plus/how_do_i_apply.htm",
+      "https://www.health.ny.gov/health_care/child_health_plus/eligibility_and_cost.htm",
+      "https://portal.311.nyc.gov/article/?kanumber=KA-02093"
+    ],
+    "background_source": "https://usaassistance.org/programs/child-health-plus/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

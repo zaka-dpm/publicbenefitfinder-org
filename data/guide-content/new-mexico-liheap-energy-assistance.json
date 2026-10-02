@@ -1,0 +1,38 @@
+{
+  "status": "authored",
+  "introduction": "New Mexico LIHEAP helps eligible households with home-energy costs. Begin through YesNM or call the state public-inquiry line to discuss intake and an urgent utility problem.",
+  "description": "New Mexico LIHEAP helps eligible households with home-energy costs. Begin through YesNM or call the state public-inquiry line to discuss intake and an urgent utility problem.",
+  "sections": {
+    "who": "<p>The administering agency assesses household finances, residence and energy circumstances. Ask for current program-year limits rather than using an older benefit or income table.</p>",
+    "get": "<p>Assistance can address qualifying heating, cooling or crisis needs. Ask which component fits and how an approved payment reaches the energy provider.</p>",
+    "docs": "<ul><li>Household income information.</li><li>Current energy bill and account details.</li><li>Identity and residence evidence requested by ISD.</li><li>A shutoff or fuel-delivery notice if relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>The federal LIHEAP directory links <a href=\"https://www.yes.state.nm.us/yesnm/home/index\">YesNM</a> for New Mexico applications.</p></li><li><h3 class=\"pbf-h3\">Explain the energy need</h3><p>Call 800-283-4465 about application help, available components and urgent account circumstances.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Ask for the agency’s checklist and retain the submission confirmation and decision.</p></li></ol>",
+    "after": "<p>The federal directory lists year-round operation, but availability and awards depend on the agency’s current review. Discuss any remaining balance or pending shutoff with the utility.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://liheapch.acf.gov/profiles/nm.htm\">Federal New Mexico LIHEAP contacts and intake, updated August 2026</a>. <a href=\"https://usaassistance.org/programs/new-mexico-liheap-energy-assistance/\">USA Assistance background guide</a>. The linked provider must confirm current eligibility and intake arrangements.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a winter-only application window?",
+      "The current federal New Mexico directory lists year-round program dates."
+    ],
+    [
+      "Does a prior-year award guarantee the same amount?",
+      "No. Ask the agency about the current program year and household assessment."
+    ],
+    [
+      "Where can I ask about the application?",
+      "The federal directory lists 800-283-4465 for public inquiries."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://liheapch.acf.gov/profiles/nm.htm"
+    ],
+    "facts_verified": false,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [
+      "Federal directory verifies contacts, pathway and year-round dates; current state LIHEAP eligibility and crisis page inaccessible, so current detailed rules are not verified."
+    ]
+  }
+}

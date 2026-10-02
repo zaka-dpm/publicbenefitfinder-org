@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah SNAP applications can begin before you have every verification document. DWS then assesses the household and requests the remaining information.",
+  "description": "Utah SNAP applications can begin before you have every verification document. DWS then assesses the household and requests the remaining information.",
+  "sections": {
+    "who": "<p>An eligibility specialist determines whether the household meets SNAP rules. Award size depends on household circumstances and income.</p>",
+    "get": "<p>Food-purchasing assistance through EBT; it supplements the family food budget.</p>",
+    "docs": "<ul><li>Identity evidence.</li><li>Household income information.</li><li>Expenses and other verification requested by DWS.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the application</h3><p>Use <a href=\"https://jobs.utah.gov/mycase\">myCase</a> or a DWS employment center.</p></li><li><h3 class=\"pbf-h3\">Complete the rest</h3><p>Return information requested by eligibility.</p></li><li><h3 class=\"pbf-h3\">Check the decision</h3><p>Review the award and reporting requirements.</p></li></ol>",
+    "after": "<p>Use myCase to manage the case and recertify. Tell eligibility when you cannot obtain a requested record.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://jobs.utah.gov/customereducation/services/foodstamps/index.html\">SNAP filing and case management</a>. <a href=\"https://usaassistance.org/programs/utah-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must I gather documents before filing?",
+      "DWS says no documents are required when first submitting the application."
+    ],
+    [
+      "Can an incomplete form establish filing?",
+      "The state allows filing with name, address and signature, but the remaining answers are needed for a decision."
+    ],
+    [
+      "Can urgent need receive faster review?",
+      "Ask DWS about expedited service; eligibility must be assessed."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://jobs.utah.gov/customereducation/services/foodstamps/index.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

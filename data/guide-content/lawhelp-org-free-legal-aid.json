@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "LawHelp.org helps people locate legal aid and information about legal problems. Contact the listed legal organization to request assistance with your own case.",
+  "introduction": "LawHelp.org helps people locate legal aid and information about legal problems. Contact the listed legal organization to request assistance with your own case.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "LawHelp referrals focus on free legal assistance for people with low to moderate incomes. Each provider sets its own intake and case requirements."
+    ],
+    "get": "<p>You can look for local legal aid and answers to legal questions. A directory result does not mean an attorney has accepted your case.</p>",
+    "docs": "<p>Have the names of the people involved, relevant notices, court papers and hearing dates ready. Ask the intake office how to share sensitive records. Explain deadlines immediately; searching for assistance does not extend them.</p>",
+    "apply": "<p>Start at <a href=\"https://www.lawhelp.org/find-help\">LawHelp’s state directory</a> and contact an organization listed for your location and issue. <a href=\"https://www.usa.gov/legal-aid\">USAGov’s legal aid page</a> offers additional directories.</p>",
+    "after": "<p>Ask whether the provider is offering advice, document help or representation. Confirm who will handle any court filing. If the organization cannot accept the case, request another referral and continue tracking deadlines.</p>",
+    "sources": "<ul><li><a href=\"https://www.lawhelp.org/find-help\">LawHelp state directory</a></li><li><a href=\"https://www.usa.gov/legal-aid\">USAGov legal aid options</a></li><li><a href=\"https://usaassistance.org/programs/lawhelp-org-free-legal-aid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does the directory make a lawyer represent me?",
+      "No. The provider must accept your request separately."
+    ],
+    [
+      "Can income affect acceptance?",
+      "Yes. Legal aid organizations may apply income and other eligibility rules."
+    ],
+    [
+      "Can I get help with an eviction?",
+      "Housing issues are among the legal aid topics listed by USAGov; local availability varies."
+    ],
+    [
+      "What should I do with a hearing date?",
+      "Tell intake staff immediately and continue following court instructions while seeking help."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "lawhelp-org-free-legal-aid",
+    "source_url": "https://usaassistance.org/programs/lawhelp-org-free-legal-aid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.lawhelp.org",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.lawhelp.org/find-help",
+      "https://www.usa.gov/legal-aid"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

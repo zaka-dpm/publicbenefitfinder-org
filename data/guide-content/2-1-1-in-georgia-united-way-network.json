@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia’s 211 service connects callers with community resources for food, housing, utilities, healthcare and other needs. The United Ways of Georgia directory identifies regional contacts.",
+  "description": "Georgia’s 211 service connects callers with community resources for food, housing, utilities, healthcare and other needs. The United Ways of Georgia directory identifies regio",
+  "sections": {
+    "who": "<p>The helpline is free and confidential. A referral is available without a benefit approval; each receiving program applies its own service-area, income and availability rules.</p>",
+    "get": "<p>A specialist helps locate relevant organizations. The state network advertises phone access around the clock, while individual referred agencies have their own hours.</p>",
+    "docs": "<ul><li>Know your county or ZIP code.</li><li>Explain the need and any urgent date, such as a scheduled utility disconnection.</li><li>Record the referred provider’s name, contact and intake instructions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call 211</h3><p>Use the <a href=\"https://unitedwayga.org/ga211/\">Georgia regional directory</a> if you need to identify the center serving your area.</p></li><li><h3 class=\"pbf-h3\">Request a specific referral</h3><p>Tell the specialist whether you need food today, help with an energy bill, shelter or another service.</p></li><li><h3 class=\"pbf-h3\">Contact the agency</h3><p>Ask whether intake is open, what you should bring and whether the agency serves your address.</p></li></ol>",
+    "after": "<p>If a provider cannot help, explain why when asking 211 for alternatives. Call emergency services for an immediate threat to safety.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://unitedwayga.org/ga211/\">United Ways of Georgia 211</a>. <a href=\"https://usaassistance.org/programs/2-1-1-in-georgia-united-way-network/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 provide a cash award?",
+      "211 connects you to providers; it does not replace their benefit applications."
+    ],
+    [
+      "What if I do not know the program name?",
+      "Describe the problem and your location. The specialist can help identify relevant services."
+    ],
+    [
+      "Do referral agencies all operate 24 hours?",
+      "No. The network advertises round-the-clock helpline access, but referred providers set their own hours."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://unitedwayga.org/ga211/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "United Way of the Midlands 211 helps Nebraska residents find community resources. You can call, text your ZIP code or use the Nebraska resource search.",
+  "description": "United Way of the Midlands 211 helps Nebraska residents find community resources. You can call, text your ZIP code or use the Nebraska resource search.",
+  "sections": {
+    "who": "<p>Referral help is different from benefit eligibility. The organization providing food, shelter, utilities or another service determines who it can serve.</p>",
+    "get": "<p>211 supplies resource information and contact routes. The published live-chat hours are 7 a.m.–10 p.m. daily; do not assume every referred agency has the same hours.</p>",
+    "docs": "<ul><li>Know your ZIP code and county.</li><li>Describe the needed help and any time-sensitive notice.</li><li>Record contacts and intake instructions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a contact method</h3><p>Call 211 or 866-813-1731, text your ZIP to 898211, or use <a href=\"https://uwm211.org/\">United Way’s search and chat links</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Tell the specialist whether you need immediate food, shelter, an energy referral or another service.</p></li><li><h3 class=\"pbf-h3\">Confirm local intake</h3><p>Contact the referred organization about its service area, current availability and application process.</p></li></ol>",
+    "after": "<p>Ask for alternatives if a referral is unsuitable. Use the Nebraska search option on the network page when browsing resources independently.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://uwm211.org/\">Midlands 211 contact and search options</a>. <a href=\"https://usaassistance.org/programs/nebraska-211-united-way-of-the-midlands/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Will 211 pay my bill?",
+      "A referral does not promise payment. The receiving program reviews an application."
+    ],
+    [
+      "Can I text?",
+      "Yes. The network lists texting your ZIP code to 898211."
+    ],
+    [
+      "What are the chat hours?",
+      "The current page lists live chat from 7 a.m. to 10 p.m., seven days a week."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://uwm211.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

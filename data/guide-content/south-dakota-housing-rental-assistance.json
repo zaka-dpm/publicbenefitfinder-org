@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota Housing helps renters find the appropriate assistance route. Voucher applications go to housing authorities; income-based apartment applications go to the property.",
+  "description": "South Dakota Housing helps renters find the appropriate assistance route. Voucher applications go to housing authorities; income-based apartment applications go to the propert",
+  "sections": {
+    "who": "<p>Income, household size, location and property or program rules determine eligibility. Ask the specific provider about its selection criteria.</p>",
+    "get": "<p>Options include rent subsidies and apartments with limited rents. These arrangements have different rules and do not all provide an individual voucher.</p>",
+    "docs": "<ul><li>Household members and income.</li><li>Identity and rental-history records requested by the provider.</li><li>Contact details and any urgent housing notice.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the route</h3><p>Use <a href=\"https://www.sdhousing.org/ready-to-rent/rental-assistance\">SD Housing’s provider and property links</a>.</p></li><li><h3 class=\"pbf-h3\">Contact local intake</h3><p>Ask the housing authority about vouchers or the landlord about the apartment’s program.</p></li><li><h3 class=\"pbf-h3\">Submit the provider’s application</h3><p>Confirm available units or waiting lists and save the application details.</p></li></ol>",
+    "after": "<p>Keep provider contact information current and respond to any eligibility review or waiting-list update.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.sdhousing.org/ready-to-rent/rental-assistance\">Rental programs and application pathways</a>, <a href=\"https://www.sdhousing.org/renters-do-i-qualify\">Property and program eligibility</a>. <a href=\"https://usaassistance.org/programs/south-dakota-housing-rental-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does SD Housing process most applications?",
+      "Its page says it does not process applications directly for most rental-assistance programs."
+    ],
+    [
+      "Is a lower-rent apartment always a voucher?",
+      "No. The state distinguishes rental assistance from programs that limit the rent charged."
+    ],
+    [
+      "What if I do not know where to start?",
+      "SD Housing recommends 211 for local resource guidance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.sdhousing.org/ready-to-rent/rental-assistance",
+      "https://www.sdhousing.org/renters-do-i-qualify"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

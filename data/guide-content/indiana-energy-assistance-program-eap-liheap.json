@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Indiana EAP helps eligible households with heating and electricity costs. Local service providers process applications for IHCDA.",
+  "introduction": "Indiana EAP helps eligible households with heating and electricity costs. Local service providers process applications for IHCDA.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>IHCDA uses household-size income limits based on 60% of state median income and reviews the most recent three months of income. Households whose utilities are included in rent may also qualify.</p>",
+    "get": "<p>EAP provides an annual energy benefit, generally paid to the supplier. It does not cover every energy bill. Explain any disconnection or depleted fuel supply promptly.</p>",
+    "docs": "<ul><li>Income evidence.</li><li>Current utility statements.</li><li>A lease or tenant verification statement when utilities are included in rent.</li><li>Additional records requested for your circumstances.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your provider</h3><p>Use IHCDA’s county lookup.</p></li><li><h3 class=\"pbf-h3\">Apply for the current season</h3><p>The 2026–2027 window runs October 1, 2026 through April 30, 2027. Apply <a href=\"https://eap.mylitt.com/\">online through LITT</a>, or arrange mail or in-person intake with your provider.</p></li><li><h3 class=\"pbf-h3\">Save your login details</h3><p>LITT replaces EAPConnect. Retain its login number, code and submission confirmation.</p></li></ol>",
+    "after": "<p>Continue making payments while the request is reviewed. For a shutoff, contact both the utility and provider. Follow the written appeal instructions if denied.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/\">IHCDA EAP instructions and current season</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "Is EAPConnect still used?",
+      "No. IHCDA has switched online applications to LITT for program year 2027."
+    ],
+    [
+      "Can renters apply?",
+      "Yes; the program also considers qualifying households with utilities included in rent."
+    ],
+    [
+      "Will the benefit cover the whole year?",
+      "No. EAP supplements household energy costs."
+    ],
+    [
+      "Where do I report an urgent shutoff?",
+      "Tell your local provider immediately and contact the utility about the notice."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

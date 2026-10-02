@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Apply for NJ SNAP through MyNJHelps or your County Social Service Agency. The county reviews eligibility and provides interview and verification instructions.",
+  "description": "Apply for NJ SNAP through MyNJHelps or your County Social Service Agency. The county reviews eligibility and provides interview and verification instructions.",
+  "sections": {
+    "who": "<p>The assessment considers household income, expenses, circumstances and applicable participation rules. Older adults, disabled applicants and students may have different provisions; an online screening result is not an approval.</p>",
+    "get": "<p>Approved households receive food benefits through Families First EBT. The decision explains the award and ongoing requirements.</p>",
+    "docs": "<ul><li>Current income and household details.</li><li>Rent and utility records.</li><li>Relevant dependent-care or medical expenses.</li><li>Any requested evidence of a work-rule or student exception.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through the current portal</h3><p>Use <a href=\"https://www.mynjhelps.gov/\">MyNJHelps</a>, or bring, mail or fax a paper application to the county agency.</p></li><li><h3 class=\"pbf-h3\">Complete county follow-up</h3><p>Keep the interview and respond to the specific proof request. Ask about urgent food needs when applying.</p></li><li><h3 class=\"pbf-h3\">Check the decision and account</h3><p>Use MyNJHelps to view status, upload records and manage reporting.</p></li></ol>",
+    "after": "<p>Use current county guidance rather than the income chart still labeled October 2025–September 2026. Ask a listed SNAP Navigator for free application assistance if needed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/humanservices/njsnap/apply/ways/\">NJ SNAP application routes</a>, <a href=\"https://nj.gov/humanservices/njsnap/apply/eligibility/\">Eligibility categories and current work-rule guidance</a>, <a href=\"https://www.nj.gov/humanservices/njsnap/resources/materials/pdfs/MyNJHelps/MyNJHelps%20Flyer.pdf\">Current MyNJHelps case features</a>. <a href=\"https://usaassistance.org/programs/nj-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is NJHelps screening the same as MyNJHelps application?",
+      "No. Screening estimates eligibility; MyNJHelps accepts and manages applications."
+    ],
+    [
+      "Can someone assist an older or disabled applicant?",
+      "The state allows an authorized representative, such as a friend or family member, to apply on their behalf."
+    ],
+    [
+      "Should I pay a consultant to apply?",
+      "The state says SNAP application assistance is free. Use the county or a listed Navigator."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/humanservices/njsnap/apply/ways/",
+      "https://nj.gov/humanservices/njsnap/apply/eligibility/",
+      "https://www.nj.gov/humanservices/njsnap/resources/materials/pdfs/MyNJHelps/MyNJHelps%20Flyer.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

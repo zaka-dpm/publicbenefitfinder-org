@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas WIC starts online or by phone, followed by a local nutrition appointment. The clinic determines eligibility and issues benefits after that review.",
+  "description": "Texas WIC starts online or by phone, followed by a local nutrition appointment. The clinic determines eligibility and issues benefits after that review.",
+  "sections": {
+    "who": "<p>Texas residents who are pregnant, postpartum or breastfeeding and children younger than five can be assessed. Income and nutrition conditions apply.</p>",
+    "get": "<p>WIC food benefits, nutrition guidance and breastfeeding support.</p>",
+    "docs": "<ul><li>Address and identity evidence.</li><li>Income or qualifying benefit-program records.</li><li>Clinic-requested information for each applicant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://texaswic.org/apply\">Texas WIC online intake</a> or call 800-942-3678.</p></li><li><h3 class=\"pbf-h3\">Attend the appointment</h3><p>The local team explains records and performs the nutrition review.</p></li><li><h3 class=\"pbf-h3\">Learn the card rules</h3><p>If approved, review eligible foods and shopping instructions.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and tell the clinic if you move so records and benefits can be transferred.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://texaswic.org/apply\">Texas WIC application and eligibility</a>. <a href=\"https://usaassistance.org/programs/texas-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can fathers enroll children?",
+      "Yes. Parents and guardians can apply for eligible children."
+    ],
+    [
+      "Does SNAP automatically finish WIC enrollment?",
+      "SNAP can establish income eligibility, but a WIC assessment is still required."
+    ],
+    [
+      "Can I use the Texas card in another state?",
+      "Texas WIC says its card is only usable in Texas; ask for transfer records before moving."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://texaswic.org/apply"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

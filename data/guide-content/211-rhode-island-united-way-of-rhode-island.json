@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "United Way’s Rhode Island 211 service connects residents with local social services. Start with your location and immediate need.",
+  "description": "United Way’s Rhode Island 211 service connects residents with local social services. Start with your location and immediate need.",
+  "sections": {
+    "who": "<p>People seeking local resources can request referrals. Each provider has separate service and eligibility rules.</p>",
+    "get": "<p>The service supplies information and connections; it does not itself approve government benefits.</p>",
+    "docs": "<ul><li>Your ZIP code or town.</li><li>A clear description of the need.</li><li>Any shutoff, housing or other urgent deadline.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact 211</h3><p>Call 211 or use the help links at <a href=\"https://www.unitedwayri.org/\">United Way Rhode Island</a>.</p></li><li><h3 class=\"pbf-h3\">Describe the problem</h3><p>Explain the most urgent need and any access barriers.</p></li><li><h3 class=\"pbf-h3\">Follow referrals</h3><p>Ask providers about open intake and required evidence.</p></li></ol>",
+    "after": "<p>If a referral cannot help, ask 211 about other local options. Keep provider names and contact details.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.unitedwayri.org/\">United Way Rhode Island</a>; <a href=\"https://www.unitedwayri.org/about-us/contact-us/\">Provider contact instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 decide eligibility?",
+      "No. The referred provider decides."
+    ],
+    [
+      "Can it help locate social services?",
+      "Yes. That is its statewide referral role."
+    ],
+    [
+      "What should I prepare?",
+      "Your location and the problem you need help with."
+    ],
+    [
+      "What if the first referral is unavailable?",
+      "Ask for another option."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.unitedwayri.org/",
+      "https://www.unitedwayri.org/about-us/contact-us/"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-rhode-island-united-way-of-rhode-island/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

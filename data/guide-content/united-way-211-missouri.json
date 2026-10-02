@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "United Way 211 connects people with Missouri community resources. Phone specialists are available around the clock.",
+  "description": "United Way 211 connects people with Missouri community resources. Phone specialists are available around the clock.",
+  "sections": {
+    "who": "<p>Anyone can request a referral. Providers decide their own eligibility and availability.</p>",
+    "get": "<p>Referrals cover needs such as food, utilities and housing. Assistance is not guaranteed.</p>",
+    "docs": "<ul><li>ZIP code or county.</li><li>The immediate need.</li><li>Any deadline or accessibility need.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call</h3><p>Dial 211 or 800-427-4626.</p></li><li><h3 class=\"pbf-h3\">Text or chat</h3><p>These options are listed Monday–Friday, 9 a.m.–5 p.m.</p></li><li><h3 class=\"pbf-h3\">Search and follow up</h3><p>Use <a href=\"https://www.211helps.org/\">211 Helps</a> and contact the referred provider.</p></li></ol>",
+    "after": "<p>Confirm hours, documents and current openings.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.211helps.org/\">Missouri 211 contact options</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is phone support 24/7?",
+      "Yes."
+    ],
+    [
+      "Are text and chat 24/7?",
+      "No. The site lists weekday hours."
+    ],
+    [
+      "Does 211 pay the bill?",
+      "It connects you with providers."
+    ],
+    [
+      "Can I search online?",
+      "Yes, through its directory."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.211helps.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/united-way-211-missouri/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

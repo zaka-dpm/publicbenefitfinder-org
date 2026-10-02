@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Maryland SNAP helps eligible households buy food using an EBT card. File the application promptly, then complete the interview and requested verification.",
+  "introduction": "Maryland SNAP helps eligible households buy food using an EBT card. File the application promptly, then complete the interview and requested verification.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Eligibility depends on financial and technical SNAP rules and the household’s circumstances.",
+      "Special student, immigration and work rules may affect individual household members. Ask the worker to evaluate applicable exceptions rather than relying on an older general chart."
+    ],
+    "get": "<p>Approved benefits buy eligible food. Households with very limited money may qualify for expedited processing; explain the urgent food situation at intake.</p>",
+    "docs": "<p>Prepare identity, income and relevant expense records. Ask for help if a document cannot be obtained; the case manager may accept an appropriate contact who can verify the information.</p>",
+    "apply": "<ol><li>Apply at <a href=\"https://marylandbenefits.gov/\">Maryland Benefits</a> or request a paper application from the local Department of Social Services.</li><li>Submit the signed form promptly. The office accepts it even if the interview cannot occur that day.</li><li>Complete the scheduled interview and submit the worker’s requested proof.</li></ol>",
+    "after": "<p>Keep the submission date and follow the decision’s reporting and renewal instructions. Tell the office if you cannot complete the interview or verification by the deadline. Use the review instructions on any disputed notice.</p>",
+    "sources": "<ul><li><a href=\"https://dhs.maryland.gov/supplemental-nutrition-assistance-program/applying-for-the-food-supplement-program/\">Maryland SNAP application steps</a></li><li><a href=\"https://dhs.maryland.gov/supplemental-nutrition-assistance-program/eligibility-rules/\">SNAP verification guidance</a></li><li><a href=\"https://usaassistance.org/programs/maryland-snap-food-supplement-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must I wait until every document is collected to file?",
+      "No. Maryland directs you to submit the signed application promptly and complete remaining information with the worker."
+    ],
+    [
+      "Can I request expedited help?",
+      "Tell the worker if you have little or no money. The application is screened for possible expedited processing."
+    ],
+    [
+      "Is an interview required?",
+      "Yes. The local department arranges one if it cannot interview you when you file."
+    ],
+    [
+      "What if proof is hard to obtain?",
+      "Ask the case manager for help or an acceptable alternative, such as someone who can verify the information."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-snap-food-supplement-program",
+    "source_url": "https://usaassistance.org/programs/maryland-snap-food-supplement-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://marylandbenefits.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhs.maryland.gov/supplemental-nutrition-assistance-program/applying-for-the-food-supplement-program/",
+      "https://dhs.maryland.gov/supplemental-nutrition-assistance-program/eligibility-rules/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

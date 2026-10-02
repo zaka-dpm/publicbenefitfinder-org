@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "California Courts’ eviction self-help guide explains tenant responses, court forms and the steps in an unlawful-detainer case. It does not provide rent payments.",
+  "introduction": "California Courts’ eviction self-help guide explains tenant responses, court forms and the steps in an unlawful-detainer case. It does not provide rent payments.",
+  "service_type": "legal",
+  "sections": {
+    "who": "<p>Tenants facing eviction can use the guide. The required response depends on whether they received a landlord’s notice or a filed court Summons and Complaint, and how court papers were served.</p>",
+    "get": "<p>The guide explains response forms, filing, serving the landlord and the court process. A court self-help center can help with procedure; legal aid may assess advice or representation.</p>",
+    "docs": "<p>Keep the notice, Summons, Complaint, envelopes, service dates, lease, rent records and related communications. Ask a court self-help center to confirm the response deadline.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Open <a href=\"https://selfhelp.courts.ca.gov/eviction-tenant/respond\">the tenant Answer instructions</a>. Do not use an old five-day deadline from a historical screenshot: current instructions use ten court days for personal service, with different counting for other service methods.</p></li><li><p>Complete and file the appropriate response and arrange required service. Ask about a fee waiver if you cannot afford filing fees.</p></li></ol>",
+    "after": "<p>Keep court-stamped copies and watch for hearing information. Contact legal help promptly; starting an online form alone does not file it with the court.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://selfhelp.courts.ca.gov/eviction-tenant/respond\">Tenant response and deadline instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/california-courts-self-help-eviction/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does this resource pay overdue rent?",
+      "No. It explains eviction procedure and forms."
+    ],
+    [
+      "Is a landlord’s notice the same as a court lawsuit?",
+      "No. Identify the papers before choosing your response."
+    ],
+    [
+      "Does filling a form online submit it?",
+      "Not necessarily. Follow the court’s filing and service instructions."
+    ],
+    [
+      "Is the response deadline identical for every service method?",
+      "No. Use the current tenant guide and confirm the calculation with court self-help."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://selfhelp.courts.ca.gov/eviction-tenant/respond"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

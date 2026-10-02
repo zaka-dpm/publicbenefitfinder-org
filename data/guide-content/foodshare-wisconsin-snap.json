@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "FoodShare is Wisconsin’s SNAP grocery assistance program. Apply through ACCESS or the county or Tribal agency and complete the required interview.",
+  "introduction": "FoodShare is Wisconsin’s SNAP grocery assistance program. Apply through ACCESS or the county or Tribal agency and complete the required interview.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Households meeting FoodShare financial and program requirements.",
+      "Some members must meet work requirements; the agency screens exemptions and sends applicable notices."
+    ],
+    "get": "<p>Food purchasing assistance for approved households. Apply for an agency determination even if unsure which household or work rule applies.</p>",
+    "docs": "<p>Prepare household identity, income and relevant expense information. After the interview, follow the agency’s exact verification request and ask about missing records.</p>",
+    "apply": "<ol><li>Apply through ACCESS, call or visit the local agency, or submit paper form F-16019.</li><li>Call the agency for the interview or answer its call; interviews are by phone unless you request an in-person meeting.</li><li>Explain relevant work-rule exemptions and send requested proof.</li></ol>",
+    "after": "<p>Use MyACCESS to manage benefits and follow notices about reporting and renewal. If subject to the time-limited work requirement without exemption, the state lists three months in the current January 2025–December 2027 period. Ask the agency about exemptions, good cause and FSET support.</p>",
+    "sources": "<ul><li><a href=\"https://www.dhs.wisconsin.gov/foodshare/eligibility.htm\">FoodShare application and interview</a></li><li><a href=\"https://www.dhs.wisconsin.gov/foodshare/work.htm\">Current FoodShare work requirement</a></li><li><a href=\"https://usaassistance.org/programs/foodshare-wisconsin-snap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is an interview still required?",
+      "Yes, the current application page requires one."
+    ],
+    [
+      "Can I request an in-person interview?",
+      "Yes; tell your agency."
+    ],
+    [
+      "Which agency handles the application?",
+      "It is based on your county or Tribal affiliation."
+    ],
+    [
+      "How do I report a possible work exemption?",
+      "Contact the agency or use ACCESS as directed by the work requirement page."
+    ],
+    [
+      "What is FSET?",
+      "FoodShare Employment and Training is a free employment and training support program."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "foodshare-wisconsin-snap",
+    "source_url": "https://usaassistance.org/programs/foodshare-wisconsin-snap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://access.wisconsin.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.dhs.wisconsin.gov/foodshare/eligibility.htm",
+      "https://www.dhs.wisconsin.gov/foodshare/work.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

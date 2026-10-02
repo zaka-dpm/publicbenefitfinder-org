@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri SNAP provides monthly grocery benefits through EBT. Family Support Division determines eligibility.",
+  "description": "Missouri SNAP provides monthly grocery benefits through EBT. Family Support Division determines eligibility.",
+  "sections": {
+    "who": "<p>Residency, household income, resources and other conditions apply. Some resources are excluded.</p>",
+    "get": "<p>The benefit depends on household size and income. SNAP food benefits cannot be withdrawn as cash.</p>",
+    "docs": "<ul><li>Income and resource information.</li><li>Household and residency details.</li><li>Requested expense records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://dss.mo.gov/food-assistance/apply-for-snap\">DSS’s online or paper application</a>.</p></li><li><h3 class=\"pbf-h3\">Complete any required interview</h3><p>If you miss the call, use a Resource Center or call 855-823-4908.</p></li><li><h3 class=\"pbf-h3\">Explain emergencies</h3><p>Complete Section 2 for expedited screening and send requested proof.</p></li></ol>",
+    "after": "<p>Read the decision and reporting requirements. Use the benefit portal to check status.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dss.mo.gov/food-assistance/apply-for-snap\">SNAP application and interview</a>; <a href=\"https://dss.mo.gov/food-assistance/food-stamp-program\">Managing SNAP</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I request a mailed form?",
+      "Yes. DSS links a printed-application request."
+    ],
+    [
+      "What if I miss the interview?",
+      "Call 855-823-4908 or visit a Resource Center."
+    ],
+    [
+      "Can emergency cases be expedited?",
+      "Yes, if expedited conditions are met."
+    ],
+    [
+      "Is EBT grocery money cash?",
+      "No."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dss.mo.gov/food-assistance/apply-for-snap",
+      "https://dss.mo.gov/food-assistance/food-stamp-program"
+    ],
+    "background_source": "https://usaassistance.org/programs/missouri-snap-food-stamps/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

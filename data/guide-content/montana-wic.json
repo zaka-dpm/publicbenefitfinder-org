@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana WIC provides nutrition support for eligible pregnant or postpartum participants, infants and young children.",
+  "description": "Montana WIC provides nutrition support for eligible pregnant or postpartum participants, infants and young children.",
+  "sections": {
+    "who": "<p>Residency, income and nutrition screening apply. Ask the local clinic how current benefit enrollment affects the income test.</p>",
+    "get": "<p>WIC provides supplemental foods, nutrition education, breastfeeding support and referrals.</p>",
+    "docs": "<ul><li>Identity and address evidence.</li><li>Income or qualifying-benefit records.</li><li>Questions about nutrition and feeding.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate a clinic</h3><p>Start at <a href=\"https://dphhs.mt.gov/ecfsd/wic/\">Montana WIC</a> and follow its participant links.</p></li><li><h3 class=\"pbf-h3\">Arrange intake</h3><p>Ask the clinic for its current appointment and document process.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Follow nutrition screening and benefit setup instructions.</p></li></ol>",
+    "after": "<p>Use authorized stores and follow the current food list and renewal appointments.</p>",
+    "sources": "<p>Checked October1,2026 using <a href=\"https://dphhs.mt.gov/ecfsd/wic/\">Montana WIC</a> and <a href=\"https://dphhs.mt.gov/ecfsd/WIC/Eligibility\">current eligibility and clinic intake guidance</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Is this only food?",
+      "It also includes nutrition and breastfeeding support."
+    ],
+    [
+      "Can a caregiver enroll a child?",
+      "Ask the clinic about enrollment for the eligible child."
+    ],
+    [
+      "Is a benefit pre-screen approval?",
+      "No. Complete clinic certification."
+    ],
+    [
+      "Where do I get the current food list?",
+      "Use state participant resources or the clinic."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dphhs.mt.gov/ecfsd/wic/",
+      "https://dphhs.mt.gov/ecfsd/WIC/Eligibility"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

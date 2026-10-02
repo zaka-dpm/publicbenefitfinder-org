@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota Energy Assistance helps eligible households with home-energy costs. The 2026–27 application deadline is May 31, 2027.",
+  "description": "Minnesota Energy Assistance helps eligible households with home-energy costs. The 2026–27 application deadline is May 31, 2027.",
+  "sections": {
+    "who": "<p>Both renters and homeowners can apply. Income and household size affect eligibility.</p>",
+    "get": "<p>Payments support home heating and electricity costs. Tell the provider about emergency heating needs.</p>",
+    "docs": "<ul><li>Household members and Social Security or alternative identification numbers.</li><li>Income documents and housing details.</li><li>Energy-company names, account numbers and emergency notices.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online or by mail</h3><p>Use <a href=\"https://www.commerce.mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/apply.jsp\">Commerce’s application page</a>. Online applications are available.</p></li><li><h3 class=\"pbf-h3\">Enter all energy accounts</h3><p>Provide heat and electricity information and explain any shutoff or fuel emergency.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Respond to your local provider’s document requests.</p></li></ol>",
+    "after": "<p>Check the application’s status with the provider. Do not assume a submitted form stops disconnection.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.commerce.mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/apply.jsp\">Current EAP application and documents</a>; <a href=\"https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/\">EAP benefits</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I print the form?",
+      "No. Commerce offers online and mail routes."
+    ],
+    [
+      "Can renters apply?",
+      "Yes."
+    ],
+    [
+      "What is the current deadline?",
+      "May 31, 2027 for the 2026–27 season."
+    ],
+    [
+      "Where do I report an emergency?",
+      "In the application and directly to the provider."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.commerce.mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/apply.jsp",
+      "https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-energy-assistance-program-eap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

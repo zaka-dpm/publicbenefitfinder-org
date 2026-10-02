@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah 211 offers local referrals by county or ZIP code. Its directory and navigators help find services but do not approve an application.",
+  "description": "Utah 211 offers local referrals by county or ZIP code. Its directory and navigators help find services but do not approve an application.",
+  "sections": {
+    "who": "<p>Anyone seeking community-resource information can contact the free, confidential service.</p>",
+    "get": "<p>Referrals to local services, with multilingual assistance.</p>",
+    "docs": "<ul><li>Your ZIP code or county.</li><li>The need, urgency and practical access requirements.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Search or call</h3><p>Use <a href=\"https://211utah.org/\">Utah 211</a> or dial 211/888-826-9790.</p></li><li><h3 class=\"pbf-h3\">Explain what you need</h3><p>Ask for providers serving your location.</p></li><li><h3 class=\"pbf-h3\">Confirm local intake</h3><p>Contact the referred organization about availability.</p></li></ol>",
+    "after": "<p>Keep referral details and ask for another option if the provider cannot assist.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://211utah.org/\">Utah211 current contact options</a>. <a href=\"https://usaassistance.org/programs/211-utah/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the phone service available overnight?",
+      "The current site lists daytime hours; check them before calling."
+    ],
+    [
+      "Can I text?",
+      "The site lists texting your ZIP code to 801-845-2211 during navigator hours."
+    ],
+    [
+      "Is information confidential?",
+      "Utah 211 describes the service as confidential."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://211utah.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

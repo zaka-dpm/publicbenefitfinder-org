@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware Healthy Children Program offers low-cost health coverage for eligible uninsured children. Applications are also checked for Medicaid eligibility.",
+  "description": "Delaware Healthy Children Program offers low-cost health coverage for eligible uninsured children. Applications are also checked for Medicaid eligibility.",
+  "sections": {
+    "who": "<p>Children must be younger than 19, live in Delaware and meet income, status and coverage conditions. Comprehensive existing insurance can affect eligibility; ask before cancelling a policy.</p>",
+    "get": "<p>DHCP provides children’s health coverage with family premium conditions. A child eligible for Medicaid is enrolled through that pathway instead.</p>",
+    "docs": "<ul><li>Family income, including self-employment tax records where applicable.</li><li>Child identity and requested status information.</li><li>Details of current or recently ended health insurance.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through ASSIST</h3><p>Use <a href=\"https://assist.dhss.delaware.gov/\">ASSIST</a>, or request help and a paper application at 800-996-9969.</p></li><li><h3 class=\"pbf-h3\">Submit the requested records</h3><p>Provide income and coverage information and any further evidence requested.</p></li><li><h3 class=\"pbf-h3\">Review the coverage decision</h3><p>Confirm whether the child qualifies for Medicaid or DHCP and what payment or plan arrangements apply.</p></li></ol>",
+    "after": "<p>Keep renewal letters and premium instructions. Ask about consequences before voluntarily dropping existing coverage.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/medical-assistance-programs/delaware-healthy-children-program/\">DHCP eligibility and application</a>; <a href=\"https://assist.dhss.delaware.gov/\">ASSIST application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is a child with insurance automatically eligible?",
+      "No. Existing comprehensive coverage affects DHCP eligibility."
+    ],
+    [
+      "Will the child be checked for Medicaid?",
+      "Yes. DHCP applications are screened for Medicaid."
+    ],
+    [
+      "Can I request a paper application?",
+      "Call 800-996-9969 or use the state forms link."
+    ],
+    [
+      "Should I cancel insurance to qualify?",
+      "Ask the program first; loss-of-coverage rules can affect eligibility."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhss.delaware.gov/dss/division-of-social-services/medical-assistance-programs/delaware-healthy-children-program/",
+      "https://assist.dhss.delaware.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-healthy-children-program-chip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Maine General Assistance helps people who lack the income or resources to meet basic needs. Applications are handled by the local municipal office.",
+  "introduction": "Maine General Assistance helps people who lack the income or resources to meet basic needs. Applications are handled by the local municipal office.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Individuals and families may qualify when available income and resources do not cover essential needs.",
+      "The municipal administrator evaluates the request. Explain the specific expense and any immediate deadline."
+    ],
+    "get": "<p>Approved help is provided as a voucher paid to a vendor. Eligible needs can include food, housing, fuel, utilities and medical necessities; the administrator determines the allowable assistance.</p>",
+    "docs": "<p>Prepare income and available-resource information, the bill or expense you need help with and records showing what you can pay. Ask the municipal office for its checklist and explain if a document is unavailable.</p>",
+    "apply": "<ol><li>Contact your town or city municipal office and ask for the General Assistance administrator.</li><li>Apply in person as directed and explain the expense and urgency.</li><li>Provide the requested information and retain a copy of the application and decision.</li></ol>",
+    "after": "<p>Read the decision and ask how an approved voucher reaches the vendor. If you cannot reach the local GA office or have concerns about access, contact the DHHS General Assistance hotline at 800-442-6003. Keep any review instructions given with the decision.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/dhhs/ofi/programs-services/general-assistance\">Maine General Assistance</a></li><li><a href=\"https://usaassistance.org/programs/general-assistance-maine/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is this applied for through My Maine Connection?",
+      "The state directs applicants to their local municipal office for an in-person General Assistance application."
+    ],
+    [
+      "Will I receive cash?",
+      "The state describes approved assistance as a voucher payment to the vendor."
+    ],
+    [
+      "Can someone without children ask for help?",
+      "Yes. The program covers eligible individuals as well as families."
+    ],
+    [
+      "What if the local office cannot be reached?",
+      "Call the DHHS General Assistance hotline at 800-442-6003."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "general-assistance-maine",
+    "source_url": "https://usaassistance.org/programs/general-assistance-maine/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/dhhs/ofi/programs-services/general-assistance",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://www.maine.gov/dhhs/ofi/programs-services/general-assistance",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/dhhs/ofi/programs-services/general-assistance"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

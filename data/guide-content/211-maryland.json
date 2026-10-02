@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "211 Maryland helps residents find local health and human services, including food, housing and utility resources. Specialists use your location and circumstances to narrow the",
+  "introduction": "211 Maryland helps residents find local health and human services, including food, housing and utility resources. Specialists use your location and circumstances to narrow the search.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "The free, confidential service is available to everyone in Maryland.",
+      "Eligibility and funds are assessed separately by each referred provider."
+    ],
+    "get": "<p>Telephone specialists are available 24 hours a day, every day. The online database offers another way to locate services. A referral does not reserve money or approve a benefit.</p>",
+    "docs": "<p>Have your ZIP code, immediate need and any deadline ready. Note providers you have tried and why they could not help. These are preparation suggestions, not an application checklist.</p>",
+    "apply": "<ol><li>Call <a href=\"tel:211\">211</a>.</li><li>Alternatively search the resource database linked at <a href=\"https://211md.org/\">211 Maryland</a>.</li><li>Contact the referred organization to confirm service area, intake and current availability.</li></ol>",
+    "after": "<p>Record referrals and responses. Ask for another option if the first provider cannot serve you. Confirm whether a listed text service provides resource conversation or an ongoing information subscription before relying on it for urgent help.</p>",
+    "sources": "<ul><li><a href=\"https://211md.org/\">211 Maryland</a></li><li><a href=\"https://usaassistance.org/programs/211-maryland/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I call at night?",
+      "Yes. Maryland’s telephone specialists are available around the clock."
+    ],
+    [
+      "Does 211 require a low-income application?",
+      "No. Anyone in Maryland can ask for resource information."
+    ],
+    [
+      "Can I look up services myself?",
+      "Yes. Use the linked online database."
+    ],
+    [
+      "Does a referral approve assistance?",
+      "No. Contact the provider for its own eligibility review."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "211-maryland",
+    "source_url": "https://usaassistance.org/programs/211-maryland/",
+    "source_updated": "August 2026",
+    "primary_url": "https://211md.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://211md.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

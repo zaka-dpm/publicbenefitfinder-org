@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi Med-QUEST accepts applications for Medicaid coverage online, by phone or using a paper form. Approved applicants receive health-plan enrollment instructions after the eligibility review.",
+  "description": "Hawaiʻi Med-QUEST accepts applications for Medicaid coverage online, by phone or using a paper form. Approved applicants receive health-plan enrollment instructions after the ",
+  "sections": {
+    "who": "<p>Med-QUEST assesses Hawaiʻi residents under the applicable Medicaid categories and financial rules. Children, pregnancy, adult coverage, age or disability can involve different requirements. Apply for the people needing coverage rather than assuming the whole family receives one result.</p>",
+    "get": "<p>QUEST Integration provides health coverage through participating plans. Read the coverage and enrollment information to understand providers and benefits.</p>",
+    "docs": "<ul><li>Prepare applicant details and household income information.</li><li>Have current insurance and relevant identity or status records available.</li><li>For disability or long-term-care needs, check Med-QUEST’s list of additional application forms.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an application route</h3><p>Apply at <a href=\"https://medical.mybenefits.hawaii.gov/\">Hawaiʻi’s medical-benefits portal</a>, call 1-800-316-8005 or use the form on <a href=\"https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply.html\">Med-QUEST’s application page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up requests</h3><p>Med-QUEST contacts applicants if more information is needed. Keep your phone and mailing details current.</p></li><li><h3 class=\"pbf-h3\">Choose a health plan</h3><p>If eligible, follow the enrollment-choice packet sent by mail and confirm your coverage start date.</p></li></ol>",
+    "after": "<p>Use the plan’s provider information before routine care. Contact Med-QUEST about an unclear determination or requested form; contact the health plan about coverage services.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply.html\">Med-QUEST application instructions</a>, <a href=\"https://medquest.hawaii.gov/en/members-applicants/get-started.html\">QUEST Integration overview</a>. <a href=\"https://usaassistance.org/programs/med-quest-hawaii-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply by phone?",
+      "Yes. Med-QUEST lists 1-800-316-8005 as an application route."
+    ],
+    [
+      "Can I submit a paper application?",
+      "Yes. The application page identifies the form and the nearest eligibility office for mail or fax submission."
+    ],
+    [
+      "Are extra forms needed for disability or long-term care?",
+      "Med-QUEST lists additional forms for those circumstances. Check its application page before submitting."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply.html",
+      "https://medquest.hawaii.gov/en/members-applicants/get-started.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

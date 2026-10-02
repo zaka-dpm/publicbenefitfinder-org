@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Iowa’s Family Investment Program provides TANF cash assistance to eligible families raising children, including qualifying relative caregivers.",
+  "introduction": "Iowa’s Family Investment Program provides TANF cash assistance to eligible families raising children, including qualifying relative caregivers.",
+  "service_type": "cash",
+  "sections": {
+    "who": "<p>HHS checks Iowa residence, income, assets and other conditions. The linked program booklet describes children under 18, or age 18 while in high school expected to finish before 19. Prior TANF receipt can affect time limits.</p>",
+    "get": "<p>Cash assistance supports the family while it works toward self-support. PROMISE JOBS helps applicable participants carry out a Family Investment Agreement covering employment or training.</p>",
+    "docs": "<p>Prepare information on children and caregivers, income and assets, other benefits, and prior TANF assistance. Tell HHS about childcare, transportation, disability or safety barriers that may affect participation.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply through the <a href=\"https://hhsservices.iowa.gov/\">Iowa HHS Services Portal</a> or obtain a paper application from the county HHS office.</p></li><li><p>Complete the interview and verification requests. Discuss the Family Investment Agreement and ask which activities or exceptions apply to you.</p></li></ol>",
+    "after": "<p>Read payment, reporting and participation notices. The program has a 60-month limit with specific exceptions; ask HHS how prior months and hardship rules affect your case. Use the decision notice’s appeal instructions if needed.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/assistance-programs/cash-assistance/fip-tanf\">FIP program and forms</a>, <a href=\"https://hhs.iowa.gov/media/6454/download?inline=\">FIP participant booklet</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-family-investment-program-fip-cash-assistance/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative raising a child apply?",
+      "The program includes qualifying relatives caring for children. HHS screens the case."
+    ],
+    [
+      "Is FIP the same as SNAP?",
+      "No. FIP is cash assistance; SNAP supports food purchases."
+    ],
+    [
+      "What is PROMISE JOBS?",
+      "It provides employment and training support for applicable FIP participants."
+    ],
+    [
+      "Does a hardship automatically remove the time limit?",
+      "No. Ask HHS to assess the applicable exception and evidence."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/assistance-programs/cash-assistance/fip-tanf",
+      "https://hhs.iowa.gov/media/6454/download?inline="
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

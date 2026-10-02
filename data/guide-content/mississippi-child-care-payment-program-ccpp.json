@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi CCPP helps eligible families pay participating child-care providers. Applications and certificate availability are separate questions.",
+  "description": "Mississippi CCPP helps eligible families pay participating child-care providers. Applications and certificate availability are separate questions.",
+  "sections": {
+    "who": "<p>Income and approved work, education or training requirements apply. Special categories and funding restrictions can affect intake.</p>",
+    "get": "<p>An approved certificate pays a participating provider; the parent’s monthly copayment depends on family size and income.</p>",
+    "docs": "<ul><li>Child age, relationship and residency proof.</li><li>Recent income and activity records.</li><li>Requested parent identity documents.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a provider first</h3><p>Use <a href=\"https://www.mdhs.ms.gov/eccd/parents/apply/\">MDHS’s CCPP application instructions</a> and select a provider accepting MDHS subsidies.</p></li><li><h3 class=\"pbf-h3\">Apply and upload proof</h3><p>Follow the Apply Now route and supporting-document checklist.</p></li><li><h3 class=\"pbf-h3\">Confirm availability</h3><p>Ask 800-877-7882 whether your category is receiving certificates or awaiting funding.</p></li></ol>",
+    "after": "<p>Check application status and respond to redetermination requests. Acceptance of an application does not guarantee immediate placement.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.mdhs.ms.gov/eccd/parents/apply/\">CCPP application and proof</a>; <a href=\"https://www.mdhs.ms.gov/eccd/parents/\">CCPP current parent updates</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I select a provider first?",
+      "Yes."
+    ],
+    [
+      "Can any provider receive the subsidy?",
+      "Choose one participating in CCPP."
+    ],
+    [
+      "Is there a parent payment?",
+      "A monthly copayment applies."
+    ],
+    [
+      "Does submitting guarantee a certificate?",
+      "No. Eligibility and availability must be confirmed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.mdhs.ms.gov/eccd/parents/apply/",
+      "https://www.mdhs.ms.gov/eccd/parents/"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-child-care-payment-program-ccpp/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

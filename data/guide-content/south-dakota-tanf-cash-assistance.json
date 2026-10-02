@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota TANF intake has an employment component and a DSS eligibility component. Most applicants begin with an employment specialist rather than the SNAP online application.",
+  "description": "South Dakota TANF intake has an employment component and a DSS eligibility component. Most applicants begin with an employment specialist rather than the SNAP online applicati",
+  "sections": {
+    "who": "<p>The state assesses financial need and a dependent child affected by parental absence, death, incapacity or unemployment. Listed work-program exemptions change where intake begins.</p>",
+    "get": "<p>Approved support can include cash, job preparation, case management and work-related assistance.</p>",
+    "docs": "<ul><li>Household finances.</li><li>Child age and relationship records.</li><li>Evidence relevant to an employment-program exemption.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the correct starting office</h3><p>Use <a href=\"https://dss.sd.gov/economicassistance/tanf.aspx\">the TANF office links</a> for DSS reservation-area specialists or DLR offices.</p></li><li><h3 class=\"pbf-h3\">Complete both components</h3><p>Employment staff handle the work component; local DSS workers determine benefit eligibility.</p></li><li><h3 class=\"pbf-h3\">Review the plan</h3><p>Discuss assigned activities and practical barriers with the specialist.</p></li></ol>",
+    "after": "<p>Keep participation records and follow reporting instructions. Ask the worker about the lifetime limit if you received TANF in another state.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sd.gov/economicassistance/tanf.aspx\">TANF categories and two-part intake</a>. <a href=\"https://usaassistance.org/programs/south-dakota-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Why are two offices involved?",
+      "The state separates employment services from financial eligibility review."
+    ],
+    [
+      "Does an exemption affect where I start?",
+      "Yes. The agency says employment-specialist intake is the starting route unless work participation is not required."
+    ],
+    [
+      "Can another state’s TANF history matter?",
+      "South Dakota says the adult lifetime limit includes assistance received in other states."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sd.gov/economicassistance/tanf.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

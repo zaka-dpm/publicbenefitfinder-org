@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Catholic Charities’ Bakersfield office offers basic-needs assistance. Ask the office which services are currently available locally.",
+  "description": "Catholic Charities’ Bakersfield office offers basic-needs assistance. Ask the office which services are currently available locally.",
+  "sections": {
+    "who": "<p>The organization serves people in need regardless of religion. Individual services may require their own intake and evidence.</p>",
+    "get": "<p>Listed services include food, clothing, diapers and emergency assistance. Funding and local availability affect support.</p>",
+    "docs": "<ul><li>Ask for the relevant service’s document checklist.</li><li>Household details and any urgent notice for assistance intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact Bakersfield</h3><p>Call 661-281-2130 or use <a href=\"https://ccdof.org/\">Catholic Charities</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the service</h3><p>Ask about eligibility, intake and supplies before visiting 825 Chester Avenue.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Provide requested records and explain urgent needs.</p></li></ol>",
+    "after": "<p>Ask for another referral when a service is unavailable. Confirm hours before travel.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://ccdof.org/\">Catholic Charities services and Bakersfield contact</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I be Catholic?",
+      "The organization says services are provided regardless of religion."
+    ],
+    [
+      "Is rent assistance always funded?",
+      "Confirm current local availability."
+    ],
+    [
+      "Can I request food?",
+      "Ask about the food pantry’s intake."
+    ],
+    [
+      "What should I bring?",
+      "Get the checklist for the particular service first."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://ccdof.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/catholic-charities-bakersfield-community-services/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

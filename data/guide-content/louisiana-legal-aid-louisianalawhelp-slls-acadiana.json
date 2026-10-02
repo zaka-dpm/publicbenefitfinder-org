@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana civil legal aid is provided by regional organizations, including Southeast Louisiana Legal Services and Acadiana Legal Service Corporation. Start with the provider s",
+  "introduction": "Louisiana civil legal aid is provided by regional organizations, including Southeast Louisiana Legal Services and Acadiana Legal Service Corporation. Start with the provider serving your parish.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Providers review financial eligibility, the civil legal issue, service area, conflicts and available resources.",
+      "Criminal defense and personal injury claims are outside the general services described by these providers. Ask about an appropriate referral if your matter falls outside their scope."
+    ],
+    "get": "<p>Accepted matters can receive advice or representation. Providers address issues such as housing, family safety, public benefits and debt, depending on the case and their capacity.</p>",
+    "docs": "<p>Collect notices, court papers and deadlines, along with a short timeline and names of the parties. Prepare income information for screening. Tell intake how to contact you safely if the matter involves abuse.</p>",
+    "apply": "<ol><li>For southeast Louisiana, use <a href=\"https://slls.org/en/get-help/\">SLLS Get Help</a> and follow Apply Now to its intake contacts.</li><li>For Acadiana’s service area, use <a href=\"https://www.la-law.org/get-help/\">ALSC Get Help</a> to apply online or call 866-275-2572 during posted intake hours.</li><li>Give intake your parish and deadline. Complete the eligibility review and any follow-up appointment.</li></ol>",
+    "after": "<p>Confirm whether the provider accepted your matter and the scope of help. Submitting an application does not mean a lawyer has agreed to represent you. Keep meeting court deadlines while waiting and ask about referrals or self-help resources if the case is declined.</p>",
+    "sources": "<ul><li><a href=\"https://slls.org/en/get-help/\">SLLS civil legal help</a></li><li><a href=\"https://www.la-law.org/get-help/\">Acadiana legal aid intake</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-legal-aid-louisianalawhelp-slls-acadiana/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does applying create representation?",
+      "No. Wait for the provider to confirm acceptance and explain the help it will provide."
+    ],
+    [
+      "Can ALSC applications be started online?",
+      "Yes. Its online application is available at any time, with a later intake appointment as needed."
+    ],
+    [
+      "What if I have a benefits termination?",
+      "Civil legal aid can review benefits matters, subject to eligibility and capacity. Give intake the notice and appeal deadline."
+    ],
+    [
+      "How do I choose a provider?",
+      "Identify your parish and check the provider’s service area. SLLS serves southeast Louisiana; ALSC serves its listed parishes elsewhere in the state."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-legal-aid-louisianalawhelp-slls-acadiana",
+    "source_url": "https://usaassistance.org/programs/louisiana-legal-aid-louisianalawhelp-slls-acadiana/",
+    "source_updated": "August 2026",
+    "primary_url": "https://louisianalawhelp.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://slls.org/en/get-help/",
+      "https://www.la-law.org/get-help/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

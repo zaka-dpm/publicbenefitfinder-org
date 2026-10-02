@@ -58,6 +58,7 @@
 .pbf-nav a:hover::after { background: var(--red); }
 .pbf-header .pbf-btn--on-band { background: var(--navy); color: var(--on-fill); }
 .pbf-header .pbf-btn--on-band:hover { background: var(--navy-hover); }
+.pbf-header .pbf-btn--on-band::after { content: "→"; font-size: 20px; line-height: 1; }
 .pbf-menu-btn { display: none; margin-left: auto; background: transparent; color: var(--navy); border: 2px solid var(--line-strong); border-radius: var(--radius-md); min-height: 44px; padding: 0 14px; font: 700 15px/1 var(--font-sans); align-items: center; gap: 8px; cursor: pointer; }
 .pbf-stripes { height: 3px; background: var(--navy); }
 .pbf-identity { background: var(--surface-alt); color: var(--ink-muted); font-size: 15px; line-height: 22px; }
@@ -146,6 +147,7 @@
 .pbf-notice--info .pbf-icon { color: var(--navy); }
 .pbf-notice--urgent { background: var(--red-soft); }
 .pbf-notice--urgent .pbf-icon, .pbf-notice--urgent .pbf-notice__title { color: var(--red); }
+.pbf-notice--urgent .pbf-btn--urgent .pbf-icon { color: inherit; fill: currentColor; width: 20px; height: 20px; margin: 0; }
 
 /* How it works: a vertical route, not numbered cards */
 .pbf-how { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: var(--space-5); align-items: start; }

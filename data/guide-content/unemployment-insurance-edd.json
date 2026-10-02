@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "California EDD unemployment insurance provides temporary income to eligible workers who lost work or had their hours reduced. This guide covers California, rather than every s",
+  "introduction": "California EDD unemployment insurance provides temporary income to eligible workers who lost work or had their hours reduced. This guide covers California, rather than every state’s unemployment system.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "EDD checks prior wages, the reason work ended, and whether you are able, available and looking for work. Applying allows EDD to determine eligibility even when your job separation is uncertain."
+    ],
+    "get": "<p>Approved claims provide temporary unemployment payments. Your wage record and continued eligibility affect payment; a submitted application is not an approval.</p>",
+    "docs": "<p>Prepare your employment history, employer contacts, dates worked, earnings and the reason work stopped. Use the correct EDD application for California-only, interstate, federal or military employment when applying on paper.</p>",
+    "apply": "<p>Apply through <a href=\"https://edd.ca.gov/en/unemployment/step-2-apply/\">myEDD and UI Online</a>. Alternatively call <a href=\"tel:8003005616\">800-300-5616</a> Monday–Friday, 8 a.m.–5 p.m. Pacific, or follow the fax/mail directions on EDD’s appropriate paper form.</p>",
+    "after": "<p>Read EDD notices, correct wage or identity errors promptly and certify for benefits as instructed. Report work and wages accurately. Follow any CalJOBS registration notice rather than assuming submitting the claim completes all requirements.</p>",
+    "sources": "<ul><li><a href=\"https://edd.ca.gov/en/unemployment/\">EDD unemployment overview</a></li><li><a href=\"https://edd.ca.gov/en/unemployment/step-2-apply/\">EDD application methods</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-edd/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can reduced hours qualify?",
+      "Potentially. EDD covers partial unemployment when the other requirements are met."
+    ],
+    [
+      "Should I apply if I quit or was fired?",
+      "EDD says you may still qualify; it decides based on your circumstances."
+    ],
+    [
+      "Is myEDD the only application option?",
+      "No. Phone and the appropriate paper application are alternatives."
+    ],
+    [
+      "Does filing once guarantee continued payments?",
+      "No. You must certify and remain eligible."
+    ],
+    [
+      "Is this the national unemployment program?",
+      "No. EDD administers California unemployment insurance. Other states have their own agencies."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-edd",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-edd/",
+    "source_updated": "August 2026",
+    "primary_url": "https://edd.ca.gov/en/unemployment/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://edd.ca.gov/en/unemployment/",
+      "https://edd.ca.gov/en/unemployment/step-2-apply/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois WIC provides selected food benefits, nutrition support and breastfeeding help. Start by arranging an appointment with a local WIC office.",
+  "description": "Illinois WIC provides selected food benefits, nutrition support and breastfeeding help. Start by arranging an appointment with a local WIC office.",
+  "service_type": "wic",
+  "sections": {
+    "who": "<p>WIC serves eligible pregnant and recently postpartum women, infants and children younger than five, including foster children. A clinic checks the applicable income and other certification conditions.</p>",
+    "get": "<p>Participants use WIC EBT for their prescribed foods. Nutrition counseling and referrals support the needs of the enrolled family members.</p>",
+    "docs": "<ul><li>Ask the clinic for the records needed for certification.</li><li>Prepare identification, residence and household income or benefit records.</li><li>Confirm who must attend the appointment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the clinic</h3><p>Use the DHS Office Locator linked from the <a href=\"https://www.dhs.state.il.us/page.aspx?item=31907\">state WIC page</a>.</p></li><li><h3 class=\"pbf-h3\">Book certification</h3><p>Ask which documents and applicants to bring.</p></li><li><h3 class=\"pbf-h3\">Complete the assessment</h3><p>Clinic staff determine eligibility and explain benefits and shopping instructions.</p></li></ol>",
+    "after": "<p>Use your local clinic for benefit or appointment questions. The main state WIC page lists 844-901-0962 for additional assistance.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhs.state.il.us/page.aspx?item=31907\">WIC application and contacts</a>, <a href=\"https://www.dhs.state.il.us/page.aspx?item=147345\">applicant categories and current guidelines</a>. Agency staff determine eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Can foster children receive WIC?",
+      "The state’s applicant page includes foster children younger than five."
+    ],
+    [
+      "Can WIC pay for diapers?",
+      "No. The state lists diapers and menstrual products as outside WIC food benefits."
+    ],
+    [
+      "Where do I ask about an appointment?",
+      "Contact your local WIC clinic."
+    ],
+    [
+      "Are the income tables dated?",
+      "The current applicant page labels its table July 1, 2026 through June 30, 2027."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dhs.state.il.us/page.aspx?item=31907",
+      "https://www.dhs.state.il.us/page.aspx?item=147345"
+    ]
+  }
+}

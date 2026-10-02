@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "FirstLink’s 211 service helps North Dakota residents locate community assistance. The telephone service operates around the clock.",
+  "description": "FirstLink’s 211 service helps North Dakota residents locate community assistance. The telephone service operates around the clock.",
+  "sections": {
+    "who": "<p>Anyone can ask for information. Each referred organization sets its own service area and eligibility rules.</p>",
+    "get": "<p>Specialists identify resources for needs such as food, housing and utility help.</p>",
+    "docs": "<ul><li>Your town or ZIP code.</li><li>The problem and any urgent date.</li><li>A place to save provider contact details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call 211</h3><p>Use <a href=\"https://myfirstlink.org/\">FirstLink</a> for current resource-directory and contact options.</p></li><li><h3 class=\"pbf-h3\">Explain what is needed</h3><p>Mention your location, urgency and organizations already contacted.</p></li><li><h3 class=\"pbf-h3\">Contact the referral</h3><p>Ask the provider about openings, eligibility and documents before travelling.</p></li></ol>",
+    "after": "<p>If a referral cannot help, contact FirstLink again with the result and ask for alternatives.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://myfirstlink.org/\">FirstLink resource service</a>. <a href=\"https://usaassistance.org/programs/north-dakota-211-firstlink/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 pay a utility bill?",
+      "FirstLink provides referrals; the receiving program decides whether assistance is available."
+    ],
+    [
+      "Can I call after office hours?",
+      "FirstLink publishes 24-hour telephone help."
+    ],
+    [
+      "Is 988 the same service?",
+      "FirstLink also provides crisis support, but its 211 resource service and 988 crisis route serve different needs."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://myfirstlink.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

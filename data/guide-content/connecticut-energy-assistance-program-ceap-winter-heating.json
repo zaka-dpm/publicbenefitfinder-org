@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "CEAP helps eligible Connecticut households with heating costs. Applications for the 2026–2027 season are open, with an eligibility-application deadline of May 31, 2027.",
+  "description": "CEAP helps eligible Connecticut households with heating costs. Applications for the 2026–2027 season are open, with an eligibility-application deadline of May 31, 2027.",
+  "sections": {
+    "who": "<p>Connecticut households must meet the season’s financial and heating-assistance rules. A local Community Action Agency can explain how household members, income and heating arrangements are assessed.</p>",
+    "get": "<p>Assistance usually goes to the utility or fuel vendor. Deliverable-fuel households may qualify for additional deliveries; related shutoff protection or equipment support has separate conditions.</p>",
+    "docs": "<ul><li>Income and household information required for the current season.</li><li>Heating bill or vendor/account details.</li><li>Address and rental information, plus urgent shutoff or low-fuel notices.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the application instructions</h3><p>Use the <a href=\"https://portal.ct.gov/dss/economic-security/winter-heating-assistance/energy-assistance---winter-heating/how-to-apply\">CEAP How to Apply page</a> for the current online portal and local intake options.</p></li><li><h3 class=\"pbf-h3\">Prepare household and heating records</h3><p>Ask the Community Action Agency for its current checklist and explain whether you heat with a utility or delivered fuel.</p></li><li><h3 class=\"pbf-h3\">Apply before the current deadline</h3><p>The state lists May 31, 2027 as the last eligibility-application date. Explain any urgent fuel or shutoff problem rather than assuming normal processing can address it in time.</p></li></ol>",
+    "after": "<p>CEAP is an annual benefit: apply again each season. Ask the agency about fuel authorization deadlines, which can differ from the eligibility-application deadline.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/dss/economic-security/winter-heating-assistance/energy-assistance---winter-heating\">CEAP current season</a>; <a href=\"https://portal.ct.gov/dss/economic-security/winter-heating-assistance/energy-assistance---winter-heating/how-to-apply\">Application instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the current season open?",
+      "Yes. The state announces applications for the 2026–2027 season."
+    ],
+    [
+      "Do benefits go directly to me?",
+      "They are usually paid to the utility or fuel vendor."
+    ],
+    [
+      "Does approval continue next winter?",
+      "No. CEAP requires a new application each year."
+    ],
+    [
+      "Is the fuel-delivery deadline the same as the application deadline?",
+      "Not necessarily. Confirm the authorization and delivery rules with the local agency."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/dss/economic-security/winter-heating-assistance/energy-assistance---winter-heating",
+      "https://portal.ct.gov/dss/economic-security/winter-heating-assistance/energy-assistance---winter-heating/how-to-apply"
+    ],
+    "background_source": "https://usaassistance.org/programs/connecticut-energy-assistance-program-ceap-winter-heating/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

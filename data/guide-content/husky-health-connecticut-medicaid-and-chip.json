@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "HUSKY Health includes Connecticut Medicaid and CHIP coverage. The correct application route depends on which coverage group fits the applicant.",
+  "description": "HUSKY Health includes Connecticut Medicaid and CHIP coverage. The correct application route depends on which coverage group fits the applicant.",
+  "sections": {
+    "who": "<p>HUSKY A serves eligible children, parents, caregivers and pregnant applicants; HUSKY B is CHIP for eligible uninsured children. HUSKY C covers qualifying older, blind or disabled residents, while HUSKY D serves eligible adults without dependent children.</p>",
+    "get": "<p>Coverage can help with medical care and other covered services. HUSKY B may involve family cost sharing; do not assume every HUSKY pathway has identical rules.</p>",
+    "docs": "<ul><li>Household members’ names, birth dates and current address.</li><li>Income and requested identification or status records.</li><li>For HUSKY C or disability pathways, additional financial or disability evidence requested by DSS.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the application route</h3><p>Use <a href=\"https://www.accesshealthct.com/\">Access Health CT</a> for HUSKY A, B or D.</p></li><li><h3 class=\"pbf-h3\">Use ConneCT for HUSKY C</h3><p>Applicants for HUSKY C or Medicaid for Employees with Disabilities can use <a href=\"https://www.connect.ct.gov/\">ConneCT</a>, under Apply for Benefits.</p></li><li><h3 class=\"pbf-h3\">Respond to the determination</h3><p>Submit requested evidence and read the notice for each applicant. Different people in one household can qualify through different pathways.</p></li></ol>",
+    "after": "<p>Update address and phone details so renewal notices reach you. If not eligible, ask about other coverage options rather than assuming an entire family is excluded.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/husky/how-to-qualify\">HUSKY coverage groups</a>; <a href=\"https://portal.ct.gov/en/dss/common-elements/how-to-apply-for-services/how-to-apply-for-services\">DSS application routes</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is there one application website for everyone?",
+      "No. A, B and D use Access Health CT; C and MED-Connect use ConneCT."
+    ],
+    [
+      "Is HUSKY B Medicaid?",
+      "It is Connecticut’s Children’s Health Insurance Program, with different income and cost-sharing rules."
+    ],
+    [
+      "What if I work and have a disability?",
+      "Ask DSS about MED-Connect rather than relying only on the ordinary HUSKY C limits."
+    ],
+    [
+      "Can members of a family have different coverage?",
+      "Yes. Eligibility is assessed by the relevant pathway for each person."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/husky/how-to-qualify",
+      "https://portal.ct.gov/en/dss/common-elements/how-to-apply-for-services/how-to-apply-for-services"
+    ],
+    "background_source": "https://usaassistance.org/programs/husky-health-connecticut-medicaid-and-chip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

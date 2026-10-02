@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island SNAP helps eligible households buy food. DHS considers the household’s circumstances and conducts an eligibility interview.",
+  "description": "Rhode Island SNAP helps eligible households buy food. DHS considers the household’s circumstances and conducts an eligibility interview.",
+  "sections": {
+    "who": "<p>Income, expenses, resources and household membership affect eligibility. Current standards changed October 1, 2026; use the latest DHS rules.</p>",
+    "get": "<p>The approved grocery benefit depends on the case. An expedited request is screened separately and requires necessary verification.</p>",
+    "docs": "<ul><li>Identity and household records.</li><li>Income and relevant expenses.</li><li>Additional evidence listed in the DHS verification request.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://healthyrhode.ri.gov/\">HealthyRhode</a>, DHS phone intake, paper or a regional office.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Provide requested records. Tell DHS about an urgent lack of food.</p></li><li><h3 class=\"pbf-h3\">Review the decision</h3><p>Check the notice and EBT instructions; ask about any unclear calculation.</p></li></ol>",
+    "after": "<p>Return reporting and renewal requests on time. DHS warns that previous failure to supply requested records can affect later expedited processing.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhs.ri.gov/programs-and-services/supplemental-nutrition-assistance-program-snap/supplemental-nutrition-0\">DHS SNAP intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do I need an interview?",
+      "DHS lists an interview as part of intake."
+    ],
+    [
+      "Can a representative help?",
+      "You can designate an authorized representative in writing."
+    ],
+    [
+      "Is expedited help automatic?",
+      "No. DHS screens the request and verification history."
+    ],
+    [
+      "Are last year’s amounts current?",
+      "Standards update each October; use the current notice and DHS page."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhs.ri.gov/programs-and-services/supplemental-nutrition-assistance-program-snap/supplemental-nutrition-0"
+    ],
+    "background_source": "https://usaassistance.org/programs/rhode-island-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

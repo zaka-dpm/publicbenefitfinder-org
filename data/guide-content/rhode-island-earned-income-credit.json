@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island’s refundable earned income credit is based on federal EITC and claimed through tax filing.",
+  "description": "Rhode Island’s refundable earned income credit is based on federal EITC and claimed through tax filing.",
+  "sections": {
+    "who": "<p>You must qualify for federal EITC and follow Rhode Island filing rules. Use the forms and instructions for the tax year being filed.</p>",
+    "get": "<p>Taxation’s 2025 filing guidance lists the state credit as 16% of federal EITC. Refundable credit can exceed state tax owed.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Income and qualifying family records.</li><li>Matching Rhode Island return and credit instructions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Complete federal taxes</h3><p>Determine federal EITC under the correct year’s rules.</p></li><li><h3 class=\"pbf-h3\">Prepare the state return</h3><p>Use the forms linked on <a href=\"https://tax.ri.gov/tax-sections/personal-income-tax\">RI personal income tax</a>.</p></li><li><h3 class=\"pbf-h3\">File required evidence</h3><p>Follow resident or nonresident instructions and retain both returns.</p></li></ol>",
+    "after": "<p>The stated percentage is checked against 2025 guidance. Recheck the applicable instructions before another year’s filing.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-12/VITA%20-%20AARP%2012-2025.pdf\">2025 Taxation guidance</a>; <a href=\"https://tax.ri.gov/tax-sections/personal-income-tax\">RI tax forms</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can this credit create a refund?",
+      "Yes. Rhode Island describes it as refundable."
+    ],
+    [
+      "Is it claimed through HealthyRhode?",
+      "No. Use the income-tax return."
+    ],
+    [
+      "Is federal EITC required?",
+      "The state credit is based on federal EITC entitlement."
+    ],
+    [
+      "Can I use an old tax form?",
+      "Use the form matching the year you file."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-12/VITA%20-%20AARP%2012-2025.pdf",
+      "https://tax.ri.gov/tax-sections/personal-income-tax"
+    ],
+    "background_source": "https://usaassistance.org/programs/rhode-island-earned-income-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "North Carolina CIP assists qualifying households facing a health-related or life-threatening heating or cooling emergency.",
+  "description": "North Carolina CIP assists qualifying households facing a health-related or life-threatening heating or cooling emergency.",
+  "sections": {
+    "who": "<p>Income, resources, eligible household status and an energy crisis must be assessed. A past-due bill alone does not establish the health-related emergency.</p>",
+    "get": "<p>Assistance can help resolve qualifying energy emergencies while funds remain available.</p>",
+    "docs": "<ul><li>Utility statement and amount owed.</li><li>Income and household information.</li><li>Requested eligibility records and crisis details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact county DSS</h3><p>Use <a href=\"https://www.ncdhhs.gov/divisions/social-services/energy-assistance/low-income-energy-assistance/crisis-intervention-program\">CIP guidance</a> or ePASS.</p></li><li><h3 class=\"pbf-h3\">Explain the danger</h3><p>Describe the household member’s risk and the heating or cooling problem.</p></li><li><h3 class=\"pbf-h3\">Submit proof</h3><p>Mail, email, fax or drop-off routes are listed; a face-to-face interview is not currently required.</p></li></ol>",
+    "after": "<p>Keep the agency informed of emergency dates. Contact the utility separately.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ncdhhs.gov/divisions/social-services/energy-assistance/low-income-energy-assistance/crisis-intervention-program\">CIP eligibility and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I have a disconnect notice?",
+      "The state also accepts a final notice or past-due bill."
+    ],
+    [
+      "Is any overdue bill enough?",
+      "A qualifying energy-related health or life-threatening crisis is required."
+    ],
+    [
+      "Is an in-person interview required?",
+      "Not currently."
+    ],
+    [
+      "Is funding unlimited?",
+      "No."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ncdhhs.gov/divisions/social-services/energy-assistance/low-income-energy-assistance/crisis-intervention-program"
+    ],
+    "background_source": "https://usaassistance.org/programs/crisis-intervention-program-north-carolina-cip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

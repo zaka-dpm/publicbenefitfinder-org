@@ -1,0 +1,44 @@
+{
+  "status": "authored",
+  "introduction": "America’s Job Center of Kern offers employment resources and access to staff-assisted workforce services. Confirm the current enrollment process locally.",
+  "description": "America’s Job Center of Kern offers employment resources and access to staff-assisted workforce services. Confirm the current enrollment process locally.",
+  "sections": {
+    "who": "<p>Job seekers can ask about available services. Funded training and other enrolled programs have separate requirements.</p>",
+    "get": "<p>Services may include employment guidance, workshops and training referrals; enrollment does not guarantee a job.</p>",
+    "docs": "<ul><li>Work history and résumé if available.</li><li>Ask which identity and eligibility records enrollment requires.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the center</h3><p>Use <a href=\"https://www.americasjobcenterofkern.com/contact-locations.asp\">AJCC locations</a>.</p></li><li><h3 class=\"pbf-h3\">Ask about orientation</h3><p>Provider materials describe orientation before staff-assisted enrollment; confirm the current schedule.</p></li><li><h3 class=\"pbf-h3\">Discuss your goal</h3><p>Ask about suitable services and any training eligibility review.</p></li></ol>",
+    "after": "<p>Record the appointment and contact person. Do not rely on an old event timetable.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.americasjobcenterofkern.com/contact-locations.asp\">AJCC provider locations</a>; <a href=\"https://www.americasjobcenterofkern.com/artman2/uploads/1/Job-Corner-3.31.2025.pdf\">Provider enrollment description</a>. Some current details still need confirmation; contact the program before relying on them.</p>"
+  },
+  "faqs": [
+    [
+      "Is training funding automatic?",
+      "Ask about the particular program’s eligibility and funding."
+    ],
+    [
+      "Should I bring a résumé?",
+      "Bring one if available and ask for help improving it."
+    ],
+    [
+      "Is an old orientation schedule current?",
+      "Confirm directly with the center."
+    ],
+    [
+      "Does enrollment guarantee employment?",
+      "No. Ask which assistance is available."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.americasjobcenterofkern.com/contact-locations.asp",
+      "https://www.americasjobcenterofkern.com/artman2/uploads/1/Job-Corner-3.31.2025.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/americas-job-center-of-kern/",
+    "local_source_used": true,
+    "facts_verified": false,
+    "review_blockers": [
+      "Current provider locations/intake page returned403; orientation evidence is a dated2025 provider publication. Current timetable and service eligibility need direct confirmation."
+    ]
+  }
+}

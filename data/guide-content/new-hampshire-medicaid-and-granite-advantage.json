@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "New Hampshire Medicaid and Granite Advantage applications begin through NH EASY or a DHHS district office. Each applicant\u2019s coverage category and current requirements need agency review.",
+  "description": "New Hampshire Medicaid and Granite Advantage applications begin through NH EASY or a DHHS district office. Each applicant\u2019s coverage category and current requirements need age",
+  "sections": {
+    "who": "<p>DHHS evaluates income, category-specific resource rules and nonfinancial conditions such as New Hampshire residence. Categories include children under 19, pregnancy, caretaker relatives, former foster youth, older adults and people with disabilities. Granite Advantage covers eligible adults aged 19 through 64. Disability and long-term-care cases may need additional assessments.</p>",
+    "get": "<p>Approved medical coverage pays for qualifying services. The decision and plan information establish the coverage start and how to access care.</p>",
+    "docs": "<ul><li>Identity, residence and household details requested by DHHS.</li><li>Current income and existing health coverage.</li><li>Resource records if required for your eligibility category.</li><li>Medical or disability evidence if the category requires a determination.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the application</h3><p>Use <a href=\"https://nheasy.nh.gov/\">NH EASY</a> or request a paper application from a DHHS district office.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Identify everyone needing coverage and respond to individual document requests.</p></li><li><h3 class=\"pbf-h3\">Review the outcome</h3><p>Read each person\u2019s decision and any plan-selection or renewal instructions.</p></li></ol>",
+    "after": "<p>Read each person\u2019s coverage start date, plan and renewal instructions. Keep contact details current and respond to verification requests. If you disagree with the decision, follow the agency\u2019s administrative-appeal instructions and the deadline on your notice.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhhs.nh.gov/programs-services/medicaid/nh-medicaid-medical-assistance-eligibility\">current DHHS Medicaid eligibility and application guidance</a> and <a href=\"https://www.dhhs.nh.gov/doing-business-dhhs/legal-services/administrative-appeals\">DHHS administrative appeals</a>. <a href=\"https://usaassistance.org/programs/new-hampshire-medicaid-and-granite-advantage/\">USA Assistance background guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Can family members have different decisions?",
+      "Yes. Coverage categories and individual circumstances differ."
+    ],
+    [
+      "Should I use an old Granite Advantage income chart?",
+      "No. Ask DHHS for the current year and household-specific assessment."
+    ],
+    [
+      "Who can answer an application question?",
+      "Call the DHHS Customer Service Center at 844-275-3447, Monday through Friday, 8 a.m.\u20134 p.m. Eastern, or contact a district office."
+    ],
+    [
+      "What if income is too high but medical bills are substantial?",
+      "Ask about In and Out Medical Assistance. Some applicants can qualify after eligible medical expenses reach an assigned spenddown; it is not automatic coverage for everyone above the income limit."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dhhs.nh.gov/programs-services/medicaid/nh-medicaid-medical-assistance-eligibility",
+      "https://www.dhhs.nh.gov/doing-business-dhhs/legal-services/administrative-appeals"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [],
+    "reviewed_on": "2026-10-01",
+    "resolved_notes": "Current DHHS eligibility page read in Chrome. Removed unverified implementation language and old financial figures."
+  }
+}

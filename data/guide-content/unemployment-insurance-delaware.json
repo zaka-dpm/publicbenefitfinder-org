@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware unemployment insurance offers temporary payments to qualifying workers. Initial claims and weekly benefit requests are separate steps.",
+  "description": "Delaware unemployment insurance offers temporary payments to qualifying workers. Initial claims and weekly benefit requests are separate steps.",
+  "sections": {
+    "who": "<p>The agency reviews recent wages, why work ended and whether you remain able, available and seeking work. A monetary determination alone does not establish every eligibility condition.</p>",
+    "get": "<p>Weekly payments depend on an approved claim and continuing eligibility. Report earnings and other required payments accurately.</p>",
+    "docs": "<ul><li>Employer and wage history.</li><li>Job-separation information.</li><li>Pay stubs or other wage evidence, especially if reported wages seem incomplete.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the initial or reopened claim</h3><p>Use the claim link at <a href=\"https://labor.delaware.gov/divisions/unemployment-insurance/\">Delaware DOL Unemployment Insurance</a>.</p></li><li><h3 class=\"pbf-h3\">Review the wage determination</h3><p>Check that employers and wages are correct; ask the agency how to challenge an error.</p></li><li><h3 class=\"pbf-h3\">Request benefits each week</h3><p>Use the current weekly filing instructions, including WebBenefits or TeleBenefits options, and keep work-search records.</p></li></ol>",
+    "after": "<p>Read every notice and retain confirmations. Continue weekly claims while a dispute is pending, as instructed by the agency.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://labor.delaware.gov/divisions/unemployment-insurance/\">Delaware UI claims and contacts</a>; <a href=\"https://labor.delaware.gov/divisions/unemployment-insurance/claimant-faqs/\">Claimant responsibilities and FAQs</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does the initial application request every future week?",
+      "No. Weekly benefit requests are separate."
+    ],
+    [
+      "What if wages are missing?",
+      "Contact the agency promptly and supply wage records."
+    ],
+    [
+      "Can I claim while an appeal is pending?",
+      "The state directs claimants to continue weekly filing."
+    ],
+    [
+      "Where do I get claim help?",
+      "DOL lists statewide help at 302-761-8446."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://labor.delaware.gov/divisions/unemployment-insurance/",
+      "https://labor.delaware.gov/divisions/unemployment-insurance/claimant-faqs/"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-delaware/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "New York weatherization improves efficiency in eligible homes through local providers. Renters and homeowners can apply.",
+  "description": "New York weatherization improves efficiency in eligible homes through local providers. Renters and homeowners can apply.",
+  "sections": {
+    "who": "<p>Income eligibility and property rules apply. Seniors, families with children and disabled people receive priority. Some existing benefits establish eligibility.</p>",
+    "get": "<p>An audit identifies suitable measures. Services are free to eligible homeowners and renters; rental-building owners contribute.</p>",
+    "docs": "<ul><li>Household income or qualifying-benefit records.</li><li>Energy bills.</li><li>Ownership or landlord information requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the county provider</h3><p>Use <a href=\"https://hcr.ny.gov/weatherization-applicants\">HCR’s provider directory</a>.</p></li><li><h3 class=\"pbf-h3\">Apply locally</h3><p>Confirm required records and permission arrangements.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>After the audit, the provider selects and completes eligible work.</p></li></ol>",
+    "after": "<p>A final inspection checks quality. Ask about waiting times.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://hcr.ny.gov/weatherization-applicants\">New York WAP applicant guide</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes."
+    ],
+    [
+      "Is every requested improvement guaranteed?",
+      "No. Measures follow the audit."
+    ],
+    [
+      "Do tenants pay for services?",
+      "Eligible renters receive services at no cost."
+    ],
+    [
+      "Is work inspected?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://hcr.ny.gov/weatherization-applicants"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-nys-hcr/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

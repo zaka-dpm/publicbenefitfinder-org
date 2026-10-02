@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island Legal Services offers civil legal assistance to eligible residents. Intake reviews whether the organization can help with the particular issue.",
+  "description": "Rhode Island Legal Services offers civil legal assistance to eligible residents. Intake reviews whether the organization can help with the particular issue.",
+  "sections": {
+    "who": "<p>Financial eligibility, the type of legal problem and available resources affect acceptance. An application does not guarantee representation.</p>",
+    "get": "<p>Help may include legal advice or representation in accepted civil matters. Contact intake promptly when a court deadline is approaching.</p>",
+    "docs": "<ul><li>Notices, summons and hearing details.</li><li>Relevant lease, benefits, income or dispute records.</li><li>Household information needed for screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request screening</h3><p>Use the application linked at <a href=\"https://www.rils.org/\">RILS</a> or call 401-274-2652.</p></li><li><h3 class=\"pbf-h3\">State deadlines</h3><p>Explain the legal issue and any scheduled court date.</p></li><li><h3 class=\"pbf-h3\">Confirm next steps</h3><p>If contacted, verify the application information and ask whether your case is accepted.</p></li></ol>",
+    "after": "<p>Keep all deadlines while waiting. Confirm the scope of any assistance directly with the organization.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.rils.org/\">RILS intake</a>; <a href=\"https://www.rils.org/contact.cfm\">RILS contact</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does the online request guarantee help?",
+      "No. RILS checks whether it can assist."
+    ],
+    [
+      "What if I face eviction?",
+      "Give intake the notices and any hearing date."
+    ],
+    [
+      "Is this a government benefit application?",
+      "It is a request for civil legal services."
+    ],
+    [
+      "When can I assume representation?",
+      "Only after the provider confirms acceptance."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.rils.org/",
+      "https://www.rils.org/contact.cfm"
+    ],
+    "background_source": "https://usaassistance.org/programs/rhode-island-legal-services/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

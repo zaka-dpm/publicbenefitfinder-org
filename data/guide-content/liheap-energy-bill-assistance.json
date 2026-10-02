@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "LIHEAP helps eligible households with home energy costs through state, territory and Tribal programs. Local agencies determine application windows, available assistance and el",
+  "introduction": "LIHEAP helps eligible households with home energy costs through state, territory and Tribal programs. Local agencies determine application windows, available assistance and eligibility.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Your administering program checks household eligibility using its income or qualifying-benefit rules. Priorities and available funding vary; a low income alone does not guarantee an award."
+    ],
+    "get": "<p>Assistance may address heating or cooling expenses and an energy crisis. Ask your local program which assistance is open for your situation.</p>",
+    "docs": "<p>Have the utility account, bill, any disconnection notice and household income information ready. Ask the intake agency about other required evidence and explain the date of an impending shutoff.</p>",
+    "apply": "<p>Use the <a href=\"https://liheapch.acf.gov/search-tool\">LIHEAP household eligibility and agency search</a> or <a href=\"https://liheapch.acf.gov/admin/admintro.htm\">state application information</a> to identify the administering office. Apply through that office.</p>",
+    "after": "<p>Confirm that your application reached the agency and ask how to track it. A pending request does not itself stop a utility disconnection; contact the utility about the deadline and available payment arrangements.</p>",
+    "sources": "<ul><li><a href=\"https://liheapch.acf.gov/search-tool\">LIHEAP household search</a></li><li><a href=\"https://liheapch.acf.gov/admin/admintro.htm\">LIHEAP administering agency application information</a></li><li><a href=\"https://usaassistance.org/programs/liheap-energy-bill-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I apply directly to the federal government?",
+      "Applications go through the administering state, territory, Tribal or local program."
+    ],
+    [
+      "Is assistance open all year everywhere?",
+      "Application windows and available funding vary locally."
+    ],
+    [
+      "What if I have a shutoff notice?",
+      "Tell the intake agency immediately and ask about crisis assistance; also contact the utility."
+    ],
+    [
+      "Does applying guarantee the bill will be paid?",
+      "No. The local program must determine eligibility and funding availability."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "liheap-energy-bill-assistance",
+    "source_url": "https://usaassistance.org/programs/liheap-energy-bill-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://acf.gov/ocs/programs/liheap",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://liheapch.acf.gov/search-tool",
+      "https://liheapch.acf.gov/admin/admintro.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

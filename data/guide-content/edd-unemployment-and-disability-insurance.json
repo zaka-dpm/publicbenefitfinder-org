@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "California EDD offers separate unemployment and disability programs. Choose the claim that fits whether you are available for work or unable to work because of a qualifying condition.",
+  "introduction": "California EDD offers separate unemployment and disability programs. Choose the claim that fits whether you are available for work or unable to work because of a qualifying condition.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": "<p>Unemployment requires sufficient covered wages and weekly eligibility, including ability and availability for work. Disability Insurance requires its own wage, disability and medical-certification screening; the same application does not cover both.</p>",
+    "get": "<p>Each program replaces part of qualifying lost earnings. EDD determines the award and required ongoing certifications.</p>",
+    "docs": "<p>For unemployment, gather employer, work-history and earnings information. For Disability Insurance, prepare the disability-start date and licensed health professional’s details.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use <a href=\"https://edd.ca.gov/\">EDD</a> to access myEDD: UI Online for unemployment or SDI Online for disability.</p></li><li><p>For unemployment, certify every two weeks. For disability, submit your portion and obtain medical certification; EDD generally instructs filing between day 9 and day 49 after disability begins. Save the receipt number for the health professional.</p></li></ol>",
+    "after": "<p>Watch EDD messages and respond to eligibility requests. Report work and income as directed. Filing a claim or receiving an account number does not establish approval.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://edd.ca.gov/ui_eligibility\">Unemployment eligibility</a>, <a href=\"https://edd.ca.gov/en/Disability/DI_Claim_Process\">Disability claim process</a>, <a href=\"https://edd.ca.gov/en/disability/How_to_File_a_DI_Claim_in_SDI_Online\">SDI filing instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/edd-unemployment-and-disability-insurance/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is disability claimed in UI Online?",
+      "No. Disability uses SDI Online; unemployment uses UI Online."
+    ],
+    [
+      "How often do unemployment claimants certify?",
+      "Every two weeks."
+    ],
+    [
+      "Is the applicant’s disability form enough?",
+      "No. EDD also needs the licensed health professional’s certification."
+    ],
+    [
+      "What if I quit or was fired?",
+      "EDD reviews unemployment eligibility; the reason requires assessment."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://edd.ca.gov/ui_eligibility",
+      "https://edd.ca.gov/en/Disability/DI_Claim_Process",
+      "https://edd.ca.gov/en/disability/How_to_File_a_DI_Claim_in_SDI_Online"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

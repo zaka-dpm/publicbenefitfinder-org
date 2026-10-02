@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana211 connects people with community resources through a statewide directory and telephone service.",
+  "description": "Montana211 connects people with community resources through a statewide directory and telephone service.",
+  "sections": {
+    "who": "<p>Anyone seeking local resources can request referrals. Providers determine eligibility and current availability.</p>",
+    "get": "<p>Specialists identify resources for food, housing, utilities and other needs. Referrals do not reserve funding.</p>",
+    "docs": "<ul><li>Town or county.</li><li>Immediate need and deadline.</li><li>Accessibility or language needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call211</h3><p>The service lists24-hour access throughout the year.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Ask which providers are currently taking applications.</p></li><li><h3 class=\"pbf-h3\">Find alternatives</h3><p>Use <a href=\"https://montana211.org/faq\">Montana211</a>; its contact page lists alternatives if dialing fails.</p></li></ol>",
+    "after": "<p>Confirm the provider’s hours and required records.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://montana211.org/faq\">Montana211 service details</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is service available at night?",
+      "Yes."
+    ],
+    [
+      "What if211 does not connect?",
+      "Use alternative numbers on the contact page."
+    ],
+    [
+      "Does211 approve applications?",
+      "No."
+    ],
+    [
+      "Should I follow up with providers?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://montana211.org/faq"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

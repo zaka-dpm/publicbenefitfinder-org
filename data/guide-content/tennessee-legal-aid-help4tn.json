@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "HELP4TN offers legal information and tools, alongside a free legal-advice helpline specifically for people age 60 or older.",
+  "description": "HELP4TN offers legal information and tools, alongside a free legal-advice helpline specifically for people age 60 or older.",
+  "sections": {
+    "who": "<p>The website’s information can be explored directly. Its senior helpline serves people 60 and above regardless of income or assets.</p>",
+    "get": "<p>Resources include legal guides, forms and topic-specific chatbots. Advice and representation depend on the service used.</p>",
+    "docs": "<ul><li>Legal notices and dates.</li><li>A concise description of the issue.</li><li>Safe contact information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the appropriate service</h3><p>Use <a href=\"https://www.help4tn.org/\">HELP4TN’s topic links or Legal Wellness Checkup</a>.</p></li><li><h3 class=\"pbf-h3\">Use the senior advice route if eligible</h3><p>People 60 or older can call 844-435-7486.</p></li><li><h3 class=\"pbf-h3\">Follow any provider referral</h3><p>Confirm eligibility and whether a lawyer has agreed to represent you.</p></li></ol>",
+    "after": "<p>Keep copies and follow court instructions. A website guide or chatbot does not itself establish lawyer representation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.help4tn.org/\">HELP4TN tools and senior advice service</a>. <a href=\"https://usaassistance.org/programs/tennessee-legal-aid-help4tn/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is 844-HELP4TN the current all-age advice line?",
+      "The current homepage labels it a senior legal helpline for people 60 and older."
+    ],
+    [
+      "Is income a barrier for the senior line?",
+      "The provider says the senior line serves eligible ages regardless of income or assets."
+    ],
+    [
+      "Does the checkup provide a lawyer automatically?",
+      "It supplies a personalized resource report; follow the relevant legal provider’s intake."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.help4tn.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Kern CalWORKs offers cash support and related services for eligible families. County DHS reviews applications and participation needs.",
+  "description": "Kern CalWORKs offers cash support and related services for eligible families. County DHS reviews applications and participation needs.",
+  "sections": {
+    "who": "<p>The program serves qualifying low-income families with children. Household circumstances and program rules affect eligibility.</p>",
+    "get": "<p>Approved support may include cash, employment services and eligible family supports. Ask about housing or home-visiting services when relevant.</p>",
+    "docs": "<ul><li>Household and child information.</li><li>Income, resources and other county-requested verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://benefitscal.com/\">BenefitsCal</a> or contact Kern DHS.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Return requested evidence and attend the county interview.</p></li><li><h3 class=\"pbf-h3\">Discuss barriers</h3><p>Tell the worker about disability or health conditions affecting applications or participation.</p></li></ol>",
+    "after": "<p>Read the notice and assigned requirements. Request an accommodation when needed rather than missing a required appointment.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.kcdhs.org/services/apply-for-benefits/calworks\">Kern CalWORKs</a>; <a href=\"https://www.cdss.ca.gov/calworks\">CDSS CalWORKs</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is CalWORKs food-only assistance?",
+      "It is cash assistance and related family services; CalFresh is separate."
+    ],
+    [
+      "Where do I apply online?",
+      "BenefitsCal."
+    ],
+    [
+      "Can health conditions affect participation?",
+      "Tell DHS and ask about accommodations."
+    ],
+    [
+      "Are additional family services guaranteed?",
+      "Ask DHS which services apply to the case."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.kcdhs.org/services/apply-for-benefits/calworks",
+      "https://www.cdss.ca.gov/calworks"
+    ],
+    "background_source": "https://usaassistance.org/programs/calworks-kern-county-dhs/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

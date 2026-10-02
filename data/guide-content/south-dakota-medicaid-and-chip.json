@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota Medicaid and CHIP applications use the state Economic Assistance intake routes. Different household members may qualify under different coverage categories.",
+  "description": "South Dakota Medicaid and CHIP applications use the state Economic Assistance intake routes. Different household members may qualify under different coverage categories.",
+  "sections": {
+    "who": "<p>DSS assesses children, pregnancy, adult expansion and age or disability categories using their financial and other rules.</p>",
+    "get": "<p>Approved coverage helps with eligible medical services. Coverage and care arrangements depend on the category.</p>",
+    "docs": "<ul><li>Household income and members.</li><li>Existing insurance information.</li><li>Requested identity, status or disability evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start with DSS medical intake</h3><p>Use <a href=\"https://dss.sd.gov/economicassistance/medical_eligibility.aspx\">the online, paper or assistance routes</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the household review</h3><p>Supply records requested for each person seeking coverage.</p></li><li><h3 class=\"pbf-h3\">Read the approval</h3><p>Review member instructions and provider arrangements.</p></li></ol>",
+    "after": "<p>Keep contact details current and follow renewal notices. Expansion enrollees should read the state’s January 2027 community-engagement guidance and exemptions.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sd.gov/economicassistance/medical_eligibility.aspx\">Medical intake</a>, <a href=\"https://dss.sd.gov/economicassistance/medical_programs.aspx\">Coverage categories</a>, <a href=\"https://dss.sd.gov/medicaid/HR1.aspx\">2027 expansion changes</a>. <a href=\"https://usaassistance.org/programs/south-dakota-medicaid-and-chip/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can an adult without children qualify?",
+      "DSS lists an expansion category for qualifying adults ages 19–64."
+    ],
+    [
+      "Are community-engagement requirements already effective October 2026?",
+      "The state says January 1, 2027."
+    ],
+    [
+      "Does that rule affect every Medicaid recipient?",
+      "The state guidance identifies expansion adults, with exclusions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sd.gov/economicassistance/medical_eligibility.aspx",
+      "https://dss.sd.gov/economicassistance/medical_programs.aspx",
+      "https://dss.sd.gov/medicaid/HR1.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maine’s earned income credit is claimed through the state income tax return. State rules include options for some people who cannot claim the federal credit because of age or ",
+  "introduction": "Maine’s earned income credit is claimed through the state income tax return. State rules include options for some people who cannot claim the federal credit because of age or an ITIN.",
+  "service_type": "tax",
+  "sections": {
+    "who": [
+      "For tax years beginning in 2022 or later, the state credit uses the federal earned income credit calculation, with specific state modifications.",
+      "Otherwise qualifying taxpayers using an ITIN, or age 18 or older without qualifying children, may have a Maine eligibility pathway. Use the applicable worksheet."
+    ],
+    "get": "<p>The credit is refundable for Maine residents and part-year residents. A nonresident credit cannot reduce Maine income tax below zero.</p>",
+    "docs": "<p>Prepare earned-income records, the federal return and any qualifying-child details. Use Form 1040ME, Schedule A and the earned income credit worksheet for the same tax year. Keep the calculation and filing confirmation.</p>",
+    "apply": "<ol><li>Open <a href=\"https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/earned-income-credit\">Maine Revenue’s credit guidance</a> and select the tax year.</li><li>Complete the earned income credit worksheet, including any applicable Maine modification.</li><li>File Form 1040ME and Schedule A as instructed with the required worksheet.</li></ol>",
+    "after": "<p>Save the tax records and respond to any request for verification. For a prior-year omission, use that year’s amended-return instructions. Maine Revenue accepts credit questions at income.tax@maine.gov.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/earned-income-credit\">Maine earned income credit</a></li><li><a href=\"https://usaassistance.org/programs/maine-earned-income-tax-credit/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need children to qualify?",
+      "No. Maine has a credit pathway for otherwise eligible taxpayers without qualifying children."
+    ],
+    [
+      "Does an ITIN automatically disqualify me?",
+      "No. Maine says otherwise qualifying ITIN filers may be eligible for its credit. Use the state worksheet."
+    ],
+    [
+      "Is the credit refundable for nonresidents?",
+      "The state says a nonresident credit cannot reduce Maine income tax below zero. Residents and part-year residents can receive a refundable credit."
+    ],
+    [
+      "What forms claim the credit?",
+      "Form 1040ME, Schedule A and the worksheet for earned income credit for the applicable year."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maine-earned-income-tax-credit",
+    "source_url": "https://usaassistance.org/programs/maine-earned-income-tax-credit/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/earned-income-credit",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/earned-income-credit"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

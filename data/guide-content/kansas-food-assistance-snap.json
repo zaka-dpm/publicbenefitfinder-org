@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Kansas Food Assistance is the state’s SNAP program. DCF screens household applications and loads approved monthly benefits onto the Kansas Benefits Card.",
+  "introduction": "Kansas Food Assistance is the state’s SNAP program. DCF screens household applications and loads approved monthly benefits onto the Kansas Benefits Card.",
+  "service_type": "snap",
+  "sections": {
+    "who": "<p>Single applicants and households living and eating together may qualify. DCF reviews income, resources, household circumstances and eligible citizenship or immigration status.</p>",
+    "get": "<p>The approval notice states the monthly food benefit. The Kansas Benefits Card is used for eligible purchases, including qualifying food seeds and plants.</p>",
+    "docs": "<p>Prepare identity, applicants’ Social Security numbers, applicable immigration records, income, bank balances and housing expenses. Older or disabled applicants should identify qualifying medical costs.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply through the <a href=\"https://cssp.kees.ks.gov/apspssp/sspNonMed.portal/login/doView\">DCF Self-Service Portal</a>; paper forms and application help are available at 888-369-4777.</p></li><li><p>Complete DCF’s interview and requested verification. An interpreter is available without charge when needed.</p></li></ol>",
+    "after": "<p>Read the benefit and reporting notices. Ask about an authorized representative or an accessible interview arrangement if disability or mobility makes the process difficult.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.dcf.ks.gov/services/ees/Pages/Food/FoodAssistanceFAQs.aspx\">Food Assistance FAQs</a>, <a href=\"https://www.dcf.ks.gov/services/ees/Pages/Food/FoodAssistance.aspx\">Food Assistance program</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-food-assistance-snap/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does an online application finish the process?",
+      "No. DCF follows up for an interview and verification."
+    ],
+    [
+      "Is language assistance available?",
+      "DCF provides an interpreter without charge when needed."
+    ],
+    [
+      "Where is the actual benefit amount shown?",
+      "On the approval notice."
+    ],
+    [
+      "Can someone help an older or disabled applicant?",
+      "DCF describes authorized-representative and accessible-interview options."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dcf.ks.gov/services/ees/Pages/Food/FoodAssistanceFAQs.aspx",
+      "https://www.dcf.ks.gov/services/ees/Pages/Food/FoodAssistance.aspx"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

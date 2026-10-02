@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas CEAP helps eligible low-income households with energy costs through local providers. TDHCA does not take individual applications.",
+  "description": "Texas CEAP helps eligible low-income households with energy costs through local providers. TDHCA does not take individual applications.",
+  "sections": {
+    "who": "<p>Local intake assesses household income and energy circumstances under current rules.</p>",
+    "get": "<p>Utility assistance and education about managing home energy use.</p>",
+    "docs": "<ul><li>Household income records.</li><li>Energy bill and account details.</li><li>Disconnection notice if present.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find local intake</h3><p>Choose Utility Bill Payment Help and your location in <a href=\"https://www.tdhca.texas.gov/help-for-texans\">Help for Texans</a>.</p></li><li><h3 class=\"pbf-h3\">Ask about openings</h3><p>Confirm funding and the current checklist.</p></li><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Give records to the listed provider.</p></li></ol>",
+    "after": "<p>Tell intake about urgent disconnection and contact your supplier about interim arrangements.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tdhca.texas.gov/comprehensive-energy-assistance-program-ceap\">CEAP purpose and administration</a>, <a href=\"https://www.tdhca.texas.gov/help-for-texans\">Local intake search</a>. <a href=\"https://usaassistance.org/programs/ceap-comprehensive-energy-assistance-program/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does TDHCA accept my application?",
+      "No. Apply to the local provider identified for your area."
+    ],
+    [
+      "Can a listed provider run out of funds?",
+      "Yes. TDHCA warns capacity can prevent assistance."
+    ],
+    [
+      "Is energy education part of CEAP?",
+      "The state describes education alongside utility help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tdhca.texas.gov/comprehensive-energy-assistance-program-ceap",
+      "https://www.tdhca.texas.gov/help-for-texans"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

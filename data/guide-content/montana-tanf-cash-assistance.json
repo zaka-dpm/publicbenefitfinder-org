@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana TANF provides temporary financial help for eligible families with dependent children and certain pregnant applicants.",
+  "description": "Montana TANF provides temporary financial help for eligible families with dependent children and certain pregnant applicants.",
+  "sections": {
+    "who": "<p>Financial and household conditions apply. Adults generally have a 60-month lifetime limit and an employability-plan requirement.</p>",
+    "get": "<p>Cash assistance and TANF Pathways support qualifying families. The agency calculates the household’s benefit.</p>",
+    "docs": "<ul><li>Child or pregnancy information.</li><li>Income and resource evidence.</li><li>Requested identity and residency records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://dphhs.mt.gov/hcsd/tanf\">DPHHS TANF</a>, apply.mt.gov or 888-706-1535.</p></li><li><h3 class=\"pbf-h3\">Provide verification</h3><p>Respond to the local Public Assistance office’s requests.</p></li><li><h3 class=\"pbf-h3\">Discuss Pathways</h3><p>Ask about the employability plan, child-support cooperation and any relevant exceptions.</p></li></ol>",
+    "after": "<p>Keep notices and report changes. Ask the office for current financial standards; the public page contains older tables.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dphhs.mt.gov/hcsd/tanf\">Montana TANF rules and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I use a local office?",
+      "Yes."
+    ],
+    [
+      "Is assistance unlimited?",
+      "Adults generally face a lifetime limit."
+    ],
+    [
+      "Does working automatically end eligibility?",
+      "The office applies countable-income rules."
+    ],
+    [
+      "Who explains Pathways requirements?",
+      "Your caseworker and designated contractor."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dphhs.mt.gov/hcsd/tanf"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-tanf-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maryland TDAP provides cash help to eligible low-income adults with disabilities who do not have dependent children. It can support a short disability period or a pending fede",
+  "introduction": "Maryland TDAP provides cash help to eligible low-income adults with disabilities who do not have dependent children. It can support a short disability period or a pending federal disability claim.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "A licensed medical practitioner must complete the disability report. Financial and other eligibility conditions apply.",
+      "If disability is expected to last 12 months or longer, the applicant must apply for SSI. State assistance has time limits that differ when SSI is being pursued."
+    ],
+    "get": "<p>Approved TDAP provides cash support. It is a state program with its own decision; it does not replace an SSI application or guarantee federal disability approval.</p>",
+    "docs": "<p>Ask the local department for the medical-report form and have the licensed practitioner complete it. Prepare income information and any SSI filing confirmation or correspondence.</p>",
+    "apply": "<ol><li>Apply at <a href=\"https://marylandbenefits.gov/\">Maryland Benefits</a> or the local Department of Social Services.</li><li>Submit the required medical report and financial verification.</li><li>If the expected disability lasts at least 12 months, file SSI as instructed and give the worker proof of the claim.</li></ol>",
+    "after": "<p>Keep medical and SSI documents current and respond to the worker’s requests. The state generally limits TDAP to 12 months in a 36-month period unless the recipient is pursuing SSI. Ask how that rule applies to your case.</p>",
+    "sources": "<ul><li><a href=\"https://dhs.maryland.gov/weathering-tough-times/temporary-disability-assistance/\">Maryland TDAP</a></li><li><a href=\"https://usaassistance.org/programs/maryland-temporary-disability-assistance-program-tdap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need medical verification?",
+      "Yes. Maryland requires a report completed by a licensed medical practitioner."
+    ],
+    [
+      "Is this the family cash program?",
+      "No. TDAP is intended for eligible individuals without dependent children; TCA serves qualifying families."
+    ],
+    [
+      "Must I apply for SSI?",
+      "Applicants disabled for 12 months or more must file an SSI application."
+    ],
+    [
+      "Can TDAP continue while SSI is pending?",
+      "The state describes an exception to the ordinary time limit for recipients pursuing SSI. Ask the worker what proof and continuing requirements apply."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-temporary-disability-assistance-program-tdap",
+    "source_url": "https://usaassistance.org/programs/maryland-temporary-disability-assistance-program-tdap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://marylandbenefits.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhs.maryland.gov/weathering-tough-times/temporary-disability-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

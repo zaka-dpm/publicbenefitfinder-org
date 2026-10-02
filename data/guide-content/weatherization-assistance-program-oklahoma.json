@@ -1,0 +1,39 @@
+{
+  "status": "authored",
+  "introduction": "Oklahoma’s Human Services page links the MyWAP online application for weatherization. The administering provider must confirm current home eligibility and scheduling.",
+  "description": "Oklahoma’s Human Services page links the MyWAP online application for weatherization. The administering provider must confirm current home eligibility and scheduling.",
+  "sections": {
+    "who": "<p>The state describes weatherization for low-income households. Detailed current provider eligibility rules require confirmation.</p>",
+    "get": "<p>Approved work uses weatherization measures and household education to reduce energy costs.</p>",
+    "docs": "<ul><li>Household income information.</li><li>Home address and energy accounts.</li><li>Property-owner details and any consent the provider requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the state-linked application</h3><p>Follow the weatherization link on <a href=\"https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html\">Human Services’ energy page</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the local provider</h3><p>Ask which agency serves your home and obtain its current checklist.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Discuss access, permissions and any waiting list before expecting work.</p></li></ol>",
+    "after": "<p>Keep application records and ask the provider what an assessment or scheduling decision means for your home.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html\">State-confirmed weatherization purpose and application link</a>, <a href=\"https://www.okcommerce.gov/community/weatherization-assistance-program/\">Commerce program page</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-oklahoma/\">USA Assistance background guide</a>. The linked provider must confirm current eligibility and intake arrangements.</p>"
+  },
+  "faqs": [
+    [
+      "Is this the ordinary energy-bill application?",
+      "The state lists a separate MyWAP application for weatherization."
+    ],
+    [
+      "Who administers weatherization?",
+      "Human Services identifies the Department of Commerce as its weatherization partner."
+    ],
+    [
+      "Is immediate work guaranteed?",
+      "No. Confirm eligibility, assessment and scheduling directly with the provider."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html",
+      "https://www.okcommerce.gov/community/weatherization-assistance-program/"
+    ],
+    "facts_verified": false,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [
+      "Human Services confirms program purpose and MyWAP route, but Commerce program page inaccessible; current detailed local home eligibility and assessment rules need provider confirmation."
+    ]
+  }
+}

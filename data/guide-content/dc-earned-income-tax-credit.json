@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "DC’s earned income tax credit is a refundable tax credit for eligible workers. Claim it through the District’s individual income-tax return.",
+  "description": "DC’s earned income tax credit is a refundable tax credit for eligible workers. Claim it through the District’s individual income-tax return.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility generally qualifies a filer for the DC credit. DC-specific expansions can cover certain other filers, including qualifying ITIN holders; use D-40 instructions.</p>",
+    "get": "<p>For tax year 2025, OTR states the credit equals 100% of federal EITC. Refund delivery options depend on the year and amount.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Income, tax identification and qualifying-child records.</li><li>The correct tax year’s D-40 return and instructions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the filing-year instructions</h3><p>Use <a href=\"https://otr.cfo.dc.gov/page/dc-eitc\">OTR’s DC EITC page</a> and linked D-40 guidance.</p></li><li><h3 class=\"pbf-h3\">Complete D-40</h3><p>Apply standard or expanded eligibility rules as appropriate.</p></li><li><h3 class=\"pbf-h3\">Review refund options</h3><p>Before choosing installments, ask how recurring payments might affect other benefits.</p></li></ol>",
+    "after": "<p>Retain the calculation and any OTR notice. Earlier years have different payment rules; do not assume the 2025 treatment applies to every return.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://otr.cfo.dc.gov/page/dc-eitc\">OTR EITC rules and payment guidance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can an ITIN filer qualify?",
+      "Some can under DC-specific rules in D-40 instructions."
+    ],
+    [
+      "Is it claimed in District Direct?",
+      "No. Use the income-tax return."
+    ],
+    [
+      "Are monthly refunds always required?",
+      "Payment rules vary by tax year and amount."
+    ],
+    [
+      "Should I check effects on other benefits?",
+      "Yes. OTR warns monthly payments may affect other program eligibility."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://otr.cfo.dc.gov/page/dc-eitc"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

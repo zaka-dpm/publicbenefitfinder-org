@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "NJ 211 offers resource referrals 24 hours a day through phone, text, chat and its website. Use it to identify local services when you do not know where to begin.",
+  "description": "NJ 211 offers resource referrals 24 hours a day through phone, text, chat and its website. Use it to identify local services when you do not know where to begin.",
+  "sections": {
+    "who": "<p>People seeking community-service information can contact the helpline. The referred provider applies its own eligibility and funding rules.</p>",
+    "get": "<p>Specialists locate services for needs including housing, food, healthcare and utilities. This is a referral service rather than approval of a cash or benefit application.</p>",
+    "docs": "<ul><li>Your ZIP code and contact method.</li><li>A clear description of the need.</li><li>Any imminent deadline and agencies already approached.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a contact route</h3><p>Dial 211 or 877-652-1148, text your ZIP code to 898211, or use <a href=\"https://nj211.org/get-help\">NJ 211 chat</a>.</p></li><li><h3 class=\"pbf-h3\">Describe the situation</h3><p>Explain the type of help and your location so the specialist can identify appropriate providers.</p></li><li><h3 class=\"pbf-h3\">Follow up directly</h3><p>Ask each provider whether intake is open and what records it needs.</p></li></ol>",
+    "after": "<p>Ask for another referral if an agency cannot help. Record the reason it was unsuitable so the specialist can narrow the next search.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://nj211.org/get-help\">NJ 211 contact options and service hours</a>, <a href=\"https://nj211.org/\">Provider overview</a>. <a href=\"https://usaassistance.org/programs/nj-211/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I contact NJ 211 after office hours?",
+      "NJ 211 advertises specialist access around the clock."
+    ],
+    [
+      "Is texting available?",
+      "Yes. Text your ZIP code to 898211."
+    ],
+    [
+      "Does the referral reserve funding?",
+      "No. The receiving agency must assess eligibility and availability."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://nj211.org/get-help",
+      "https://nj211.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota WIC provides food and nutrition support for eligible pregnant participants, new mothers, infants and young children.",
+  "description": "Minnesota WIC provides food and nutrition support for eligible pregnant participants, new mothers, infants and young children.",
+  "sections": {
+    "who": "<p>Minnesota residency, participant category, income and nutrition screening apply. Some existing benefits establish income eligibility.</p>",
+    "get": "<p>Participants receive nutritious foods, nutrition counseling, breastfeeding support and referrals. The WIC app helps check foods and balances.</p>",
+    "docs": "<ul><li>Identity and address proof.</li><li>Income or qualifying-benefit records.</li><li>Health or feeding questions for the appointment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://www.health.state.mn.us/people/wic/index.html\">Minnesota WIC’s online application</a> or call 800-942-4030 to locate a clinic.</p></li><li><h3 class=\"pbf-h3\">Complete the appointment</h3><p>Follow the clinic’s document instructions and nutrition screening.</p></li><li><h3 class=\"pbf-h3\">Prepare the card</h3><p>Set its PIN before shopping. Call 833-566-5248 for PIN or lost-card help.</p></li></ol>",
+    "after": "<p>Contact the clinic about appointments or card replacement.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.health.state.mn.us/people/wic/index.html\">WIC benefits and intake</a>; <a href=\"https://www.health.state.mn.us/people/wic/eligibility/index.html\">Eligibility</a>; <a href=\"https://www.health.mn.gov/people/wic/appts.html\">Appointment records</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I start online?",
+      "Yes. The state links an online application."
+    ],
+    [
+      "Does Medicaid affect eligibility?",
+      "Ask the clinic about automatically income-eligible programs."
+    ],
+    [
+      "Is there an app?",
+      "My Minnesota WIC checks foods, stores and benefits."
+    ],
+    [
+      "Who replaces a damaged card?",
+      "Contact your WIC clinic."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.health.state.mn.us/people/wic/index.html",
+      "https://www.health.state.mn.us/people/wic/eligibility/index.html",
+      "https://www.health.mn.gov/people/wic/appts.html"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": "authored",
+  "introduction": "New Mexico’s refundable Child Tax Credit is claimed on the state personal income-tax return. Use the PIT-1 packet for the tax year you are filing.",
+  "description": "New Mexico’s refundable Child Tax Credit is claimed on the state personal income-tax return. Use the PIT-1 packet for the tax year you are filing.",
+  "sections": {
+    "who": "<p>The credit uses the federal Internal Revenue Code’s qualifying-child definition and depends on family income. The state form determines eligible children and the applicable income band.</p>",
+    "get": "<p>A refundable credit can contribute to the return’s refund calculation. It is distinct from a monthly benefit application; amounts vary by tax year and income.</p>",
+    "docs": "<ul><li>Year-specific federal and New Mexico tax records.</li><li>Dependent identity and qualifying-child information.</li><li>Income statements and filing-status details.</li><li>Any residence information requested by the return.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the correct PIT packet</h3><p>Use the <a href=\"https://www.tax.newmexico.gov/new-mexico-child-tax-credit/\">state Child Tax Credit page</a> and Forms & Publications link.</p></li><li><h3 class=\"pbf-h3\">Complete the child-credit calculation</h3><p>Follow the year-specific instructions for qualifying children and income bands.</p></li><li><h3 class=\"pbf-h3\">File the state return</h3><p>Submit required schedules and retain the calculation and confirmation.</p></li></ol>",
+    "after": "<p>Check refund correspondence and ask a preparer about disputed dependent claims. The state’s 2025 chart and January 2026 press release display different maximum amounts, so use the filed-year PIT instructions for the actual calculation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tax.newmexico.gov/new-mexico-child-tax-credit/\">State child-credit purpose and year-specific instructions</a>, <a href=\"https://www.tax.newmexico.gov/wp-content/uploads/2026/01/20260112_New-Mexico-to-begin-accepting-electronic-income-tax-returns-Jan.-16_Final.pdf\">January 2026 filing-season tax summary</a>. <a href=\"https://usaassistance.org/programs/new-mexico-child-tax-credit/\">USA Assistance background guide</a>. The linked provider must confirm current eligibility and intake arrangements.</p>"
+  },
+  "faqs": [
+    [
+      "Is it a federal credit application?",
+      "No. This is a New Mexico return credit, although it uses the federal qualifying-child definition."
+    ],
+    [
+      "Can it affect a refund?",
+      "Yes. The state describes the credit as refundable."
+    ],
+    [
+      "Should I copy a dollar figure from an older article?",
+      "No. Use the tax-year PIT packet; published summaries can differ."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tax.newmexico.gov/new-mexico-child-tax-credit/",
+      "https://www.tax.newmexico.gov/wp-content/uploads/2026/01/20260112_New-Mexico-to-begin-accepting-electronic-income-tax-returns-Jan.-16_Final.pdf"
+    ],
+    "facts_verified": false,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [
+      "State page labels 2025 maximum $637 while January 2026 filing-season release says $622; correct current PIT calculation not yet independently checked. Numeric award omitted pending resolution."
+    ]
+  }
+}

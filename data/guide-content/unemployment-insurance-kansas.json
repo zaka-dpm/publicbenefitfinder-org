@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Kansas unemployment insurance provides temporary benefits to eligible workers. Apply and submit separate weekly certifications through KansasUI.gov.",
+  "introduction": "Kansas unemployment insurance provides temporary benefits to eligible workers. Apply and submit separate weekly certifications through KansasUI.gov.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": "<p>KDOL checks covered wages, the employment-separation reason and weekly ability and availability for work. Reduced hours may qualify. Quitting or discharge requires review rather than an automatic assumption.</p>",
+    "get": "<p>The agency determines the weekly and maximum benefit from wages and the claim. A benefits card by itself does not establish eligibility.</p>",
+    "docs": "<p>Keep employer details, employment dates, pay records and separation information ready. Record work-search activities and any gross wages or other payments for weekly certification.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Create an account at <a href=\"https://KansasUI.gov/\">KansasUI.gov</a> and submit the initial claim. Follow identity and evidence requests.</p></li><li><p>Continue weekly certifications while unemployed, including the waiting week and while a decision is pending. Complete required work-search activities unless exempt and report earnings accurately.</p></li></ol>",
+    "after": "<p>Read the approval or denial notice. If weekly filing fails, contact KDOL immediately; its current handbook lists 800-292-6333. Use the decision’s reconsideration or appeal instructions.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.dol.ks.gov/unemployment/eligibility\">Eligibility and waiting week</a>, <a href=\"https://www.dol.ks.gov/unemployment/unemployment-faqs\">Benefit and filing FAQs</a>, <a href=\"https://www.dol.ks.gov/home/showpublisheddocument/1723/639135708172800000\">Current claimant handbook</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/unemployment-insurance-kansas/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does the waiting week require certification?",
+      "Yes. KDOL says certification is needed for it to count."
+    ],
+    [
+      "Can reduced hours qualify?",
+      "Potentially; KDOL reviews wages and weekly circumstances."
+    ],
+    [
+      "Should I stop weekly claims while awaiting a decision?",
+      "KDOL directs claimants to continue weekly certifications while unemployed."
+    ],
+    [
+      "Does receiving a card mean I was approved?",
+      "No. Check the eligibility decision and claim status."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dol.ks.gov/unemployment/eligibility",
+      "https://www.dol.ks.gov/unemployment/unemployment-faqs",
+      "https://www.dol.ks.gov/home/showpublisheddocument/1723/639135708172800000"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

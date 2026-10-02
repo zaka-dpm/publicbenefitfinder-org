@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin WHEAP helps eligible households with heating and electricity costs. The regular payment season runs October 1–May 15; outside that period, applications may be consid",
+  "introduction": "Wisconsin WHEAP helps eligible households with heating and electricity costs. The regular payment season runs October 1–May 15; outside that period, applications may be considered for other available assistance.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Wisconsin residential households meeting income and program requirements.",
+      "The 2026–27 state income guidance uses 60% of Wisconsin median income; household size matters."
+    ],
+    "get": "<p>A one-time regular payment covering part of energy costs, plus potential crisis or related assistance depending on eligibility and funding.</p>",
+    "docs": "<p>Prepare household birth dates, all adult income sources, fuel type, supplier and account numbers, and landlord contact if renting. The checklist requests income for the month before applying.</p>",
+    "apply": "<ol><li>Apply at energybenefit.wi.gov using a current email or mobile number to receive a passcode.</li><li>Complete the application and send relevant requested proof.</li><li>If disconnected, without heat or electricity, or facing disconnection, immediately call 866-432-8947 instead of relying on routine online review.</li></ol>",
+    "after": "<p>The local agency may request more information. Respond promptly; the portal says incomplete applications are denied after 30 days. Save a receipt and ask the supplier about arrangements while assistance is pending.</p>",
+    "sources": "<ul><li><a href=\"https://energybenefit.wi.gov/\">Home Energy Plus application and crisis route</a></li><li><a href=\"https://energyandhousing.wi.gov/Pages/AgencyResources/energy-assistance.aspx\">2026–27 income guidance</a></li><li><a href=\"https://energyandhousing.wi.gov/PublishingImages/Pages/AgencyResources/energy-assistance/App%20Checklist_%28English%29.pdf\">Application checklist</a></li><li><a href=\"https://usaassistance.org/programs/wisconsin-home-energy-assistance-program-wheap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply all year?",
+      "Yes; outside the heating season, other assistance is considered if funding is available."
+    ],
+    [
+      "Does regular help cover all energy costs?",
+      "The portal describes a contribution toward costs."
+    ],
+    [
+      "What if my online passcode expires?",
+      "The portal lets you request a new one; initial passcodes last 24 hours."
+    ],
+    [
+      "What income period should I prepare?",
+      "The state checklist lists the month before the application month."
+    ],
+    [
+      "Can I wait for routine review if my heat is off?",
+      "Call 866-432-8947 immediately for the urgent situation."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wisconsin-home-energy-assistance-program-wheap",
+    "source_url": "https://usaassistance.org/programs/wisconsin-home-energy-assistance-program-wheap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://energybenefit.wi.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://energybenefit.wi.gov/",
+      "https://energyandhousing.wi.gov/Pages/AgencyResources/energy-assistance.aspx",
+      "https://energyandhousing.wi.gov/PublishingImages/Pages/AgencyResources/energy-assistance/App%20Checklist_%28English%29.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana Medicaid includes coverage pathways for adults, children through LaCHIP, pregnant participants and other qualifying residents. Healthy Louisiana is how many members ",
+  "introduction": "Louisiana Medicaid includes coverage pathways for adults, children through LaCHIP, pregnant participants and other qualifying residents. Healthy Louisiana is how many members receive covered services.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility depends on the coverage category, income and other conditions. Children can qualify even when a parent does not.",
+      "Adult expansion coverage is a separate pathway from coverage based on age, disability or long-term care needs. Tell Medicaid which circumstances apply to you."
+    ],
+    "get": "<p>Approved coverage can pay for doctor and hospital visits, medicines and other eligible care. Check the plan’s network and prescription coverage when choosing among available plans.</p>",
+    "docs": "<p>Prepare household identities, income and existing insurance information. The application lists the proof needed for your coverage category. Ask for the long-term-care application if that is the care you need.</p>",
+    "apply": "<ol><li>Apply using <a href=\"https://mymedicaid.la.gov/\">MyMedicaid</a>, call 888-342-6207, visit a Medicaid office or application center, or use the paper application linked from LDH’s Get Covered page.</li><li>Submit all requested verification and keep your confirmation.</li><li>After approval, follow the notice about Healthy Louisiana plan enrollment.</li></ol>",
+    "after": "<p>Keep your address current and respond to renewal notices. Carry both the Medicaid and plan cards when applicable. The current Healthy Louisiana notice describes work requirements beginning January 2027; read future instructions and do not treat them as a present application requirement.</p>",
+    "sources": "<ul><li><a href=\"https://ldh.la.gov/get-covered\">Medicaid application options</a></li><li><a href=\"https://ldh.la.gov/healthy-louisiana\">Healthy Louisiana member notices</a></li><li><a href=\"https://ldh.la.gov/faq/category/72\">Medicaid application FAQ</a></li><li><a href=\"https://usaassistance.org/programs/healthy-louisiana-louisiana-medicaid-and-lachip/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply outside an open-enrollment period?",
+      "Yes. Louisiana Medicaid accepts applications throughout the year."
+    ],
+    [
+      "Can I track a paper application online?",
+      "You can create a self-service account to check status and manage your case even if you applied another way."
+    ],
+    [
+      "Does selecting a health plan apply for Medicaid?",
+      "Coverage eligibility and plan enrollment are separate. Apply for Medicaid first, then follow enrollment instructions after approval."
+    ],
+    [
+      "Do announced 2027 work requirements apply now?",
+      "The current notice says the new requirements begin January 1, 2027, and affected members will receive instructions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "healthy-louisiana-louisiana-medicaid-and-lachip",
+    "source_url": "https://usaassistance.org/programs/healthy-louisiana-louisiana-medicaid-and-lachip/",
+    "source_updated": "August 2026",
+    "primary_url": "https://ldh.la.gov/healthy-louisiana",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://ldh.la.gov/get-covered",
+      "https://ldh.la.gov/healthy-louisiana",
+      "https://ldh.la.gov/faq/category/72"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

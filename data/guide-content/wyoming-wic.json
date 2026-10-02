@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming WIC provides food, nutrition coaching and breastfeeding help for eligible pregnant or postpartum participants, infants and children under five. Request a local clinic ",
+  "introduction": "Wyoming WIC provides food, nutrition coaching and breastfeeding help for eligible pregnant or postpartum participants, infants and children under five. Request a local clinic appointment to complete certification.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Wyoming residents who are pregnant, breastfeeding, recently postpartum, or an infant or child under five, including foster children.",
+      "Income eligibility and a health or nutrition screening are required; Medicaid, SNAP or TANF enrollment establishes the income requirement."
+    ],
+    "get": "<p>Specified healthy foods through eWIC and nutrition or breastfeeding services. The clinic determines the appropriate food package and support.</p>",
+    "docs": "<p>Bring identity, Wyoming address and income proof for each applicant as directed. Benefit notices and Medicaid verification are among the state’s listed income examples.</p>",
+    "apply": "<ol><li>Call the local WIC clinic or use the online appointment request linked from the state application page.</li><li>Ask who must attend; the state generally requires applicants to be physically present with some exceptions.</li><li>Bring records and complete the health and nutrition screening.</li></ol>",
+    "after": "<p>Keep the card and clinic contact information. Ask how to check benefits and use the current shopping guide. Reschedule a missed appointment in advance and contact the clinic about feeding or formula questions.</p>",
+    "sources": "<ul><li><a href=\"https://health.wyo.gov/publichealth/wic/apply-for-wic/\">WIC application, eligibility and records</a></li><li><a href=\"https://health.wyo.gov/publichealth/wic/\">WIC services and shopping guidance</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does Medicaid automatically enroll a child in WIC?",
+      "It meets the income requirement, but WIC still requires certification."
+    ],
+    [
+      "Can a foster child qualify?",
+      "The state explicitly includes foster children under five."
+    ],
+    [
+      "Is the online appointment request an approval?",
+      "No; it arranges contact for the application process."
+    ],
+    [
+      "What records are needed?",
+      "Identity, address and income proof; ask the clinic about acceptable alternatives."
+    ],
+    [
+      "Must the child attend?",
+      "Applicants generally attend certification; ask about an exception if needed."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-wic",
+    "source_url": "https://usaassistance.org/programs/wyoming-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.wyo.gov/publichealth/wic/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.wyo.gov/publichealth/wic/apply-for-wic/",
+      "https://health.wyo.gov/publichealth/wic/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

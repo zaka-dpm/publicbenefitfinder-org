@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Indiana TANF provides cash assistance and supportive services for eligible families with children. The Division of Family Resources handles applications.",
+  "introduction": "Indiana TANF provides cash assistance and supportive services for eligible families with children. The Division of Family Resources handles applications.",
+  "service_type": "cash",
+  "sections": {
+    "who": "<p>The program serves qualifying children younger than 18 living with a parent or relative caregiver. DFR applies financial and nonfinancial rules, including income, resources and residency. Check the current state tables rather than assuming the maximum payment is your award.</p>",
+    "get": "<p>Cash assistance helps meet family needs. The amount depends on countable income and assistance-group size. Some adults also participate in IMPACT employment services.</p>",
+    "docs": "<ul><li>Child and caregiver information, including relationship and household members.</li><li>Income and resource records.</li><li>Residence and identification information requested by DFR.</li><li>Any notices or records relevant to employment and child support requirements.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit your application</h3><p>Apply through the <a href=\"https://fssabenefits.in.gov/bp/\">FSSA Benefits Portal</a> or at a local DFR office.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Give accurate household information and return requested verification.</p></li><li><h3 class=\"pbf-h3\">Follow your IMPACT instructions</h3><p>If DFR determines participation is mandatory, complete the orientation and assigned applicant job-search activities.</p></li></ol>",
+    "after": "<p>Read the decision and reporting instructions. The state requires changes in circumstances to be reported within ten days. An unfavorable case action can be appealed using DFR’s written-request process.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/fssa/dfr/tanf-cash-assistance/about-tanf/\">TANF eligibility and responsibilities</a>, <a href=\"https://secure.in.gov/fssa/dfr/about-dfr/contact-dfr\">DFR application contacts</a>, <a href=\"https://www.in.gov/fssa/dfr/impact/\">IMPACT information</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative caregiver apply?",
+      "The state includes qualifying children living with relatives such as grandparents, aunts or uncles."
+    ],
+    [
+      "Does every adult have the same job-search obligation?",
+      "DFR determines whether IMPACT participation is mandatory and assesses exemptions."
+    ],
+    [
+      "Is the amount in the payment table guaranteed?",
+      "No. DFR calculates assistance using the household’s countable income."
+    ],
+    [
+      "Can I apply without a computer?",
+      "Yes. Use a local DFR office."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.in.gov/fssa/dfr/tanf-cash-assistance/about-tanf/",
+      "https://secure.in.gov/fssa/dfr/about-dfr/contact-dfr",
+      "https://www.in.gov/fssa/dfr/impact/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

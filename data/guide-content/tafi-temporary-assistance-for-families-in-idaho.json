@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Temporary Assistance for Families in Idaho provides qualifying families with cash support. DHW also describes a caretaker-relative grant and possible one-time diversion assistance for particular circumstances.",
+  "description": "Temporary Assistance for Families in Idaho provides qualifying families with cash support. DHW also describes a caretaker-relative grant and possible one-time diversion assist",
+  "sections": {
+    "who": "<p>DHW reviews income, resources, identity and status requirements. Ordinary family assistance and a caretaker-relative grant have different assessments; the relative grant may depend on the child’s finances rather than the adult’s.</p>",
+    "get": "<p>TAFI is cash assistance for essentials. Eligible families may use direct deposit or an EBT-style card. Employment and training or child-support cooperation may be part of the case.</p>",
+    "docs": "<ul><li>Identification and household income records.</li><li>Available status and resource information requested by DHW.</li><li>For a caretaker grant, records showing the relationship and the child’s circumstances.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start a TAFI application</h3><p>Use the options on <a href=\"https://healthandwelfare.idaho.gov/services-programs/financial-assistance/apply-tafi\">DHW’s TAFI application page</a>. It lists phone intake at 877-456-1233 and downloaded forms submitted by mail, email or fax.</p></li><li><h3 class=\"pbf-h3\">Explain the type of assistance needed</h3><p>State whether you are applying as a family, caring for a relative’s child or facing a circumstance that may fit diversion assistance.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Provide requested evidence and discuss any employment, training or child-support participation instructions.</p></li></ol>",
+    "after": "<p>Read the eligibility and participation notices. Ask DHW to explain how changes in income, household members or caregiving should be reported.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://healthandwelfare.idaho.gov/services-programs/financial-assistance/apply-tafi\">TAFI application and family/caretaker routes</a>, <a href=\"https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-tafi\">TAFI benefit and participation overview</a>. <a href=\"https://usaassistance.org/programs/tafi-temporary-assistance-for-families-in-idaho/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does TAFI include food benefits?",
+      "TAFI provides cash; SNAP is a separate food-assistance program with its own assessment."
+    ],
+    [
+      "Is there help for relative caregivers?",
+      "DHW describes a caretaker-relative grant after assessing the relationship and relevant child eligibility."
+    ],
+    [
+      "Can there be a one-time payment?",
+      "The agency describes possible diversion assistance for unique circumstances; ask whether your situation fits."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/apply-tafi",
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-tafi"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

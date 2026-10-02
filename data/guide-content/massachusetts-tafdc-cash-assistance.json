@@ -1,0 +1,56 @@
+{
+  "status": "reviewed",
+  "description": "TAFDC provides Massachusetts cash assistance to eligible pregnant people, parents and relative caregivers. DTA also connects participating families with education, employment ",
+  "introduction": "TAFDC provides Massachusetts cash assistance to eligible pregnant people, parents and relative caregivers. DTA also connects participating families with education, employment and child care support.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Massachusetts residents with a dependent child, pregnant at any stage, or caring for a related child.",
+      "Family income and eligible citizenship or immigration status are assessed by DTA.",
+      "A relative caregiver may seek a child-only grant; the caregiver’s income is not counted for that application, although the child’s income may matter."
+    ],
+    "get": "<p>Two cash payments each month, with access to related supports. Ask the case manager about the services available for your family and any participation requirement.</p>",
+    "docs": "<p>Prepare household identity, income and child or pregnancy information. DTA sends a verification list after the interview; tell the worker if a record is difficult to obtain.</p>",
+    "apply": "<ol><li>Select Apply TAFDC on DTA Connect, or call your local DTA office to apply by phone.</li><li>Complete the interview and discuss a child-only application if relevant.</li><li>Send requested verification through DTA Connect or an accepted office, mail or fax route.</li></ol>",
+    "after": "<p>Review the decision and case notices in DTA Connect. DTA says applications are decided within 30 days. Most families have six-month reevaluations, with some twelve-month cases. Ask whether time limits apply and discuss any extension before the limit is reached.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/transitional-aid-to-families-with-dependent-children-tafdc\">TAFDC eligibility and benefits</a></li><li><a href=\"https://www.mass.gov/info-details/while-getting-tafdc\">TAFDC reviews and time limits</a></li><li><a href=\"https://www.mass.gov/info-details/dta-frequently-asked-questions\">DTA application options</a></li><li><a href=\"https://usaassistance.org/programs/massachusetts-tafdc-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply before my baby is born?",
+      "Yes, pregnancy at any stage is a listed eligibility pathway."
+    ],
+    [
+      "Can a grandparent apply just for a child?",
+      "A related caregiver can ask for a child-only grant."
+    ],
+    [
+      "Do all families have the same time limit?",
+      "Ask your case manager; some families face a 24-month limit in a five-year period and may request an extension."
+    ],
+    [
+      "Can I apply without internet?",
+      "Call your local DTA office for a phone application."
+    ],
+    [
+      "Where do I find my worker?",
+      "Case manager contact information is available through DTA Connect."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "massachusetts-tafdc-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/massachusetts-tafdc-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dtaconnect.eohhs.mass.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/transitional-aid-to-families-with-dependent-children-tafdc",
+      "https://www.mass.gov/info-details/while-getting-tafdc",
+      "https://www.mass.gov/info-details/dta-frequently-asked-questions"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

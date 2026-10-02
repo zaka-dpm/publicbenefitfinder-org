@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan 211 offers free, confidential referrals to community assistance. Phone support operates 24 hours a day, every day.",
+  "description": "Michigan 211 offers free, confidential referrals to community assistance. Phone support operates 24 hours a day, every day.",
+  "sections": {
+    "who": "<p>Anyone seeking local Michigan resources can use the service. Referred organizations set their own eligibility conditions.</p>",
+    "get": "<p>Navigators connect people with food, housing, utility, transport and other services. Assistance funding is decided by providers.</p>",
+    "docs": "<ul><li>Your ZIP code or county.</li><li>The immediate need and deadline.</li><li>Language or access needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call or text</h3><p>Dial 211 or 844-875-9211, or text your ZIP code to 898211.</p></li><li><h3 class=\"pbf-h3\">Explain the problem</h3><p>Ask for providers accepting applications now.</p></li><li><h3 class=\"pbf-h3\">Follow up</h3><p>Search <a href=\"https://mi211.org/\">Michigan 211</a> or contact the referred provider and confirm intake requirements.</p></li></ol>",
+    "after": "<p>Request another referral if the first cannot help; save contact details.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://mi211.org/\">Michigan 211 contact and services</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is phone support available overnight?",
+      "Yes. The site lists round-the-clock service."
+    ],
+    [
+      "Is language assistance available?",
+      "The service supports many languages."
+    ],
+    [
+      "Can I chat online?",
+      "The site says live chat is available in select regions."
+    ],
+    [
+      "Does 211 approve benefits?",
+      "No. It provides connections to providers."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mi211.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

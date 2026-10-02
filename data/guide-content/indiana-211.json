@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Indiana 211 connects residents with local health and human service resources. Use it to locate providers for food, housing, utilities and other needs.",
+  "introduction": "Indiana 211 connects residents with local health and human service resources. Use it to locate providers for food, housing, utilities and other needs.",
+  "service_type": "referral",
+  "sections": {
+    "who": "<p>You can request referrals without first qualifying for a particular benefit. The organization receiving the referral applies its own eligibility and intake rules.</p>",
+    "get": "<p>A navigator helps identify relevant community providers. FSSA also links to a ZIP-based resource search and Community Compass food resources.</p>",
+    "docs": "<p>Prepare your city or ZIP code, the help needed and any deadline. For a referral conversation, describe the issue before sending financial or identity records.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the service</h3><p>Call 211 or 866-211-9966, or text your ZIP code to 898-211.</p></li><li><h3 class=\"pbf-h3\">Explain your situation</h3><p>Mention immediate problems and ask which organizations serve your address.</p></li><li><h3 class=\"pbf-h3\">Save referral details</h3><p>Record the contact, intake requirements and opening hours, then contact the provider directly.</p></li></ol>",
+    "after": "<p>If the first provider cannot help, return to 211 for alternatives. Check operating hours on the current service website before calling.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/fssa/indiana-211/\">FSSA Indiana 211 contacts and search tools</a>, <a href=\"https://www.in.gov/fssa/indiana-211/about-us/\">Indiana 211 service information</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 approve SNAP or pay a bill?",
+      "No. It helps connect you to the relevant provider."
+    ],
+    [
+      "Can I search online?",
+      "Yes. FSSA links to a resource search by ZIP code."
+    ],
+    [
+      "Can I ask about several needs?",
+      "Explain the needs together so the navigator can identify relevant services."
+    ],
+    [
+      "What if a referral is unavailable?",
+      "Tell 211 what happened and ask about another provider."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.in.gov/fssa/indiana-211/",
+      "https://www.in.gov/fssa/indiana-211/about-us/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

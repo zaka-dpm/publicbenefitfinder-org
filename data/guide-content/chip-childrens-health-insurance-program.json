@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania CHIP offers health insurance to uninsured children and teenagers who do not qualify for Medicaid.",
+  "description": "Pennsylvania CHIP offers health insurance to uninsured children and teenagers who do not qualify for Medicaid.",
+  "sections": {
+    "who": "<p>Children must be younger than 19, live in Pennsylvania and meet citizenship or qualified-status requirements. Household income determines whether coverage is free or has premiums and copays.</p>",
+    "get": "<p>Coverage includes medical visits, prescriptions, dental and vision care. Compare participating insurers and their provider networks.</p>",
+    "docs": "<ul><li>Child identity and residence information.</li><li>Household income and tax-household details.</li><li>Any current insurance information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.compass.dhs.pa.gov/\">COMPASS</a> or the application options on the state CHIP page.</p></li><li><h3 class=\"pbf-h3\">Answer follow-up requests</h3><p>Supply household details so the appropriate coverage program can be determined.</p></li><li><h3 class=\"pbf-h3\">Confirm enrollment</h3><p>Check the insurer, effective date and any payment requirement.</p></li></ol>",
+    "after": "<p>Return annual renewal information so coverage can continue. CHIP customer service is 800-986-5437.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dhs/apply-for-childrens-health-insurance-program-chip\">State CHIP application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is CHIP only for very low incomes?",
+      "No. Higher-income families may qualify for paid coverage."
+    ],
+    [
+      "Is every child’s coverage free?",
+      "Income and household size affect costs."
+    ],
+    [
+      "Can I keep the same doctor?",
+      "Check the selected insurer’s network."
+    ],
+    [
+      "Must I renew?",
+      "Yes. Follow the insurer’s annual renewal instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dhs/apply-for-childrens-health-insurance-program-chip"
+    ],
+    "background_source": "https://usaassistance.org/programs/chip-childrens-health-insurance-program/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid DC offers free help for eligible people with legal matters in the District. Apply online, by phone or through a listed intake location.",
+  "description": "Legal Aid DC offers free help for eligible people with legal matters in the District. Apply online, by phone or through a listed intake location.",
+  "sections": {
+    "who": "<p>The program generally serves low-income households with issues in its practice areas. A DC case may qualify even if the person lives elsewhere; resources limit acceptance.</p>",
+    "get": "<p>Help can concern housing, benefits, family matters, debt, immigration or record sealing. Intake does not guarantee representation.</p>",
+    "docs": "<ul><li>Notices, summons and deadlines.</li><li>Household income details.</li><li>Relevant records; you can submit online intake even without documents to upload.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply for help</h3><p>Use the online form linked from <a href=\"https://www.legalaiddc.org/how-to-apply-for-help/\">Legal Aid DC</a>, or call 202-628-1161.</p></li><li><h3 class=\"pbf-h3\">Describe urgent dates</h3><p>State any hearing, eviction or benefit-response deadline clearly.</p></li><li><h3 class=\"pbf-h3\">Wait for the intake response</h3><p>Legal Aid reviews online submissions and contacts applicants when it may help. The page says there is no need to call again merely because you applied online.</p></li></ol>",
+    "after": "<p>Check email and phone messages. Confirm current office locations before a visit; the Anacostia office has moved.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.legalaiddc.org/how-to-apply-for-help/\">Legal Aid DC application and eligibility</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without uploading papers?",
+      "Yes. The online application can still be submitted."
+    ],
+    [
+      "Should I call again after online intake?",
+      "The page says that is not necessary."
+    ],
+    [
+      "Must I live in DC?",
+      "A legal matter in DC may qualify even if you live elsewhere."
+    ],
+    [
+      "Is acceptance guaranteed?",
+      "No. Eligibility and resources affect the decision."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.legalaiddc.org/how-to-apply-for-help/"
+    ],
+    "background_source": "https://usaassistance.org/programs/legal-aid-dc/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

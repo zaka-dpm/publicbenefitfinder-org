@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon weatherization starts with the local agency serving your county. An energy audit determines appropriate work based on the home and available funding.",
+  "description": "Oregon weatherization starts with the local agency serving your county. An energy audit determines appropriate work based on the home and available funding.",
+  "sections": {
+    "who": "<p>Household income and size determine financial eligibility. Priority groups include older adults, people with disabilities and households with children or high energy burdens.</p>",
+    "get": "<p>Services may include insulation, air-leak reduction, heating improvements, minor energy-related repairs and education.</p>",
+    "docs": "<ul><li>Household income and members.</li><li>Home address and utility information.</li><li>Requested ownership or rental permissions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the county agency</h3><p>Use <a href=\"https://www.oregon.gov/ohcs/energy-weatherization/pages/weatherization-services.aspx\">the state weatherization directory</a>.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Ask for the current checklist and any waiting-list arrangements.</p></li><li><h3 class=\"pbf-h3\">Arrange the energy audit</h3><p>Discuss access and required permissions. Review the proposed measures with the provider.</p></li></ol>",
+    "after": "<p>Keep provider contact details and ask about any condition preventing work or affecting scheduling.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/ohcs/energy-weatherization/pages/weatherization-services.aspx\">Weatherization services, priorities and intake</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-oregon/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can there be a waiting list?",
+      "Yes. The state says households may enter a service waiting list after initial contact."
+    ],
+    [
+      "Can I choose any renovation?",
+      "The audit, home condition and funding determine appropriate measures."
+    ],
+    [
+      "Are heating systems included?",
+      "The state lists heating-system repair and replacement among possible services."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/ohcs/energy-weatherization/pages/weatherization-services.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

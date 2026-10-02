@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania weatherization helps eligible households reduce energy waste and improve home comfort. Local providers deliver services in every county.",
+  "description": "Pennsylvania weatherization helps eligible households reduce energy waste and improve home comfort. Local providers deliver services in every county.",
+  "sections": {
+    "who": "<p>The current income guideline is 200% of federal poverty. Certain SSI, TANF, LIHEAP and qualifying housing-program households have an automatic eligibility route.</p>",
+    "get": "<p>Approved home energy improvements are services rather than a general-purpose cash payment. The provider determines appropriate measures.</p>",
+    "docs": "<ul><li>Income or qualifying benefit evidence.</li><li>Household and property information.</li><li>Any owner or landlord permission the provider requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your provider</h3><p>Use the local-provider links on <a href=\"https://dced.pa.gov/housing-and-development/weatherization/\">DCED Weatherization</a>.</p></li><li><h3 class=\"pbf-h3\">Ask for intake</h3><p>Confirm the checklist and current scheduling.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Discuss property access, safety conditions and approved work.</p></li></ol>",
+    "after": "<p>Eligibility does not itself specify an installation date. Keep in touch with the local provider about the work plan.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dced.pa.gov/housing-and-development/weatherization/\">DCED weatherization</a>; <a href=\"https://dced.pa.gov/housing-and-development/weatherization/income-eligibility/\">Current eligibility</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this the same as a heating grant?",
+      "No. Weatherization improves home energy efficiency."
+    ],
+    [
+      "Is there a local provider?",
+      "DCED lists providers covering all Pennsylvania counties."
+    ],
+    [
+      "Can benefits help establish eligibility?",
+      "Certain means-tested benefits provide an automatic eligibility route."
+    ],
+    [
+      "Who decides the work?",
+      "The provider assesses what the home needs under program rules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dced.pa.gov/housing-and-development/weatherization/",
+      "https://dced.pa.gov/housing-and-development/weatherization/income-eligibility/"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-pa-dced/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

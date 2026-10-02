@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "West Virginia weatherization improves energy efficiency for eligible households through local Community Action Agencies. Services cover all 55 counties, with a waitlist for ap",
+  "introduction": "West Virginia weatherization improves energy efficiency for eligible households through local Community Action Agencies. Services cover all 55 counties, with a waitlist for approved applicants.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "West Virginia households with income no more than 200% of federal poverty guidelines.",
+      "The dwelling must also meet building eligibility requirements.",
+      "Priority considers energy burden and household members who are older, disabled or children."
+    ],
+    "get": "<p>Home energy efficiency work selected for the property. Assistance is provided through an agency rather than a state cash payment to the resident.</p>",
+    "docs": "<p>Prepare household income and address information, property ownership or lease details and energy bills. Ask the assigned agency for the current documentation period and any owner consent needed.</p>",
+    "apply": "<ol><li>Use the state weatherization page to find the provider for your county.</li><li>Follow its Apply Now link for the LITT application, or contact the local agency.</li><li>Complete eligibility review and arrange the dwelling assessment.</li></ol>",
+    "after": "<p>Ask where you are on the waitlist and what property issues need attention before work can proceed. Keep the assessment and agency’s contact details. The state office funds agencies and does not directly process household work requests.</p>",
+    "sources": "<ul><li><a href=\"https://wvcad.org/sustainability/weatherization-assistance-program\">State WAP application and eligibility</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-west-virginia/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does every county have coverage?",
+      "The state lists agency services in all 55 counties."
+    ],
+    [
+      "Is income eligibility enough?",
+      "The building must qualify as well."
+    ],
+    [
+      "Will approved work start immediately?",
+      "The program maintains a prioritized waitlist."
+    ],
+    [
+      "Is this a utility bill payment?",
+      "It funds property energy improvements; ask separately about bill assistance."
+    ],
+    [
+      "Should I call the state for my work schedule?",
+      "Contact the local agency assigned to your property."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-west-virginia",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-west-virginia/",
+    "source_updated": "August 2026",
+    "primary_url": "https://wvcap.org/agencies/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://wvcad.org/sustainability/weatherization-assistance-program"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

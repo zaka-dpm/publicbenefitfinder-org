@@ -1,0 +1,45 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado LEAP helps eligible households with part of their winter heating costs. The 2026–2027 application season begins November 1, 2026 and ends April 30, 2027.",
+  "description": "Colorado LEAP helps eligible households with part of their winter heating costs. The 2026–2027 application season begins November 1, 2026 and ends April 30, 2027.",
+  "sections": {
+    "who": "<p>Applicants must pay home heating costs, directly or through rent, and meet income and lawful-presence requirements. Renters may qualify; disclose whether housing is subsidized and how heating is paid.</p>",
+    "get": "<p>LEAP usually pays the heating supplier rather than the household. It does not cover the entire winter bill or portable heaters. Heating-system repair support is a separate related service.</p>",
+    "docs": "<ul><li>Recent heating bill, or rent receipt showing heating costs.</li><li>Previous month’s household income and self-employment expense records.</li><li>Household birth dates, Social Security numbers and requested lawful-presence records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply during the season</h3><p>Use the PEAK link on the <a href=\"https://cdhs.colorado.gov/leap\">LEAP page</a>, or obtain a paper application from your county office. Call 866-432-8435 for help.</p></li><li><h3 class=\"pbf-h3\">Submit a complete signed application</h3><p>Attach readable records and send them to the correct county. Missing answers or income evidence can delay processing.</p></li><li><h3 class=\"pbf-h3\">Report a heating emergency</h3><p>Call 866-432-8435 if heat will be shut off or fuel is running out. Keep paying bills and contact the supplier about payment arrangements.</p></li></ol>",
+    "after": "<p>Watch for the decision notice showing the benefit and recipient. Call HEAT-HELP to ask about status or other utility support.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://cdhs.colorado.gov/leap\">LEAP eligibility, season and application instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "When does the current season open?",
+      "November 1, 2026. The season closes April 30, 2027."
+    ],
+    [
+      "Can heat included in rent count?",
+      "It can; supply a recent rent receipt and explain the heating arrangement and subsidy status."
+    ],
+    [
+      "Should I stop paying the bill?",
+      "No. Continue payments and discuss overdue bills with the supplier."
+    ],
+    [
+      "Does LEAP buy portable heaters?",
+      "No. The state excludes temporary or portable heating sources."
+    ],
+    [
+      "Is a furnace problem the same application?",
+      "Ask HEAT-HELP about the related heating-system repair or replacement program."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://cdhs.colorado.gov/leap"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-leap-low-income-energy-assistance-program/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

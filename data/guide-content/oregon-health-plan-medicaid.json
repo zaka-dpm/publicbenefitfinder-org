@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon Health Plan enrollment is open year-round. Apply through ONE, by telephone or with the paper form linked by the health authority.",
+  "description": "Oregon Health Plan enrollment is open year-round. Apply through ONE, by telephone or with the paper form linked by the health authority.",
+  "sections": {
+    "who": "<p>The state checks household circumstances and coverage eligibility. Oregon says people of any age or immigration status may qualify; an application determines the individual result.</p>",
+    "get": "<p>OHP covers eligible medical, dental, prescription and behavioral healthcare without member charges under the state’s described benefits.</p>",
+    "docs": "<ul><li>Household members and income.</li><li>Existing insurance details.</li><li>Records requested for the people seeking coverage.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start your application</h3><p>Use <a href=\"https://www.oregon.gov/oha/hsd/ohp/pages/apply.aspx\">OHP’s application page</a> or call ONE at 800-699-9075.</p></li><li><h3 class=\"pbf-h3\">Submit household details</h3><p>Identify each person seeking coverage and answer follow-up requests.</p></li><li><h3 class=\"pbf-h3\">Read coverage instructions</h3><p>Review the approval, coverage dates and member information before arranging care.</p></li></ol>",
+    "after": "<p>Keep contact information current and respond to renewal notices. Confirm provider participation when making appointments.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/oha/hsd/ohp/pages/apply.aspx\">OHP eligibility overview, services and intake</a>. <a href=\"https://usaassistance.org/programs/oregon-health-plan-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must I wait for fall enrollment?",
+      "No. OHP applications are accepted throughout the year."
+    ],
+    [
+      "Can I apply without the website?",
+      "Yes. The state lists telephone and paper application options."
+    ],
+    [
+      "Does immigration status automatically rule someone out?",
+      "Oregon says people of any immigration status may qualify; other eligibility conditions still apply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/oha/hsd/ohp/pages/apply.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

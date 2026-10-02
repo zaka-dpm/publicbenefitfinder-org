@@ -1,0 +1,56 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming SNAP uses a paper application submitted to DFS, followed by an interview. The dedicated interview line is different from the local office handling case questions.",
+  "introduction": "Wyoming SNAP uses a paper application submitted to DFS, followed by an interview. The dedicated interview line is different from the local office handling case questions.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Households meeting SNAP financial and program rules as assessed by DFS.",
+      "Tell the worker about household composition and any student, work-rule or disability circumstances."
+    ],
+    "get": "<p>Food benefits for approved households. Ask about current permitted purchases and the reporting rules in the decision notice.</p>",
+    "docs": "<p>Prepare household identity, income and relevant expense records. A signed application with name and address begins the process; return further verification requested by DFS.</p>",
+    "apply": "<ol><li>Download the English or Spanish application from the DFS SNAP page.</li><li>Submit it to the local DFS office in person, by mail, fax or email to snappowerservice@wyo.gov.</li><li>After filing, complete the interview at 307-777-8550 or the local office.</li><li>The interview line operates Monday, Tuesday, Wednesday and Friday 9 a.m.–4 p.m.; it is closed Thursday.</li></ol>",
+    "after": "<p>Contact the local office for status or case questions; the interview number is reserved for interviews. Keep proof of submission and follow verification and renewal deadlines. Explain an urgent food shortage and ask about expedited screening.</p>",
+    "sources": "<ul><li><a href=\"https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/\">DFS SNAP application and interview routes</a></li><li><a href=\"https://dfs.wyo.gov/about/policy-manuals/snap-and-power-policy-manual/\">SNAP application and expedited policy</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is there a Wyoming online SNAP benefit portal application?",
+      "The current DFS page directs people to a paper application and accepted submission routes."
+    ],
+    [
+      "Can I submit by email?",
+      "DFS lists snappowerservice@wyo.gov for applications and verification."
+    ],
+    [
+      "Can I ask the interview line for case status?",
+      "No; DFS directs case questions to the local office."
+    ],
+    [
+      "Can I interview on Thursday?",
+      "The dedicated interview line is closed Thursday for processing."
+    ],
+    [
+      "Can I ask for expedited review?",
+      "DFS policy provides expedited screening; explain the urgent household situation."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/wyoming-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/",
+      "https://dfs.wyo.gov/about/policy-manuals/snap-and-power-policy-manual/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

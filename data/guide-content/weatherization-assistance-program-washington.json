@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington weatherization provides assessed home-efficiency work through local agencies. Commerce lists providers by county.",
+  "description": "Washington weatherization provides assessed home-efficiency work through local agencies. Commerce lists providers by county.",
+  "sections": {
+    "who": "<p>Low-income homeowners and renters may qualify under federal-poverty, state-median or area-median income routes. The provider determines eligibility.</p>",
+    "get": "<p>An energy audit identifies suitable improvements such as insulation, air sealing or ventilation. Specific upgrades are not guaranteed.</p>",
+    "docs": "<ul><li>Ask the agency for income and household records.</li><li>Property details and rental-owner permissions when requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find intake</h3><p>Use the county list on <a href=\"https://www.commerce.wa.gov/weatherization/\">Commerce weatherization</a>.</p></li><li><h3 class=\"pbf-h3\">Apply locally</h3><p>Confirm documentation, eligibility and waiting times.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Provide access for the energy audit and discuss property concerns.</p></li></ol>",
+    "after": "<p>Agree the approved work with the provider. Weatherization is not a guaranteed emergency heating response.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.commerce.wa.gov/weatherization/\">Commerce weatherization</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does Commerce take applications?",
+      "Apply through the local agency."
+    ],
+    [
+      "Can renters ask for help?",
+      "Yes. Ask about required owner permission."
+    ],
+    [
+      "Are replacement windows guaranteed?",
+      "No. This is not a window replacement program."
+    ],
+    [
+      "What if my furnace fails now?",
+      "Explain the emergency; waiting lists can prevent immediate work."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.commerce.wa.gov/weatherization/"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-washington/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Arizona weatherization helps eligible households reduce energy use through improvements to their primary home. Apply through the county service provider listed by the Departme",
+  "introduction": "Arizona weatherization helps eligible households reduce energy use through improvements to their primary home. Apply through the county service provider listed by the Department of Housing.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "The home must be a primary residence in Arizona and the household must meet current income qualification rules.",
+      "Homeowners may apply; renters need landlord permission. Eligible dwelling types include apartments, townhomes, duplexes, single-family homes and stationary mobile homes."
+    ],
+    "get": "<p>The program addresses heating, cooling and water-heating energy costs while considering occupant health and safety. The provider determines the approved measures; it is not an unrestricted home-repair allowance.</p>",
+    "docs": "<p>Ask the provider for its income, residency and ownership or rental-permission checklist. Gather the requested records and discuss access for an assessment. Renters should resolve landlord authorization before work is arranged.</p>",
+    "apply": "<ol><li>Open <a href=\"https://housing.az.gov/general-public/weatherization-assistance-program\">the Department of Housing’s weatherization page</a>.</li><li>Use the WAP Contact Information/Service Areas by County document to identify your provider.</li><li>Contact that provider for the application, verification and assessment process. Refer to the current income-qualification document linked by the department.</li></ol>",
+    "after": "<p>Ask about selection and waiting time, then coordinate the assessment and approved work. Keep the completion information. Do not hire a contractor privately expecting this program to reimburse the bill.</p>",
+    "sources": "<ul><li><a href=\"https://housing.az.gov/general-public/weatherization-assistance-program\">Arizona weatherization eligibility and county providers</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-arizona/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a renter apply?",
+      "Yes, with landlord permission and the other program requirements."
+    ],
+    [
+      "Can a mobile home qualify?",
+      "The department includes stationary mobile homes used as an Arizona primary residence."
+    ],
+    [
+      "Where do I get the application?",
+      "Contact the provider for your county using the department’s service-area document."
+    ],
+    [
+      "Is this help with a past-due electric bill?",
+      "Weatherization improves home efficiency. For bill-payment help, look separately at LIHEAP or the utility’s assistance options."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-arizona",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-arizona/",
+    "source_updated": "August 2026",
+    "primary_url": "https://housing.az.gov/general-public/weatherization-assistance-program",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://housing.az.gov/general-public/weatherization-assistance-program"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

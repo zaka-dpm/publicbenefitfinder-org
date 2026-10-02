@@ -1,0 +1,45 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado’s child tax credit and Family Affordability Tax Credit are separate state income-tax credits. Use the instructions for the tax year you are filing.",
+  "description": "Colorado’s child tax credit and Family Affordability Tax Credit are separate state income-tax credits. Use the instructions for the tax year you are filing.",
+  "sections": {
+    "who": "<p>For tax year 2025, the regular child credit requires a qualifying child under six and federal AGI no higher than $77,000, or $87,000 for joint filers. The Family Affordability credit covers qualifying children under 17 and uses higher limits of $85,000, or $96,000 for joint filers. DR 0104CN excludes nonresidents and provides part-year calculations. Match the year of the return before applying these figures.</p>",
+    "get": "<p>The 2025 regular credit has per-child amounts of $1,200, $600 or $200 according to income and filing status. Family Affordability is calculated separately by age and income. Use the form’s tables; the maximum is not every household’s award.</p>",
+    "docs": "<ul><li>The federal return and adjusted gross income.</li><li>Children’s dates of birth, tax identification numbers and dependency records.</li><li>Colorado residency information and the correct year’s forms.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Identify the filing year</h3><p>Open the state’s <a href=\"https://tax.colorado.gov/individual-income-tax-forms\">individual income-tax forms</a>. Use the matching instructions rather than a previous year’s table.</p></li><li><h3 class=\"pbf-h3\">Calculate each credit separately</h3><p>Complete the Colorado Child Tax Credit Schedule, DR 0104CN, following its eligibility and calculation instructions.</p></li><li><h3 class=\"pbf-h3\">Include the required schedules</h3><p>Carry the result to the Colorado return and credit schedule as instructed for that year. A free tax-preparation service can help if available.</p></li></ol>",
+    "after": "<p>Keep the completed calculation and dependency records. For a revenue-department inquiry, use the contact details and response deadline in the notice.</p>",
+    "sources": "<p>Verified tax-year rules and calculations: <a href=\"https://tax.colorado.gov/sites/tax/files/documents/DR0104CN_2025.pdf\">2025 DR 0104CN instructions</a>. Forms for the year being filed: <a href=\"https://tax.colorado.gov/individual-income-tax-forms\">Colorado individual income-tax forms</a>. This guide describes 2025 filing, not a promise of the same figures or availability for 2026.</p>"
+  },
+  "faqs": [
+    [
+      "Are the two credits the same?",
+      "No. They have separate eligibility and calculations, even though DR 0104CN addresses both."
+    ],
+    [
+      "Does every child qualify for the regular credit?",
+      "The regular credit’s child-age rule is younger than six; review the other dependency and income conditions."
+    ],
+    [
+      "Can I use a 2025 amount for 2026?",
+      "No. Match forms, limits and availability to the tax year you are filing."
+    ],
+    [
+      "Do I claim this through a benefits portal?",
+      "No. It is claimed with the Colorado income-tax return and required schedules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://tax.colorado.gov/CO-Child-Tax-Credit",
+      "https://tax.colorado.gov/individual-income-tax-forms",
+      "https://tax.colorado.gov/sites/tax/files/documents/DR0104CN_2025.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-child-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "resolved_notes": [
+      "2025 official form verifies separate eligibility and calculations; no2026 availability claim."
+    ]
+  }
+}

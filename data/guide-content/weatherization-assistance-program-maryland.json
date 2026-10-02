@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Maryland weatherization helps income-eligible owners and renters with approved home energy improvements. A local weatherization agency handles intake and the energy assessment",
+  "introduction": "Maryland weatherization helps income-eligible owners and renters with approved home energy improvements. A local weatherization agency handles intake and the energy assessment.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Household income rules apply, with recognized benefit programs providing categorical income eligibility.",
+      "The state lists SNAP, TANF, SSI, OHEP and HUD housing assistance among accepted pathways; Medicaid alone is not accepted as proof of automatic income eligibility."
+    ],
+    "get": "<p>The assessment can identify air sealing, insulation, heating, hot-water, lighting and safety measures. The dwelling’s condition and program rules determine the approved work.</p>",
+    "docs": "<p>Prepare income records or qualifying-benefit proof and information about ownership, tenancy and utility use. Ask the local agency for its checklist and any landlord permission requirements.</p>",
+    "apply": "<ol><li>Use the local-agency directory on <a href=\"https://dhcd.maryland.gov/energy-home-repair/energy-grants-and-loans-residents/weatherization-assistance-program-wap\">DHCD’s weatherization page</a>.</li><li>Submit the agency’s application; benefit participation does not remove this step.</li><li>After eligibility review, arrange the energy inspection and discuss the recommended work.</li></ol>",
+    "after": "<p>Ask about priorities and the waiting list. Confirm the approved scope and final inspection. If a property condition prevents work, ask what must be corrected and whether another repair program can help.</p>",
+    "sources": "<ul><li><a href=\"https://dhcd.maryland.gov/energy-home-repair/energy-grants-and-loans-residents/weatherization-assistance-program-wap\">Maryland weatherization eligibility and agency directory</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-maryland/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do renters qualify?",
+      "Yes. Contact the local agency about the rental property and owner consent."
+    ],
+    [
+      "Does Medicaid automatically establish income eligibility?",
+      "No. Maryland’s WAP page specifically lists Medicaid among programs not accepted for automatic income eligibility."
+    ],
+    [
+      "Does receiving SNAP mean no application is needed?",
+      "No. It can establish income eligibility, but a weatherization application still must be submitted."
+    ],
+    [
+      "Can I choose every improvement on the state’s list?",
+      "No. An energy inspection and dwelling conditions determine appropriate approved measures."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-maryland",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-maryland/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dhcd.maryland.gov/Energy-Home-Repair/pages/homeowner-grants/wap.aspx",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dhcd.maryland.gov/Energy-Home-Repair/pages/homeowner-grants/wap.aspx",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhcd.maryland.gov/energy-home-repair/energy-grants-and-loans-residents/weatherization-assistance-program-wap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

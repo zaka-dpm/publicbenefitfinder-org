@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "ARHOME is Arkansas’s Medicaid adult-expansion coverage program. It uses Medicaid funding to purchase private health insurance for eligible members; application and eligibility",
+  "introduction": "ARHOME is Arkansas’s Medicaid adult-expansion coverage program. It uses Medicaid funding to purchase private health insurance for eligible members; application and eligibility questions go to DHS County Operations.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "The current DHS reference identifies adults ages 19–64 meeting the expansion income rules, with no resource test for this category.",
+      "The ARHOME category excludes applicants eligible for certain other categories, pregnant applicants at application and people enrolled in or eligible for Medicare. DHS checks the correct pathway rather than relying on a self-selected label."
+    ],
+    "get": "<p>Coverage is provided through the program’s private health plans while the member remains a Medicaid beneficiary. Life360 initiatives offer additional support to specified groups. Contact the plan for covered care and DHS for eligibility.</p>",
+    "docs": "<p>Gather household and income information, identity and existing insurance details. Use the application’s verification requests and disclose pregnancy or Medicare coverage so DHS can review the appropriate category. Keep submission and document-upload confirmations.</p>",
+    "apply": "<ol><li>Apply for health coverage through <a href=\"https://access.arkansas.gov/\">Access Arkansas</a>.</li><li>Answer the household and financial questions and supply requested verification.</li><li>After approval, follow the plan-selection instructions. Use <a href=\"https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arhome/\">DHS’s ARHOME page</a> for plan and eligibility contacts.</li></ol>",
+    "after": "<p>Read the eligibility notice and confirm plan enrollment and effective dates. Keep contact details current and respond to renewal requests. Coverage questions go to your plan; eligibility questions go to the Division of County Operations.</p>",
+    "sources": "<ul><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arhome/\">ARHOME structure and contacts</a></li><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/county-operations/medicaid-quick-reference-chart/\">Adult-expansion category requirements</a></li><li><a href=\"https://usaassistance.org/programs/arhome-arkansas-medicaid-expansion/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is ARHOME Medicaid or private insurance?",
+      "It uses Medicaid funds for private-plan coverage; members remain covered through Medicaid."
+    ],
+    [
+      "Is there a savings limit for ARHOME?",
+      "DHS’s adult-expansion reference lists no resource limit for that category. Other Medicaid categories can have different rules."
+    ],
+    [
+      "Who answers eligibility questions?",
+      "DHS directs ARHOME eligibility questions to the Division of County Operations."
+    ],
+    [
+      "What if I am pregnant or have Medicare?",
+      "Disclose that on the application. DHS can determine a different applicable Medicaid pathway rather than treating ARHOME as the only option."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arhome-arkansas-medicaid-expansion",
+    "source_url": "https://usaassistance.org/programs/arhome-arkansas-medicaid-expansion/",
+    "source_updated": "August 2026",
+    "primary_url": "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arhome/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arhome/",
+      "https://humanservices.arkansas.gov/divisions-shared-services/county-operations/medicaid-quick-reference-chart/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri LIHEAP offers Energy Assistance and crisis help through contracted local agencies. Funding and seasonal windows affect availability.",
+  "description": "Missouri LIHEAP offers Energy Assistance and crisis help through contracted local agencies. Funding and seasonal windows affect availability.",
+  "sections": {
+    "who": "<p>Applicants must meet residency, income, utility responsibility and other conditions. Renters can qualify.</p>",
+    "get": "<p>Energy Assistance supports a fuel cost; ECIP addresses qualifying disconnection or fuel emergencies.</p>",
+    "docs": "<ul><li>Income and household records.</li><li>Energy account and bill details.</li><li>Termination notices or evidence of low fuel.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the contracted agency</h3><p>Use <a href=\"https://dss.mo.gov/utility-assistance/liheap\">DSS LIHEAP</a>.</p></li><li><h3 class=\"pbf-h3\">Apply</h3><p>Follow online upload instructions or submit by mail, fax or in person.</p></li><li><h3 class=\"pbf-h3\">Explain the crisis</h3><p>Give the exact disconnect date or fuel situation; confirm current ECIP funding.</p></li></ol>",
+    "after": "<p>Keep paying bills when possible and contact the utility about disconnection.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dss.mo.gov/utility-assistance/liheap\">Missouri LIHEAP and ECIP</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes, when responsible for eligible utilities."
+    ],
+    [
+      "Is ECIP always open?",
+      "Availability depends on season and funding."
+    ],
+    [
+      "Does applying stop a shutoff?",
+      "Do not assume it does."
+    ],
+    [
+      "Who checks application status?",
+      "Your contracted agency."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dss.mo.gov/utility-assistance/liheap"
+    ],
+    "background_source": "https://usaassistance.org/programs/missouri-energy-assistance-liheap-and-ecip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

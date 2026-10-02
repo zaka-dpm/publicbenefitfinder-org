@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio HEAP helps eligible households cover part of their home energy costs. A separate crisis request may be needed for an urgent shutoff.",
+  "description": "Ohio HEAP helps eligible households cover part of their home energy costs. A separate crisis request may be needed for an urgent shutoff.",
+  "sections": {
+    "who": "<p>Eligibility depends on household income and the current season’s rules. Ask the local energy assistance provider to assess your household.</p>",
+    "get": "<p>Assistance varies with household circumstances and available funding; it is not payment of every energy bill.</p>",
+    "docs": "<ul><li>Household names and requested identification.</li><li>Adult household income records.</li><li>Recent energy bills and any shutoff notice.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an intake route</h3><p>Apply through <a href=\"https://energyhelp.ohio.gov/\">Ohio Energy Assistance</a> or contact your local Energy Assistance Provider/Community Action Agency.</p></li><li><h3 class=\"pbf-h3\">Complete the request</h3><p>Sign the application and supply the requested evidence. Tell the provider about any immediate loss of service.</p></li><li><h3 class=\"pbf-h3\">Follow up</h3><p>Keep your submission record and ask whether an emergency appointment is needed.</p></li></ol>",
+    "after": "<p>An application does not itself stop disconnection. Speak with your utility about your account while the request is pending.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://occ.ohio.gov/factsheet/home-energy-assistance-program-heap\">Ohio Consumers’ Counsel HEAP</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does HEAP pay every bill?",
+      "No. It supplements home energy costs."
+    ],
+    [
+      "What if shutoff is imminent?",
+      "Tell the provider the exact deadline and ask about crisis intake."
+    ],
+    [
+      "Can I apply without using the website?",
+      "Contact the local energy assistance provider about an appointment or paper form."
+    ],
+    [
+      "What should I keep?",
+      "A copy of the signed application, documents and any decision."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://occ.ohio.gov/factsheet/home-energy-assistance-program-heap"
+    ],
+    "background_source": "https://usaassistance.org/programs/heap-energy-assistance-ohio/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

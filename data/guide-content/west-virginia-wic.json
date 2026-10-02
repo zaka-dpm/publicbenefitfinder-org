@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "West Virginia WIC provides nutrition counseling, breastfeeding support and food assistance for eligible pregnant or postpartum participants, infants and young children. Clinic",
+  "introduction": "West Virginia WIC provides nutrition counseling, breastfeeding support and food assistance for eligible pregnant or postpartum participants, infants and young children. Clinic certification includes a health and nutrition assessment.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Applicants in a qualifying WIC category with a medical or dietary nutrition risk and income within program rules.",
+      "The clinic evaluates eligibility individually; benefit enrollment elsewhere can help document income but does not replace certification."
+    ],
+    "get": "<p>Specified nutritious foods and nutrition services rather than unrestricted cash. WIC uses a separate EBT card from SNAP and WV WORKS.</p>",
+    "docs": "<p>The state lists parent and child ID, address, income, pregnancy proof where relevant, child immunization records and custody or foster documents if applicable. Bring hospital discharge or crib records for an infant if appropriate.</p>",
+    "apply": "<ol><li>Use Apply Now on the state WIC application page to begin contact.</li><li>Arrange certification with the local clinic and confirm who must attend.</li><li>Bring requested records and complete the health and nutrition assessment.</li></ol>",
+    "after": "<p>Ask the clinic how benefits are loaded and which shopping guide applies. Contact it for missed appointments, feeding or formula questions, a new baby, address changes or problems using food benefits.</p>",
+    "sources": "<ul><li><a href=\"https://dhhr.wv.gov/WIC/apply/Pages/default.aspx\">WIC application and assessment</a></li><li><a href=\"https://dhhr.wv.gov/WIC/Pages/What-Do-I-need-to-bring-to-my-first-appointment.aspx\">WIC certification checklist</a></li><li><a href=\"https://bfa.wv.gov/office-ebt\">WIC card distinction</a></li><li><a href=\"https://usaassistance.org/programs/west-virginia-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is WIC cash assistance?",
+      "No; it provides food and nutrition services."
+    ],
+    [
+      "Can a Medicaid card document income?",
+      "The certification checklist lists Medicaid, TANF or SNAP benefit proof among income examples."
+    ],
+    [
+      "Do I need my child’s shot records?",
+      "The state lists immunization records for infants and children."
+    ],
+    [
+      "Can I use my SNAP card for WIC?",
+      "The state EBT office says WIC uses a separate card."
+    ],
+    [
+      "Can I ask about breastfeeding?",
+      "Breastfeeding support is part of the program’s services."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "west-virginia-wic",
+    "source_url": "https://usaassistance.org/programs/west-virginia-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dhhr.wv.gov/wic",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhhr.wv.gov/WIC/apply/Pages/default.aspx",
+      "https://dhhr.wv.gov/WIC/Pages/What-Do-I-need-to-bring-to-my-first-appointment.aspx",
+      "https://bfa.wv.gov/office-ebt"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

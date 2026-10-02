@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Legal Services Alabama offers free civil legal help to qualifying low-income residents. Intake staff review both financial eligibility and the legal problem before deciding wh",
+  "introduction": "Legal Services Alabama offers free civil legal help to qualifying low-income residents. Intake staff review both financial eligibility and the legal problem before deciding what assistance is available.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Applicants must meet the organization’s current eligibility rules. Income guidelines are updated, so ask intake staff about the rule for your household.",
+      "LSA handles civil matters; its offices do not handle criminal cases. Limited resources mean not every eligible case can be accepted."
+    ],
+    "get": "<p>The organization can provide civil legal assistance and may refer an unaccepted case to another resource. Its practice includes housing, consumer and public-benefit problems; the help offered depends on case review.</p>",
+    "docs": "<p>Prepare the names of the people involved, income information and relevant letters or court papers. Put a hearing, filing deadline or eviction date at the top of your notes. These are preparation tips; intake staff determine what must be submitted.</p>",
+    "apply": "<ol><li>Use the Apply Online option on <a href=\"https://legalservicesalabama.org/\">LSA’s website</a> or call 866-456-4995. Spanish-language callers can use 888-835-3505.</li><li>Explain the legal problem, your location and any court deadline. Answer intake questions so staff can check eligibility and conflicts.</li><li>If you plan to visit an office, call first. Keep the intake reference and follow the instructions for sending documents.</li></ol>",
+    "after": "<p>Ask whether the organization has agreed to represent you and what tasks remain your responsibility. Do not assume an intake request postpones a court deadline. If the case is not accepted, ask staff about referrals or available clinics.</p>",
+    "sources": "<ul><li><a href=\"https://legalservicesalabama.org/\">Legal Services Alabama services and intake</a></li><li><a href=\"https://legalservicesalabama.org/faq/\">Eligibility and unaccepted cases</a></li><li><a href=\"https://legalservicesalabama.org/ko/apply-for-services/\">Application phone options</a></li><li><a href=\"https://usaassistance.org/programs/legal-services-alabama/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does LSA defend criminal charges?",
+      "No. Its offices handle civil cases. Ask intake staff for a suitable referral if your problem falls outside its services."
+    ],
+    [
+      "Is submitting the intake form the same as having a lawyer?",
+      "No. Wait for an explicit acceptance and explanation of the services offered."
+    ],
+    [
+      "What if I have a hearing soon?",
+      "Give intake staff the date immediately and keep track of court obligations while the request is being reviewed."
+    ],
+    [
+      "What happens if LSA cannot take my case?",
+      "Its FAQ says staff can provide information about other resources, including volunteer lawyer programs and clinics."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "legal-services-alabama",
+    "source_url": "https://usaassistance.org/programs/legal-services-alabama/",
+    "source_updated": "August 2026",
+    "primary_url": "https://legalservicesalabama.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://legalservicesalabama.org/",
+      "https://legalservicesalabama.org/faq/",
+      "https://legalservicesalabama.org/ko/apply-for-services/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

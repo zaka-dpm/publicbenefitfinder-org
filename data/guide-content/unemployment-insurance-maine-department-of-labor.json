@@ -1,0 +1,52 @@
+{
+  "status": "reviewed",
+  "description": "Maine Unemployment Insurance provides temporary benefits to qualifying workers with lost work or reduced hours. ReEmployME handles claims and weekly certifications.",
+  "introduction": "Maine Unemployment Insurance provides temporary benefits to qualifying workers with lost work or reduced hours. ReEmployME handles claims and weekly certifications.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "You generally need sufficient prior wages and job loss or reduced hours through no fault of your own.",
+      "Weekly eligibility requires being able and available for work and following job-search rules unless a recognized waiver applies."
+    ],
+    "get": "<p>The state determines the payment and payable weeks from the claim. Initial filing does not request all future weeks or resolve every eligibility issue.</p>",
+    "docs": "<p>Prepare your Social Security or relevant immigration information, employment history and a valid email address. Set up the ReEmployME account and keep identity-verification instructions and confirmations secure.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.maine.gov/unemployment/newtoui/index.shtml\">Maine’s File a New Claim link</a> to enter ReEmployME.</li><li>Complete employment and separation details and respond to any verification requests.</li><li>File a weekly certification and maintain the required Maine JobLink account. Unless waived, complete at least one qualifying search activity each week.</li></ol>",
+    "after": "<p>Save search evidence and weekly confirmations. Simply browsing JobLink is not a qualifying activity. If temporarily laid off with a definite recall date, ask about the current waiver, which covers the last six weeks before return rather than automatically the first six weeks unemployed.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/unemployment/newtoui/index.shtml\">Maine new claim instructions</a></li><li><a href=\"https://www.maine.gov/unemployment/eligibility/\">Maine eligibility</a></li><li><a href=\"https://www.maine.gov/unemployment/faq/worksearch/\">Maine work-search rules</a></li><li><a href=\"https://www.maine.gov/unemployment/\">Current unemployment notices</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-maine-department-of-labor/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is browsing JobLink enough?",
+      "No. Maine requires an actual qualifying activity such as applying, contacting an employer or participating in eligible reemployment services."
+    ],
+    [
+      "Do I need a JobLink account?",
+      "Maine’s work-search page says unemployment claimants must have an active Maine JobLink account."
+    ],
+    [
+      "Does a temporary layoff automatically waive all searching?",
+      "No. Ask about the recognized waiver and its dates. The current rule covers the last six weeks before a definite return."
+    ],
+    [
+      "Who can help with claim access?",
+      "Contact unemployment customer service at 800-593-7660 during the hours shown on the state website."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-maine-department-of-labor",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-maine-department-of-labor/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/unemployment/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/unemployment/newtoui/index.shtml",
+      "https://www.maine.gov/unemployment/eligibility/",
+      "https://www.maine.gov/unemployment/faq/worksearch/",
+      "https://www.maine.gov/unemployment/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

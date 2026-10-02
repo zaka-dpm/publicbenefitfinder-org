@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi unemployment insurance requires an initial claim and continuing claim certifications. Start from the labor department’s UI page so you reach the current claims system.",
+  "description": "Hawaiʻi unemployment insurance requires an initial claim and continuing claim certifications. Start from the labor department’s UI page so you reach the current claims system.",
+  "sections": {
+    "who": "<p>The agency reviews qualifying wages, the reason employment ended or hours changed, and ongoing ability and availability for work. Report the actual job separation and earnings rather than assuming every job loss qualifies.</p>",
+    "get": "<p>Approved claimants receive temporary benefit payments. Filing a claim is separate from meeting the conditions for each payable week.</p>",
+    "docs": "<ul><li>Prepare identity, Social Security and contact information.</li><li>Have employer details, dates worked, wage records and the reason for separation available.</li><li>Keep records of job-search activity and earnings during the claim.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open the current claims route</h3><p>Use <a href=\"https://labor.hawaii.gov/ui/\">Hawaiʻi UI</a> and its File a Claim Online link. Follow account and identity-verification instructions.</p></li><li><h3 class=\"pbf-h3\">Submit the initial claim</h3><p>Answer the employment questions accurately and save the confirmation.</p></li><li><h3 class=\"pbf-h3\">File continuing certifications</h3><p>Use the schedule assigned to your claim. The agency lists weekly and biweekly certifications, with deadlines for each period.</p></li></ol>",
+    "after": "<p>Read the current claimant handbook and messages. Report work, earnings and availability when certifying, and contact UI if a certification period or decision is unclear.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://labor.hawaii.gov/ui/\">Hawaiʻi UI homepage and claim links</a>, <a href=\"https://labor.hawaii.gov/ui/faq/\">Current UI FAQs</a>, <a href=\"https://labor.hawaii.gov/ui/files/2026/01/DLIR-UI-Claimant-Handbook-Rev1.26-with-BABEL.pdf\">2026 claimant handbook</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-hawaii/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the initial claim request every later payment?",
+      "No. Continuing certifications are required for the weeks you want benefits."
+    ],
+    [
+      "What if I miss a certification deadline?",
+      "The agency says late filing can delay or deny payment. Contact UI about the affected period."
+    ],
+    [
+      "Where should I check the current weekly amount?",
+      "Use the labor department’s current-year guidance and your determination rather than an older article’s amount."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://labor.hawaii.gov/ui/",
+      "https://labor.hawaii.gov/ui/faq/",
+      "https://labor.hawaii.gov/ui/files/2026/01/DLIR-UI-Claimant-Handbook-Rev1.26-with-BABEL.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

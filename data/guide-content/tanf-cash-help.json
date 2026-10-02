@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas TANF offers temporary cash assistance to qualifying families. Household composition and employment-related responsibilities are part of HHS review.",
+  "description": "Texas TANF offers temporary cash assistance to qualifying families. Household composition and employment-related responsibilities are part of HHS review.",
+  "sections": {
+    "who": "<p>HHS assesses a qualifying child and parent or caretaker arrangement, family finances and other conditions. Special situations are evaluated under TANF policy.</p>",
+    "get": "<p>Cash assistance for household necessities. Award amounts depend on the eligible family.</p>",
+    "docs": "<ul><li>Family relationships and child information.</li><li>Income and requested resources.</li><li>Identity and residence records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose TANF on the application</h3><p>Use <a href=\"https://www.yourtexasbenefits.com/\">Your Texas Benefits</a> or paper H1010.</p></li><li><h3 class=\"pbf-h3\">Complete HHS review</h3><p>Supply requested family and financial verification.</p></li><li><h3 class=\"pbf-h3\">Understand responsibilities</h3><p>Ask about employment requirements, exemptions and reporting.</p></li></ol>",
+    "after": "<p>Read the award and responsibilities carefully. SNAP and medical applications remain separate eligibility decisions even within the same intake flow.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-210-general-policy\">TANF household policy</a>, <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-110-application-procedures\">TANF intake and responsibilities</a>, <a href=\"https://familyresources.texas.gov/family-care-support/applying-for-benefits\">Cash benefit purpose</a>. <a href=\"https://usaassistance.org/programs/tanf-cash-help/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does a shared application guarantee all programs?",
+      "No. Each program has its own eligibility decision."
+    ],
+    [
+      "Is TANF permanent income?",
+      "HHS describes TANF as temporary and subject to time limits."
+    ],
+    [
+      "Can I request application assistance?",
+      "HHS policy requires help when an applicant needs assistance completing the packet."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-210-general-policy",
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-110-application-procedures",
+      "https://familyresources.texas.gov/family-care-support/applying-for-benefits"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

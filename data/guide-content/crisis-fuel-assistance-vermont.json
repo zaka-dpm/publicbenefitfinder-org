@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont Crisis Fuel assists qualifying households facing a winter heating emergency. Contact intake before fuel is delivered or furnace work is completed.",
+  "description": "Vermont Crisis Fuel assists qualifying households facing a winter heating emergency. Contact intake before fuel is delivered or furnace work is completed.",
+  "sections": {
+    "who": "<p>The state lists income at or below 200% of federal poverty plus a heating crisis, such as being out of fuel without money to replace it.</p>",
+    "get": "<p>Help can cover the primary heating fuel, electricity needed for heating or arrangements to prevent loss of service.</p>",
+    "docs": "<ul><li>Household income records.</li><li>Fuel account or heating-related electricity bill.</li><li>Details of the emergency and any shutoff notice.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call local intake first</h3><p>Contact the Community Action Agency through <a href=\"https://dcf.vermont.gov/benefits/crisis-fuel\">DCF Crisis Fuel</a> for the document checklist.</p></li><li><h3 class=\"pbf-h3\">Confirm seasonal availability</h3><p>Bulk and metered fuels have different end dates; ask about the current season.</p></li><li><h3 class=\"pbf-h3\">Request emergency assessment</h3><p>Explain remaining fuel and deadlines before arranging a delivery or repair.</p></li></ol>",
+    "after": "<p>Weekend and holiday assistance is limited to specified vulnerable households and seasonal dates. Check the current after-hours instructions.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dcf.vermont.gov/benefits/crisis-fuel\">DCF Crisis Fuel</a>; <a href=\"https://dcf.vermont.gov/benefits/crisis-fuel/after-hours\">After-hours instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can it reimburse fuel already delivered?",
+      "DCF says it cannot help after the fuel delivery or furnace work is completed."
+    ],
+    [
+      "Is ordinary low income enough?",
+      "A qualifying heating crisis is also required."
+    ],
+    [
+      "Should I arrive without calling?",
+      "Call the agency first for intake instructions."
+    ],
+    [
+      "Is weekend intake open to everyone?",
+      "No. The state limits it to specified household groups and dates."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dcf.vermont.gov/benefits/crisis-fuel",
+      "https://dcf.vermont.gov/benefits/crisis-fuel/after-hours"
+    ],
+    "background_source": "https://usaassistance.org/programs/crisis-fuel-assistance-vermont/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

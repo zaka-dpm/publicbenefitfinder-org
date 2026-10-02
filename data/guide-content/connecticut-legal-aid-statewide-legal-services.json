@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut legal aid helps eligible residents with civil legal problems. Statewide Legal Services is a starting point for screening and referrals.",
+  "description": "Connecticut legal aid helps eligible residents with civil legal problems. Statewide Legal Services is a starting point for screening and referrals.",
+  "sections": {
+    "who": "<p>Free legal assistance is aimed at people with very low income. The issue, service area and available resources affect whether a program can take a case.</p>",
+    "get": "<p>Help may include advice or referral to a legal aid office. Separate housing-lawyer intake is available for some eviction and subsidy cases.</p>",
+    "docs": "<ul><li>Court papers and the next deadline or hearing date.</li><li>Household and income information for screening.</li><li>Relevant leases, benefit decisions, correspondence and payment records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact Statewide Legal Services</h3><p>Call 800-453-3320. The <a href=\"https://ctlegal.org/get-help/\">Connecticut Legal Services Get Help page</a> also links to online intake.</p></li><li><h3 class=\"pbf-h3\">Flag housing deadlines</h3><p>For eviction or threatened loss of a housing subsidy, call 800-559-1565 or review evictionhelpct.org. Eligibility includes service-area conditions.</p></li><li><h3 class=\"pbf-h3\">Complete the screening</h3><p>Explain the issue and provide records the intake worker requests. Clarify whether a lawyer has agreed to represent you.</p></li></ol>",
+    "after": "<p>Do not assume an application postpones a hearing. Keep deadlines and ask intake staff what to do while awaiting a decision.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://info.ctlawhelp.org/en/contact/\">Legal aid contacts</a>; <a href=\"https://ctlegal.org/get-help/\">Connecticut Legal Services intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Where do I start?",
+      "Call Statewide Legal Services at 800-453-3320 or use the intake link on the Get Help page."
+    ],
+    [
+      "Is housing intake separate?",
+      "Some eviction and subsidy matters use 800-559-1565 and the housing-lawyer program."
+    ],
+    [
+      "Can the website webmaster give legal advice?",
+      "No. The contact page directs legal requests to Statewide Legal Services."
+    ],
+    [
+      "Where can I read about my rights?",
+      "CTLawHelp provides a free self-help library."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://info.ctlawhelp.org/en/contact/",
+      "https://ctlegal.org/get-help/"
+    ],
+    "background_source": "https://usaassistance.org/programs/connecticut-legal-aid-statewide-legal-services/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

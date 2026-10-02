@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "The Mission at Kern County provides meals and services in Bakersfield, with overnight shelter described for men. Meal access and shelter intake are separate questions.",
+  "introduction": "The Mission at Kern County provides meals and services in Bakersfield, with overnight shelter described for men. Meal access and shelter intake are separate questions.",
+  "service_type": "housing",
+  "sections": {
+    "who": [
+      "The Mission says anyone in the community can receive a hot meal. Its homeless-services page describes overnight shelter for men; ask staff about eligibility and available space for the service you need."
+    ],
+    "get": "<p>Services include meals, clothing and support referrals. Residents can access hygiene facilities and other listed support. Program access and schedules should be confirmed with staff.</p>",
+    "docs": "<p>For a meal, ask the information booth where to go. For shelter, explain your circumstances and ask about intake, identification, arrival time and belongings; do not assume a meal visit reserves a bed.</p>",
+    "apply": "<p>Check in at the information booth at 816 East 21st Street, Bakersfield, as directed by the <a href=\"https://themissionkc.org/homeless-services/\">Mission’s homeless services page</a>. Ask staff for current meal and shelter instructions.</p>",
+    "after": "<p>Clarify the next visit or overnight requirements and ask about housing and benefits referrals. If the shelter cannot serve your household, contact 211 for another placement option.</p>",
+    "sources": "<ul><li><a href=\"https://themissionkc.org/homeless-services/\">Mission at Kern County homeless services</a></li><li><a href=\"https://usaassistance.org/programs/the-mission-at-kern-county/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can someone outside the shelter receive a meal?",
+      "The provider says anyone in the community can receive a hot meal."
+    ],
+    [
+      "Is the overnight shelter described for all households?",
+      "The inspected page describes men’s overnight shelter. Ask about alternatives for other households."
+    ],
+    [
+      "Does a meal guarantee a bed?",
+      "No. Ask separately about shelter intake and available space."
+    ],
+    [
+      "Why are exact dinner hours not listed here?",
+      "The provider’s dinner time contains a typographical error; confirm the current schedule with staff."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "the-mission-at-kern-county",
+    "source_url": "https://usaassistance.org/programs/the-mission-at-kern-county/",
+    "source_updated": "August 2026",
+    "primary_url": "https://themissionkc.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://themissionkc.org/homeless-services/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

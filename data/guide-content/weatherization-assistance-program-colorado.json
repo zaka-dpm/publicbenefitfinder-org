@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado weatherization provides no-cost energy-efficiency work for qualified homes. A local provider evaluates eligibility and decides which improvements the home needs.",
+  "description": "Colorado weatherization provides no-cost energy-efficiency work for qualified homes. A local provider evaluates eligibility and decides which improvements the home needs.",
+  "sections": {
+    "who": "<p>Eligibility depends on county, household size and income, or enrollment in specified assistance programs. Renters need the owner’s permission. Manufactured homes can be served; RVs cannot.</p>",
+    "get": "<p>An energy audit guides work such as insulation, air sealing or heating improvements. Approval does not guarantee every listed measure, and a waiting list may apply.</p>",
+    "docs": "<ul><li>Household size and income records or current qualifying-benefit evidence.</li><li>Address, ownership or rental information.</li><li>Owner’s permission for a rental and any information on earlier weatherization.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the county provider</h3><p>Use the map and provider list on the <a href=\"https://energyoffice.colorado.gov/weatherization-assistance-program\">Colorado Energy Office WAP page</a>.</p></li><li><h3 class=\"pbf-h3\">Submit an application</h3><p>Use the linked online application or ask the provider for a mailed paper form. Confirm which records it requires.</p></li><li><h3 class=\"pbf-h3\">Arrange the audit and work</h3><p>If approved, the provider schedules an energy audit, appropriate improvements and a quality inspection.</p></li></ol>",
+    "after": "<p>Ask about the queue before relying on an installation date. This is home improvement assistance, not payment of an overdue utility bill.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://energyoffice.colorado.gov/weatherization-assistance-program\">Colorado WAP application and services</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes, with the property owner’s permission."
+    ],
+    [
+      "Will every approved home receive a new furnace?",
+      "No. Measures are selected from the home’s energy audit."
+    ],
+    [
+      "Does income eligibility guarantee work?",
+      "No. Funding, capacity and utility-provider arrangements can affect availability."
+    ],
+    [
+      "Are previously treated homes eligible again?",
+      "The state says homes weatherized within the preceding 15 years are not eligible for repeat weatherization."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://energyoffice.colorado.gov/weatherization-assistance-program"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-colorado/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

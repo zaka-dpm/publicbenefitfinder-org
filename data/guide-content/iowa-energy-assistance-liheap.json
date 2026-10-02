@@ -1,0 +1,45 @@
+{
+  "status": "reviewed",
+  "description": "Iowa LIHEAP helps qualifying households with part of winter heating costs. County community action agencies handle applications.",
+  "introduction": "Iowa LIHEAP helps qualifying households with part of winter heating costs. County community action agencies handle applications.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>Renters and homeowners can apply. Iowa Community Action’s current 2026 guidance identifies a 200% federal-poverty income ceiling. The county agency checks income, heating burden and the remaining conditions. Use current local screening rather than the expired dollar table still on the state overview.</p>",
+    "get": "<p>The award supplements heating costs; it is not intended to pay the entire seasonal bill. Household size, income, housing and heating fuel affect the assistance.</p>",
+    "docs": "<p>Ask the local office for its checklist. Prepare household income records and the heating account or fuel bill so the office can identify the household and energy burden.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Contact the community action agency serving your county. State guidance lists October 1 intake for households with a member 60 or older or disabled, November 1 for others, and April 30 closing. Confirm the current season with that office.</p></li><li><p>For Boone, Jasper, Marion, Polk and Warren counties, IMPACT lists the 2026–27 season and telephone or in-person appointments at 515-518-4770. Its webpage still labels online intake closed, so confirm availability before using the form. Elsewhere, use your own county agency.</p></li><li><p>Tell the office about a shutoff notice, disconnection or failed furnace immediately. IMPACT also lists at-risk households for early October intake. Do not assume those local contact arrangements apply statewide.</p></li></ol>",
+    "after": "<p>Read the award notice and confirm how it reaches the utility or fuel supplier. Keep discussing payment arrangements with the supplier while the application is pending.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/assistance-programs/housing-rent-assistance/low-income-home-energy-assistance\">Iowa LIHEAP overview and local intake</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-energy-assistance-liheap/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p><p>Current-year income screening: <a href=\"https://iowacommunityaction.org/poverty-guidelines/\">Iowa Community Action’s 2026 guidance</a>. Five-county intake and crisis routes: <a href=\"https://www.impactcap.org/utility-assistance\">IMPACT utility assistance</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes, subject to program requirements."
+    ],
+    [
+      "Does LIHEAP pay the whole winter bill?",
+      "No. It provides supplemental assistance."
+    ],
+    [
+      "Should I use last season’s income table?",
+      "No. Confirm the current limits with the county agency."
+    ],
+    [
+      "Where is intake handled?",
+      "At the community action agency serving your county."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/assistance-programs/housing-rent-assistance/low-income-home-energy-assistance",
+      "https://iowacommunityaction.org/poverty-guidelines/",
+      "https://www.impactcap.org/utility-assistance"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots.",
+    "resolved_notes": [
+      "Current 200%FPL verified through community-action association; season and local application routes verified through IMPACT with explicit five-county scope; stale statewide dollar chart omitted."
+    ]
+  }
+}

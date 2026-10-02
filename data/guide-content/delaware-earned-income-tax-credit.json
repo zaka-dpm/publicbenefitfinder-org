@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware residents who qualify for federal EITC can claim a state earned income tax credit. Choose the applicable option using the filing year’s instructions.",
+  "description": "Delaware residents who qualify for federal EITC can claim a state earned income tax credit. Choose the applicable option using the filing year’s instructions.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility and Delaware resident-return rules apply. Filing status and how spouses file can affect the calculation.</p>",
+    "get": "<p>For tax year 2025, resident instructions offer a refundable credit equal to 4.5% of federal EITC or a nonrefundable 20% option. Compare the result; do not add both.</p>",
+    "docs": "<ul><li>The completed federal return and federal EITC amount.</li><li>Wage and self-employment records.</li><li>The matching Delaware resident return and required credit schedule.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select the correct year</h3><p>Use <a href=\"https://revenue.delaware.gov/personal-income-tax-forms/\">Delaware personal income-tax forms</a>.</p></li><li><h3 class=\"pbf-h3\">Compare credit options</h3><p>Follow the resident instructions. A refundable-credit claim requires PIT-CRS.</p></li><li><h3 class=\"pbf-h3\">File and keep the calculation</h3><p>Submit the required schedule with the return and retain your worksheets.</p></li></ol>",
+    "after": "<p>These stated percentages refer to 2025. Recheck instructions for another year and respond to any revenue-department notice.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/PIT-RES_Instructions_2025-01.pdf\">2025 resident return instructions</a>; <a href=\"https://revenue.delaware.gov/personal-income-tax-forms/\">Delaware tax forms</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I add both options?",
+      "No. Select the applicable option under the instructions."
+    ],
+    [
+      "Which option can produce a refund?",
+      "The refundable option can; nonrefundable credit only offsets tax."
+    ],
+    [
+      "Is this claimed through ASSIST?",
+      "No. Use the state tax return."
+    ],
+    [
+      "Can I reuse 2025 instructions for another year?",
+      "Use the forms for the year being filed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/PIT-RES_Instructions_2025-01.pdf",
+      "https://revenue.delaware.gov/personal-income-tax-forms/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

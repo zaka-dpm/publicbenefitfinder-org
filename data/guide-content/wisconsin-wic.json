@@ -1,0 +1,58 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin WIC provides food, nutrition education and breastfeeding support. Start a pre-application or contact the local WIC office, then complete its eligibility screening.",
+  "introduction": "Wisconsin WIC provides food, nutrition education and breastfeeding support. Start a pre-application or contact the local WIC office, then complete its eligibility screening.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Wisconsin residents who are pregnant, recently postpartum, breastfeeding an eligible baby, or children under five.",
+      "Household income and nutrition needs are assessed by the clinic; foster parents and relatives can apply for a child in their care."
+    ],
+    "get": "<p>Nutrition services and eWIC food benefits after approval. Ask the clinic about the foods suitable for each participant and how to use the card.</p>",
+    "docs": "<p>Prepare ID for each participant, Wisconsin address proof and household income records. The state accepts recent pay records or relevant program letters. Ask the clinic for a Family Portal link if sending proof online.</p>",
+    "apply": "<ol><li>Use Start your pre-application on the WIC homepage or contact your county or Tribal WIC office.</li><li>Arrange screening and confirm attendance and records needed.</li><li>Provide the requested information and complete health and nutrition questions.</li></ol>",
+    "after": "<p>Approved participants receive an eWIC card. Keep clinic appointments and track benefit expiration; food benefits expire every 30 days. Use Wisconsin MyWIC or the card’s published contact route to check available foods.</p>",
+    "sources": "<ul><li><a href=\"https://www.dhs.wisconsin.gov/wic/index.htm\">WIC pre-application and services</a></li><li><a href=\"https://www.dhs.wisconsin.gov/wic/income-guidelines.htm\">WIC eligibility and documents</a></li><li><a href=\"https://www.dhs.wisconsin.gov/wic/apply.htm\">Local WIC contacts</a></li><li><a href=\"https://www.dhs.wisconsin.gov/wic/questions.htm\">eWIC use and expiration</a></li><li><a href=\"https://usaassistance.org/programs/wisconsin-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a foster parent apply?",
+      "Yes, foster parents and relatives can apply for a child in their care."
+    ],
+    [
+      "Can I send records online?",
+      "Ask your office for a Family Portal invitation."
+    ],
+    [
+      "Does WIC ask immigration status?",
+      "The state eligibility page says WIC staff do not ask it."
+    ],
+    [
+      "Do unused food benefits carry forward?",
+      "The state FAQ says food benefits expire every 30 days."
+    ],
+    [
+      "How do I find my clinic?",
+      "The state Apply for WIC page lists county and Tribal contacts."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wisconsin-wic",
+    "source_url": "https://usaassistance.org/programs/wisconsin-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.dhs.wisconsin.gov/wic/apply.htm",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://www.dhs.wisconsin.gov/wic/apply.htm",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.dhs.wisconsin.gov/wic/index.htm",
+      "https://www.dhs.wisconsin.gov/wic/income-guidelines.htm",
+      "https://www.dhs.wisconsin.gov/wic/apply.htm",
+      "https://www.dhs.wisconsin.gov/wic/questions.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

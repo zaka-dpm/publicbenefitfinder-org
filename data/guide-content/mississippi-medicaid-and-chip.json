@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi Medicaid and CHIP provide health coverage for people who meet the applicable program category and financial rules.",
+  "description": "Mississippi Medicaid and CHIP provide health coverage for people who meet the applicable program category and financial rules.",
+  "sections": {
+    "who": "<p>Children, pregnant applicants and low-income parents use the MAGI application. Age, blindness or disability applications use a separate ABD form.</p>",
+    "get": "<p>Coverage and cost-sharing depend on the approved program. Ask the agency which category applies to each family member.</p>",
+    "docs": "<ul><li>Birth dates and requested Social Security or immigration document numbers.</li><li>Recent household income records.</li><li>Existing and employer-offered insurance information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the route</h3><p>Apply through <a href=\"https://medicaid.ms.gov/how-to-apply-2/\">Medicaid’s application page</a>: online Access MS, mail, fax or a regional office.</p></li><li><h3 class=\"pbf-h3\">Use the correct form</h3><p>Select MAGI or ABD as appropriate. Call 800-421-2408 for help or a mailed application.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Provide requested records and save confirmation.</p></li></ol>",
+    "after": "<p>Check notices, application status and renewals through the account where available.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://medicaid.ms.gov/how-to-apply-2/\">Mississippi health-benefit applications</a>; <a href=\"https://medicaid.ms.gov/medicaid-coverage/\">Coverage overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is CHIP a separate first application?",
+      "Medicaid’s health-benefit application screens relevant coverage."
+    ],
+    [
+      "Can I apply without internet?",
+      "Mail, fax and regional-office routes exist."
+    ],
+    [
+      "Is the ABD form for children generally?",
+      "It is for age, blindness or disability-related Medicaid."
+    ],
+    [
+      "What number helps with applying?",
+      "800-421-2408."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://medicaid.ms.gov/how-to-apply-2/",
+      "https://medicaid.ms.gov/medicaid-coverage/"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-medicaid-and-chip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

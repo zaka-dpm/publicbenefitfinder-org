@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "PALawHELP offers civil legal information and links to assistance in Pennsylvania. The Legal Aid Network provides a separate application route.",
+  "description": "PALawHELP offers civil legal information and links to assistance in Pennsylvania. The Legal Aid Network provides a separate application route.",
+  "sections": {
+    "who": "<p>Online information is available to readers. Legal-aid programs assess financial eligibility, county coverage, issue and available resources.</p>",
+    "get": "<p>You can find self-help materials and request civil legal help. Representation requires acceptance by an actual provider.</p>",
+    "docs": "<ul><li>Notices and court papers with deadlines.</li><li>Documents connected to the legal issue.</li><li>Household information requested by intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Read relevant information</h3><p>Start at <a href=\"https://www.palawhelp.org/\">PALawHELP</a> and choose your issue and location.</p></li><li><h3 class=\"pbf-h3\">Request help</h3><p>Use <a href=\"https://palegalaid.net/find-legal-help/apply\">PLAN’s legal-services application</a> or contact the provider serving your county.</p></li><li><h3 class=\"pbf-h3\">Explain timing</h3><p>State any hearing or response deadline during intake.</p></li></ol>",
+    "after": "<p>Do not assume the website represents you. Ask whether the organization accepted your case and what you need to do meanwhile.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://palegalaid.net/explore-your-issue-palawhelporg\">PALawHELP’s operator</a>; <a href=\"https://palegalaid.net/find-legal-help/apply\">PLAN intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does PALawHELP directly represent clients?",
+      "It is an information and referral site."
+    ],
+    [
+      "Where does an online request go?",
+      "PLAN’s tool routes it to the program serving your county."
+    ],
+    [
+      "Can I contact a provider directly?",
+      "Yes. Use the county provider directory."
+    ],
+    [
+      "What if a court date is near?",
+      "Mention it immediately when requesting help."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://palegalaid.net/explore-your-issue-palawhelporg",
+      "https://palegalaid.net/find-legal-help/apply"
+    ],
+    "background_source": "https://usaassistance.org/programs/palawhelp-org-eviction-and-legal-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

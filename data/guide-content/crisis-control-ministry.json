@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Crisis Control Ministry provides short-term help during a financial crisis in Forsyth and Stokes counties. Assistance starts with an interview.",
+  "introduction": "Crisis Control Ministry provides short-term help during a financial crisis in Forsyth and Stokes counties. Assistance starts with an interview.",
+  "service_type": "navigation",
+  "sections": {
+    "who": "<p>The ministry verifies the cause of the crisis and considers whether household finances can recover. A crisis is an unusual event outside your control. Residents of ZIP codes 27107 and 27127 are directed to Sunnyside Ministries first for financial assistance.</p>",
+    "get": "<p>Financial help can address rent or mortgage costs, utilities, heating fuel and certain housing or utility deposits. Staff assess the need, other available resources and a workable recovery plan.</p>",
+    "docs": "<p>Prepare household income and major expenses before the interview. Have the relevant bill, notice and evidence explaining the crisis ready. Staff tell you if further records are needed.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call Winston-Salem client services at 336-724-7453 to ask about assistance. Phone and in-person interviews are available.</p></li><li><p>Explain the event that caused the shortfall, the amount due and any shutoff or housing deadline. Ask which office and interview route to use.</p></li><li><p>Provide requested records and ask about the decision, payment timing and any remaining balance.</p></li></ol>",
+    "after": "<p>Keep a record of the outcome. Confirm any payment or postponement with the landlord or utility; requesting help alone does not suspend a deadline.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://crisiscontrol.org/what-we-do/services/financial-assistance.html\">Financial assistance</a>, <a href=\"https://crisiscontrol.org/what-we-do/services/information-to-bring.html\">Interview and required information</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/crisis-control-ministry/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Must I travel to Winston-Salem?",
+      "The ministry offers telephone as well as in-person interviews. Call to arrange the appropriate route."
+    ],
+    [
+      "What financial problems can it help with?",
+      "Its financial-assistance page lists rent or mortgage, utilities, heating fuel and some deposit assistance. Staff assess each request."
+    ],
+    [
+      "What should I prepare before calling?",
+      "Household income and major expenses, plus records of the bill and crisis."
+    ],
+    [
+      "Does it cover everyone in every ZIP code?",
+      "Its service area is Forsyth and Stokes counties, but it directs residents of 27107 and 27127 to Sunnyside Ministries first for financial help."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://crisiscontrol.org/what-we-do/services/financial-assistance.html",
+      "https://crisiscontrol.org/what-we-do/services/information-to-bring.html"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

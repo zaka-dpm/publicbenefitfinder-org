@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois LIHEAP helps eligible households with home energy costs. County agencies review requests and determine the assistance available.",
+  "description": "Illinois LIHEAP helps eligible households with home energy costs. County agencies review requests and determine the assistance available.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>Income limits vary with the funding and utility arrangement. Use the program-year guidance for your supplier and household; do not assume one percentage applies to every Illinois customer.</p>",
+    "get": "<p>Assistance can include a one-time energy payment and qualifying crisis help. Ask your supplier separately about ongoing low-income discounts.</p>",
+    "docs": "<ul><li>Evidence of the previous 30 days of income.</li><li>Recent heating and electricity bills.</li><li>A lease showing included utilities, rent and landlord details when relevant.</li><li>SSN or ITIN information if available and benefit enrollment evidence requested by the agency.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check your opening date</h3><p>For 2026–2027, priority groups can apply October 1, 2026; other eligible households start November 1. The published period ends August 13, 2027 or when funding runs out.</p></li><li><h3 class=\"pbf-h3\">Request services</h3><p>Use <a href=\"https://helpillinoisfamilies.com/\">Help Illinois Families</a> or contact the county agency directly.</p></li><li><h3 class=\"pbf-h3\">For disconnection, call the agency</h3><p>Describe the shutoff date rather than waiting only for an online callback.</p></li></ol>",
+    "after": "<p>The county agency follows up to verify the request. Keep confirmation and application details, and continue discussing urgent service issues with the utility.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://dceo.illinois.gov/communityservices/utilitybillassistance/howtoapply.html\">current-season applications and documents</a>, <a href=\"https://dceo.illinois.gov/communityservices/utilitybillassistance.html\">LIHEAP service overview</a>, <a href=\"https://dceo.illinois.gov/communityservices/utilitybillassistance/faqs.html\">utility arrangements and questions</a>. Agency staff determine eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Are utilities included in rent a barrier?",
+      "Not necessarily. Provide the rental agreement requested by the agency."
+    ],
+    [
+      "What if I have no SSN or ITIN?",
+      "The current application page says you can still apply; the county agency advises on the process."
+    ],
+    [
+      "Is an online request the final decision?",
+      "No. A local agency verifies eligibility and the benefit."
+    ],
+    [
+      "Does LIHEAP pay water or phone bills?",
+      "The program concerns home energy; ask for separate assistance for other bills."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://dceo.illinois.gov/communityservices/utilitybillassistance/howtoapply.html",
+      "https://dceo.illinois.gov/communityservices/utilitybillassistance.html",
+      "https://dceo.illinois.gov/communityservices/utilitybillassistance/faqs.html"
+    ]
+  }
+}

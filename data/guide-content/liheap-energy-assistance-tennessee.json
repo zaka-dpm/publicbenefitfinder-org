@@ -1,0 +1,39 @@
+{
+  "status": "authored",
+  "introduction": "Tennessee LIHEAP is administered through county-serving agencies, with a THDA online intake route. Confirm the current application period before submitting.",
+  "description": "Tennessee LIHEAP is administered through county-serving agencies, with a THDA online intake route. Confirm the current application period before submitting.",
+  "sections": {
+    "who": "<p>The provider reviews household income and energy circumstances under current program rules.</p>",
+    "get": "<p>Approved payments go to the utility or energy supplier rather than the applicant.</p>",
+    "docs": "<ul><li>Household income information.</li><li>Utility account and energy-cost records.</li><li>Any shutoff notice and requested identity evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate current intake</h3><p>Use <a href=\"https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/\">THDA’s application and county-provider links</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the current period</h3><p>Ask the county agency which application and funding window applies now.</p></li><li><h3 class=\"pbf-h3\">Submit the checklist</h3><p>Keep confirmation and answer the provider’s verification requests.</p></li></ol>",
+    "after": "<p>Contact the utility while waiting and raise an urgent disconnection with local intake.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/\">THDA LIHEAP intake and payments</a>, <a href=\"https://liheapch.acf.gov/node/1260\">Federal Tennessee intake directory</a>. <a href=\"https://usaassistance.org/programs/liheap-energy-assistance-tennessee/\">USA Assistance background guide</a>. The linked provider must confirm current eligibility and intake arrangements.</p>"
+  },
+  "faqs": [
+    [
+      "Is payment made to me?",
+      "THDA describes payment through the agency to the utility or supplier."
+    ],
+    [
+      "Who can help with an online form?",
+      "THDA identifies the agency serving your county for application assistance."
+    ],
+    [
+      "Why should I check the period?",
+      "The accessible guidance describes the 2025–26 opening; current 2026–27 intake needs confirmation."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://thda.org/help-for-homeowners/low-income-home-energy-assistance-program-liheap/",
+      "https://liheapch.acf.gov/node/1260"
+    ],
+    "facts_verified": false,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [
+      "THDA page inaccessible to direct opening. Indexed primary guidance confirms online/local intake and supplier payments but current 2026–27 enrollment and eligibility detail were not retrievable."
+    ]
+  }
+}

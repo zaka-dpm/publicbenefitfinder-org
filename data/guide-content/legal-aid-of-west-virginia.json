@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Legal Aid of West Virginia provides free help with accepted civil legal matters. Call directly when a hearing or filing deadline is within ten days instead of waiting for onli",
+  "introduction": "Legal Aid of West Virginia provides free help with accepted civil legal matters. Call directly when a hearing or filing deadline is within ten days instead of waiting for online intake.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "People with civil legal problems that meet Legal Aid’s eligibility and case acceptance rules.",
+      "Criminal matters are generally excluded. The intake page also identifies exclusions and alternative resources for foreclosure and many child support matters."
+    ],
+    "get": "<p>Advice or other legal services if the organization accepts the matter. Legal Aid does not charge clients, but court filing fees can still arise.</p>",
+    "docs": "<p>Collect notices, hearing dates, orders, the other party’s name and relevant correspondence. Put the earliest deadline at the top of your notes before calling.</p>",
+    "apply": "<ol><li>Call 866-255-4370: Monday, Wednesday, Thursday and Friday 8:30 a.m.–3:30 p.m.; Tuesday 8:30 a.m.–12:30 p.m.</li><li>For a non-urgent matter, use the online intake screening if appropriate.</li><li>Give a reachable telephone number and request an interpreter when needed.</li></ol>",
+    "after": "<p>Online applicants should watch for follow-up calls. Confirm whether the organization has accepted the case and what it will do. Keep following court instructions while seeking help.</p>",
+    "sources": "<ul><li><a href=\"https://legalaidwv.org/get-help/apply-for-help/\">Legal Aid intake, hours and exclusions</a></li><li><a href=\"https://legalaidwv.org/about-us/our-locations/\">Local office intake guidance</a></li><li><a href=\"https://usaassistance.org/programs/legal-aid-of-west-virginia/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply online with a hearing next week?",
+      "The intake page directs callers with a deadline within ten days to telephone immediately."
+    ],
+    [
+      "Can I visit any office to begin?",
+      "The locations page says most people should use the application process first."
+    ],
+    [
+      "Is representation guaranteed?",
+      "Ask whether the matter has been accepted and the scope of help."
+    ],
+    [
+      "Are interpreters available?",
+      "Yes, request one during telephone intake."
+    ],
+    [
+      "Can it defend a criminal charge?",
+      "The intake page excludes criminal cases and directs people to other resources."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "legal-aid-of-west-virginia",
+    "source_url": "https://usaassistance.org/programs/legal-aid-of-west-virginia/",
+    "source_updated": "August 2026",
+    "primary_url": "https://legalaidwv.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://legalaidwv.org/get-help/apply-for-help/",
+      "https://legalaidwv.org/about-us/our-locations/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

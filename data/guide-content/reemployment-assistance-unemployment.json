@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida Reemployment Assistance provides temporary benefits to qualifying workers. File through Reconnect and follow the ongoing payment-request instructions after the initial application.",
+  "description": "Florida Reemployment Assistance provides temporary benefits to qualifying workers. File through Reconnect and follow the ongoing payment-request instructions after the initial",
+  "sections": {
+    "who": "<p>FloridaCommerce reviews past wages, the circumstances of job loss and continuing eligibility. Being out of work is not itself an approval; ability and availability for work are assessed.</p>",
+    "get": "<p>Approved claimants receive temporary benefit payments. A wage or monetary determination is only one part of the claim review.</p>",
+    "docs": "<ul><li>Government-issued identification and Social Security number.</li><li>Employer names, contact details, dates worked, earnings and separation reasons for the past 18 months.</li><li>Applicable military, federal-employment or work-authorization records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Access Reconnect</h3><p>Start from <a href=\"https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits\">FloridaCommerce’s application page</a> and complete the identity and login process.</p></li><li><h3 class=\"pbf-h3\">File the claim</h3><p>Report all requested employment history, not just the most recent job. Save the confirmation.</p></li><li><h3 class=\"pbf-h3\">Request benefits</h3><p>Review your monetary determination, respond to fact-finding and request benefits every two weeks. Follow the work-search and workforce-registration instructions applicable to your claim.</p></li></ol>",
+    "after": "<p>Check the Reconnect Dashboard for messages and record each payment request. Correct missing wages through the review process identified in the determination.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits\">Apply for benefits</a>, <a href=\"https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/claimant-faq\">Claimant FAQ</a>. <a href=\"https://usaassistance.org/programs/reemployment-assistance-unemployment/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is filing the initial application enough?",
+      "No. FloridaCommerce instructs claimants to request benefits every two weeks and satisfy ongoing requirements."
+    ],
+    [
+      "Can I get help without my own computer?",
+      "The agency lists local CareerSource centers as an application route; call ahead about assistance."
+    ],
+    [
+      "Should I list earlier employers?",
+      "Yes. Florida requests employment information for the preceding 18 months."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits",
+      "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/claimant-faq"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

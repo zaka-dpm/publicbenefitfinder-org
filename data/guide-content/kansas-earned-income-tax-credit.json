@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Kansas’s earned income tax credit is claimed on the state income-tax return and is based on the federal EITC.",
+  "introduction": "Kansas’s earned income tax credit is claimed on the state income-tax return and is based on the federal EITC.",
+  "service_type": "tax",
+  "sections": {
+    "who": "<p>The 2025 Kansas instructions limit this credit to residents, excluding part-year residents and nonresidents. Federal EITC eligibility and the federal amount are needed first.</p>",
+    "get": "<p>For tax year 2025, Kansas calculates the credit at 17% of federal EITC. Follow the K-40 worksheet to apply the credit and its refundable portion.</p>",
+    "docs": "<p>Keep the federal EITC calculation, wage records and completed K-40 worksheet. Store dependent and residency evidence with your return.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the tax booklet matching the year of the return. Calculate the federal credit before completing Kansas’s EITC worksheet.</p></li><li><p>Enter the state credit and refundable amount as instructed on K-40. If the IRS has not yet calculated your federal EITC, the Kansas booklet explains filing without the credit and later amending.</p></li></ol>",
+    "after": "<p>Keep copies of both returns. Respond to Revenue notices using the address or secure process in the notice.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.ksrevenue.gov/incomebook25.html\">2025 Kansas income-tax booklet</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-earned-income-tax-credit/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can a part-year resident claim the 2025 Kansas credit?",
+      "The 2025 booklet says this credit is for residents only."
+    ],
+    [
+      "What percentage applies for 2025?",
+      "17% of federal EITC."
+    ],
+    [
+      "Is this a monthly assistance payment?",
+      "No. It is a state tax-return credit."
+    ],
+    [
+      "What if the IRS has not calculated my federal EITC yet?",
+      "Follow Kansas’s filing and amendment instructions; do not delay a required payment without checking them."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.ksrevenue.gov/incomebook25.html"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

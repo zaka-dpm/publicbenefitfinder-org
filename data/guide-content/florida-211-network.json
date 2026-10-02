@@ -1,0 +1,44 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida’s 211 network can help you find local food, housing, utility and other community services. Use the network’s search to identify the appropriate local contact.",
+  "description": "Florida’s 211 network can help you find local food, housing, utility and other community services. Use the network’s search to identify the appropriate local contact.",
+  "sections": {
+    "who": "<p>A referral search is different from applying for a benefit. Eligibility, funding and service-area requirements belong to the organization receiving the referral.</p>",
+    "get": "<p>Florida’s network describes a free, confidential service connecting residents with local community organizations. Its statewide directory covers food, housing, utility assistance, healthcare and other needs. Local centers provide the referral; the receiving agency decides eligibility.</p>",
+    "docs": "<ul><li>Have your county or ZIP code available.</li><li>Describe the type of help needed and any imminent deadline.</li><li>Keep a pen or device ready to record provider names and contact details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your local contact</h3><p>Use <a href=\"https://help.fl211.org/\">Florida 211’s search</a> or dial 211. If your phone or wi-fi calling cannot connect to the short number, use <a href=\"https://fl211.org/contact-us/\">the network’s local-center links</a> to find the center’s ten-digit number or web-chat option.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Tell the specialist what help you need, where you live and whether you have already contacted any agencies.</p></li><li><h3 class=\"pbf-h3\">Contact the referral</h3><p>Confirm the provider serves your location and ask how to apply.</p></li></ol>",
+    "after": "<p>If a referral is unavailable, ask for alternatives. Contact hours and channels vary by local center; check your own center’s current information.</p>",
+    "sources": "<p>Service purpose and network: <a href=\"https://fl211.org/about-us/\">Inform Florida</a>. Current contact routes and connection problems: <a href=\"https://fl211.org/contact-us/\">Florida 211 contact help</a>. Search by place and need: <a href=\"https://help.fl211.org/\">statewide resource directory</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 approve a benefit?",
+      "No. It helps you locate services; the provider handles the application and decision."
+    ],
+    [
+      "What if a suggested agency cannot help?",
+      "Ask the local 211 center for another referral and explain the reason the first option was unsuitable."
+    ],
+    [
+      "Are all local centers’ hours identical?",
+      "Do not assume so. Confirm the hours and contact options for your local center."
+    ],
+    [
+      "What if dialing 211 does not connect?",
+      "Use the local-center link on Florida 211’s contact page for its ten-digit number or available web chat."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://help.fl211.org/",
+      "https://fl211.org/about-us/",
+      "https://fl211.org/contact-us/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "resolved_notes": [
+      "Verified statewide contact and local-center fallback. No universal text shortcode or regional live-hours claim made."
+    ]
+  }
+}

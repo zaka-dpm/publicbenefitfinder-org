@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Jersey uses a shared application for LIHEAP and the Universal Service Fund. Apply through DCAid or an authorized local agency and explain any pending shutoff.",
+  "description": "New Jersey uses a shared application for LIHEAP and the Universal Service Fund. Apply through DCAid or an authorized local agency and explain any pending shutoff.",
+  "sections": {
+    "who": "<p>LIHEAP considers household income and responsibility for heating or medically necessary cooling costs, including some costs within rent. USF has its own utility-cost assessment; one submission is not automatic approval of both.</p>",
+    "get": "<p>LIHEAP offsets qualifying energy costs; USF credits help with qualifying electric or gas bills. Ask how an approved benefit reaches your account and what balance remains.</p>",
+    "docs": "<ul><li>Current energy bills and account details.</li><li>Household income evidence.</li><li>Identity and residence information requested by the application.</li><li>Any medical cooling documentation or shutoff notice relevant to the request.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the shared application</h3><p>Go to <a href=\"https://www.nj.gov/dca/dcaid\">DCAid</a> and select USF/Home Energy Assistance.</p></li><li><h3 class=\"pbf-h3\">Request assistance if needed</h3><p>Call 800-510-3102 for local intake help or ask about a home visit if disabled and homebound.</p></li><li><h3 class=\"pbf-h3\">Complete document requests</h3><p>Submit the required proof and check status messages and email.</p></li></ol>",
+    "after": "<p>The FFY 2027 LIHEAP fact sheet lists October 1, 2026–June 30, 2027, subject to available funding. USF applications continue year-round. Confirm current availability before relying on a projected payment.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://nj.gov/dca/dhcr/offices/USFHEA_factsheet.shtml\">Current FFY 2027 LIHEAP/USF fact sheet</a>, <a href=\"https://nj.gov/dca/dhcr/faq/\">Shared application and assistance options</a>, <a href=\"https://www.nj.gov/bpu/assistance/programs/\">Year-round USF and status guidance</a>. <a href=\"https://usaassistance.org/programs/nj-home-energy-assistance-liheap-and-usf/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do LIHEAP and USF need separate initial forms?",
+      "The state says they share an application."
+    ],
+    [
+      "Can I apply for USF outside the LIHEAP season?",
+      "Yes. The state lists year-round USF intake."
+    ],
+    [
+      "Does receiving SNAP automatically enroll me?",
+      "No. Data may be checked, but energy-program eligibility and additional proof still apply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://nj.gov/dca/dhcr/offices/USFHEA_factsheet.shtml",
+      "https://nj.gov/dca/dhcr/faq/",
+      "https://www.nj.gov/bpu/assistance/programs/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

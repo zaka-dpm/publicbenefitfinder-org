@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon utility-bill assistance is delivered by local Community Action agencies. OHCS funds the programs but does not approve individual household applications.",
+  "description": "Oregon utility-bill assistance is delivered by local Community Action agencies. OHCS funds the programs but does not approve individual household applications.",
+  "sections": {
+    "who": "<p>Local intake assesses household finances and the relevant energy program. Ask which assistance applies to your utility and circumstances.</p>",
+    "get": "<p>Approved payments go to the utility on the household’s behalf and can help prevent or restore loss of service.</p>",
+    "docs": "<ul><li>Household income.</li><li>Utility account and energy bills.</li><li>Any disconnect notice and provider checklist items.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your provider</h3><p>Use <a href=\"https://www.oregon.gov/ohcs/energy-weatherization/pages/utility-bill-payment-assistance.aspx\">OHCS’s Community Action link</a>.</p></li><li><h3 class=\"pbf-h3\">Ask about intake</h3><p>Explain the bill, utility and urgency; confirm available funding and appointments.</p></li><li><h3 class=\"pbf-h3\">Submit local records</h3><p>Keep the application confirmation and answer follow-up requests.</p></li></ol>",
+    "after": "<p>Stay in contact with the utility while your application is pending and read the provider’s decision.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/ohcs/energy-weatherization/pages/utility-bill-payment-assistance.aspx\">Energy assistance and local intake</a>. <a href=\"https://usaassistance.org/programs/oregon-energy-assistance-liheap-oeap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does OHCS directly approve my application?",
+      "No. Its page states local agencies determine eligibility and award help."
+    ],
+    [
+      "Who receives an approved payment?",
+      "The utility company receives payment on the customer’s behalf."
+    ],
+    [
+      "Where should I start?",
+      "The state page links the Community Action agency serving your location."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/ohcs/energy-weatherization/pages/utility-bill-payment-assistance.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada childcare subsidy applications can be submitted through Access Nevada. Check the state’s current parent instructions because regional submission options and waiting-list arrangements differ.",
+  "description": "Nevada childcare subsidy applications can be submitted through Access Nevada. Check the state’s current parent instructions because regional submission options and waiting-lis",
+  "sections": {
+    "who": "<p>The program evaluates household income and the adults’ approved need for care, such as work or qualifying education activities. Initial and renewal income rules differ; the current chart applies.</p>",
+    "get": "<p>Subsidy helps with approved childcare costs. Family copayments and provider eligibility must be confirmed, and new applicants may face an indefinite waiting period.</p>",
+    "docs": "<ul><li>Prepare household identity, residence and income evidence.</li><li>Have work or education schedules and child custody details ready.</li><li>Ask about documentation for a child’s additional care needs.</li><li>Check that your selected provider is approved for subsidy.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online</h3><p>Use <a href=\"https://accessnevada.nv.gov/\">Access Nevada</a> from the state parent page.</p></li><li><h3 class=\"pbf-h3\">Use the correct regional alternative</h3><p>Southern Nevada applicants can also email ccdp@dss.nv.gov, mail the application or deliver it to DSS. Northern instructions currently direct applicants online.</p></li><li><h3 class=\"pbf-h3\">Confirm status before arranging paid care</h3><p>Ask whether you are waiting or approved, the authorized start date, provider and family copayment.</p></li></ol>",
+    "after": "<p>Read renewal and document requests promptly. An application or waiting-list place is not a payment authorization; confirm coverage dates before relying on reimbursement.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://prod.dss.nv.gov/programs/child-care/childcare-parents/\">Nevada parent application and waiting-list guidance</a>, <a href=\"https://www.dss.nv.gov/siteassets/dwss.nv.gov/content/access-nv/dss-application-and-forms/application-for-child-care-assistance/\">Application evidence checklist</a>. <a href=\"https://usaassistance.org/programs/nevada-child-care-subsidy-child-care-and-development-program/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without an existing subsidy account?",
+      "Access Nevada allows a family to create an account and apply."
+    ],
+    [
+      "How long is the waiting list?",
+      "The state does not publish a fixed waiting duration and says applications are processed chronologically."
+    ],
+    [
+      "Will my current certificate be reassessed immediately?",
+      "The published parent guidance says active certificates are honored until expiration; renewal applies current rules."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://prod.dss.nv.gov/programs/child-care/childcare-parents/",
+      "https://www.dss.nv.gov/siteassets/dwss.nv.gov/content/access-nv/dss-application-and-forms/application-for-child-care-assistance/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island UI provides temporary income after qualifying job loss. DLT reviews wages, separation and continuing eligibility.",
+  "description": "Rhode Island UI provides temporary income after qualifying job loss. DLT reviews wages, separation and continuing eligibility.",
+  "sections": {
+    "who": "<p>You must have enough qualifying wages and meet job-separation and weekly requirements. Explain all relevant employment circumstances accurately.</p>",
+    "get": "<p>Approved payments provide temporary support. Filing a claim and requesting weekly payments are separate actions.</p>",
+    "docs": "<ul><li>Identity and contact information.</li><li>Employer, employment dates and wage records.</li><li>The separation reason and requested supporting evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the claim</h3><p>Use the UI Online link on <a href=\"https://dlt.ri.gov/individuals/unemployment-insurance\">DLT Unemployment Insurance</a>.</p></li><li><h3 class=\"pbf-h3\">Answer follow-up requests</h3><p>Complete identity checks and any fact-finding questionnaire.</p></li><li><h3 class=\"pbf-h3\">Request payments</h3><p>Follow the state’s weekly payment instructions and report earnings accurately.</p></li></ol>",
+    "after": "<p>Read decisions and appeal instructions. If account access or claim filing fails, use the UI Help Form linked by DLT.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dlt.ri.gov/individuals/unemployment-insurance\">DLT unemployment</a>; <a href=\"https://dlt.ri.gov/individuals/unemployment-insurance/apply-unemployment-benefits\">DLT application instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is filing the initial claim enough?",
+      "No. Follow the separate payment-request instructions."
+    ],
+    [
+      "Does every job loss qualify?",
+      "DLT reviews wages and separation circumstances."
+    ],
+    [
+      "Where do I ask about technical problems?",
+      "Use the UI Help Form linked on the state UI page."
+    ],
+    [
+      "What if a form looks unreadable?",
+      "Check the saved file before uploading; DLT warns some iPhone PDFs have overlapping text."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dlt.ri.gov/individuals/unemployment-insurance",
+      "https://dlt.ri.gov/individuals/unemployment-insurance/apply-unemployment-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-rhode-island/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

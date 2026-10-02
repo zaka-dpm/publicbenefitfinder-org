@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "New York Medicaid application routes depend on age and eligibility category. The marketplace and local districts serve different applicants.",
+  "description": "New York Medicaid application routes depend on age and eligibility category. The marketplace and local districts serve different applicants.",
+  "sections": {
+    "who": "<p>Income, household, age, disability and care needs affect eligibility. Some applicants over the basic income level can qualify through another pathway.</p>",
+    "get": "<p>Approved coverage depends on the program and notice. Ask about applicable health-plan and provider arrangements.</p>",
+    "docs": "<ul><li>Household and income records.</li><li>Identity and requested eligibility evidence.</li><li>Insurance and medical-expense information where relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the correct route</h3><p>Read <a href=\"https://www.health.ny.gov/health_care/medicaid/how_do_i_apply.htm\">Medicaid application guidance</a>; most younger applicants use NY State of Health.</p></li><li><h3 class=\"pbf-h3\">Use local intake when needed</h3><p>Older, certified blind or disabled, and spenddown applicants may need district/HRA intake.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Provide requested proof and read the decision.</p></li></ol>",
+    "after": "<p>Follow renewal and change-reporting instructions; confirm current rules with the administering office.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.health.ny.gov/health_care/medicaid/how_do_i_apply.htm\">Medicaid applying</a>; <a href=\"https://www.health.ny.gov/health_care/medicaid/alternative_forms.htm\">District application categories</a>; <a href=\"https://www.nyc.gov/site/ochia/coverage-care/ny-state-of-health.page\">Marketplace access</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can everyone use one route?",
+      "No. Category matters."
+    ],
+    [
+      "Can medical expenses matter?",
+      "Ask about eligible spenddown pathways."
+    ],
+    [
+      "Can I apply throughout the year?",
+      "Medicaid applications are available year-round."
+    ],
+    [
+      "Who helps with marketplace intake?",
+      "NY State of Health at855-355-5777."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.health.ny.gov/health_care/medicaid/how_do_i_apply.htm",
+      "https://www.health.ny.gov/health_care/medicaid/alternative_forms.htm",
+      "https://www.nyc.gov/site/ochia/coverage-care/ny-state-of-health.page"
+    ],
+    "background_source": "https://usaassistance.org/programs/new-york-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont offers Medicaid coverage through Green Mountain Care, including coverage routes for children and adults. Eligibility categories have different application requirements.",
+  "description": "Vermont offers Medicaid coverage through Green Mountain Care, including coverage routes for children and adults. Eligibility categories have different application requirements.",
+  "sections": {
+    "who": "<p>Age, income, status and other circumstances determine the appropriate route. Older applicants, Medicare recipients and people with disabilities may need the aged, blind or disabled process.</p>",
+    "get": "<p>Approved coverage helps pay for covered health services. Review your program and plan information before arranging care.</p>",
+    "docs": "<ul><li>Household income and identity information.</li><li>Requested status and current coverage records.</li><li>Resources and disability-related evidence if required for the category.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the route</h3><p>Use <a href=\"https://dvha.vermont.gov/apply\">DVHA Apply</a> and the Vermont Health Connect links, or call 855-899-9600.</p></li><li><h3 class=\"pbf-h3\">Complete category-specific forms</h3><p>Ask whether supplemental aged, blind or disabled materials are needed.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check effective dates and follow any plan or provider instructions.</p></li></ol>",
+    "after": "<p>Keep contact details current, review renewal mail and return requested information. Ask DVHA about appeal instructions if you disagree.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dvha.vermont.gov/apply\">DVHA coverage application</a>; <a href=\"https://dvha.vermont.gov/members/medicaid/medicaid-aged-blind-or-disabled-mabd/application-checklist\">MABD checklist</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is every application identical?",
+      "No. Age, Medicare and disability can change the route."
+    ],
+    [
+      "Can I get application help?",
+      "DVHA lists telephone and local assister options."
+    ],
+    [
+      "Does submission activate coverage?",
+      "Confirm approval and dates in the decision."
+    ],
+    [
+      "Must I renew?",
+      "Respond to the renewal information sent for your case."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dvha.vermont.gov/apply",
+      "https://dvha.vermont.gov/members/medicaid/medicaid-aged-blind-or-disabled-mabd/application-checklist"
+    ],
+    "background_source": "https://usaassistance.org/programs/green-mountain-care-vermont-medicaid-and-dr-dynasaur/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

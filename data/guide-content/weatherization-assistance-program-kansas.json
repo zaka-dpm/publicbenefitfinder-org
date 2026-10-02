@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Kansas weatherization provides approved home energy improvements at no charge to eligible households. Apply through the provider serving your county.",
+  "introduction": "Kansas weatherization provides approved home energy improvements at no charge to eligible households. Apply through the provider serving your county.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": "<p>Income-eligible renters and homeowners can apply. Current KHRC guidance identifies SSI, TANF or LIEAP receipt as an income-eligibility pathway. The home must meet property conditions too.</p>",
+    "get": "<p>An energy audit identifies efficiency and safety measures. Approved work is performed through the program’s auditors and contractors.</p>",
+    "docs": "<p>Prepare household income or qualifying-benefit evidence and property information. Disclose prior weatherization and ask about landlord permission for a rental.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use <a href=\"https://kshousingcorp.org/housing-partners/community-solutions/\">KHRC’s current provider map</a> and contact the county’s weatherization provider.</p></li><li><p>Complete screening and arrange the energy assessment. The linked standardized application describes occupancy, active utilities and prior-weatherization conditions.</p></li></ol>",
+    "after": "<p>Confirm approved work, scheduling and contractor access with the provider. Keep completion paperwork and instructions for maintaining installed equipment.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://kshousingcorp.org/housing-partners/community-solutions/\">Program and county provider map</a>, <a href=\"https://kshousingcorp.org/wp-content/uploads/2024/06/Standardized-Weatherization-Application-2.23.26.pdf\">Standardized application and property screening</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-kansas/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes. Ask the provider about landlord approval and property requirements."
+    ],
+    [
+      "Are services free for eligible households?",
+      "KHRC describes approved services and upgrades as free."
+    ],
+    [
+      "Does receiving LIEAP help with income eligibility?",
+      "KHRC lists LIEAP as a qualifying income pathway. Other screening still applies."
+    ],
+    [
+      "Can a previously weatherized home qualify?",
+      "The application has prior-weatherization restrictions; give the provider the date and circumstances."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://kshousingcorp.org/housing-partners/community-solutions/",
+      "https://kshousingcorp.org/wp-content/uploads/2024/06/Standardized-Weatherization-Application-2.23.26.pdf"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

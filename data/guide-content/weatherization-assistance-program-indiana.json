@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Indiana weatherization helps eligible renters and homeowners improve energy efficiency through a local service provider. Approved work is provided without a charge.",
+  "introduction": "Indiana weatherization helps eligible renters and homeowners improve energy efficiency through a local service provider. Approved work is provided without a charge.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": "<p>IHCDA accepts income-eligible households or households deemed eligible for EAP. The home must be safe to weatherize, and previous program work can affect eligibility. The local provider checks both household and property conditions.</p>",
+    "get": "<p>An energy audit determines improvements such as insulation, air sealing or heating-system measures. This is not a general renovation or emergency repair program.</p>",
+    "docs": "<p>Ask the provider for its checklist. Prepare income information, your address and property details; renters should ask about owner permission.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the local provider</h3><p>Use the county map or mobile county selector on <a href=\"https://www.in.gov/ihcda/homeowners-and-renters/weatherizationenergy-conservation/\">IHCDA’s weatherization page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete eligibility intake</h3><p>The provider reviews your request; eligible homes can be placed on a waiting list.</p></li><li><h3 class=\"pbf-h3\">Arrange the energy audit</h3><p>Approved improvements follow the audit, installation and a final check.</p></li></ol>",
+    "after": "<p>Keep inspection appointments and the work record. Raise concerns with the provider first; use the decision letter’s appeal instructions for a denial or deferral.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/ihcda/homeowners-and-renters/weatherizationenergy-conservation/\">IHCDA weatherization process</a>, <a href=\"https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/\">Indiana EAP</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes. Ask the provider about the property and permission requirements."
+    ],
+    [
+      "Can I request a new roof?",
+      "Weatherization does not normally cover general roofing or siding repairs."
+    ],
+    [
+      "Is there a waiting list?",
+      "IHCDA describes a waiting list before the energy audit."
+    ],
+    [
+      "Does this pay my overdue utility bill?",
+      "No. Contact EAP or the utility for bill assistance."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.in.gov/ihcda/homeowners-and-renters/weatherizationenergy-conservation/",
+      "https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

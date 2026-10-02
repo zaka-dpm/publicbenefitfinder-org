@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan Legal Help provides free self-help information and tools for Michigan legal issues. Its Guide to Legal Help can identify lawyer referrals.",
+  "description": "Michigan Legal Help provides free self-help information and tools for Michigan legal issues. Its Guide to Legal Help can identify lawyer referrals.",
+  "sections": {
+    "who": "<p>Anyone with a Michigan legal issue can use the site. A referred legal aid organization separately screens eligibility and capacity.</p>",
+    "get": "<p>Resources cover housing, family, benefits, employment and other topics. The site does not provide legal advice or replace a lawyer.</p>",
+    "docs": "<ul><li>The notice or court paper you are responding to.</li><li>County, case type and the next deadline.</li><li>Income and household information for a lawyer-referral screen.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the relevant topic</h3><p>Use <a href=\"https://michiganlegalhelp.org/\">Michigan Legal Help’s resource library</a>.</p></li><li><h3 class=\"pbf-h3\">Use the Guide to Legal Help</h3><p>Answer the questions about the issue and location to find suitable information and referrals.</p></li><li><h3 class=\"pbf-h3\">Seek local assistance</h3><p>Check the self-help-center map, including the courthouse where you will file, and confirm opening hours.</p></li></ol>",
+    "after": "<p>Keep court deadlines. A referral or completed tool does not mean a lawyer has accepted representation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://michiganlegalhelp.org/\">Michigan Legal Help tools and referrals</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the site only for low-income users?",
+      "No. Anyone with a Michigan legal issue may use it."
+    ],
+    [
+      "Does it give legal advice?",
+      "No. It provides legal information and tools."
+    ],
+    [
+      "How do I find a lawyer?",
+      "Use the Guide to Legal Help."
+    ],
+    [
+      "Can someone help me use the tools?",
+      "The site lists legal self-help centers."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://michiganlegalhelp.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-legal-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

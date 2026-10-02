@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid Services of Oklahoma offers civil legal help to qualifying residents. Its online application has a follow-up telephone step; submission alone does not complete intake.",
+  "description": "Legal Aid Services of Oklahoma offers civil legal help to qualifying residents. Its online application has a follow-up telephone step; submission alone does not complete intak",
+  "sections": {
+    "who": "<p>LASO screens household income, household size and the civil legal issue. Criminal cases are outside the service described on its intake page.</p>",
+    "get": "<p>The provider assesses whether advice, legal information or representation can be offered.</p>",
+    "docs": "<ul><li>Household finances and contact information.</li><li>Names of other parties.</li><li>Notices, court papers and approaching dates.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online or telephone</h3><p>Use <a href=\"https://legalaidok.org/apply/\">LASO intake</a>. Telephone applications use 888-534-5243 or 918-428-4357, Monday–Thursday, 9 a.m.–4 p.m.</p></li><li><h3 class=\"pbf-h3\">Complete both online steps</h3><p>Submit the form, then check your email and call the priority number provided. Without email, use telephone intake.</p></li><li><h3 class=\"pbf-h3\">Explain urgency</h3><p>Tell staff about hearings, eviction notices or safety concerns and supply requested papers.</p></li></ol>",
+    "after": "<p>Ask whether representation has been accepted and what you must do next. Continue following court instructions while intake is pending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://legalaidok.org/apply/\">LASO eligibility and two-step intake</a>. <a href=\"https://usaassistance.org/programs/legal-aid-services-of-oklahoma/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is an online submission enough?",
+      "No. LASO instructs applicants to check email and telephone the priority number to complete intake."
+    ],
+    [
+      "What if I have no email?",
+      "The provider directs you to call 888-534-5243."
+    ],
+    [
+      "Does LASO handle criminal defence?",
+      "Its intake page describes civil, non-criminal help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://legalaidok.org/apply/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

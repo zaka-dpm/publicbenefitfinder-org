@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan’s Home Heating Credit helps qualifying homeowners and renters with heating expenses. The currently listed filing deadline was September 30, 2026.",
+  "description": "Michigan’s Home Heating Credit helps qualifying homeowners and renters with heating expenses. The currently listed filing deadline was September 30, 2026.",
+  "sections": {
+    "who": "<p>Eligibility depends on occupying a Michigan homestead, household resources and other filing conditions. Use the correct claim-year instructions.</p>",
+    "get": "<p>The credit helps with heating costs and may be issued through an energy draft or direct payment arrangements. It is not an immediate shutoff application.</p>",
+    "docs": "<ul><li>Annual household-resource records, not just monthly income.</li><li>Heating-cost records for the specified claim period.</li><li>Lease or property information, especially where heat is included in rent.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the claim year and deadline</h3><p>Review <a href=\"https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1\">Treasury’s Home Heating Credit guidance</a>. The listed September 30, 2026 deadline has passed.</p></li><li><h3 class=\"pbf-h3\">Use MI-1040CR-7</h3><p>The claim can be filed on its own if no MI-1040 return is required.</p></li><li><h3 class=\"pbf-h3\">Follow payment instructions</h3><p>If an energy draft cannot be used because heat is included in rent, follow Treasury’s review instructions.</p></li></ol>",
+    "after": "<p>Check claim status through Treasury eServices. For a current emergency, contact MDHHS rather than waiting for the next credit cycle.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1\">Home Heating Credit filing and payment guidance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I file without a Michigan income-tax return?",
+      "Yes. MI-1040CR-7 can be submitted separately when no return is required."
+    ],
+    [
+      "Is the listed 2026 deadline still upcoming?",
+      "No. September 30, 2026 has passed."
+    ],
+    [
+      "Should I enter monthly income?",
+      "The instructions require annual household resources."
+    ],
+    [
+      "Where do I check status?",
+      "Use Treasury Individual Income Tax eServices."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/taxes/questions/iit/accordion/heating/home-heating-credit-information-1"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-home-heating-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

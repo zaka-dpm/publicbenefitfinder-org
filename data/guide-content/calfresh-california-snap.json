@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "CalFresh is California’s SNAP food-assistance program. Apply through BenefitsCal or your county social-services agency.",
+  "introduction": "CalFresh is California’s SNAP food-assistance program. Apply through BenefitsCal or your county social-services agency.",
+  "service_type": "snap",
+  "sections": {
+    "who": "<p>County staff assess household income and the program’s other rules. SSI/SSP recipients may also qualify; receiving SSI is not a reason to rule out CalFresh.</p>",
+    "get": "<p>Approved households receive food benefits on EBT for eligible purchases. The county decision identifies the amount and certification period.</p>",
+    "docs": "<p>Prepare household information, income and relevant housing or care expenses. Follow the county’s verification checklist and identify any records you cannot obtain.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Start at <a href=\"https://BenefitsCal.com/\">BenefitsCal</a> or contact your county office. CalFresh information and county assistance are available through 877-847-3663.</p></li><li><p>Follow interview and verification notices. If you have little or no money and need food urgently, ask the county to assess expedited service.</p></li></ol>",
+    "after": "<p>California publishes a three-day expedited route for eligible households and a normal decision period of 30 days after application. Read reporting, recertification and fair-hearing instructions.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.cdss.ca.gov/food-nutrition/calfresh/restaurant-meals-program\">CalFresh and county contact</a>, <a href=\"https://www.cdss.ca.gov/inforesources/calfresh/rights-and-responsibilities\">Rights, expedited service and reporting</a>, <a href=\"https://cdss.ca.gov/inforesources/cdss-programs/calfresh-outreach/getcalfresh-transition\">GetCalFresh transition</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/calfresh-california-snap/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can SSI recipients apply?",
+      "Yes. California allows eligible SSI/SSP recipients to receive CalFresh."
+    ],
+    [
+      "Can I get help sooner in an emergency?",
+      "Ask the county to assess eligibility for expedited benefits."
+    ],
+    [
+      "Should I use the old GetCalFresh application screenshots?",
+      "Screenshots are historical; CDSS directs new applications toward BenefitsCal."
+    ],
+    [
+      "Who handles problems with my case?",
+      "Your county social-services agency."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.cdss.ca.gov/food-nutrition/calfresh/restaurant-meals-program",
+      "https://www.cdss.ca.gov/inforesources/calfresh/rights-and-responsibilities",
+      "https://cdss.ca.gov/inforesources/cdss-programs/calfresh-outreach/getcalfresh-transition"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

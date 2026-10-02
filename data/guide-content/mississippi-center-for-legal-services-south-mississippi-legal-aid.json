@@ -1,0 +1,44 @@
+{
+  "status": "authored",
+  "introduction": "Mississippi Center for Legal Services provides civil legal aid to eligible low-income residents in central and southern Mississippi.",
+  "description": "Mississippi Center for Legal Services provides civil legal aid to eligible low-income residents in central and southern Mississippi.",
+  "sections": {
+    "who": "<p>The organization screens income, county, issue and case capacity. Confirm the correct office through an independent legal-aid directory.</p>",
+    "get": "<p>Assistance may include advice or representation for accepted civil cases. Intake alone does not create a lawyer-client relationship.</p>",
+    "docs": "<ul><li>County and household information.</li><li>Court papers, notices and dates.</li><li>Income details requested during screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Confirm contact details</h3><p>Use <a href=\"https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help\">LSC’s legal-aid locator</a> to identify the serving office.</p></li><li><h3 class=\"pbf-h3\">Request intake</h3><p>Explain your civil issue and any deadline. Ask which application route is currently in use.</p></li><li><h3 class=\"pbf-h3\">Provide records as directed</h3><p>Confirm the intake channel with the office before sending sensitive documents.</p></li></ol>",
+    "after": "<p>Keep court deadlines unless a lawyer advises otherwise.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://mscenterforlegalservices.org/\">MCLS service overview</a>; <a href=\"https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help\">LSC legal-aid locator</a>. Some current details still need confirmation; contact the program before relying on them.</p>"
+  },
+  "faqs": [
+    [
+      "Does intake guarantee a lawyer?",
+      "No."
+    ],
+    [
+      "Is this for criminal defense?",
+      "The program provides civil legal aid."
+    ],
+    [
+      "Which region does it cover?",
+      "Central and southern Mississippi."
+    ],
+    [
+      "Where can I confirm the serving office?",
+      "Use LSC’s legal-aid locator."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mscenterforlegalservices.org/",
+      "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-center-for-legal-services-south-mississippi-legal-aid/",
+    "local_source_used": true,
+    "facts_verified": false,
+    "review_blockers": [
+      "The current provider homepage contains unrelated casino/spam links. Service overview is corroborated, but intake channel integrity requires confirmation before publishing a direct document-submission recommendation."
+    ]
+  }
+}

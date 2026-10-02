@@ -1,0 +1,44 @@
+{
+  "status": "authored",
+  "introduction": "North Mississippi Rural Legal Services assists eligible northern Mississippi residents with civil legal problems. Confirm the office serving your county before requesting intake.",
+  "description": "North Mississippi Rural Legal Services assists eligible northern Mississippi residents with civil legal problems. Confirm the office serving your county before requesting intake.",
+  "sections": {
+    "who": "<p>The provider checks service area, financial eligibility and issue type. Special projects can have different rules.</p>",
+    "get": "<p>Accepted cases may receive legal advice or representation. The Elder Law Project serves eligible older residents.</p>",
+    "docs": "<ul><li>County and legal issue.</li><li>Notices and court dates.</li><li>Income and household details for screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate the provider</h3><p>Use <a href=\"https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help\">LSC’s legal-aid locator</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm intake details</h3><p>Ask the serving office for its current intake number, hours and application route.</p></li><li><h3 class=\"pbf-h3\">Explain urgent dates</h3><p>Have relevant notices available and follow document instructions.</p></li></ol>",
+    "after": "<p>A request does not suspend court deadlines or guarantee representation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://nmrls.com/\">NMRLS program overview</a>; <a href=\"https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help\">LSC provider locator</a>. Some current details still need confirmation; contact the program before relying on them.</p>"
+  },
+  "faqs": [
+    [
+      "Does the organization serve all Mississippi counties?",
+      "Confirm its northern service area for your county."
+    ],
+    [
+      "Is criminal defense included?",
+      "This is civil legal aid."
+    ],
+    [
+      "Can older residents ask about special help?",
+      "Ask about the Elder Law Project."
+    ],
+    [
+      "Are published older hotline hours reliable?",
+      "Confirm current intake details with the office."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://nmrls.com/",
+      "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help"
+    ],
+    "background_source": "https://usaassistance.org/programs/north-mississippi-rural-legal-services-north-mississippi-legal-aid/",
+    "local_source_used": true,
+    "facts_verified": false,
+    "review_blockers": [
+      "Current NMRLS homepage searchable but direct retrieval times out. The asserted January2026 intake change, phone and hours were not confirmed from current primary intake guidance."
+    ]
+  }
+}

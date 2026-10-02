@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota LIHEAP accepts applications year-round. Apply through the Self-Service Portal or request a paper application from the Customer Support Center.",
+  "description": "North Dakota LIHEAP accepts applications year-round. Apply through the Self-Service Portal or request a paper application from the Customer Support Center.",
+  "sections": {
+    "who": "<p>The state reviews household income, heating arrangements and expenses under current program rules. Explain a fuel shortage or threatened loss of heat when requesting help.</p>",
+    "get": "<p>Assistance can address part of heating costs and qualifying energy emergencies. Separate arrangements cover cooling equipment and certain heating-system services.</p>",
+    "docs": "<ul><li>Recent and expected income records.</li><li>Heating bills or a lease showing heating arrangements.</li><li>Requested expense evidence and emergency notices.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use <a href=\"https://www.hhs.nd.gov/applyforhelp/liheap\">the LIHEAP application routes</a>.</p></li><li><h3 class=\"pbf-h3\">Describe an urgent problem</h3><p>Contact the Customer Support Center about a heating emergency rather than relying on an unread online submission.</p></li><li><h3 class=\"pbf-h3\">Follow the decision</h3><p>Keep approval information and ask how the approved service will be arranged.</p></li></ol>",
+    "after": "<p>For cooling-device help, current LIHEAP recipients should ask Community Action about the approval-letter route. People without an open LIHEAP case should apply first.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hhs.nd.gov/applyforhelp/liheap\">LIHEAP eligibility, intake and cooling routes</a>. <a href=\"https://usaassistance.org/programs/north-dakota-liheap-energy-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is intake only during winter?",
+      "The state now describes LIHEAP as year-round."
+    ],
+    [
+      "Does assistance cover the full heating bill?",
+      "The program describes partial heating assistance; the decision controls the amount and service."
+    ],
+    [
+      "Who can help with the application?",
+      "The state lists Community Options at 800-823-2417 for application help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hhs.nd.gov/applyforhelp/liheap"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

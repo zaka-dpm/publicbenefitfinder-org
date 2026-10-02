@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "PA 211 helps residents find nearby assistance services through a free, confidential referral service.",
+  "description": "PA 211 helps residents find nearby assistance services through a free, confidential referral service.",
+  "sections": {
+    "who": "<p>People seeking resources can contact the service. Individual agencies set their own eligibility and intake rules.</p>",
+    "get": "<p>You can obtain referrals for local needs and contact details. The navigator does not approve the referred benefit.</p>",
+    "docs": "<ul><li>Your ZIP code.</li><li>The problem and any urgent deadline.</li><li>Language or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call or text</h3><p>Dial 211 or text your ZIP code to 898-211. Search <a href=\"https://www.pa211.org/\">PA 211</a> online.</p></li><li><h3 class=\"pbf-h3\">Describe the need</h3><p>Tell the specialist what help is most urgent.</p></li><li><h3 class=\"pbf-h3\">Contact referrals</h3><p>Ask each provider about availability and the next intake step.</p></li></ol>",
+    "after": "<p>Return to 211 if a provider is closed or cannot help and ask for other local options.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa211.org/\">PA 211</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a charge?",
+      "PA 211 describes the service as free."
+    ],
+    [
+      "Can I call at night?",
+      "It lists round-the-clock service."
+    ],
+    [
+      "Can I search online?",
+      "Yes. Its site links to the searchable directory."
+    ],
+    [
+      "Does a referral guarantee help?",
+      "No. The referred provider decides."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa211.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/pa-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida Medicaid provides health coverage through eligibility categories assessed by DCF or, for SSI recipients, Social Security. Apply through MyACCESS to have your circumstances reviewed.",
+  "description": "Florida Medicaid provides health coverage through eligibility categories assessed by DCF or, for SSI recipients, Social Security. Apply through MyACCESS to have your circumsta",
+  "sections": {
+    "who": "<p>Low income is one part of the assessment. DCF also considers the relevant coverage category, including children, pregnancy, parents or caretaker relatives, and age or disability. Family members can receive different decisions.</p>",
+    "get": "<p>Approved coverage helps pay for medical care. Read the approval and health-plan information to understand the coverage dates, participating providers and enrollment arrangements.</p>",
+    "docs": "<ul><li>Prepare household members’ names, dates of birth and contact details.</li><li>Have current earnings, benefit-income and existing insurance information available.</li><li>Supply identity or status records when DCF requests them; use its notice as your checklist.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start with MyACCESS</h3><p>Use <a href=\"https://myaccess.myflfamilies.com/\">MyACCESS</a> or ask a DCF Family Resource Center for application help. Identify each person who needs medical assistance.</p></li><li><h3 class=\"pbf-h3\">Submit and answer requests</h3><p>Review your application before submitting. DCF does not require a Medicaid interview, but it can request additional information.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Keep your confirmation and check notices. Review each applicant’s result and any instructions for choosing or contacting a health plan.</p></li></ol>",
+    "after": "<p>Keep DCF’s contact information current and respond to renewal requests. Before making a routine appointment, confirm that the provider accepts your coverage.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.myflfamilies.com/medicaid\">DCF Medicaid</a>, <a href=\"https://myaccess.myflfamilies.com/ApplyForBenefits/ABOVR\">MyACCESS application overview</a>. <a href=\"https://usaassistance.org/programs/florida-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does a child’s approval cover the parent too?",
+      "No. DCF assesses eligibility by person and category. Read the decision for every applicant."
+    ],
+    [
+      "Do I need an interview?",
+      "MyACCESS says medical-assistance applications do not require an interview; DCF may still ask for more information."
+    ],
+    [
+      "Where can I upload requested records?",
+      "Use your MyACCESS account and match the documents to the request shown in your notice."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.myflfamilies.com/medicaid",
+      "https://myaccess.myflfamilies.com/ApplyForBenefits/ABOVR"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

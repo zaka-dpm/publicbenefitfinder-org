@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida Temporary Cash Assistance supports qualifying families with dependent children. Apply through DCF’s MyACCESS system and expect both financial and family-circumstance checks.",
+  "description": "Florida Temporary Cash Assistance supports qualifying families with dependent children. Apply through DCF’s MyACCESS system and expect both financial and family-circumstance c",
+  "sections": {
+    "who": "<p>The program covers eligible families with children under 18, or under 19 while attending secondary school full time. Some pregnant applicants can qualify in specified late-pregnancy circumstances. Residency, income, assets and other rules also apply; work participation or an exemption may be relevant.</p>",
+    "get": "<p>TCA provides cash assistance and links eligible adults to employment-related services. Child-only and relative-caregiver cases have different rules from adult assistance.</p>",
+    "docs": "<ul><li>Prepare income and asset information for the family.</li><li>Have children’s identity, relationship and school information available.</li><li>If claiming pregnancy or a work exemption, ask DCF which supporting record it needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select cash assistance</h3><p>Apply through <a href=\"https://myaccess.myflfamilies.com/\">MyACCESS</a> or seek help at a DCF Family Resource Center.</p></li><li><h3 class=\"pbf-h3\">Explain your family situation</h3><p>List the parents, children and minor siblings living together. Explain pregnancy, caregiving or other circumstances relevant to the claim.</p></li><li><h3 class=\"pbf-h3\">Respond to DCF</h3><p>Complete any requested interview and provide the verification listed in your pending notice.</p></li></ol>",
+    "after": "<p>Read the decision and participation instructions together. If child-support cooperation or work participation raises a concern, discuss your circumstances with DCF rather than assuming no exception exists.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.myflfamilies.com/services/public-assistance/temporary-cash-assistance\">DCF TCA overview</a>, <a href=\"https://www.myflfamilies.com/services/public-assistance/applying-for-assistance\">DCF applying for assistance</a>. <a href=\"https://usaassistance.org/programs/temporary-cash-assistance-tca/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is TCA available to adults without children?",
+      "Ordinary TCA is a family program. DCF lists separate assistance programs for other circumstances."
+    ],
+    [
+      "Can a pregnant person apply?",
+      "Yes, DCF describes limited late-pregnancy eligibility. Ask DCF to assess your stage of pregnancy and ability to work."
+    ],
+    [
+      "Is a relative-caregiver case the same as ordinary TCA?",
+      "No. Florida has a separate Relative Caregiver Program tied to specified child-welfare placements and child eligibility rules."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.myflfamilies.com/services/public-assistance/temporary-cash-assistance",
+      "https://www.myflfamilies.com/services/public-assistance/applying-for-assistance"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington ESD reviews unemployment applications and eligibility for each claimed week. Benefits are not based on financial need.",
+  "description": "Washington ESD reviews unemployment applications and eligibility for each claimed week. Benefits are not based on financial need.",
+  "sections": {
+    "who": "<p>ESD checks covered work hours, job separation and ability and availability to work. Its basic rules require at least 680 base-year hours.</p>",
+    "get": "<p>Approved weekly payments depend on the claim. Each week needs a separate certification.</p>",
+    "docs": "<ul><li>Identity and contact details.</li><li>Employer and work history for the last 18 months.</li><li>Requested work-authorization and payment details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Sign into <a href=\"https://secure.esd.wa.gov/home/?culture=en\">eServices</a> using SecureAccess Washington, or call 800-318-6022.</p></li><li><h3 class=\"pbf-h3\">Answer questions</h3><p>Provide complete separation details and respond to requests.</p></li><li><h3 class=\"pbf-h3\">Claim each week</h3><p>Report work and earnings and follow job-search requirements.</p></li></ol>",
+    "after": "<p>Keep a job-search record. The current rule generally requires three activities each claimed week unless ESD instructs otherwise.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://esd.wa.gov/get-financial-help/unemployment-benefits/basic-eligibility-requirements\">ESD eligibility</a>; <a href=\"https://esd.wa.gov/get-financial-help/unemployment-benefits/applying-unemployment-benefits/how-apply-unemployment-benefits/information-you-need-when-you-apply\">Application information</a>; <a href=\"https://esd.wa.gov/get-financial-help/unemployment-benefits/weekly-unemployment-claims\">Weekly claims</a>; <a href=\"https://esd.wa.gov/about-us/contact-us\">Contact and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is approval based on low income?",
+      "No. Unemployment uses employment and weekly eligibility rules."
+    ],
+    [
+      "Is the initial application enough?",
+      "Weekly claims are also required."
+    ],
+    [
+      "Which login is used?",
+      "eServices uses SecureAccess Washington."
+    ],
+    [
+      "What does a claim issue mean?",
+      "ESD may need further information before deciding eligibility."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://esd.wa.gov/get-financial-help/unemployment-benefits/basic-eligibility-requirements",
+      "https://esd.wa.gov/get-financial-help/unemployment-benefits/applying-unemployment-benefits/how-apply-unemployment-benefits/information-you-need-when-you-apply",
+      "https://esd.wa.gov/get-financial-help/unemployment-benefits/weekly-unemployment-claims",
+      "https://esd.wa.gov/about-us/contact-us"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-benefits-washington-esd/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

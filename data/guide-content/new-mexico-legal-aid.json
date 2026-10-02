@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Mexico Legal Aid accepts requests for civil legal help online and through its statewide intake line. Tell staff about any approaching court hearing or response deadline.",
+  "description": "New Mexico Legal Aid accepts requests for civil legal help online and through its statewide intake line. Tell staff about any approaching court hearing or response deadline.",
+  "sections": {
+    "who": "<p>The organization screens eligibility, legal issue and available capacity. Its service area covers New Mexico, with most of San Juan County handled by partner DNA People’s Legal Services.</p>",
+    "get": "<p>Services can range from information and advice to limited assistance or representation. An intake submission does not itself confirm that a lawyer will handle the case.</p>",
+    "docs": "<ul><li>Notices, court papers or benefit decisions.</li><li>A short timeline and the next deadline.</li><li>Relevant agreements and correspondence.</li><li>Income and household information for screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://newmexicolegalaid.org/\">Apply for Legal Help</a> or call 833-545-4357.</p></li><li><h3 class=\"pbf-h3\">Check current availability</h3><p>The contact page lists limited Monday–Thursday intake. Published pages differ on exact hours, so check before relying on a particular time.</p></li><li><h3 class=\"pbf-h3\">Confirm the next step</h3><p>Ask what assistance is accepted and whether a local office or partner will follow up.</p></li></ol>",
+    "after": "<p>Keep the response and continue tracking deadlines. Ask for another legal provider if the case cannot be accepted.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://newmexicolegalaid.org/\">NMLA services and online intake</a>, <a href=\"https://newmexicolegalaid.org/who-we-are/contact-us-client-survey.html\">Current contact and limited phone intake</a>, <a href=\"https://newmexicolegalaid.org/who-we-are/locations.html\">Local offices and partner coverage</a>. <a href=\"https://usaassistance.org/programs/new-mexico-legal-aid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does NMLA accept online requests?",
+      "Yes. Its current homepage links an online legal-help application."
+    ],
+    [
+      "Does every county use the same local office?",
+      "No. Check the office directory; most of San Juan County is directed to DNA People’s Legal Services."
+    ],
+    [
+      "Is a submission a guarantee of representation?",
+      "No. Ask the provider to confirm the service it agrees to provide."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://newmexicolegalaid.org/",
+      "https://newmexicolegalaid.org/who-we-are/contact-us-client-survey.html",
+      "https://newmexicolegalaid.org/who-we-are/locations.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

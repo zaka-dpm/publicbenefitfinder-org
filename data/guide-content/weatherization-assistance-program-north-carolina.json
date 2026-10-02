@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "North Carolina weatherization improves home efficiency for eligible households. Apply to the designated local provider.",
+  "description": "North Carolina weatherization improves home efficiency for eligible households. Apply to the designated local provider.",
+  "sections": {
+    "who": "<p>Income and household conditions apply. Priority includes older or disabled members, children and high energy burdens.</p>",
+    "get": "<p>An audit identifies appropriate efficiency and energy-related safety work. No particular upgrade is guaranteed.</p>",
+    "docs": "<ul><li>Income information.</li><li>Energy bills.</li><li>Property or landlord permission records requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the agency</h3><p>Use <a href=\"https://www.deq.nc.gov/energy-climate/state-energy-office/weatherization-assistance-program\">DEQ’s Find Your Agency tool</a>.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>The provider reviews eligibility and documents.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>The audit produces the work scope before installation.</p></li></ol>",
+    "after": "<p>A final inspection checks completed work and explains operation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.deq.nc.gov/energy-climate/state-energy-office/weatherization-assistance-program\">NC weatherization process</a>; <a href=\"https://www.deq.nc.gov/energy-climate/state-energy-office/weatherization-assistance-program/eligibility-guidelines\">Eligibility guidelines</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do I apply to state DSS?",
+      "Start with the local weatherization provider."
+    ],
+    [
+      "Is a furnace replacement guaranteed?",
+      "No. The assessment decides suitable measures."
+    ],
+    [
+      "Are cases prioritized?",
+      "Yes."
+    ],
+    [
+      "Is work inspected?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.deq.nc.gov/energy-climate/state-energy-office/weatherization-assistance-program",
+      "https://www.deq.nc.gov/energy-climate/state-energy-office/weatherization-assistance-program/eligibility-guidelines"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-north-carolina/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

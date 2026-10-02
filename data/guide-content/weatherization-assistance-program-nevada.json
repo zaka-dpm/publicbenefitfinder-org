@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada weatherization accepts applications year-round through regional providers. The program arranges selected home-efficiency improvements after assessing an eligible property.",
+  "description": "Nevada weatherization accepts applications year-round through regional providers. The program arranges selected home-efficiency improvements after assessing an eligible proper",
+  "sections": {
+    "who": "<p>Income-qualified owners and renters can be considered. Rental property owners may have to contribute to some improvement costs, so discuss permission and cost arrangements before work starts.</p>",
+    "get": "<p>An assessment identifies suitable measures, potentially including insulation, air sealing or equipment work. The service is not an unrestricted repair allowance or a promise to replace every appliance.</p>",
+    "docs": "<ul><li>Household income evidence requested by the regional provider.</li><li>Your address and owner or rental information.</li><li>Recent energy bills if requested.</li><li>Landlord contact details and any required consent.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the regional provider</h3><p>The state’s July 2026 notice lists Community Services Agency, HELP of Southern Nevada and Rural Nevada Development Corporation, with different service areas.</p></li><li><h3 class=\"pbf-h3\">Request household intake</h3><p>Follow the <a href=\"https://housing.nv.gov/Programs/Weatherization/\">Housing Division’s regional pathway</a> and ask for the current household application.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>Allow the provider to assess the home and confirm approved work and any owner obligations.</p></li></ol>",
+    "after": "<p>Keep appointment details and ask about scheduling or waiting lists. Discuss maintenance instructions after installation; estimated savings are not a guaranteed reduction in your bill.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.business.nv.gov/news-media/press-releases/2026/housing/nevada-housing-division-reminds-eligible-households-of-year-round-weatherization-assistance-as-summer-heat-drives-energy-costs-stress/\">Nevada’s current regional weatherization announcement</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-nevada/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is intake limited to winter?",
+      "No. The current state notice says applications are accepted year-round."
+    ],
+    [
+      "Can renters apply?",
+      "Yes. The state includes eligible renters, with possible owner contributions for certain improvements."
+    ],
+    [
+      "Is it a utility-bill payment?",
+      "No. Weatherization improves the home; apply separately for energy-bill assistance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.business.nv.gov/news-media/press-releases/2026/housing/nevada-housing-division-reminds-eligible-households-of-year-round-weatherization-assistance-as-summer-heat-drives-energy-costs-stress/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

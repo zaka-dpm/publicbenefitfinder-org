@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota Medicaid has several coverage categories. Apply through the state Self-Service Portal or choose the paper form that matches your circumstances.",
+  "description": "North Dakota Medicaid has several coverage categories. Apply through the state Self-Service Portal or choose the paper form that matches your circumstances.",
+  "sections": {
+    "who": "<p>Expansion generally covers qualifying adults ages 19–64 who do not qualify for another Medicaid category or Medicare. The state also assesses children, pregnancy, disability and older-adult categories separately.</p>",
+    "get": "<p>Approved medical coverage depends on the category and plan. Ask about a specific service before assuming every Medicaid category has identical benefits.</p>",
+    "docs": "<ul><li>Household income and existing insurance.</li><li>Identity, residence and requested status records.</li><li>Disability or resource details if relevant to the application.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the application</h3><p>Use <a href=\"https://www.hhs.nd.gov/healthcare/medicaid/apply\">the Medicaid application page</a>. Its paper forms differ for medical-only, combined benefits and elderly or disabled applicants.</p></li><li><h3 class=\"pbf-h3\">Submit to the state</h3><p>Online applications use the Self-Service Portal; paper applications return to a Human Service Zone.</p></li><li><h3 class=\"pbf-h3\">Answer notices</h3><p>Supply requested records and read each household member’s decision.</p></li></ol>",
+    "after": "<p>Keep contact information current and respond to renewal requests. For application assistance, the Customer Support Center lists 866-614-6005.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hhs.nd.gov/healthcare/medicaid/eligibility\">Current Medicaid categories</a>, <a href=\"https://www.hhs.nd.gov/healthcare/medicaid/apply\">Application forms and help</a>. <a href=\"https://usaassistance.org/programs/north-dakota-medicaid-expanded/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can household members get different results?",
+      "Yes. The state evaluates the applicable coverage category for each applicant."
+    ],
+    [
+      "Which paper form should I use?",
+      "The application page identifies SFN 1909, 405 and 958 for different situations."
+    ],
+    [
+      "Does expansion automatically include every service?",
+      "Coverage varies by category and plan. Confirm the particular service with your coverage administrator."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hhs.nd.gov/healthcare/medicaid/eligibility",
+      "https://www.hhs.nd.gov/healthcare/medicaid/apply"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

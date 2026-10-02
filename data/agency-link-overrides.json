@@ -1,0 +1,46 @@
+{
+  "211-rhode-island-united-way-of-rhode-island": {
+    "url": "https://www.unitedwayri.org/get-help/",
+    "source": "https://www.unitedwayri.org/"
+  },
+  "heap-energy-assistance-ohio": {
+    "url": "https://occ.ohio.gov/factsheet/home-energy-assistance-program-heap",
+    "source": "https://occ.ohio.gov/factsheet/home-energy-assistance-program-heap"
+  },
+  "pipp-plus-percentage-of-income-payment-plan": {
+    "url": "https://occ.ohio.gov/factsheet/percentage-income-payment-plan-pipp-plus",
+    "source": "https://occ.ohio.gov/factsheet/percentage-income-payment-plan-pipp-plus"
+  },
+  "home-weatherization-assistance-program-ohio-hwap": {
+    "url": "https://occ.ohio.gov/publications",
+    "source": "https://occ.ohio.gov/publications"
+  },
+  "ohio-earned-income-credit": {
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-5747.71",
+    "source": "https://codes.ohio.gov/ohio-revised-code/section-5747.71"
+  },
+  "ohio-works-first-cash-assistance": {
+    "url": "https://ssp.benefits.ohio.gov/apspssp/index.jsp",
+    "source": "https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/factsheets/owf.pdf"
+  },
+  "unemployment-benefits-ohio": {
+    "url": "https://unemployment.cmt.ohio.gov/cmtview/",
+    "source": "https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/EBS/Programs%20Rules%20and%20Resources/OUIO/Filing_Applications_for_Benefits.pdf"
+  },
+  "nevada-medicaid-and-nevada-check-up": {
+    "url": "https://www.dss.nv.gov/programs/medical/documents-links/",
+    "source": "https://www.dss.nv.gov/programs/medical/documents-links/"
+  },
+  "snap-food-assistance-ohio": {
+    "url": "https://ssp.benefits.ohio.gov/apspssp/index.jsp",
+    "source": "https://ssp.benefits.ohio.gov/apspssp/pages/WebHelp_Accessible/whgdata/whlstt0.htm"
+  },
+  "medicaid-ohio": {
+    "url": "https://ssp.benefits.ohio.gov/apspssp/index.jsp",
+    "source": "https://ssp.benefits.ohio.gov/apspssp/pages/WebHelp_Accessible/whgdata/whlstt0.htm"
+  },
+  "ohio-wic": {
+    "url": "https://www.fna.usda.gov/contact/wic/ohio",
+    "source": "https://www.fna.usda.gov/contact/wic/ohio"
+  }
+}

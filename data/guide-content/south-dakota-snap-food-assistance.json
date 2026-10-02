@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota SNAP applications use the Economic Assistance portal or a local DSS office. Attend the interview even if you are still collecting requested documents.",
+  "description": "South Dakota SNAP applications use the Economic Assistance portal or a local DSS office. Attend the interview even if you are still collecting requested documents.",
+  "sections": {
+    "who": "<p>The agency checks household income, resources and other SNAP rules. Some household expenses can affect the calculation.</p>",
+    "get": "<p>Approved benefits help with groceries through EBT; the award depends on household size and finances.</p>",
+    "docs": "<ul><li>Identity and income evidence.</li><li>Requested resource information.</li><li>Shelter, care and relevant medical-expense records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through DSS</h3><p>Use <a href=\"https://dss.sd.gov/economicassistance/snap.aspx\">the online or paper routes</a>.</p></li><li><h3 class=\"pbf-h3\">Attend the interview</h3><p>Tell the specialist about missing records and ask for help obtaining them.</p></li><li><h3 class=\"pbf-h3\">Read the result</h3><p>Review the award, EBT information and reporting duties.</p></li></ol>",
+    "after": "<p>Protect the card PIN and follow renewal notices. Keep expense evidence that may affect future calculations.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sd.gov/economicassistance/snap.aspx\">SNAP eligibility, verification and intake</a>. <a href=\"https://usaassistance.org/programs/south-dakota-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Should I skip the interview if records are missing?",
+      "No. DSS says to attend and discuss additional time or help obtaining evidence."
+    ],
+    [
+      "Can I use the portal after approval?",
+      "The state lists renewal and change-reporting functions."
+    ],
+    [
+      "Can medical expenses matter?",
+      "The agency identifies certain unreimbursed costs for older adults or people with disabilities."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sd.gov/economicassistance/snap.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

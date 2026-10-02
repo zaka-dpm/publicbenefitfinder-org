@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "MassLegalHelp explains Massachusetts legal rights, and the Massachusetts Legal Resource Finder helps locate legal assistance. These tools help you find an appropriate provider",
+  "introduction": "MassLegalHelp explains Massachusetts legal rights, and the Massachusetts Legal Resource Finder helps locate legal assistance. These tools help you find an appropriate provider for your civil legal problem.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "People seeking information about Massachusetts civil legal matters, including housing, benefits, debt or family issues.",
+      "A referred legal provider applies its own service area, income and case acceptance rules."
+    ],
+    "get": "<p>Self-help explanations and routes to legal aid or other legal resources. Reading a guide or searching the finder does not establish an attorney-client relationship.</p>",
+    "docs": "<p>Before contacting a provider, organize court papers, notices, dates, the other party’s name and a short account of the issue. Note your earliest deadline clearly. Ask the provider how to transmit sensitive documents.</p>",
+    "apply": "<ol><li>Read the relevant topic on MassLegalHelp.</li><li>Use the Massachusetts Legal Resource Finder to identify assistance for your location and issue.</li><li>Follow the named provider’s intake instructions and explain any court deadline first.</li></ol>",
+    "after": "<p>Ask whether the provider has accepted the case and what help it will provide. Continue observing filing and hearing dates until a lawyer or court tells you otherwise. If the provider cannot take the matter, request another resource.</p>",
+    "sources": "<ul><li><a href=\"https://www.masslegalhelp.org/\">MassLegalHelp topic library</a></li><li><a href=\"https://masslrf.org/en/home\">Massachusetts Legal Resource Finder</a></li><li><a href=\"https://usaassistance.org/programs/massachusetts-legal-aid-masslegalhelp-masslrf/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does MassLegalHelp assign a lawyer?",
+      "It provides legal information; use a referral resource and contact a provider for individual help."
+    ],
+    [
+      "Can I find eviction information?",
+      "The site includes housing and eviction topics."
+    ],
+    [
+      "Can I find SNAP or TAFDC information?",
+      "The public benefits section covers both."
+    ],
+    [
+      "Does submitting an intake request pause a hearing?",
+      "Follow the court’s instructions and seek help promptly about deadlines."
+    ],
+    [
+      "Is every referral free representation?",
+      "Ask the provider about fees, eligibility and the scope of service before proceeding."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "massachusetts-legal-aid-masslegalhelp-masslrf",
+    "source_url": "https://usaassistance.org/programs/massachusetts-legal-aid-masslegalhelp-masslrf/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.masslegalhelp.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.masslegalhelp.org/",
+      "https://masslrf.org/en/home"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

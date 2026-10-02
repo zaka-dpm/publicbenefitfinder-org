@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky SNAP helps eligible households buy food with an EBT card. An application is followed by an interview and any verification DCBS requests.",
+  "introduction": "Kentucky SNAP helps eligible households buy food with an EBT card. An application is followed by an interview and any verification DCBS requests.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Eligibility depends on the household’s income, expenses and other program rules. People who buy and prepare meals together generally apply as a household.",
+      "Some relatives must be included together even when they keep meals separate, including spouses and parents living with children age 21 or younger."
+    ],
+    "get": "<p>Approved households receive food benefits on EBT. The notice gives the amount and certification period. Ask about expedited processing if money and food are running very low.</p>",
+    "docs": "<p>Have recent income records, rent or mortgage information and utility expenses ready. Older adults and people with disabilities should ask about allowable medical expenses. Submit the checklist DCBS provides rather than relying on an old income chart.</p>",
+    "apply": "<ol><li>Apply through <a href=\"https://kynect.ky.gov/\">kynect benefits</a>, call DCBS at 855-306-8959, or contact your local DCBS office for a paper application.</li><li>The household head or authorized representative must complete the interview. Tell the worker if you need urgent food assistance.</li><li>Provide requested proof by the stated deadline and save your submission confirmation.</li></ol>",
+    "after": "<p>Watch for the decision and future reporting or renewal instructions. Ask the worker about work requirements and any applicable exemption; rules can differ by age and circumstances. If the EBT card is lost, stolen or damaged, call 888-979-9949.</p>",
+    "sources": "<ul><li><a href=\"https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/snap.aspx\">Kentucky SNAP</a></li><li><a href=\"https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx\">Nutrition Assistance Branch</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need an interview?",
+      "Yes. Kentucky requires an interview with the household head or an authorized representative."
+    ],
+    [
+      "Can working people apply?",
+      "Yes. Report wages and expenses so DCBS can evaluate the household rather than assuming employment disqualifies you."
+    ],
+    [
+      "Where do I report a missing EBT card?",
+      "Call the EBT card service at 888-979-9949, available around the clock."
+    ],
+    [
+      "What if I cannot obtain a requested document?",
+      "Tell the worker before the deadline and ask about an acceptable alternative. Keep a record of your contact."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/kentucky-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/snap.aspx",
+      "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/default.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

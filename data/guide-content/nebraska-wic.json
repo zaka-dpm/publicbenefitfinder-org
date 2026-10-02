@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska WIC enrollment starts with a local clinic appointment. Bring identity, residence and income records so staff can assess eligibility and nutrition needs.",
+  "description": "Nebraska WIC enrollment starts with a local clinic appointment. Bring identity, residence and income records so staff can assess eligibility and nutrition needs.",
+  "sections": {
+    "who": "<p>Applicants must live in Nebraska. WIC covers eligible pregnant, postpartum or breastfeeding applicants, infants and children younger than five, including foster children. Financial eligibility and nutrition risk are assessed.</p>",
+    "get": "<p>WIC supplies supplemental foods, nutrition education and referrals to health or social services. The clinic explains the participant’s food package and follow-up plan.</p>",
+    "docs": "<ul><li>Identification for the applicants.</li><li>Evidence of Nebraska residence.</li><li>Income records requested by the clinic.</li><li>Available records of SNAP, Medicaid or ADC participation to discuss the income check.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use the clinic link on <a href=\"https://dhhs.ne.gov/Pages/Eligibility-and-How-to-Apply.aspx\">Nebraska’s WIC application page</a>.</p></li><li><h3 class=\"pbf-h3\">Book an appointment</h3><p>The current page directs applicants to make an in-person clinic appointment. Confirm who must attend and what to bring.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Discuss nutrition needs and ask staff to explain benefits, shopping and future visits.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and contact the clinic if records or food-benefit instructions are unclear. If not eligible, ask about other food resources.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/Eligibility-and-How-to-Apply.aspx\">Nebraska WIC eligibility and appointment steps</a>, <a href=\"https://dhhs.ne.gov/pages/wic-about.aspx\">WIC services overview</a>. <a href=\"https://usaassistance.org/programs/nebraska-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can foster children be assessed?",
+      "Nebraska’s applicant list includes foster children younger than five."
+    ],
+    [
+      "Can I enroll only through the benefits portal?",
+      "The WIC application page directs applicants to a local clinic appointment."
+    ],
+    [
+      "Will the clinic assess nutrition needs?",
+      "Yes. Nebraska describes nutrition risk alongside financial and residency requirements."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/Eligibility-and-How-to-Apply.aspx",
+      "https://dhhs.ne.gov/pages/wic-about.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

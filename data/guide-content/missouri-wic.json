@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri WIC offers nutrition support for eligible pregnant, postpartum or breastfeeding participants and children younger than five.",
+  "description": "Missouri WIC offers nutrition support for eligible pregnant, postpartum or breastfeeding participants and children younger than five.",
+  "sections": {
+    "who": "<p>Residency, income and nutrition screening apply. Fathers, guardians and other caregivers may apply for a child.</p>",
+    "get": "<p>WIC provides supplemental foods, nutrition education, breastfeeding support and referrals.</p>",
+    "docs": "<ul><li>Identity proof for each applicant.</li><li>Residency evidence.</li><li>Income or qualifying-benefit records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request contact</h3><p>Use <a href=\"https://health.mo.gov/families/women-infants-children-wic\">the WIC interest form or clinic map</a>, or call 800-835-5465.</p></li><li><h3 class=\"pbf-h3\">Arrange certification</h3><p>The local agency schedules the health assessment and nutrition education.</p></li><li><h3 class=\"pbf-h3\">Bring proof</h3><p>Follow the clinic’s document checklist.</p></li></ol>",
+    "after": "<p>Keep follow-up appointments and learn current shopping rules.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://health.mo.gov/families/women-infants-children-wic\">Missouri WIC eligibility and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the interest form final approval?",
+      "No. Certification requires a local-agency appointment."
+    ],
+    [
+      "Can a father apply for a child?",
+      "Yes."
+    ],
+    [
+      "Is nutrition screening included?",
+      "Yes."
+    ],
+    [
+      "Who helps locate a clinic?",
+      "TEL-LINK at 800-835-5465."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://health.mo.gov/families/women-infants-children-wic"
+    ],
+    "background_source": "https://usaassistance.org/programs/missouri-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

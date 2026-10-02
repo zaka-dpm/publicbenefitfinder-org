@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alabama LIHEAP helps eligible households with home heating and cooling costs. Applications go through the local community action agency serving your county, rather than ADECA.",
+  "introduction": "Alabama LIHEAP helps eligible households with home heating and cooling costs. Applications go through the local community action agency serving your county, rather than ADECA.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Households must meet Alabama’s LIHEAP income rules. ADECA’s overview lists a ceiling of 150% of the federal poverty level; ask the county agency for the current household-size table.",
+      "The program targets households with particularly high energy needs, including older people, people with disabilities and young children."
+    ],
+    "get": "<p>LIHEAP supports home-energy costs. Funding and available types of help depend on the local agency; ask separately about a shutoff or loss of heating or cooling.</p>",
+    "docs": "<p>Before making an appointment, ask the local agency which proof it accepts. Useful records to gather include a current energy bill, household income records and any disconnection notice. Do not assume this preparation list replaces the agency’s checklist.</p>",
+    "apply": "<ol><li>Open <a href=\"https://adeca.alabama.gov/liheap/\">ADECA’s county agency map</a> and find the organization serving your county.</li><li>Use that agency’s appointment or application instructions. ADECA does not book appointments or process household applications.</li><li>Submit the requested records. If energy is about to be disconnected, tell intake staff the date and ask whether crisis assistance is available.</li></ol>",
+    "after": "<p>Follow up with the county agency for application status, missing records or a complaint. Keep the account active and communicate with the utility while assistance is pending; a request alone is not a promise to prevent disconnection.</p>",
+    "sources": "<ul><li><a href=\"https://adeca.alabama.gov/liheap/\">Alabama LIHEAP and county intake map</a></li><li><a href=\"https://adeca.alabama.gov/liheap-documents/\">Program forms and instructions</a></li><li><a href=\"https://usaassistance.org/programs/liheap-energy-assistance-alabama/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Where do I apply?",
+      "At the community action agency serving your county. Use ADECA’s map to locate it."
+    ],
+    [
+      "Can ADECA check my application?",
+      "ADECA directs status requests to the county agency handling the application."
+    ],
+    [
+      "Does the program help with cooling?",
+      "Its purpose includes both home heating and cooling costs. Ask the local agency what help is currently available."
+    ],
+    [
+      "What if I have a shutoff notice?",
+      "Mention the deadline when requesting intake. Keep the notice and contact the utility about payment options while the agency reviews the request."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "liheap-energy-assistance-alabama",
+    "source_url": "https://usaassistance.org/programs/liheap-energy-assistance-alabama/",
+    "source_updated": "August 2026",
+    "primary_url": "https://adeca.alabama.gov/liheap/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://adeca.alabama.gov/liheap/",
+      "https://adeca.alabama.gov/liheap-documents/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

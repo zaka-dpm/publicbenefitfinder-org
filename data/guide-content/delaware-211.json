@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware 211 connects residents with local food, housing, utility and other services. It offers free, confidential help in multiple languages.",
+  "description": "Delaware 211 connects residents with local food, housing, utility and other services. It offers free, confidential help in multiple languages.",
+  "sections": {
+    "who": "<p>Anyone looking for Delaware community services can use the directory. Individual providers set their own conditions.</p>",
+    "get": "<p>You receive referrals, not an approval or reserved funding. Phone and live-chat hours are Monday–Friday, 8 a.m.–7 p.m.</p>",
+    "docs": "<ul><li>Your ZIP code or town.</li><li>The type of help and any deadline.</li><li>Language or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact a navigator</h3><p>Call 211 or text your ZIP code to 898-211. Live chat and directory search are available at <a href=\"https://delaware211.org/\">Delaware 211</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Mention shutoff notices, lack of food or other immediate concerns.</p></li><li><h3 class=\"pbf-h3\">Check the referral</h3><p>Ask the provider about intake hours, available help and required evidence.</p></li></ol>",
+    "after": "<p>Keep referral details and request alternatives if a provider cannot help.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://delaware211.org/\">Delaware 211 contact and service information</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is help available by text?",
+      "Yes. Text your ZIP code to 898-211."
+    ],
+    [
+      "Is the live service open all night?",
+      "The website lists weekday hours of 8 a.m.–7 p.m."
+    ],
+    [
+      "Does 211 decide eligibility?",
+      "No. The referred program does."
+    ],
+    [
+      "Can I search myself?",
+      "Yes. The site offers keyword and guided searches."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://delaware211.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

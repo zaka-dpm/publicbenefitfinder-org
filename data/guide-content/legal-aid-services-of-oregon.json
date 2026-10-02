@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid Services of Oregon routes legal-help requests by county. Its directory also links other legal-aid organizations where LASO is not the local provider.",
+  "description": "Legal Aid Services of Oregon routes legal-help requests by county. Its directory also links other legal-aid organizations where LASO is not the local provider.",
+  "sections": {
+    "who": "<p>The provider serves low-income people with qualifying legal problems. Intake screens the issue, location and financial circumstances.</p>",
+    "get": "<p>Help can address civil issues including housing, benefits and consumer problems, depending on the case and available service.</p>",
+    "docs": "<ul><li>County and contact information.</li><li>Income details requested at intake.</li><li>Court papers, notices and dates.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select your county</h3><p>Use <a href=\"https://lasoregon.org/locations/\">LASO’s office directory</a>.</p></li><li><h3 class=\"pbf-h3\">Follow local intake instructions</h3><p>Contact the listed provider; a county link may lead to Oregon Law Center or Oregon Law Help.</p></li><li><h3 class=\"pbf-h3\">Describe any deadline</h3><p>Tell intake staff about eviction papers or hearings and supply requested records.</p></li></ol>",
+    "after": "<p>Clarify whether representation has been accepted. Follow court instructions while waiting for an intake decision.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://lasoregon.org/locations/\">County intake routes</a>, <a href=\"https://lasoregon.org/\">Services and eviction referral</a>. <a href=\"https://usaassistance.org/programs/legal-aid-services-of-oregon/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does every county go to LASO?",
+      "No. Its county directory routes some areas to other legal-aid providers."
+    ],
+    [
+      "What if I have eviction court papers?",
+      "LASO’s homepage directs people with eviction papers to the Eviction Defense Project."
+    ],
+    [
+      "Does contacting an office establish representation?",
+      "Ask the provider directly whether it has accepted your case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://lasoregon.org/locations/",
+      "https://lasoregon.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

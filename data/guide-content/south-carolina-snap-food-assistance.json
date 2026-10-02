@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina SNAP applications use the DSS Benefits Portal or a county office’s paper, mail or fax route. A caseworker reviews eligibility and interviews applicants.",
+  "description": "South Carolina SNAP applications use the DSS Benefits Portal or a county office’s paper, mail or fax route. A caseworker reviews eligibility and interviews applicants.",
+  "sections": {
+    "who": "<p>DSS assesses household circumstances and finances. Working people, older adults and people experiencing homelessness can qualify under the program rules.</p>",
+    "get": "<p>Approved benefits help buy eligible foods through EBT.</p>",
+    "docs": "<ul><li>Household and identity information.</li><li>Income and requested expenses.</li><li>Evidence listed by the interview worker.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through DSS</h3><p>Use <a href=\"https://dss.sc.gov/assistance-programs/snap/how-do-i-apply/\">the application page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Answer interview and verification requests. Ask about expedited help if food is urgently needed.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check certification dates and EBT instructions.</p></li></ol>",
+    "after": "<p>Follow reporting and renewal notices. Check current Healthy Food SC guidance for the announced November 2026 purchase-rule change.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sc.gov/assistance-programs/snap/how-do-i-apply/\">Application and simplified routes</a>, <a href=\"https://dss.sc.gov/assistance-programs/snap/\">SNAP review and eligibility</a>, <a href=\"https://benefitsportal.dss.sc.gov/\">Current portal policy notice</a>. <a href=\"https://usaassistance.org/programs/south-carolina-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the portal estimate a final decision?",
+      "No. DSS says only the agency can determine the actual benefit."
+    ],
+    [
+      "Are there simplified older-adult routes?",
+      "The application page links ESAP and the SSI-related SCCAP project."
+    ],
+    [
+      "When is the new food-policy change announced?",
+      "The current DSS portal announces November 1, 2026; check its implementation guidance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sc.gov/assistance-programs/snap/how-do-i-apply/",
+      "https://dss.sc.gov/assistance-programs/snap/",
+      "https://benefitsportal.dss.sc.gov/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

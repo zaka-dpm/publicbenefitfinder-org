@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "MFIP combines cash and food assistance with employment support for eligible families with children and pregnant applicants.",
+  "description": "MFIP combines cash and food assistance with employment support for eligible families with children and pregnant applicants.",
+  "sections": {
+    "who": "<p>An income and asset screen applies, along with verification. Most caregivers face a cumulative 60-month limit; ask about your individual circumstances.</p>",
+    "get": "<p>Families receive cash and food through EBT. Employment services and possible child-care help support work or education.</p>",
+    "docs": "<ul><li>Household, pregnancy or child information.</li><li>Income and asset records.</li><li>Documents requested for the interview.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://mnbenefits.mn.gov/\">MNbenefits</a>, or submit a paper application to the county or Tribal Nation.</p></li><li><h3 class=\"pbf-h3\">Attend an interview</h3><p>Complete the local office’s phone or in-person interview and verification.</p></li><li><h3 class=\"pbf-h3\">Discuss an employment plan</h3><p>Ask the caseworker about required activities, child care and relevant exceptions.</p></li></ol>",
+    "after": "<p>Read benefit notices, follow the employment plan and report changes.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dcyf.mn.gov/programs-directory/minnesota-family-investment-program-mfip\">MFIP benefits and application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is MFIP only cash?",
+      "No. It combines cash, food and employment support."
+    ],
+    [
+      "Can pregnant applicants qualify?",
+      "They are included in the program’s target group."
+    ],
+    [
+      "Can I apply without internet?",
+      "Use the state paper application through the local office."
+    ],
+    [
+      "Can working families receive help?",
+      "Employment does not automatically exclude a family; income rules apply."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dcyf.mn.gov/programs-directory/minnesota-family-investment-program-mfip"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-family-investment-program-mfip/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

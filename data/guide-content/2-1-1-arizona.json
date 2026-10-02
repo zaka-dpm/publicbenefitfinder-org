@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "211 Arizona helps residents locate services for food, housing, utilities, health care and other needs. It is an information and referral service; the referred provider makes t",
+  "introduction": "211 Arizona helps residents locate services for food, housing, utilities, health care and other needs. It is an information and referral service; the referred provider makes the benefit decision.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "People seeking Arizona services can contact the referral line. Give your community so the specialist can identify the appropriate service area.",
+      "The agency receiving a referral sets its own income, residency and other intake conditions."
+    ],
+    "get": "<p>The service supplies local resource information and contacts. Phone assistance operates daily from 9 a.m. to 7 p.m.; the website also provides resource searching.</p>",
+    "docs": "<p>Have your city or ZIP code, a description of the need and any urgent deadline ready. Save the names of organizations already contacted, including why they could not help, so the specialist can look for alternatives.</p>",
+    "apply": "<ol><li>Call 211 during the published daily 9 a.m.–7 p.m. hours.</li><li>Arizona Relay callers can dial 711 or 800-367-8939 and ask for 877-211-8661.</li><li>Use <a href=\"https://211arizona.org/\">the online directory</a> to search resources. Contact the identified provider for its application and current availability.</li></ol>",
+    "after": "<p>Keep referral contacts and note each provider’s answer. Return to 211 if an organization cannot serve your area or its intake is closed. For immediate danger, seek emergency services rather than waiting for a resource referral.</p>",
+    "sources": "<ul><li><a href=\"https://211arizona.org/\">211 Arizona contact and resource directory</a></li><li><a href=\"https://usaassistance.org/programs/2-1-1-arizona/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the phone line open overnight?",
+      "Its published hours are 9 a.m.–7 p.m. daily."
+    ],
+    [
+      "Can Relay callers use the service?",
+      "Yes. The website gives Arizona Relay instructions using 711 or 800-367-8939 and the destination number 877-211-8661."
+    ],
+    [
+      "Does a referral reserve assistance?",
+      "No. The provider must review the application and confirm available help."
+    ],
+    [
+      "What should I say about an urgent bill?",
+      "Give the shutoff date and location when requesting resources, then tell the referred agency the same information."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "2-1-1-arizona",
+    "source_url": "https://usaassistance.org/programs/2-1-1-arizona/",
+    "source_updated": "August 2026",
+    "primary_url": "https://211arizona.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://211arizona.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

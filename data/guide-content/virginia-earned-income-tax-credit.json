@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia offers alternative income-based tax credits. Eligible filers should compare them and claim only the option allowed by the instructions.",
+  "description": "Virginia offers alternative income-based tax credits. Eligible filers should compare them and claim only the option allowed by the instructions.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility is needed for the state EITC route. Certain claimed exemptions, deductions or dependency circumstances can disqualify it.</p>",
+    "get": "<p>The refundable EITC is 20% of federal EITC for 2025 and 2026. Nonrefundable EITC and the low-income credit are separate alternatives, not amounts to add together.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>The matching Virginia return and Schedule ADJ.</li><li>Income, dependency and claimed subtraction information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the correct year</h3><p>Check Virginia’s return instructions for the year being filed.</p></li><li><h3 class=\"pbf-h3\">Compare options</h3><p>Review <a href=\"https://www.tax.virginia.gov/low-income-individuals-credit\">Virginia income-based credits</a> and exclusions.</p></li><li><h3 class=\"pbf-h3\">Claim one eligible option</h3><p>Complete Schedule ADJ and attach it to the state return as instructed.</p></li></ol>",
+    "after": "<p>Keep the calculation and both returns. Respond to any Taxation verification notice.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.tax.virginia.gov/low-income-individuals-credit\">Virginia income-based credit rules</a>; <a href=\"https://www.tax.virginia.gov/node/35513\">2025–26 change</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I add all three credits?",
+      "No. Virginia says to claim only one."
+    ],
+    [
+      "Can refundable EITC exceed tax owed?",
+      "Yes. That option is refundable."
+    ],
+    [
+      "Is the refundable percentage still 15%?",
+      "It increased to 20% for 2025 and 2026."
+    ],
+    [
+      "Which schedule is used?",
+      "Taxation directs applicants to Schedule ADJ."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.tax.virginia.gov/low-income-individuals-credit",
+      "https://www.tax.virginia.gov/node/35513"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

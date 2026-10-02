@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia unemployment claims can be filed through the MyUI Claimant Portal or a GDOL career center. After applying, weekly benefit certification and work-search reporting remain separate tasks.",
+  "description": "Georgia unemployment claims can be filed through the MyUI Claimant Portal or a GDOL career center. After applying, weekly benefit certification and work-search reporting remai",
+  "sections": {
+    "who": "<p>GDOL reviews qualifying work history, the circumstances of job loss or reduced hours and continuing availability for work. A person working reduced hours may be considered; the agency determines the claim.</p>",
+    "get": "<p>Unemployment insurance provides temporary income for approved claimants. A payment requires the ongoing eligibility and certification process, not just an initial application.</p>",
+    "docs": "<ul><li>Social Security number and government-issued photo identification.</li><li>Employment dates and employer contact details for the past 18 months.</li><li>An available separation notice; applicable military, federal-employment or work-authorization records.</li><li>Banking details if choosing direct deposit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File or reopen the claim</h3><p>Start from <a href=\"https://dol.georgia.gov/regular-unemployment-insurance-ui\">GDOL’s regular UI page</a> and follow the MyUI link, or request help at a career center.</p></li><li><h3 class=\"pbf-h3\">Answer review questions</h3><p>Keep confirmations and respond to identity, wage or separation questions.</p></li><li><h3 class=\"pbf-h3\">Complete weekly tasks</h3><p>Follow the handbook’s benefit-certification and work-search instructions. Submitting a search record is not the same as certifying for payment.</p></li></ol>",
+    "after": "<p>Check MyUI messages and report earnings accurately when claiming a week. Read the decision for review or appeal instructions if wages or eligibility are disputed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dol.georgia.gov/regular-unemployment-insurance-ui\">GDOL regular UI eligibility and filing</a>, <a href=\"https://dol.georgia.gov/document/unemployment-benefits/ui-claimant-handbook\">UI claimant handbook</a>, <a href=\"https://dol.georgia.gov/file-unemployment-insurance-claim\">Claim options</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-gdol/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can reduced hours qualify?",
+      "GDOL lists reduced-hours circumstances as a possible claim route; eligibility still must be assessed."
+    ],
+    [
+      "Can I file without a personal computer?",
+      "GDOL career centers offer filing assistance and resource computers."
+    ],
+    [
+      "Does a work-search record request my payment?",
+      "No. The current claimant handbook describes work-search reporting and weekly certification as separate processes."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dol.georgia.gov/regular-unemployment-insurance-ui",
+      "https://dol.georgia.gov/document/unemployment-benefits/ui-claimant-handbook",
+      "https://dol.georgia.gov/file-unemployment-insurance-claim"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

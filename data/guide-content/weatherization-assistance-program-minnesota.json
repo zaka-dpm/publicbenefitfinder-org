@@ -1,0 +1,44 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota weatherization helps qualifying households reduce home-energy use. Apply through the combined Energy Assistance and Weatherization process.",
+  "description": "Minnesota weatherization helps qualifying households reduce home-energy use. Apply through the combined Energy Assistance and Weatherization process.",
+  "sections": {
+    "who": "<p>Commerce uses the previous calendar month of household income. Its 2026 guidance uses the higher of 200% federal poverty or the applicable LIHEAP income threshold. Receipt of TANF or SSI within the last 12 months is another qualifying pathway. Priorities include older or disabled members, children and high energy use or burden; qualification does not guarantee immediate work.</p>",
+    "get": "<p>Eligible renters and homeowners may receive free assessment and approved upgrades such as insulation, air sealing, or heating/water-heating repair or replacement. The provider chooses cost-effective measures for the home.</p>",
+    "docs": "<ul><li>Income records for intake.</li><li>Energy bills and account details.</li><li>Property or landlord information requested by the provider.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start combined intake</h3><p>Use <a href=\"https://energy-assistance.web.commerce.state.mn.us/\">the combined online application</a> or contact your local provider for a form or call 800-657-3710 to find your weatherization provider.</p></li><li><h3 class=\"pbf-h3\">Request weatherization screening</h3><p>Explain the home’s energy problems and ask which additional property records are required.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Follow the provider’s inspection and scheduling instructions.</p></li></ol>",
+    "after": "<p>Ask about waiting lists and repairs that must be completed before weatherization.</p>",
+    "sources": "<p>Current eligibility, upgrades and combined application: <a href=\"https://mn.gov/commerce/energy/consumer-assistance/wap/\">Minnesota Commerce weatherization</a>. Preparation and program overview: <a href=\"https://mn.gov/commerce-stat/wap/weatherization-basics.pdf\">2026 participant guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Is this separate from heating-bill help?",
+      "It serves a different purpose, but uses combined intake."
+    ],
+    [
+      "Will every requested upgrade be installed?",
+      "No. Measures depend on assessment."
+    ],
+    [
+      "Who handles the work?",
+      "The designated local provider."
+    ],
+    [
+      "Can I request a paper application?",
+      "Contact the provider or state energy information line."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mn.gov/commerce-stat/wap/weatherization-basics.pdf",
+      "https://mn.gov/commerce/energy/consumer-assistance/wap/"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-minnesota/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "resolved_notes": [
+      "Current agency page recovered and read; numerical tables omitted to avoid outdated October2025 component while current agency screening described."
+    ]
+  }
+}

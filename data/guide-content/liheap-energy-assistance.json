@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia LIHEAP applications are handled by local Community Action Agencies. Ask the agency serving your county about the current heating or cooling intake window before submitting records.",
+  "description": "Georgia LIHEAP applications are handled by local Community Action Agencies. Ask the agency serving your county about the current heating or cooling intake window before submit",
+  "sections": {
+    "who": "<p>Applicants must meet household financial and status rules and be responsible for energy costs. The agency checks current eligibility and funding; priority intake may apply to older or medically homebound residents.</p>",
+    "get": "<p>LIHEAP assists with eligible household energy costs and specified energy emergencies. It is separate from a general application for SNAP or cash assistance.</p>",
+    "docs": "<ul><li>Have the most recent heating or cooling bill and any disconnect notice.</li><li>Prepare recent income information for household members.</li><li>Ask the agency which identity and household-status records its current intake requires.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your Community Action Agency</h3><p>Use the provider information on <a href=\"https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap\">Georgia’s LIHEAP page</a>.</p></li><li><h3 class=\"pbf-h3\">Ask about the current season</h3><p>Confirm opening dates, appointment arrangements and funding. Older state pages show different seasonal calendars, so use the local agency’s current notice.</p></li><li><h3 class=\"pbf-h3\">Submit the local application</h3><p>Explain any immediate energy crisis and provide the requested records through the agency’s intake process.</p></li></ol>",
+    "after": "<p>Check with the agency about the result and whether a vendor payment has been arranged. Discuss a shutoff separately with your utility while assistance is pending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap\">Current Georgia LIHEAP overview</a>, <a href=\"https://dfcs.georgia.gov/regular-home-energy-assistance/energy-assistance-eligibility-requirements\">Energy eligibility overview</a>. <a href=\"https://usaassistance.org/programs/liheap-energy-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I apply through Gateway?",
+      "The state directs LIHEAP applicants to local Community Action Agencies."
+    ],
+    [
+      "Are dates the same for all applicants?",
+      "Georgia describes priority intake for some older or medically homebound residents. Confirm this season’s dates with the provider."
+    ],
+    [
+      "Is interpreter help charged?",
+      "The state says energy assistance and necessary interpreter services are provided without charge."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dfcs.georgia.gov/services/low-income-home-energy-assistance-program-liheap",
+      "https://dfcs.georgia.gov/regular-home-energy-assistance/energy-assistance-eligibility-requirements"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

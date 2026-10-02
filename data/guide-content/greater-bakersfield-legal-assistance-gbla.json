@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Greater Bakersfield Legal Assistance provides free civil legal services for low-income and elderly people in Kern County. Contact intake to ask whether it can help with your p",
+  "introduction": "Greater Bakersfield Legal Assistance provides free civil legal services for low-income and elderly people in Kern County. Contact intake to ask whether it can help with your particular matter.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "GBLA serves low-income and elderly Kern County residents. The organization must assess your case and service eligibility; a request does not guarantee representation."
+    ],
+    "get": "<p>Its service areas include housing matters and public benefits. The housing work includes a Landlord-Tenant Assistance Center in the metropolitan Bakersfield courthouse.</p>",
+    "docs": "<p>Have notices, court documents and the names of the parties ready. State any hearing or response deadline immediately. Ask intake what financial evidence is needed before sending sensitive records.</p>",
+    "apply": "<p>Call <a href=\"tel:6613255943\">661-325-5943</a> and request intake information. Review <a href=\"https://www.dev.gbla.org/our-services/\">GBLA’s services</a> to identify the relevant unit.</p>",
+    "after": "<p>Clarify whether you are receiving advice, document assistance or representation. Keep tracking deadlines until someone explicitly accepts responsibility for a filing. Ask for another referral if your matter cannot be accepted.</p>",
+    "sources": "<ul><li><a href=\"https://www.dev.gbla.org/our-services/\">GBLA service scope</a></li><li><a href=\"https://www.dev.gbla.org/\">GBLA contact information</a></li><li><a href=\"https://usaassistance.org/programs/greater-bakersfield-legal-assistance-gbla/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does GBLA handle criminal defense?",
+      "Its published mission covers civil legal services; ask for an appropriate referral for other matters."
+    ],
+    [
+      "Can it help with a benefit denial?",
+      "GBLA lists Social Security and public benefit-related assistance; ask intake about your notice."
+    ],
+    [
+      "Is submitting a request representation?",
+      "No. Confirm whether the organization accepts your case."
+    ],
+    [
+      "What if I have an eviction hearing soon?",
+      "Tell intake the date immediately and continue following court instructions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "greater-bakersfield-legal-assistance-gbla",
+    "source_url": "https://usaassistance.org/programs/greater-bakersfield-legal-assistance-gbla/",
+    "source_updated": "August 2026",
+    "primary_url": "https://gbla.org/services",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.dev.gbla.org/our-services/",
+      "https://www.dev.gbla.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

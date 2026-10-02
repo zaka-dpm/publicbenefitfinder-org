@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Temporary Assistance combines cash support with work services for qualifying low-income families with children. Its job-focused approach can include help overcoming bar",
+  "introduction": "Alaska Temporary Assistance combines cash support with work services for qualifying low-income families with children. Its job-focused approach can include help overcoming barriers to employment.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families must meet the program’s countable-income and resource rules. Family type, income, shelter costs and the second-parent rules can affect the benefit.",
+      "Participation generally involves employment or activities directed toward employment. Discuss disability, care responsibilities or another barrier with the case manager rather than assuming no exception or support exists."
+    ],
+    "get": "<p>ATAP provides cash assistance and work services. Supports can include employment-related transportation, clothing or equipment and child-care help. The worker determines which services fit the family’s plan.</p>",
+    "docs": "<p>Gather family and child information, income and resource records, and shelter-cost details for the application. Keep employment and care-schedule information available to discuss the work plan. Ask the worker for the exact verification checklist.</p>",
+    "apply": "<ol><li>Follow the Alaska Connect application link on <a href=\"https://health.alaska.gov/en/services/alaska-temporary-assistance/\">the ATAP page</a>.</li><li>Complete and sign the Application for Services, keeping confirmation.</li><li>Respond to DPA’s requests and discuss work services and child-care needs with the assigned worker. The Virtual Contact Center is 800-478-7778.</li></ol>",
+    "after": "<p>Read the decision and assigned participation requirements. Ask about the plan’s support services and how to report income or family changes. The program has time limits and special rules for two-parent families; ask the worker how these apply to your case.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/alaska-temporary-assistance/\">ATAP program and application</a></li><li><a href=\"https://health.alaska.gov/media/hgja52sa/alaska-tanf-state-plan-2026-2028.pdf\">Current 2026–2028 state plan</a></li><li><a href=\"https://usaassistance.org/programs/alaska-temporary-assistance-program-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does ATAP include employment help?",
+      "Yes. It combines cash assistance with services and activities directed toward work."
+    ],
+    [
+      "Can it help with child care?",
+      "The program identifies child-care assistance as support for employment or approved activities. Ask the case manager about the PASS I route."
+    ],
+    [
+      "Is the payment identical for all families?",
+      "No. Family size, income, shelter costs and certain family-type rules affect it."
+    ],
+    [
+      "What if I need help to participate?",
+      "Tell the worker about the barrier and ask which support services or applicable exceptions can be considered."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-temporary-assistance-program-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/alaska-temporary-assistance-program-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/alaska-temporary-assistance/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/alaska-temporary-assistance/",
+      "https://health.alaska.gov/media/hgja52sa/alaska-tanf-state-plan-2026-2028.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

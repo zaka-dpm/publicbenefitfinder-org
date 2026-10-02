@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "The Massachusetts earned income tax credit is claimed on a state income tax return. It can reduce tax and produce a refund for qualifying workers, including some who are not o",
+  "introduction": "The Massachusetts earned income tax credit is claimed on a state income tax return. It can reduce tax and produce a refund for qualifying workers, including some who are not otherwise required to file.",
+  "service_type": "tax",
+  "sections": {
+    "who": [
+      "Workers meeting the applicable federal EITC requirements and Massachusetts tax rules.",
+      "Residents for at least part of the tax year; people who are nonresidents for the entire year cannot claim it.",
+      "Filing status, qualifying children, Social Security numbers and income affect eligibility. Special filing exceptions require careful review."
+    ],
+    "get": "<p>A refundable state tax credit based on the federal credit. The state lists 40% for tax years beginning in 2023 or later; part-year residents must prorate.</p>",
+    "docs": "<p>Prepare wage and self-employment records, Social Security numbers, child residency records if relevant, federal return and Massachusetts residency dates. Keep records supporting a child claim if another person may claim the child.</p>",
+    "apply": "<ol><li>Use the Department of Revenue guidance for the tax year being filed.</li><li>Determine the federal EITC and complete the Massachusetts resident or part-year return.</li><li>Claim the state credit even if filing only to request this refund.</li><li>Ask a VITA or Tax-Aide preparer for help if available.</li></ol>",
+    "after": "<p>Save both returns and monitor refund or document requests. If the IRS later changes the federal EITC, review whether an amended Massachusetts return is required.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/info-details/earned-income-tax-credit-eitc\">DOR EITC eligibility and filing</a></li><li><a href=\"https://www.mass.gov/technical-information-release/tir-24-4-provisions-in-the-2023-tax-relief-legislation\">Refundable credit and filing requirement</a></li><li><a href=\"https://usaassistance.org/programs/massachusetts-earned-income-tax-credit/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must I file a Massachusetts return?",
+      "Yes, the state credit must be claimed on a Massachusetts return."
+    ],
+    [
+      "Can part-year residents claim it?",
+      "Eligible part-year residents prorate the credit by their Massachusetts residency period."
+    ],
+    [
+      "Can full-year nonresidents claim it?",
+      "No."
+    ],
+    [
+      "Can people without children qualify?",
+      "Some can, subject to the applicable age and other federal and state criteria."
+    ],
+    [
+      "Can I use last year’s income limits?",
+      "Use the guidance for the year of the return; limits change."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "massachusetts-earned-income-tax-credit",
+    "source_url": "https://usaassistance.org/programs/massachusetts-earned-income-tax-credit/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/info-details/massachusetts-earned-income-tax-credit-eitc",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/info-details/earned-income-tax-credit-eitc",
+      "https://www.mass.gov/technical-information-release/tir-24-4-provisions-in-the-2023-tax-relief-legislation"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

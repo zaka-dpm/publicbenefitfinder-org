@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan’s Family Independence Program provides temporary cash assistance to eligible pregnant applicants and families with minor children. Apply through MI Bridges or MDHHS.",
+  "description": "Michigan’s Family Independence Program provides temporary cash assistance to eligible pregnant applicants and families with minor children. Apply through MI Bridges or MDHHS.",
+  "sections": {
+    "who": "<p>Financial and family eligibility requirements apply. A previous time-limit closure does not establish current eligibility.</p>",
+    "get": "<p>The adult lifetime limit increased from 48 to 60 months in April 2025. Some families previously closed at 48 months may reapply for additional months.</p>",
+    "docs": "<ul><li>Identity, address and household information.</li><li>Income, resources and child or pregnancy records requested by MDHHS.</li><li>Information about barriers to participation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/cash/fip\">MDHHS’s FIP page</a> to reach MI Bridges, a printable form or your local office.</p></li><li><h3 class=\"pbf-h3\">Complete the case review</h3><p>Provide evidence and explain any previous FIP benefits.</p></li><li><h3 class=\"pbf-h3\">Confirm participation rules</h3><p>Ask about employment services, support needs and exemptions before missing an assigned activity.</p></li></ol>",
+    "after": "<p>Keep case notices and appointment dates. Reapplying after a time-limit change is a new eligibility review.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/cash/fip\">FIP current time limit and application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I reapply after a 48-month closure?",
+      "The state says you may, subject to current eligibility and remaining months."
+    ],
+    [
+      "Is online filing required?",
+      "No. Paper and local-office routes are listed."
+    ],
+    [
+      "Are pregnant applicants included?",
+      "Eligible pregnant applicants may receive assistance."
+    ],
+    [
+      "Does the new limit guarantee extra payments?",
+      "No. Current eligibility must still be established."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/cash/fip"
+    ],
+    "background_source": "https://usaassistance.org/programs/family-independence-program-michigan-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

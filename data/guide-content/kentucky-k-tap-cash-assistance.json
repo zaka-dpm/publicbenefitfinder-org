@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky Transitional Assistance Program (KTAP) supports qualifying families with dependent children. Cash assistance, work services and help with some employment expenses can",
+  "introduction": "Kentucky Transitional Assistance Program (KTAP) supports qualifying families with dependent children. Cash assistance, work services and help with some employment expenses can be part of a family’s plan.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "The program serves low-income Kentucky families with a parent or caretaker relative and an eligible dependent child. Citizenship or eligible immigration rules apply.",
+      "Children generally must be younger than 18, or 18 and attending school. DCBS reviews the family’s circumstances."
+    ],
+    "get": "<p>KTAP can provide cash and help through the Kentucky Works Program. Child care, transportation and other work-related support depend on eligibility and the approved plan.</p>",
+    "docs": "<p>Gather household identities, children’s school information where relevant and records of earnings or other income. Ask DCBS which additional proof it needs for your particular family; keep a copy of the request.</p>",
+    "apply": "<ol><li>Apply through <a href=\"https://kynect.ky.gov/\">kynect benefits</a>, a local DCBS office, or by calling 855-306-8959.</li><li>Complete the requested family and financial information and discuss work-program requirements with the worker.</li><li>Submit the requested verification and keep the application confirmation and copies of documents.</li></ol>",
+    "after": "<p>Read the eligibility notice and work plan carefully. Report employment and ask how earnings affect assistance before assuming the case must close. KTAP has a 60-month lifetime limit, with months counted across periods of receipt; ask the worker about your remaining months.</p>",
+    "sources": "<ul><li><a href=\"https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx\">Kentucky KTAP</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-k-tap-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Will getting a job automatically stop KTAP?",
+      "No. Kentucky explains that some earnings may be disregarded. Ask your worker to calculate the effect of the job on your case."
+    ],
+    [
+      "Can KTAP help with getting to work?",
+      "Transportation and other employment-related assistance may be available through an approved Kentucky Works plan."
+    ],
+    [
+      "Do the 60 months have to be consecutive?",
+      "No. The lifetime limit counts periods of KTAP receipt even when separated by time off assistance."
+    ],
+    [
+      "What if cash assistance ends because I work?",
+      "Ask about continuing SNAP, Medicaid or child care eligibility and available work-incentive assistance. Each has its own rules."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-k-tap-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/kentucky-k-tap-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dfs/fssb/Pages/ktap.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

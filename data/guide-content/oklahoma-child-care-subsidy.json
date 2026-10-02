@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma child-care subsidy applications use OKDHSLive or a local Human Services Center. Confirm current access rules before assuming a particular child or provider can be funded.",
+  "description": "Oklahoma child-care subsidy applications use OKDHSLive or a local Human Services Center. Confirm current access rules before assuming a particular child or provider can be fun",
+  "sections": {
+    "who": "<p>The state reviews income, household size and an eligible care need, such as employment, training or education. Protective-service arrangements can also qualify.</p>",
+    "get": "<p>Payments go to the provider on the family’s behalf. An income-related copayment may apply.</p>",
+    "docs": "<ul><li>Child and household information.</li><li>Income and work, education or care-need records.</li><li>Provider details and requested verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through the state</h3><p>Use <a href=\"https://oklahoma.gov/okdhs/services/adult/ccsubsidy/child-care-subsidy.html\">the current application links</a> or call 405-522-5050 for assistance.</p></li><li><h3 class=\"pbf-h3\">Confirm current access</h3><p>Ask about your child’s age and any applicable exemption before arranging care.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Attend the requested interview and supply evidence, then review authorized dates and copayment.</p></li></ol>",
+    "after": "<p>Check provider authorization and payment conditions. The state postponed the planned October 2026 income-rule change to February 2027; follow current agency notices.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/okdhs/services/adult/ccsubsidy/child-care-subsidy.html\">Subsidy intake and services</a>, <a href=\"https://oklahoma.gov/okdhs/services/child-care-services/timetoprepare.html\">Income-change postponement</a>, <a href=\"https://oklahoma.gov/okdhs/newsroom/2026/january/comm01072026.html\">Current access and exemption update</a>. <a href=\"https://usaassistance.org/programs/oklahoma-child-care-subsidy/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the subsidy paid to me?",
+      "The state says payment goes directly to the provider on the family’s behalf."
+    ],
+    [
+      "Did the announced income change begin October 2026?",
+      "Human Services says the effective date moved to February 1, 2027."
+    ],
+    [
+      "Can there be a family payment?",
+      "Yes. The program describes an income-related copayment."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/okdhs/services/adult/ccsubsidy/child-care-subsidy.html",
+      "https://oklahoma.gov/okdhs/services/child-care-services/timetoprepare.html",
+      "https://oklahoma.gov/okdhs/newsroom/2026/january/comm01072026.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

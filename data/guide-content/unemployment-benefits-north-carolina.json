@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "North Carolina unemployment benefits provide temporary payments to eligible workers. MyNCUIBenefits handles claims and weekly certifications.",
+  "description": "North Carolina unemployment benefits provide temporary payments to eligible workers. MyNCUIBenefits handles claims and weekly certifications.",
+  "sections": {
+    "who": "<p>DES reviews work history and separation. Applicants must meet ongoing ability, availability and work-search conditions.</p>",
+    "get": "<p>The agency determines the benefit; account creation alone does not establish payment eligibility.</p>",
+    "docs": "<ul><li>Email and Social Security number.</li><li>Recent employer and separation details.</li><li>Weekly earnings and required activity records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the claim</h3><p>Use <a href=\"https://www.des.nc.gov/individuals/apply-unemployment/filing-your-unemployment-application\">DES filing instructions</a> and MyNCUIBenefits.</p></li><li><h3 class=\"pbf-h3\">Complete account tasks</h3><p>Provide requested identity and claim information.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Follow current weekly and work-search instructions.</p></li></ol>",
+    "after": "<p>Check claim status and read notices. Phone assistance is888-737-0259.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.des.nc.gov/individuals/apply-unemployment/filing-your-unemployment-application\">NC unemployment filing</a>; <a href=\"https://www.des.nc.gov/individuals/apply-ui\">Program conditions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply by phone?",
+      "Yes."
+    ],
+    [
+      "Does the portal handle weekly certifications?",
+      "Yes."
+    ],
+    [
+      "Does an initial application request all payments?",
+      "No."
+    ],
+    [
+      "Is language help available?",
+      "DES provides free telephone translation assistance."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.des.nc.gov/individuals/apply-unemployment/filing-your-unemployment-application",
+      "https://www.des.nc.gov/individuals/apply-ui"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-benefits-north-carolina/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

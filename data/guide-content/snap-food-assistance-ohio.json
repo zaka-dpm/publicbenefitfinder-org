@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio SNAP helps eligible households buy groceries using an Ohio Direction EBT card. County JFS determines the household’s benefit.",
+  "description": "Ohio SNAP helps eligible households buy groceries using an Ohio Direction EBT card. County JFS determines the household’s benefit.",
+  "sections": {
+    "who": "<p>The county reviews household membership, income, allowable expenses and applicable eligibility rules. Explain who lives together and normally buys and prepares food together.</p>",
+    "get": "<p>The benefit amount depends on household circumstances. SNAP covers eligible food, rather than medicine, alcohol or household supplies.</p>",
+    "docs": "<ul><li>Household identity and income records.</li><li>Housing and other expenses requested for the calculation.</li><li>Requested status and Social Security information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Start at <a href=\"https://benefits.ohio.gov/\">Ohio Benefits</a> or contact your county JFS.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Attend the interview and return any additional checklist items. Tell the worker if you have little income or food and need urgent screening.</p></li><li><h3 class=\"pbf-h3\">Keep the decision</h3><p>Read the approval or denial notice and any card instructions.</p></li></ol>",
+    "after": "<p>Complete required interim reports and renewal interviews. Check current EBT security settings before an online or out-of-state purchase.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Food-Resources/SNAP-Food-Assistance\">County SNAP overview</a>; <a href=\"https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Food-Resources/SNAP-Food-Assistance/How-to-Apply-for-Food-and-Cash-Assistance\">Food and cash intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this called food stamps?",
+      "SNAP is the current name; Ohio uses the Direction Card."
+    ],
+    [
+      "Are household supplies covered?",
+      "No. SNAP is for eligible food purchases."
+    ],
+    [
+      "What if I need food urgently?",
+      "Ask the county about expedited screening and immediate food referrals."
+    ],
+    [
+      "Do I need to renew?",
+      "Follow the reporting and recertification instructions on your notices."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Food-Resources/SNAP-Food-Assistance",
+      "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Food-Resources/SNAP-Food-Assistance/How-to-Apply-for-Food-and-Cash-Assistance"
+    ],
+    "background_source": "https://usaassistance.org/programs/snap-food-assistance-ohio/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

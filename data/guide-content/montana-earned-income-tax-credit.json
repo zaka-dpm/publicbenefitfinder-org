@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana\u2019s refundable Earned Income Tax Credit is claimed through Form2 with the state income-tax return.",
+  "description": "Montana\u2019s refundable Earned Income Tax Credit is claimed through Form2 with the state income-tax return.",
+  "sections": {
+    "who": "<p>Montana residency and same-year federal EITC eligibility matter. Part-year and special circumstances require the year-specific instructions.</p>",
+    "get": "<p>The credit is refundable. The 2025 rules use 10% of federal EITC; Revenue\u2019s HB337 guidance increases it to 20% beginning tax year2026. Use the instructions for the year you are filing.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Residency and earned-income records.</li><li>Correct-year Montana forms.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Determine the tax year</h3><p>Do not apply a prior-year percentage automatically.</p></li><li><h3 class=\"pbf-h3\">Prepare Form2</h3><p>Use <a href=\"https://revenue.mt.gov/taxes/tax-credits/mt-earned-income-tax-credit\">Revenue\u2019s credit guidance</a> and the applicable instructions.</p></li><li><h3 class=\"pbf-h3\">File the state return</h3><p>Use approved software or paper, retaining copies.</p></li></ol>",
+    "after": "<p>Confirm any allocation or reduction before filing.</p>",
+    "sources": "<p>Checked October1,2026 using <a href=\"https://revenue.mt.gov/taxes/tax-credits/mt-earned-income-tax-credit\">Revenue\u2019s credit overview</a> and <a href=\"https://revenue.mt.gov/news/recent-news/HB-337\">HB337 tax-year changes</a>. The credit percentage changes for tax year2026.</p>"
+  },
+  "faqs": [
+    [
+      "Is it refundable?",
+      "Yes."
+    ],
+    [
+      "Is federal EITC relevant?",
+      "Yes."
+    ],
+    [
+      "Can I claim it without filing state taxes?",
+      "A Montana return is required."
+    ],
+    [
+      "Is one percentage safe for every year?",
+      "No. Use the claim-year rules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://revenue.mt.gov/taxes/tax-credits/mt-earned-income-tax-credit",
+      "https://archive.legmt.gov/content/Publications/fiscal/2027-Biennium/Budget-and-Revenue/Volume-II/Post-Session/Vol-2-Revenue-Estimates-27Bi.pdf",
+      "https://revenue.mt.gov/news/recent-news/HB-337"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

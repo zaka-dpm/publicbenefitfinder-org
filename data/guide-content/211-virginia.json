@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "211 Virginia connects residents with local housing, food, health and community services. Check current live assistance hours before calling.",
+  "description": "211 Virginia connects residents with local housing, food, health and community services. Check current live assistance hours before calling.",
+  "sections": {
+    "who": "<p>People seeking resources can use the service. Individual providers separately set eligibility and available support.</p>",
+    "get": "<p>The directory and navigation service provide referrals; they do not approve the referred benefit.</p>",
+    "docs": "<ul><li>Your town or ZIP code.</li><li>The type of help needed.</li><li>Any urgent deadline or accessibility need.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a contact method</h3><p>Dial 211, text CONNECT to 247211, or use chat or search at <a href=\"https://211virginia.org/\">211 Virginia</a>.</p></li><li><h3 class=\"pbf-h3\">Describe the need</h3><p>Explain your immediate problem and location.</p></li><li><h3 class=\"pbf-h3\">Check the referral</h3><p>Ask providers about intake, documents and current availability.</p></li></ol>",
+    "after": "<p>The current pilot limits live staffing hours, while search and Agentless Assist remain available outside those hours.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://211virginia.org/\">211 Virginia</a>; <a href=\"https://211virginia.org/211-virginia-announces-new-live-assistance-hours/\">Current live-hours pilot</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is live assistance always available?",
+      "Check the current pilot-hours announcement."
+    ],
+    [
+      "Can I search after hours?",
+      "The public directory and Agentless Assist remain available."
+    ],
+    [
+      "What is the text keyword?",
+      "Text CONNECT to 247211."
+    ],
+    [
+      "Does a referral guarantee funding?",
+      "No. The provider decides."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://211virginia.org/",
+      "https://211virginia.org/211-virginia-announces-new-live-assistance-hours/"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-virginia/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah Medicaid applications use myCase. An eligibility worker assesses the applicable coverage category and requested verification.",
+  "description": "Utah Medicaid applications use myCase. An eligibility worker assesses the applicable coverage category and requested verification.",
+  "sections": {
+    "who": "<p>Multiple pathways have different income and other conditions. Ask eligibility which pathway applies to each person rather than relying on one household-wide answer.</p>",
+    "get": "<p>Medical coverage under the approved Medicaid category.</p>",
+    "docs": "<ul><li>Identity and household information.</li><li>Income and requested resource records.</li><li>Category-related evidence requested by the worker.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through myCase</h3><p>Use <a href=\"https://medicaid.utah.gov/\">Utah Medicaid’s online application link</a>.</p></li><li><h3 class=\"pbf-h3\">Return verification</h3><p>Provide requested records and explain any missing items.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Review coverage and enrollment instructions.</p></li></ol>",
+    "after": "<p>Keep contact information current and respond to review notices so the worker can assess continued eligibility.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://medicaid.utah.gov/\">Utah Medicaid application</a>, <a href=\"https://medicaid.utah.gov/who-eligible/\">Eligibility pathways</a>. <a href=\"https://usaassistance.org/programs/utah-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are all pathways identical?",
+      "No. Utah publishes a Medical Programs Summary with category-specific conditions."
+    ],
+    [
+      "Who answers eligibility questions?",
+      "The state directs these questions to a Medicaid Eligibility Worker."
+    ],
+    [
+      "Is PRISM the resident application?",
+      "The resident application link is myCase; PRISM resources mainly serve provider functions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://medicaid.utah.gov/",
+      "https://medicaid.utah.gov/who-eligible/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

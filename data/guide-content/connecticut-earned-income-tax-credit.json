@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut’s earned income tax credit is a refundable state tax credit for eligible workers. It is claimed with the state income-tax return.",
+  "description": "Connecticut’s earned income tax credit is a refundable state tax credit for eligible workers. It is claimed with the state income-tax return.",
+  "sections": {
+    "who": "<p>You must qualify for federal EITC and satisfy Connecticut rules, including full-year residency. Earned income, filing status, tax identification and any qualifying-child rules affect eligibility.</p>",
+    "get": "<p>The credit can reduce state income tax or contribute to a refund. Use the calculation and limits for the filing year.</p>",
+    "docs": "<ul><li>Federal return, wage statements and self-employment income and expense records.</li><li>Social Security numbers required for eligible filers and children.</li><li>Full-year residency and qualifying-child records, where applicable.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Confirm federal and state eligibility</h3><p>Review the <a href=\"https://portal.ct.gov/drs/ct---eitc/ct-eitc-information/ct-earned-income-tax-credit\">DRS EITC page</a> and the correct year’s instructions.</p></li><li><h3 class=\"pbf-h3\">Complete Schedule CT-EITC</h3><p>Use information from the federal return and retain any calculation worksheets.</p></li><li><h3 class=\"pbf-h3\">File the Connecticut return</h3><p>Include the required schedule. If needed, look for qualified free tax-preparation help before the filing deadline.</p></li></ol>",
+    "after": "<p>DRS may request supporting records. Respond to the actual notice and retain the federal and state returns together.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/drs/ct---eitc/ct-eitc-information/ct-earned-income-tax-credit\">Connecticut EITC eligibility and schedule guidance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do I need a qualifying child?",
+      "Not always. DRS provides separate rules for filers without a qualifying child."
+    ],
+    [
+      "Is federal eligibility required?",
+      "Yes. The Connecticut credit mirrors federal EITC eligibility with additional state conditions."
+    ],
+    [
+      "Does self-employment count?",
+      "It can be earned income; retain income and expense records for the calculation."
+    ],
+    [
+      "Is this a monthly benefit?",
+      "No. It is claimed on an income-tax return."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/drs/ct---eitc/ct-eitc-information/ct-earned-income-tax-credit"
+    ],
+    "background_source": "https://usaassistance.org/programs/connecticut-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

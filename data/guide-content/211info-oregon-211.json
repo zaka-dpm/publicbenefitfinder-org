@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "211info helps people locate Oregon community services. Search by service and location or telephone a specialist for help.",
+  "description": "211info helps people locate Oregon community services. Search by service and location or telephone a specialist for help.",
+  "sections": {
+    "who": "<p>You can ask for referrals without a benefit approval. Providers assess their own eligibility.</p>",
+    "get": "<p>The directory covers housing, food, utilities, healthcare and other community needs.</p>",
+    "docs": "<ul><li>City or ZIP code.</li><li>Need and urgency.</li><li>A place to save referral details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Search or call</h3><p>Use <a href=\"https://www.211info.org/\">211info</a>, dial 211 or call 866-698-6155.</p></li><li><h3 class=\"pbf-h3\">Explain your location</h3><p>Mention access needs and organizations already contacted.</p></li><li><h3 class=\"pbf-h3\">Contact the provider</h3><p>Confirm intake, eligibility and availability.</p></li></ol>",
+    "after": "<p>Ask for alternatives if a referral cannot meet your needs.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.211info.org/\">211info directory and contact routes</a>. <a href=\"https://usaassistance.org/programs/211info-oregon-211/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are interpreters available?",
+      "211info says language interpreters are available by telephone."
+    ],
+    [
+      "Can I search without calling?",
+      "Yes. The website offers service and location searches."
+    ],
+    [
+      "Does a referral guarantee assistance?",
+      "No. The receiving provider makes that decision."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.211info.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Alabama Weatherization Assistance improves the energy efficiency of eligible homes. Local agencies arrange an assessment and approved work; the program is different from help ",
+  "introduction": "Alabama Weatherization Assistance improves the energy efficiency of eligible homes. Local agencies arrange an assessment and approved work; the program is different from help paying a utility bill.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "The state overview requires household income at or below 200% of the federal poverty level. The local agency checks the current limit for your household.",
+      "The program emphasizes older residents, people with disabilities and families with children. Participants must agree to the minor alterations identified through the assessment."
+    ],
+    "get": "<p>Trained professionals inspect the home, carry out an energy audit and identify cost-effective improvements. Health and safety checks are part of this process; the audit determines the work, rather than the applicant choosing a renovation budget.</p>",
+    "docs": "<p>Ask intake staff about income verification, residency and authority to approve work on the home. If you rent, ask what permission is needed from the owner before scheduling an assessment. Gather the requested records before your appointment.</p>",
+    "apply": "<ol><li>Find your county in <a href=\"https://adeca.alabama.gov/weatherization/\">ADECA’s weatherization region list</a>.</li><li>Contact the listed weatherization agency to request intake. ADECA does not accept household applications.</li><li>Provide its requested eligibility records and arrange access for the assessment if selected.</li></ol>",
+    "after": "<p>Ask about the waiting list and assessment appointment. Agree with the agency on access, permissions and approved measures before work begins. Do not hire a contractor expecting the program to reimburse an independently arranged repair.</p>",
+    "sources": "<ul><li><a href=\"https://adeca.alabama.gov/weatherization/\">Alabama weatherization overview and regional providers</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-alabama/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is this the same as LIHEAP?",
+      "No. Weatherization addresses a home’s energy efficiency; LIHEAP helps with home-energy costs."
+    ],
+    [
+      "Who decides which improvements are made?",
+      "The agency uses an energy audit and health and safety assessment to determine suitable work."
+    ],
+    [
+      "Does ADECA accept my application?",
+      "No. Apply through the weatherization provider listed for your county."
+    ],
+    [
+      "What should a renter ask?",
+      "Ask the provider about rental eligibility and the owner’s permission for assessment and alterations."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-alabama",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-alabama/",
+    "source_updated": "August 2026",
+    "primary_url": "https://adeca.alabama.gov/weatherization/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://adeca.alabama.gov/weatherization/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

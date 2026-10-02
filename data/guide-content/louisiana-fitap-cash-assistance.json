@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana FITAP provides cash assistance for eligible children living with a qualified relative. The Department of Health reviews family eligibility and any related work-progr",
+  "introduction": "Louisiana FITAP provides cash assistance for eligible children living with a qualified relative. The Department of Health reviews family eligibility and any related work-program obligations.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "The child must live with a qualifying relative in Louisiana and meet age and financial rules. Eligible children are generally under 18, or 18 and in qualifying full-time secondary education.",
+      "Citizenship or qualified immigration rules, Social Security number requirements and family income conditions apply. Work-eligible adults may have STEP obligations unless exempt."
+    ],
+    "get": "<p>An approved family receives assistance calculated from its eligible members and countable income. STEP can provide employment, training and supportive services under the family’s requirements.</p>",
+    "docs": "<p>Gather proof of the child’s relationship and residence, identities, income and school attendance where relevant. Ask about child immunization records and any additional checklist items. Keep documents readable when uploading them.</p>",
+    "apply": "<ol><li>Use the CAFÉ link on <a href=\"https://www.ldh.la.gov/page/fitap\">LDH’s FITAP page</a>, call 888-524-3578, or request the combined paper assistance application.</li><li>Complete the interview and submit verification through the instructed channel.</li><li>Discuss STEP requirements and any reason you may qualify for an exemption.</li></ol>",
+    "after": "<p>Read the award notice and any work-plan instructions. Ask the worker how previous TANF months affect your remaining eligibility; Louisiana applies both a recent-month limit and a lifetime limit. Report changes and keep copies of notices and submitted documents.</p>",
+    "sources": "<ul><li><a href=\"https://www.ldh.la.gov/page/fitap\">FITAP eligibility and application</a></li><li><a href=\"https://ldh.la.gov/page/5526\">Detailed FITAP conditions</a></li><li><a href=\"https://www.laworks.net/OneDoor/OD_STEP.asp\">STEP program</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-fitap-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a relative apply for a child?",
+      "Yes, if the relationship and other FITAP conditions are met. The child must live with the qualified relative."
+    ],
+    [
+      "Is an interview required?",
+      "LDH conducts an interview and verifies eligibility before deciding the application."
+    ],
+    [
+      "What is STEP?",
+      "Strategies to Empower People provides work-related services and requirements for work-eligible FITAP families. Ask about exemptions if relevant."
+    ],
+    [
+      "Does applying for SNAP automatically request FITAP?",
+      "Make sure FITAP is selected on the assistance application. Additional child and family documentation is required."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-fitap-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/louisiana-fitap-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://ldh.la.gov/page/5528",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.ldh.la.gov/page/fitap",
+      "https://ldh.la.gov/page/5526",
+      "https://www.laworks.net/OneDoor/OD_STEP.asp"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

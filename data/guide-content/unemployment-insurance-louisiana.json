@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana Unemployment Insurance provides temporary benefits to workers meeting wage, job-separation and continuing eligibility rules. Use HiRE for a claim and ongoing weekly ",
+  "introduction": "Louisiana Unemployment Insurance provides temporary benefits to workers meeting wage, job-separation and continuing eligibility rules. Use HiRE for a claim and ongoing weekly requests.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "You must have sufficient past wages and be unemployed or partially unemployed through no fault of your own.",
+      "Eligible weeks generally require the ability and availability to work plus required job-search activity. A definite return-to-work date may support an exemption if recognized by the state."
+    ],
+    "get": "<p>The claim determination establishes the payment and available weeks. Receiving a wage calculation does not settle every separation or weekly eligibility question.</p>",
+    "docs": "<p>Prepare your Social Security or eligible immigration information and employer contacts and dates for the last 18 months. Military or federal work can require additional documents. Start keeping evidence of job-search activities immediately.</p>",
+    "apply": "<ol><li>File through <a href=\"https://www.louisianaworks.net/hire/\">HiRE</a>, using the claimant service. If you cannot file online, call 866-783-5567.</li><li>Provide employment and separation information and follow identity or document requests.</li><li>Request benefits each week through HiRE or the state telephone system, reporting work and earnings.</li></ol>",
+    "after": "<p>Retain weekly confirmations and search records. For new claims filed on or after January 4, 2026, the state requires five weekly work-search activities unless exempt; older claims use the rule assigned to them. Read and respond to every determination and use its appeal deadline if needed.</p>",
+    "sources": "<ul><li><a href=\"https://www.laworks.net/FAQs/FAQ_UI_ClaimantBenefits.asp\">Louisiana claimant FAQ</a></li><li><a href=\"https://www.laworks.net/UnemploymentInsurance/UI_Claimants.asp\">Claimant service links</a></li><li><a href=\"https://www.laworks.net/Downloads/UI/UIBenefitRightsInformation.pdf\">Benefit rights guide</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-louisiana/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does the initial claim request payment every week?",
+      "No. You must submit the continuing weekly benefit request."
+    ],
+    [
+      "How many work-search activities do I need?",
+      "New claims filed on or after January 4, 2026 require five weekly activities. Follow any recognized exemption or claim-specific instructions."
+    ],
+    [
+      "What if I worked in another state?",
+      "Tell the claim agency about that work so it can determine the appropriate state or combined-wage claim."
+    ],
+    [
+      "Can reduced hours qualify?",
+      "Partial unemployment may qualify, subject to the state’s wage and weekly rules. Report all work and earnings."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-louisiana",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-louisiana/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.laworks.net/UnemploymentInsurance/UI_MainMenu.asp",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.laworks.net/FAQs/FAQ_UI_ClaimantBenefits.asp",
+      "https://www.laworks.net/UnemploymentInsurance/UI_Claimants.asp",
+      "https://www.laworks.net/Downloads/UI/UIBenefitRightsInformation.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

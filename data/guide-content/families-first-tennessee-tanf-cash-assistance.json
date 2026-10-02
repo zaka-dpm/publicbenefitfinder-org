@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Families First is Tennessee TANF. Apply through One DHS and discuss the Personal Responsibility Plan as part of the eligibility review.",
+  "description": "Families First is Tennessee TANF. Apply through One DHS and discuss the Personal Responsibility Plan as part of the eligibility review.",
+  "sections": {
+    "who": "<p>TDHS reviews income, resources, status and a qualifying child living with a parent or eligible relative. Child-only cases receive different adult treatment.</p>",
+    "get": "<p>Approved support includes temporary cash and potentially transportation, childcare, education or employment services.</p>",
+    "docs": "<ul><li>Child age and relationship records.</li><li>Household income and resources.</li><li>Identity and requested status evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through One DHS</h3><p>Use <a href=\"https://www.tn.gov/humanservices/for-families/families-first-tanf.html\">the Families First application link</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the eligibility review</h3><p>Answer document and interview requests.</p></li><li><h3 class=\"pbf-h3\">Discuss your plan</h3><p>Ask about work or training duties, exemptions and support needed to participate.</p></li></ol>",
+    "after": "<p>Keep plan records and report changes. Ask the worker about a safety concern or other good-cause barrier before missing an assigned action.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tn.gov/humanservices/for-families/families-first-tanf.html\">Families First services and portal</a>, <a href=\"https://www.tn.gov/humanservices/for-families/families-first-tanf/families-first-eligibility-information.html\">Child categories and responsibility plan</a>. <a href=\"https://usaassistance.org/programs/families-first-tennessee-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative request a child-only case?",
+      "The state describes a route where a nonparent relative chooses to be excluded from the adult benefit group."
+    ],
+    [
+      "Is Families First only a cash payment?",
+      "It also describes employment and related support services."
+    ],
+    [
+      "Do all adults have the same work duty?",
+      "The state provides participation rules and exemptions assessed for the case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tn.gov/humanservices/for-families/families-first-tanf.html",
+      "https://www.tn.gov/humanservices/for-families/families-first-tanf/families-first-eligibility-information.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

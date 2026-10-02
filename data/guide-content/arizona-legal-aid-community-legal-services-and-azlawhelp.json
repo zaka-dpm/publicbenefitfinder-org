@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Arizona legal-aid organizations handle civil problems for eligible clients. Community Legal Services uses AZLawHelp’s intake system, but its online application must be complet",
+  "introduction": "Arizona legal-aid organizations handle civil problems for eligible clients. Community Legal Services uses AZLawHelp’s intake system, but its online application must be completed with a follow-up call.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "CLS screens financial and other eligibility and serves civil matters rather than criminal cases. The correct provider also depends on your county.",
+      "Immigration eligibility and exceptions can affect intake. Ask the organization about your circumstances rather than deciding from a short directory description."
+    ],
+    "get": "<p>CLS may provide advice, representation, self-help materials or education for an accepted civil matter. AZLawHelp also helps residents locate the appropriate legal-aid provider; submitting intake is not a promise of representation.</p>",
+    "docs": "<p>Have household income information and records about the problem ready. Keep notices, court papers and the names of all parties. Highlight any hearing or deadline before routine background information. CLS can scan case records and says it does not retain originals.</p>",
+    "apply": "<ol><li>Use <a href=\"https://clsaz.org/apply-for-services/\">CLS’s application page</a> to reach the AZLawHelp online intake.</li><li>After finishing online, call 602-258-3434 or 800-852-9075, Monday–Friday 9 a.m.–2 p.m., to complete the CLS process.</li><li>You can also apply by phone. Check the <a href=\"https://clsaz.org/office-locations/\">current office notice</a> before planning a visit; walk-in availability is restricted at some locations.</li></ol>",
+    "after": "<p>Confirm acceptance and the scope of any assistance. Keep court deadlines active while the request is pending. Ask about fee waivers if court costs arise, and request an interpreter or access accommodation when needed.</p>",
+    "sources": "<ul><li><a href=\"https://clsaz.org/apply-for-services/\">CLS application instructions</a></li><li><a href=\"https://clsaz.org/office-locations/\">Current office intake notice</a></li><li><a href=\"https://www.azcourts.gov/selfservicecenter/Resources/Obtaining-Legal-Services\">Arizona courts legal-aid provider information</a></li><li><a href=\"https://usaassistance.org/programs/arizona-legal-aid-community-legal-services-and-azlawhelp/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is online intake the last step for CLS?",
+      "No. CLS requires a follow-up call to an intake staff member after the online program is completed."
+    ],
+    [
+      "Can I walk into any office?",
+      "Check first. The current office page describes building-related restrictions and limited satellite walk-in hours."
+    ],
+    [
+      "Are lawyer services free?",
+      "CLS says services are free for eligible clients, but some court fees or costs can arise. Ask about fee waivers."
+    ],
+    [
+      "What if I need another language?",
+      "CLS says translators are available. Request language help during intake."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arizona-legal-aid-community-legal-services-and-azlawhelp",
+    "source_url": "https://usaassistance.org/programs/arizona-legal-aid-community-legal-services-and-azlawhelp/",
+    "source_updated": "August 2026",
+    "primary_url": "https://clsaz.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://clsaz.org/apply-for-services/",
+      "https://clsaz.org/office-locations/",
+      "https://www.azcourts.gov/selfservicecenter/Resources/Obtaining-Legal-Services"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

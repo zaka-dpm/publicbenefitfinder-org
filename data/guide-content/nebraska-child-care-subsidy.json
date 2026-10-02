@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska Child Care Subsidy starts with iServe and a telephone interview. Parents must also use a DHHS-approved provider before program payments can begin.",
+  "description": "Nebraska Child Care Subsidy starts with iServe and a telephone interview. Parents must also use a DHHS-approved provider before program payments can begin.",
+  "sections": {
+    "who": "<p>Qualifying parental activities include work, Employment First, school or training, specified medical visits or a medically confirmed illness or injury. In a two-parent household, both parents must meet an eligible activity concurrently. Children generally are 12 or younger, with specified authorization and special-needs exceptions.</p>",
+    "get": "<p>The subsidy helps pay childcare costs. Depending on income, a family may owe a fee to the provider; DHHS pays the approved remainder.</p>",
+    "docs": "<ul><li>Prepare earned and unearned household income records.</li><li>Have the child’s age, care needs and provider information available.</li><li>Keep work, school or medical information relevant to the requested care.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through iServe</h3><p>Use <a href=\"https://iserve.nebraska.gov/\">iServe Nebraska</a> and complete the telephone interview.</p></li><li><h3 class=\"pbf-h3\">Check provider approval</h3><p>Ask whether the provider is DHHS-approved. A friend or relative may need a provider referral and approval process.</p></li><li><h3 class=\"pbf-h3\">Confirm authorization</h3><p>Read the decision for approved care and any family fee before assuming payments cover an arrangement.</p></li></ol>",
+    "after": "<p>Report changes in care needs or provider through DHHS. Do not assume a provider-referral date guarantees backdated payment.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/Child-Care-Subsidy-Information-for-Parents.aspx\">Nebraska parent eligibility and provider guidance</a>. <a href=\"https://usaassistance.org/programs/nebraska-child-care-subsidy/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a special-needs teenager receive care?",
+      "The parent guidance describes assistance up to age 19 when care is required because of a special need."
+    ],
+    [
+      "Can I use a family member as provider?",
+      "Possibly, but the person must complete DHHS’s approval process."
+    ],
+    [
+      "Can care start being paid while approval is pending?",
+      "DHHS says payment begins after provider approval and is not backdated to the referral date."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/Child-Care-Subsidy-Information-for-Parents.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

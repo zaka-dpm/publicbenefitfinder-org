@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Arizona Unemployment Insurance claims are filed through DES’s CACTUS system. An initial application starts the review; weekly filings and eligibility requirements remain separ",
+  "introduction": "Arizona Unemployment Insurance claims are filed through DES’s CACTUS system. An initial application starts the review; weekly filings and eligibility requirements remain separate steps.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "DES evaluates wage history and the circumstances of the job loss. Workers who lost a job through no fault of their own may qualify, subject to the full rules.",
+      "Follow the state’s weekly eligibility and work-search instructions. Report earnings and any circumstance affecting availability accurately."
+    ],
+    "get": "<p>Approved claims provide payments for eligible weeks. A monetary determination describes potential benefits; unresolved claim issues can delay actual payment.</p>",
+    "docs": "<p>DES asks for identification and Social Security information, address and county, employer contacts for the last 18 months, last day worked and separation payments. Federal or military service can require SF8/SF50 or DD214 records. Keep the claim’s verification instructions.</p>",
+    "apply": "<ol><li>Use <a href=\"https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits\">DES’s application page</a> to enter the <a href=\"https://uibenefits.az.gov/\">CACTUS portal</a>.</li><li>Complete the claim and any identity-verification steps, saving the confirmation.</li><li>Review the Arizona Job Connection registration created after filing and complete its profile.</li><li>Follow the weekly filing instructions. If online filing is unavailable, the DES page provides English and Spanish initial claim forms for mailing.</li></ol>",
+    "after": "<p>Read the monetary determination and information requests. Use CACTUS to follow the claim and complete weekly tasks. Attend any required reemployment appointment, and use the appeal procedure if you dispute a decision.</p>",
+    "sources": "<ul><li><a href=\"https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits\">Current CACTUS application and checklist</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-arizona/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does filing mean payment is approved?",
+      "No. DES reviews the claim and any eligibility issues before payment."
+    ],
+    [
+      "Is there a paper option?",
+      "Yes. The application page links English and Spanish initial claim forms for submission by mail."
+    ],
+    [
+      "Where can I get computer access?",
+      "DES says ARIZONA@WORK offices provide computer access for filing at no cost."
+    ],
+    [
+      "Who can answer a claim question?",
+      "DES lists the UI Call Center at 1-877-600-2722 and CACTUS for current claim information."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-arizona",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-arizona/",
+    "source_updated": "August 2026",
+    "primary_url": "https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

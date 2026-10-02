@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Clinica Sierra Vista provides medical, dental and other care in Kern and Fresno counties. Financial assistance can reduce eligible service charges.",
+  "description": "Clinica Sierra Vista provides medical, dental and other care in Kern and Fresno counties. Financial assistance can reduce eligible service charges.",
+  "sections": {
+    "who": "<p>Patients can ask about care regardless of insurance or ability to pay. Sliding-fee eligibility depends on household size and income.</p>",
+    "get": "<p>Qualifying patients receive discounted services within the covered program scope. Not every outside service is included.</p>",
+    "docs": "<ul><li>Photo ID and address evidence.</li><li>Income records such as pay stubs, tax returns or benefit letters.</li><li>Insurance information and medications for care visits.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Arrange care</h3><p>Call 833-678-2781 or find a location on <a href=\"https://clinicasierravista.org/\">Clinica Sierra Vista</a>.</p></li><li><h3 class=\"pbf-h3\">Request financial screening</h3><p>Apply in person without a financial-assistance appointment, or use MyChart Menu → Billing → Financial Assistance.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>Provide requested documents and confirm charges before services.</p></li></ol>",
+    "after": "<p>The sliding-fee approval lasts 12 months and can be renewed. Keep care and financial-assistance appointments distinct.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://clinicasierravista.org/\">Clinic care and contact</a>; <a href=\"https://clinicasierravista.org/program/health-insurance-assistance/sliding-fee-scale/\">Sliding Fee Scale</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is lack of insurance a reason not to ask?",
+      "The clinic offers uninsured-patient assistance."
+    ],
+    [
+      "Is all care automatically free?",
+      "Charges depend on eligibility and covered services."
+    ],
+    [
+      "Can I apply through MyChart?",
+      "Yes. A financial-assistance tool is available."
+    ],
+    [
+      "Must discounts be renewed?",
+      "The clinic lists 12-month approval with renewal."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://clinicasierravista.org/",
+      "https://clinicasierravista.org/program/health-insurance-assistance/sliding-fee-scale/"
+    ],
+    "background_source": "https://usaassistance.org/programs/clinica-sierra-vista/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

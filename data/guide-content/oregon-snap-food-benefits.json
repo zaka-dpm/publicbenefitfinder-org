@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon SNAP applications use ONE or the state’s other benefit-intake routes. All households must complete an interview when applying or renewing under the June 2026 rules.",
+  "description": "Oregon SNAP applications use ONE or the state’s other benefit-intake routes. All households must complete an interview when applying or renewing under the June 2026 rules.",
+  "sections": {
+    "who": "<p>ODHS checks Oregon residence, income and eligible status. Student and work rules can apply, and the agency reviews relevant exemptions.</p>",
+    "get": "<p>Approved food benefits help pay for groceries through the Oregon Trail EBT system.</p>",
+    "docs": "<ul><li>Household income and requested expenses.</li><li>Identity and contact details.</li><li>Interview verification, including medical costs when relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply or renew</h3><p>Use <a href=\"https://www.oregon.gov/odhs/food/Pages/snap.aspx\">the SNAP application link</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Follow your appointment notice and ask for an interpreter if needed.</p></li><li><h3 class=\"pbf-h3\">Read the result</h3><p>Check the award, certification dates and reporting requirements.</p></li></ol>",
+    "after": "<p>Complete periodic reports and renewals as instructed. Older adults should ask whether eligible out-of-pocket medical costs affect their calculation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/odhs/food/Pages/snap.aspx\">SNAP eligibility and ongoing reporting</a>, <a href=\"https://www.oregon.gov/odhs/food/Pages/snap-interviews.aspx\">Interview requirements and support</a>, <a href=\"https://apps.oregon.gov/oregon-newsroom/OR/ODHS/Posts/Post/snap-interviews-required-for-all-households-starting-june-1-2026\">June 2026 interview change</a>. <a href=\"https://usaassistance.org/programs/oregon-snap-food-benefits/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are interviews still waived?",
+      "No. ODHS restored interviews for all households starting June 1, 2026."
+    ],
+    [
+      "Can I get an interpreter?",
+      "The state’s interview guidance offers interpreter assistance."
+    ],
+    [
+      "Can an older adult’s medical costs matter?",
+      "ODHS says qualifying out-of-pocket costs for people 60 or older can offset income, with proof."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/odhs/food/Pages/snap.aspx",
+      "https://www.oregon.gov/odhs/food/Pages/snap-interviews.aspx",
+      "https://apps.oregon.gov/oregon-newsroom/OR/ODHS/Posts/Post/snap-interviews-required-for-all-households-starting-june-1-2026"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

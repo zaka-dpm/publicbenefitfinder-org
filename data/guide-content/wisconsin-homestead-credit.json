@@ -1,0 +1,19 @@
+{
+ "status":"reviewed",
+ "description":"Understand Wisconsin’s Homestead Credit for tax year 2025, including the income rule, housing records and claim forms.",
+ "introduction":"Wisconsin’s Homestead Credit can help eligible renters and homeowners through a tax claim. Use the rules for the year you are claiming. The current revenue agency guidance described here is for tax year 2025.",
+ "sections":{
+  "who":"<p>For a 2025 claim, Wisconsin DOR lists full-year legal Wisconsin residency, age 18 or older at year-end and household income below $24,680 among the requirements. The home owned or rented must be subject to Wisconsin property taxes, subject to the agency’s detailed rules.</p><p>In addition, you or your spouse must have positive earned income, be disabled, or be at least 62 at the end of the claim year. <strong>Age or disability does not remove the household income limit.</strong> Check the full qualifications and exclusions before claiming.</p>",
+  "get":"<p>The credit is calculated through the Homestead Credit claim. The revenue agency’s worksheet determines the amount from the applicable claim-year rules and housing information; it is not a flat payment for every renter or homeowner.</p>",
+  "docs":"<p>Gather the tax-year income and housing records requested by DOR. Renters should check the rent certificate requirements; homeowners should check the property tax bill requirements. Keep records supporting the household income calculation and any qualification you rely on.</p>",
+  "apply":"<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the claim year and qualifications</h3><p>Start with DOR’s <a href=\"https://www.revenue.wi.gov/pages/faqs/ise-home.aspx\">Homestead Credit FAQ</a>. Use its definition of household income.</p></li><li><h3 class=\"pbf-h3\">Choose the correct claim form</h3><p>The program page links Schedule H and H-EZ, the rent certificate and the claim-year instruction booklet. Check which form fits your circumstances.</p></li><li><h3 class=\"pbf-h3\">Submit and retain the supporting records</h3><p>Follow DOR’s electronic or paper claim instructions. Keep your claim and respond to any review request.</p></li></ol><p><a class=\"pbf-btn pbf-btn--primary\" href=\"https://www.revenue.wi.gov/Pages/Individuals/homestead.aspx\">Open Wisconsin DOR’s claim instructions</a></p>",
+  "after":"<p>If DOR reviews the claim, follow the letter’s document instructions and contact the named auditor when provided. The program page links guidance on rent certificates, review questions, refunds and appeals.</p>",
+  "sources":"<p>Reviewed October 1, 2026 against Wisconsin DOR’s <a href=\"https://www.revenue.wi.gov/Pages/Individuals/homestead.aspx\">program and claim information</a> and <a href=\"https://www.revenue.wi.gov/pages/faqs/ise-home.aspx\">2025 qualifications FAQ</a>. These requirements are for the stated claim year.</p>"
+ },
+ "faqs":[
+  ["Can a renter claim it?","The credit can apply to eligible renters as well as homeowners. Check the housing conditions and rent certificate instructions."],
+  ["Does being 62 or disabled let me exceed the income limit?","No. Those are alternatives to the earned-income condition; the household income limit is a separate requirement."],
+  ["What if my landlord will not sign the rent certificate?","DOR links instructions for this situation. Check that guidance and ask which evidence to provide rather than assuming the refusal ends your claim."],
+  ["Which tax year do these figures cover?","The income figure and qualifications here refer to the 2025 claim. Use the DOR instructions for a different year."]
+ ]
+}

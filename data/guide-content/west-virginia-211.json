@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "West Virginia 211 helps residents find community services and understand provider intake requirements. Call, text your ZIP code or search its online resource database.",
+  "introduction": "West Virginia 211 helps residents find community services and understand provider intake requirements. Call, text your ZIP code or search its online resource database.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "People looking for West Virginia health and human services.",
+      "A referral does not establish eligibility for the provider’s benefit or service."
+    ],
+    "get": "<p>Contact information, service descriptions, intake requirements and provider hours, including disaster-related resources.</p>",
+    "docs": "<p>Prepare your town or ZIP code, the type of help needed and any shutoff, housing or other urgent deadline. You can start requesting information without assembling a benefits document packet.</p>",
+    "apply": "<ol><li>Dial 211 or text your ZIP code to 898-211.</li><li>If Wi-Fi calling or a VoIP phone will not connect, call 833-848-9905.</li><li>Alternatively use Get Help on the WV 211 website to search resources.</li><li>Contact the provider listed to start its intake process.</li></ol>",
+    "after": "<p>Record the provider name and next step. Confirm availability directly because a listing does not reserve funds or an appointment. If the referral does not fit, explain the issue to a resource specialist and ask for alternatives.</p>",
+    "sources": "<ul><li><a href=\"https://wv211.org/contact\">WV 211 contact options</a></li><li><a href=\"https://wv211.org/what-we-do\">WV 211 resource database description</a></li><li><a href=\"https://usaassistance.org/programs/west-virginia-211/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "What if 211 does not work on Wi-Fi calling?",
+      "Use the published toll-free number, 833-848-9905."
+    ],
+    [
+      "Can I text instead?",
+      "Text your ZIP code to 898-211."
+    ],
+    [
+      "Will 211 approve my SNAP claim?",
+      "No, contact DoHS for benefit eligibility and case decisions."
+    ],
+    [
+      "Does the database include application requirements?",
+      "WV 211 says its database includes intake requirements, eligibility and operating hours."
+    ],
+    [
+      "Can I look up services myself?",
+      "Use the Get Help database linked from its site."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "west-virginia-211",
+    "source_url": "https://usaassistance.org/programs/west-virginia-211/",
+    "source_updated": "August 2026",
+    "primary_url": "https://wv211.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://wv211.org/contact",
+      "https://wv211.org/what-we-do"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

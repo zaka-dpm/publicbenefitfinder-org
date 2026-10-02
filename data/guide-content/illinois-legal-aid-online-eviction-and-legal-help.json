@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois Legal Aid Online offers legal information, forms and a tool to find legal help. Use the issue and ZIP-code search to locate relevant resources.",
+  "description": "Illinois Legal Aid Online offers legal information, forms and a tool to find legal help. Use the issue and ZIP-code search to locate relevant resources.",
+  "service_type": "legal",
+  "sections": {
+    "who": "<p>You can browse information and forms. For a lawyer referral, the tool asks about the issue, location, household and income; individual legal organizations decide whether they can accept your case.</p>",
+    "get": "<p>The site covers housing, benefits, family and other legal topics. Its Get Legal Help tool can point to a lawyer, forms or information, and its self-help-center list can be filtered by county.</p>",
+    "docs": "<ul><li>Your ZIP code or the location of the legal problem.</li><li>The type of issue and any court deadline.</li><li>Household and gross income information for the matching tool.</li><li>Relevant notices or court papers for a later provider intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open Get Legal Help</h3><p>Use the <a href=\"https://www.illinoislegalaid.org/get-legal-help\">matching tool</a>.</p></li><li><h3 class=\"pbf-h3\">Choose the help needed</h3><p>Select a lawyer, forms or information and answer the relevant questions.</p></li><li><h3 class=\"pbf-h3\">Contact the listed provider</h3><p>Check intake and case acceptance; submitting the tool does not appoint a lawyer.</p></li></ol>",
+    "after": "<p>Keep responding to court notices while seeking help. Ask the provider to clarify whether it has agreed to represent you.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.illinoislegalaid.org/\">ILAO topics and form library</a>, <a href=\"https://www.illinoislegalaid.org/get-legal-help\">legal help matching and center directory</a>. The administering organization decides eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Does the form mean my case is accepted?",
+      "No. The tool explicitly says completing it does not mean an organization has taken the case."
+    ],
+    [
+      "Can I look for forms without requesting a lawyer?",
+      "Yes. Forms and legal information are separate selections in the tool."
+    ],
+    [
+      "What location should I enter?",
+      "Your ZIP code or the ZIP code of the legal problem."
+    ],
+    [
+      "Can I find a local self-help center?",
+      "Yes. The tool includes a county-filtered center directory."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.illinoislegalaid.org/",
+      "https://www.illinoislegalaid.org/get-legal-help"
+    ]
+  }
+}

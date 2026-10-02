@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Kern Medical offers care and patient financial screening. Its Wellness Program provides limited services for eligible uninsured Kern County adults and is not health insurance.",
+  "introduction": "Kern Medical offers care and patient financial screening. Its Wellness Program provides limited services for eligible uninsured Kern County adults and is not health insurance.",
+  "service_type": "clinic",
+  "sections": {
+    "who": [
+      "The Wellness Program lists low-income Kern County residents ages 19–64 who are uninsured and not eligible for a state-funded or private health plan. Financial advisers assess the applicable route."
+    ],
+    "get": "<p>The Wellness Program includes designated clinic services, generic medicines and labs at Kern Medical facilities. It excludes inpatient hospital care, surgery and outside facilities, among other services. Cost sharing can apply.</p>",
+    "docs": "<p>Ask financial advisers which residence, income and coverage information is required. For an existing bill, have the statement and account number available. Do not assume the Wellness Program covers a service before arranging it.</p>",
+    "apply": "<p>Call Patient Health Benefits Advisers at <a href=\"tel:6613262392\">661-326-2392, option 3</a> to schedule screening. The <a href=\"https://www.kernmedical.com/programs/kern-medical-wellness-program/\">Wellness Program page</a> also lists application access at Sagebrush Clinic.</p>",
+    "after": "<p>Obtain the decision and clarify covered locations and your share of cost. For an excluded service or existing bill, ask advisers about separate financial assistance or payment arrangements.</p>",
+    "sources": "<ul><li><a href=\"https://www.kernmedical.com/programs/kern-medical-wellness-program/\">Kern Medical Wellness Program</a></li><li><a href=\"https://www.kernmedical.com/patients-visitors/make-a-payment/\">Kern Medical payment assistance</a></li><li><a href=\"https://usaassistance.org/programs/kern-medical/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the Wellness Program insurance?",
+      "No. It is limited access to care at designated Kern Medical facilities."
+    ],
+    [
+      "Can it pay for an outside hospital?",
+      "The program excludes outside facilities and providers."
+    ],
+    [
+      "Is every covered visit free?",
+      "Cost sharing may apply; ask about your program level."
+    ],
+    [
+      "Can advisers help with other coverage?",
+      "The payment assistance page describes screening for government health programs as well as payment options."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kern-medical",
+    "source_url": "https://usaassistance.org/programs/kern-medical/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.kernmedical.com/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.kernmedical.com/programs/kern-medical-wellness-program/",
+      "https://www.kernmedical.com/patients-visitors/make-a-payment/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

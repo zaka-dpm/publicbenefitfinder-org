@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky weatherization helps eligible households improve home energy efficiency without paying for approved work. Applications go to the local weatherization provider.",
+  "introduction": "Kentucky weatherization helps eligible households improve home energy efficiency without paying for approved work. Applications go to the local weatherization provider.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "KHC lists household income at or below 200 percent of the poverty level and a rolling 15-year prior-weatherization rule. The provider evaluates the dwelling and application.",
+      "Homeowners and renters can apply. A rental property requires written landlord permission."
+    ],
+    "get": "<p>An energy assessment determines appropriate improvements, such as insulation, air sealing, duct work or heating-system work. The program does not promise every listed improvement to every home.</p>",
+    "docs": "<p>KHC asks for occupants’ Social Security numbers and monthly income verification, utility bills or account records, and ownership proof or a landlord agreement. Ask the provider how to submit sensitive records securely.</p>",
+    "apply": "<ol><li>Open <a href=\"https://www.kyhousing.org/programs/weatherization\">KHC’s weatherization page</a> and follow Find Your Local Weatherization Provider.</li><li>Contact that provider for intake and submit the requested records.</li><li>If renting, obtain the landlord agreement. Arrange access for assessment when the provider schedules it.</li></ol>",
+    "after": "<p>Ask about the waiting list, planned work and any condition preventing safe installation. Do not hire a contractor expecting reimbursement unless the provider has explicitly authorized it. Retain the work and inspection paperwork and ask how to operate any new equipment.</p>",
+    "sources": "<ul><li><a href=\"https://www.kyhousing.org/programs/weatherization\">KHC weatherization for households</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-kentucky/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can renters qualify?",
+      "Yes. Kentucky requires written permission from the landlord for rental weatherization."
+    ],
+    [
+      "Is this a payment for my overdue bill?",
+      "No. It funds approved energy-efficiency work. Ask the local community action agency separately about LIHEAP bill assistance."
+    ],
+    [
+      "Can I choose a replacement furnace?",
+      "The assessment determines approved measures. A replacement is not automatic just because heating equipment is old."
+    ],
+    [
+      "Where should I send the application?",
+      "Use the local provider linked from KHC’s consumer weatherization page, rather than the partner grant-application pages."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-kentucky",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-kentucky/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.kyhousing.org/Partners/Developers/Single-Family/Weatherization-Assistance/Pages/default.aspx",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.kyhousing.org/programs/weatherization"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

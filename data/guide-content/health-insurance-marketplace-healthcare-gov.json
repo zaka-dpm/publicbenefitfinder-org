@@ -1,0 +1,53 @@
+{
+  "status": "authored",
+  "description": "HealthCare.gov helps people apply for Marketplace health coverage and find the enrollment route for their state. Enrollment timing and financial assistance depend on your circ",
+  "introduction": "HealthCare.gov helps people apply for Marketplace health coverage and find the enrollment route for their state. Enrollment timing and financial assistance depend on your circumstances.",
+  "service_type": "marketplace",
+  "sections": {
+    "who": [
+      "Marketplace eligibility, financial assistance and any Special Enrollment Period are determined through the application. Your state may operate its own Marketplace."
+    ],
+    "get": "<p>The application lets you explore health plans and potential financial assistance. Compare premiums, deductibles, prescription coverage and provider networks before selecting a plan.</p>",
+    "docs": "<p>Prepare household and income information and details of any current coverage. If using a Special Enrollment Period, follow requests for evidence of the qualifying event and its date.</p>",
+    "apply": "<p>Use <a href=\"https://www.healthcare.gov/apply-and-enroll/how-to-apply/\">HealthCare.gov’s application options</a> to apply online or find phone, paper and assisted application routes. Check the current enrollment notice before relying on a deadline.</p>",
+    "after": "<p>Review eligibility results, complete any document request and select a plan when eligible. Confirm the insurer’s payment and start-date instructions. Keep Marketplace income estimates current when circumstances change.</p>",
+    "sources": "<ul><li><a href=\"https://www.healthcare.gov/apply-and-enroll/how-to-apply/\">HealthCare.gov application methods</a></li><li><a href=\"https://www.healthcare.gov/quick-guide/dates-and-deadlines/\">HealthCare.gov enrollment dates</a></li><li><a href=\"https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf\">CMS March 2026 enrollment guidance</a></li><li><a href=\"https://usaassistance.org/programs/health-insurance-marketplace-healthcare-gov/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply outside annual enrollment?",
+      "A qualifying Special Enrollment Period may allow enrollment. Check your circumstances with the Marketplace."
+    ],
+    [
+      "Is selecting a plan the same as making the first payment?",
+      "No. Follow the insurer’s instructions to complete enrollment and confirm coverage."
+    ],
+    [
+      "Can I get help completing an application?",
+      "HealthCare.gov lists assisted application options."
+    ],
+    [
+      "Will every state use HealthCare.gov directly?",
+      "Some states operate their own Marketplace; follow the route for your state."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "health-insurance-marketplace-healthcare-gov",
+    "source_url": "https://usaassistance.org/programs/health-insurance-marketplace-healthcare-gov/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.healthcare.gov",
+    "primary_retrieved": true,
+    "facts_verified": false,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.healthcare.gov/apply-and-enroll/how-to-apply/",
+      "https://www.healthcare.gov/quick-guide/dates-and-deadlines/",
+      "https://www.cms.gov/files/document/special-enrollment-periods-march-2026.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published.",
+    "blockers": [
+      "Upcoming 2027 Marketplace closing date differs between HealthCare.gov summary and March 2026 CMS guidance; closing date intentionally omitted pending resolution."
+    ]
+  }
+}

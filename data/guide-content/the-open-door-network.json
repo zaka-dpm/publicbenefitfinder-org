@@ -1,0 +1,52 @@
+{
+  "status": "authored",
+  "description": "The Open Door Network supports people experiencing homelessness and survivors of abuse in Kern County. Contact the organization to establish the correct service and safe intak",
+  "introduction": "The Open Door Network supports people experiencing homelessness and survivors of abuse in Kern County. Contact the organization to establish the correct service and safe intake route.",
+  "service_type": "housing",
+  "sections": {
+    "who": [
+      "The provider describes shelter and support for women, children and families and services for survivors of domestic violence, sexual assault, child abuse and trafficking. Eligibility and availability depend on the service."
+    ],
+    "get": "<p>Published services include shelter, therapy, case management, housing and employment support. Its campus brochure describes a planned relocation; that brochure alone does not establish the current shelter entrance.</p>",
+    "docs": "<p>If it is safe, describe your immediate need and ask how to contact intake privately. Ask which records are needed without delaying a request for help. Use a safe device and callback method when another person monitors communications.</p>",
+    "apply": "<p>Use <a href=\"https://opendoorhelps.org/\">the provider website</a> or call its published administrative contact, <a href=\"tel:6613229199\">661-322-9199</a>, to confirm the appropriate intake contact. For immediate danger or a medical emergency, call 911.</p>",
+    "after": "<p>Confirm the actual service location before travelling and do not assume the proposed campus is open. Ask staff about a safe next step and alternative placement if the requested service is unavailable.</p>",
+    "sources": "<ul><li><a href=\"https://opendoorhelps.org/\">Open Door provider website</a></li><li><a href=\"https://opendoorhelps.org/wp-content/uploads/2025/04/new-campus-brochure.pdf\">Provider campus and service brochure</a></li><li><a href=\"https://usaassistance.org/programs/the-open-door-network/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the administrative number a verified 24-hour crisis line?",
+      "No. This guide has verified it as an administrative contact only."
+    ],
+    [
+      "Should I travel to the new campus listed in the brochure?",
+      "Confirm first. The brochure describes a planned relocation and does not verify current intake there."
+    ],
+    [
+      "Does the organization provide more than shelter?",
+      "Its brochure also describes therapy, case management, housing and employment services."
+    ],
+    [
+      "What if communicating puts me at risk?",
+      "Use a safe contact method when possible and tell intake how it can safely reach you. Call 911 for immediate danger."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "the-open-door-network",
+    "source_url": "https://usaassistance.org/programs/the-open-door-network/",
+    "source_updated": "August 2026",
+    "primary_url": "https://opendoorhelps.org/",
+    "primary_retrieved": true,
+    "facts_verified": false,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://opendoorhelps.org/",
+      "https://opendoorhelps.org/wp-content/uploads/2025/04/new-campus-brochure.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published.",
+    "blockers": [
+      "Provider homepage inaccessible; brochure verifies administrative contact and service scope but not current crisis intake number or relocation status. Administrative contact clearly distinguished; shelter address not assumed."
+    ]
+  }
+}

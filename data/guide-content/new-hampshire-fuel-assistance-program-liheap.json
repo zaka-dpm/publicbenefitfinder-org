@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "New Hampshire Fuel Assistance helps eligible households with heating costs through local Community Action Agencies. Contact the agency serving your town to begin intake.",
+  "description": "New Hampshire Fuel Assistance helps eligible households with heating costs through local Community Action Agencies. Contact the agency serving your town to begin intake.",
+  "sections": {
+    "who": "<p>Both renters and homeowners may qualify. Household income, size, heating responsibility and subsidy arrangements matter; ask the agency for current limits and the correct program-year form.</p>",
+    "get": "<p>Assistance offsets qualifying heating costs and may help with a heating emergency. It is separate from the electric-bill discount and weatherization services.</p>",
+    "docs": "<ul><li>Household income records.</li><li>Recent heating and electric bills.</li><li>Rental or mortgage information.</li><li>A landlord statement when heat is included in rent.</li><li>Any delivery, shutoff or other urgent notice.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact your local CAA</h3><p>Use the <a href=\"https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf\">state’s local-agency guidance</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange intake</h3><p>Ask for the current application, evidence checklist and an accommodation if you cannot attend an office.</p></li><li><h3 class=\"pbf-h3\">Read the award information</h3><p>Check which vendor or landlord receives the benefit and explain any unresolved heating emergency.</p></li></ol>",
+    "after": "<p>Hillsborough and Rockingham’s provider publishes an April 30, 2027 application deadline for its 2026–27 season; confirm your own agency’s arrangements. Do not reuse a table labeled for the previous year.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf\">New Hampshire fuel-assistance intake overview</a>, <a href=\"https://www.caphr.org/services/fuel-assistance\">Current Hillsborough and Rockingham fuel intake</a>. <a href=\"https://usaassistance.org/programs/new-hampshire-fuel-assistance-program-liheap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "What if I live in subsidized housing?",
+      "The Hillsborough/Rockingham provider distinguishes households paying their own heat from those whose subsidized rent includes heat. Ask your agency about your arrangement."
+    ],
+    [
+      "Is it paid directly to me?",
+      "The provider describes payment to the heating vendor, or an eligible landlord arrangement."
+    ],
+    [
+      "Can I ask about weatherization at intake?",
+      "Yes. The state says eligibility for the two services can usually be assessed during the same local appointment."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf",
+      "https://www.caphr.org/services/fuel-assistance"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

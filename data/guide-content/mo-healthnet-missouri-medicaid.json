@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "MO HealthNet is Missouri’s Medicaid program. Eligibility varies by income, age, health and care needs.",
+  "description": "MO HealthNet is Missouri’s Medicaid program. Eligibility varies by income, age, health and care needs.",
+  "sections": {
+    "who": "<p>Children, pregnant applicants, parents, adults aged 19–64, older people and disabled applicants have different coverage pathways.</p>",
+    "get": "<p>Approved applicants receive coverage information and a MO HealthNet identification card. Follow the decision’s start instructions.</p>",
+    "docs": "<ul><li>Income and household information.</li><li>Identity and residency records requested.</li><li>Existing insurance and care details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://dss.mo.gov/healthcare/apply\">DSS’s health application page</a>, the online portal or 855-373-9994.</p></li><li><h3 class=\"pbf-h3\">Complete any supplemental form</h3><p>It is required for listed circumstances including age 65+, disability, Medicare or facility care.</p></li><li><h3 class=\"pbf-h3\">Submit proof</h3><p>Use the state’s upload, mail, fax or Resource Center route.</p></li></ol>",
+    "after": "<p>Respond to requests and keep contact details current.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dss.mo.gov/healthcare/apply\">MO HealthNet application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can adults without children qualify?",
+      "An adult coverage category exists; income and other rules apply."
+    ],
+    [
+      "Can I apply by phone?",
+      "Yes, 855-373-9994."
+    ],
+    [
+      "Is an extra form always needed?",
+      "Only for the circumstances DSS lists."
+    ],
+    [
+      "Is approval immediate?",
+      "Processing varies, especially disability decisions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dss.mo.gov/healthcare/apply"
+    ],
+    "background_source": "https://usaassistance.org/programs/mo-healthnet-missouri-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

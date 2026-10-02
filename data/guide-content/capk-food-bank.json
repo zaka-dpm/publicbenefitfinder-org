@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "CAPK Food Bank supplies a network of food distribution locations across Kern County. Start by finding an active site near you.",
+  "description": "CAPK Food Bank supplies a network of food distribution locations across Kern County. Start by finding an active site near you.",
+  "sections": {
+    "who": "<p>People needing food can request a local referral. Individual distributions may have different participation conditions.</p>",
+    "get": "<p>Available groceries depend on the distribution and stock. This service is separate from CalFresh cashless grocery benefits.</p>",
+    "docs": "<ul><li>Location and transport needs.</li><li>Ask the site about any household or identification information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find food</h3><p>Call 211 or800-273-2275 using the contact listed on <a href=\"https://www.capk.org/food-bank/\">CAPK Food Bank</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the distribution</h3><p>Check date, time, access and any registration requirement.</p></li><li><h3 class=\"pbf-h3\">Collect food</h3><p>Follow the site’s instructions and bring carrying bags if useful.</p></li></ol>",
+    "after": "<p>Ask about the next distribution and alternatives if food runs out.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.capk.org/food-bank/\">CAPK Food Bank</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Should I visit the warehouse for food?",
+      "Confirm an actual distribution location first."
+    ],
+    [
+      "Are all sites open every day?",
+      "Verify the current schedule."
+    ],
+    [
+      "Is this CalFresh?",
+      "No. It is distributed food."
+    ],
+    [
+      "Is the same food always available?",
+      "Items depend on stock and the site."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.capk.org/food-bank/"
+    ],
+    "background_source": "https://usaassistance.org/programs/capk-food-bank/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

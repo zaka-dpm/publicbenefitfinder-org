@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma WIC’s online enrollment request sends your information to the clinic you select. The clinic then arranges an appointment to determine eligibility.",
+  "description": "Oklahoma WIC’s online enrollment request sends your information to the clinic you select. The clinic then arranges an appointment to determine eligibility.",
+  "sections": {
+    "who": "<p>The state lists pregnant, breastfeeding and recently postpartum women, infants and young children. Residence and financial conditions apply; Medicaid, SNAP or TANF can establish the income requirement.</p>",
+    "get": "<p>WIC supplies approved foods and nutrition and breastfeeding support.</p>",
+    "docs": "<ul><li>Identification for each applicant.</li><li>Oklahoma address evidence.</li><li>Household income or qualifying benefit evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit an enrollment request</h3><p>Use the request tool linked from <a href=\"https://oklahoma.gov/health/services/children-family-health/wic.html\">the state WIC page</a> and select your clinic.</p></li><li><h3 class=\"pbf-h3\">Upload records if available</h3><p>The tool allows identification, residence and income evidence to be supplied.</p></li><li><h3 class=\"pbf-h3\">Complete the appointment</h3><p>Respond when the selected clinic contacts you and follow its appointment instructions.</p></li></ol>",
+    "after": "<p>Ask the clinic how to use food benefits and keep follow-up appointments. Contact it if your telephone number or household circumstances change.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/health/services/children-family-health/wic.html\">Oklahoma WIC eligibility and enrollment tool</a>. <a href=\"https://usaassistance.org/programs/oklahoma-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the request immediately approve WIC?",
+      "No. It starts the clinic appointment and eligibility process."
+    ],
+    [
+      "Can I choose the receiving clinic?",
+      "Yes. Your clinic selection determines where the enrollment request goes."
+    ],
+    [
+      "Can I upload records before the appointment?",
+      "The state request tool includes an upload option for required proof."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/health/services/children-family-health/wic.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

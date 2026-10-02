@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri Legal Services connects people with regional civil legal aid programs. Apply to the program serving your county.",
+  "description": "Missouri Legal Services connects people with regional civil legal aid programs. Apply to the program serving your county.",
+  "sections": {
+    "who": "<p>Regional programs screen financial eligibility, issue type and capacity. Public legal information is available separately.</p>",
+    "get": "<p>Help can include advice or representation for accepted cases. Self-help tenant resources are also listed.</p>",
+    "docs": "<ul><li>County and household details.</li><li>Notices, court papers and deadlines.</li><li>Income records requested during intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the regional program</h3><p>Use <a href=\"https://www.lsmo.org/\">Missouri Legal Services</a> and How to Apply.</p></li><li><h3 class=\"pbf-h3\">Request intake</h3><p>Follow the regional telephone or online application route.</p></li><li><h3 class=\"pbf-h3\">Explain deadlines</h3><p>Ask about needed records and available assistance.</p></li></ol>",
+    "after": "<p>A request does not suspend court deadlines or guarantee representation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.lsmo.org/\">Missouri Legal Services intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this one statewide office?",
+      "The directory connects regional programs."
+    ],
+    [
+      "Can everyone get representation?",
+      "Capacity is limited and screening applies."
+    ],
+    [
+      "Is self-help information available?",
+      "Yes, including tenant resources."
+    ],
+    [
+      "Should I wait to explain a court date?",
+      "Mention it during intake."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.lsmo.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/missouri-legal-aid-free-civil-legal-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

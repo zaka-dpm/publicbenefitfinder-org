@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "211 Connecticut is a free, confidential service for finding local human services. Phone help is available around the clock and in multiple languages.",
+  "description": "211 Connecticut is a free, confidential service for finding local human services. Phone help is available around the clock and in multiple languages.",
+  "sections": {
+    "who": "<p>People seeking Connecticut services can use the directory or helpline. Individual programs decide who they can serve.</p>",
+    "get": "<p>Navigators help locate food, shelter, utility, health and other support. The site also links to child care resources and housing-voucher waiting-list information.</p>",
+    "docs": "<ul><li>Your town or ZIP code.</li><li>What help is needed and when.</li><li>Any language, transport or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact 211</h3><p>Dial 211 within Connecticut or 800-203-1234 from outside the state. Relay users can dial 711.</p></li><li><h3 class=\"pbf-h3\">Describe the need</h3><p>Ask which providers serve your location and whether there is an intake or appointment requirement.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Contact the provider to confirm availability and documents. You can also search <a href=\"https://www.211ct.org/\">211ct.org</a>.</p></li></ol>",
+    "after": "<p>Keep referral details. If help is unavailable, ask 211 for another option rather than assuming all local programs are closed.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.211ct.org/\">211 Connecticut</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a charge?",
+      "211 describes the service as free and confidential."
+    ],
+    [
+      "Can I call at night?",
+      "The phone service is described as available 24 hours a day."
+    ],
+    [
+      "Can I get child care information?",
+      "The site links to 211 Child Care resources."
+    ],
+    [
+      "Does 211 approve assistance?",
+      "No. The referred agency makes its own eligibility and availability decisions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.211ct.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-connecticut/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

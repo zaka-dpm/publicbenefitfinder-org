@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Senior Benefits pays monthly cash assistance to qualifying residents age 65 and older. Eligibility uses income rather than a savings limit, and the payment tier depends",
+  "introduction": "Alaska Senior Benefits pays monthly cash assistance to qualifying residents age 65 and older. Eligibility uses income rather than a savings limit, and the payment tier depends on the program’s current standards.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Applicants must be at least 65, live in Alaska, meet the citizenship or qualified-immigrant requirement and have a Social Security number or evidence of applying for one.",
+      "Countable income must be within the current limits. Savings and other resources do not count for this program; income from them can still be relevant to an income review."
+    ],
+    "get": "<p>The program provides monthly cash benefits under income tiers. Limits change with the Alaska poverty guidelines, and payment levels depend on funding. Check the current table linked on the state page rather than using an old screenshot.</p>",
+    "docs": "<p>Prepare age, residency and household income information for the Application for Services. Keep benefit award letters or other income records available if requested. Ask the worker about your living arrangement and any special eligibility issue.</p>",
+    "apply": "<ol><li>Use the Application for Services through <a href=\"https://alaskaconnect.ilinx.com/\">Alaska Connect</a>.</li><li>Alternatively, apply by phone at 800-478-7778.</li><li>Save confirmation and provide any requested verification. Use <a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/senior-benefits-program/\">the state Senior Benefits page</a> for current income tables and payment instructions.</li></ol>",
+    "after": "<p>Read the approval for the payment tier and reporting instructions. The state is transitioning payment delivery to direct deposit or Quest EBT; follow the notice sent to you rather than assuming checks will continue. Confirm payment arrangements with DPA.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/senior-benefits-program/\">Senior Benefits eligibility and application</a></li><li><a href=\"https://health.alaska.gov/media/2rsjwfzg/senior-benefits-program-fact-sheet.pdf\">State fact sheet and funding caveats</a></li><li><a href=\"https://usaassistance.org/programs/alaska-senior-benefits-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do my savings disqualify me?",
+      "The state says resources such as savings do not count for Senior Benefits. The income rules still apply."
+    ],
+    [
+      "Is this the same as Social Security?",
+      "No. This is Alaska’s separate state cash-assistance program for eligible older residents."
+    ],
+    [
+      "Can I apply by telephone?",
+      "Yes. The current state page lists 800-478-7778 as a telephone application option."
+    ],
+    [
+      "Should I use a payment amount from an old guide?",
+      "Use the current state table and your decision notice. Income limits change annually and funding affects payment levels."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-senior-benefits-program",
+    "source_url": "https://usaassistance.org/programs/alaska-senior-benefits-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/senior-benefits-program/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/senior-benefits-program/",
+      "https://health.alaska.gov/media/2rsjwfzg/senior-benefits-program-fact-sheet.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

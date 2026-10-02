@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Services of North Dakota accepts applications for free civil legal help online or by telephone. Describe any court date at the start of intake.",
+  "description": "Legal Services of North Dakota accepts applications for free civil legal help online or by telephone. Describe any court date at the start of intake.",
+  "sections": {
+    "who": "<p>The provider screens financial circumstances and the North Dakota legal issue. Its intake routes distinguish applicants under 60 from older applicants.</p>",
+    "get": "<p>Staff assess whether legal information, advice or representation is available for the issue.</p>",
+    "docs": "<ul><li>Contact information and a safe way to reach you.</li><li>Court papers, notices and relevant dates.</li><li>Household finances requested during intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://lsnd.org/\">LSND’s application link</a>. Phone intake is Monday–Thursday, 9 a.m.–3 p.m. Central.</p></li><li><h3 class=\"pbf-h3\">Use the appropriate number</h3><p>Applicants under 60 can call 800-634-5263; people 60 or older can call 866-621-9886.</p></li><li><h3 class=\"pbf-h3\">Explain the issue</h3><p>Identify the other parties and provide requested papers. Ask what to do before any approaching court date.</p></li></ol>",
+    "after": "<p>Keep copies of correspondence and clarify whether a lawyer has agreed to represent you. An application alone does not establish representation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://lsnd.org/\">LSND services and intake</a>. <a href=\"https://usaassistance.org/programs/legal-services-of-north-dakota/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does intake cost money?",
+      "LSND describes its qualifying legal assistance as free."
+    ],
+    [
+      "Is there an online application?",
+      "Yes. The provider’s website links its current application system."
+    ],
+    [
+      "Should I wait if a court date is near?",
+      "Tell intake staff about the date immediately and follow the court’s instructions while your request is assessed."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://lsnd.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

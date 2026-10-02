@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maine HEAP helps eligible homeowners and renters with heating costs. The 2026–27 season began August 3, 2026 and runs until funds are exhausted or May 29, 2027.",
+  "introduction": "Maine HEAP helps eligible homeowners and renters with heating costs. The 2026–27 season began August 3, 2026 and runs until funds are exhausted or May 29, 2027.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Eligibility depends on household income, size and other conditions. Some allowable medical expenses can reduce income considered for eligibility.",
+      "Renters and homeowners can apply. Tell the agency whether heating is included in rent and what fuel heats the home."
+    ],
+    "get": "<p>Assistance may cover fuel costs and related energy support. Emergency fuel help through ECIP has a separate season, scheduled November 1, 2026 through April 30, 2027.</p>",
+    "docs": "<p>Prepare household identities and citizenship proof, gross income records, full utility bills and heating-fuel information. Ask the local agency which time period to document and how it handles zero or self-employment income.</p>",
+    "apply": "<ol><li>Open <a href=\"https://www.mainehousing.org/programs-services/energy/energydetails/liheap\">MaineHousing’s HEAP page</a> to apply online or locate your community action agency by ZIP code.</li><li>For telephone or in-person intake, contact the local agency for an appointment.</li><li>Submit verification and complete an interview if requested. Explain an extremely low fuel supply to the agency.</li></ol>",
+    "after": "<p>Keep the submission confirmation and respond to missing-document requests. Ask about the approved amount and vendor payment. Do not wait for a routine application to resolve an immediate heating emergency; tell the agency the amount of fuel remaining and ask about current options.</p>",
+    "sources": "<ul><li><a href=\"https://www.mainehousing.org/programs-services/energy/energydetails/liheap\">Maine HEAP current season and intake</a></li><li><a href=\"https://usaassistance.org/programs/home-energy-assistance-program-heap-liheap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply online?",
+      "Yes. MaineHousing links to the household online HEAP application."
+    ],
+    [
+      "Is crisis fuel help available throughout the HEAP season?",
+      "ECIP has its own published 2026–27 window, November 1 through April 30. Ask the agency about an urgent need outside that window."
+    ],
+    [
+      "Can medical expenses matter if my income is too high?",
+      "MaineHousing says some eligible medical expenses may be deducted. Ask what proof is needed."
+    ],
+    [
+      "Will the application also help identify home energy improvements?",
+      "Ask the community action agency about weatherization and related energy programs while it reviews HEAP."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "home-energy-assistance-program-heap-liheap",
+    "source_url": "https://usaassistance.org/programs/home-energy-assistance-program-heap-liheap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mainehousing.org/programs-services/energy/energydetails/liheap",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mainehousing.org/programs-services/energy/energydetails/liheap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana Legal Services Association offers civil legal aid and public self-help resources. Online intake places applicants on a callback list.",
+  "description": "Montana Legal Services Association offers civil legal aid and public self-help resources. Online intake places applicants on a callback list.",
+  "sections": {
+    "who": "<p>The provider screens eligibility and case capacity. Public information and forms are available through MontanaLawHelp.</p>",
+    "get": "<p>Accepted cases may receive advice or representation. Separate applications exist for certain housing and family-mediation services.</p>",
+    "docs": "<ul><li>County and issue.</li><li>Notices and court dates.</li><li>Household and income information requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.mtlsa.org/apply-for-services/\">MLSA’s application page</a>.</p></li><li><h3 class=\"pbf-h3\">Call if needed</h3><p>HelpLine800-666-6899 is listed Tuesday–Thursday,9a.m.–1p.m.</p></li><li><h3 class=\"pbf-h3\">Prepare for callback</h3><p>Explain deadlines and provide records through the confirmed intake route.</p></li></ol>",
+    "after": "<p>Keep deadlines. Callback placement is not acceptance of representation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.mtlsa.org/apply-for-services/\">MLSA current intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does online intake guarantee a lawyer?",
+      "No."
+    ],
+    [
+      "Are forms available publicly?",
+      "Yes, through MontanaLawHelp."
+    ],
+    [
+      "Is the hotline open daily?",
+      "The current schedule is Tuesday–Thursday."
+    ],
+    [
+      "Are specialized routes available?",
+      "MLSA lists separate housing and mediation applications."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.mtlsa.org/apply-for-services/"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-legal-services-association-montana-law-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

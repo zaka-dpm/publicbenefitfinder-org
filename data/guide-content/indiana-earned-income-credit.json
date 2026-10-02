@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Indiana’s earned income credit is claimed on a state tax return. Check federal EITC eligibility and use Indiana’s forms for the year you are filing.",
+  "introduction": "Indiana’s earned income credit is claimed on a state tax return. Check federal EITC eligibility and use Indiana’s forms for the year you are filing.",
+  "service_type": "tax",
+  "sections": {
+    "who": "<p>Indiana’s Department of Revenue says people eligible for the federal earned income credit may qualify for the state credit. The detailed Schedule IN-EIC and IT-40 or IT-40PNR instructions determine the state claim.</p>",
+    "get": "<p>The credit is calculated through the tax filing process. Do not treat a rough online estimate as the amount due on your return.</p>",
+    "docs": "<ul><li>Federal return and earned income credit calculation.</li><li>Income statements and relevant business records.</li><li>Dependent and taxpayer identification information.</li><li>The Indiana return and IN-EIC for the correct tax year.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Complete the federal calculation</h3><p>Check the federal EITC rules for your filing year.</p></li><li><h3 class=\"pbf-h3\">Calculate the state credit</h3><p>Use Schedule IN-EIC and the applicable Indiana return instructions.</p></li><li><h3 class=\"pbf-h3\">File the required schedules</h3><p>DOR identifies Schedule 5 for resident returns and Schedule F for the relevant nonresident return credits. Use the return booklet to confirm attachments.</p></li></ol>",
+    "after": "<p>Keep the calculation and supporting records. Read any revenue-agency request before submitting an amendment or a second claim.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/dor/i-am-a/individual/tax-credits/\">Indiana credit requirements and schedules</a>, <a href=\"https://www.in.gov/dor/tax-forms/individual/current/\">2025 individual forms</a>. The provider makes eligibility decisions.</p>"
+  },
+  "faqs": [
+    [
+      "Do I use Schedule 6 for this credit?",
+      "DOR’s credit page identifies Schedule IN-EIC with Schedule 5 or Schedule F. Follow your return’s instructions."
+    ],
+    [
+      "Which version of IN-EIC should I use?",
+      "Use the version for the tax year being claimed; the current forms page lists 2025 forms."
+    ],
+    [
+      "Is federal eligibility relevant?",
+      "Yes. DOR ties the Indiana credit to federal earned income credit eligibility."
+    ],
+    [
+      "Where can I find the calculation instructions?",
+      "Use the IT-40 or IT-40PNR booklet linked from DOR’s tax forms pages."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.in.gov/dor/i-am-a/individual/tax-credits/",
+      "https://www.in.gov/dor/tax-forms/individual/current/"
+    ],
+    "facts_verified": true
+  }
+}

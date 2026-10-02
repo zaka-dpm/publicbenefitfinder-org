@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "ALL Kids provides low-cost health insurance for eligible Alabama children and teens who do not qualify for Medicaid. The shared application checks which coverage program can s",
+  "introduction": "ALL Kids provides low-cost health insurance for eligible Alabama children and teens who do not qualify for Medicaid. The shared application checks which coverage program can serve the child.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Children must be under 19, live in Alabama and meet the income rules. Citizenship or eligible immigration status is also required.",
+      "ADPH lists exclusions for children with other health coverage, those in an institution, and children covered by or eligible for Medicaid. Submit an application for an actual determination rather than relying on a screening estimate."
+    ],
+    "get": "<p>Coverage includes preventive visits, immunizations, sick visits, prescriptions, dental and vision care, hospital care and behavioral health services. ALL Kids uses the Blue Cross Blue Shield of Alabama provider network.</p>",
+    "docs": "<p>Prepare birth dates and Social Security numbers for household members applying for coverage, household income from all sources, and current or recent insurance details. Ask customer service if a requested record is unavailable.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.alabamapublichealth.gov/allkids/apply.html\">ADPH’s Apply Now page</a> to reach the shared ALL Kids and Medicaid application.</li><li>Complete the household, income and insurance questions and save the submission confirmation.</li><li>Respond to the eligibility worker’s requests. If the child does not qualify for ALL Kids or Medicaid, the online application can be forwarded to the Health Insurance Marketplace.</li></ol>",
+    "after": "<p>Read the decision and enrollment instructions before arranging care. Confirm the child’s effective date, network providers and any premium or copayment. For questions or a contact update, call 1-888-373-5437.</p>",
+    "sources": "<ul><li><a href=\"https://www.alabamapublichealth.gov/allkids/\">ALL Kids coverage overview</a></li><li><a href=\"https://www.alabamapublichealth.gov/allkids/eligibility.html\">Eligibility requirements</a></li><li><a href=\"https://www.alabamapublichealth.gov/allkids/apply.html\">Application and preparation checklist</a></li><li><a href=\"https://usaassistance.org/programs/all-kids-alabama-chip/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is ALL Kids Medicaid?",
+      "They are separate coverage programs. The shared application allows the eligibility worker to determine which program applies."
+    ],
+    [
+      "Can I apply for a teenager?",
+      "ALL Kids covers eligible children younger than 19. Other requirements still apply."
+    ],
+    [
+      "Does it cover dental care?",
+      "Yes. ADPH lists dental and vision care among covered benefits. Check the plan’s provider network and benefit details."
+    ],
+    [
+      "Who can help with the application?",
+      "ALL Kids customer service is available at 1-888-373-5437."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "all-kids-alabama-chip",
+    "source_url": "https://usaassistance.org/programs/all-kids-alabama-chip/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.alabamapublichealth.gov/allkids/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.alabamapublichealth.gov/allkids/",
+      "https://www.alabamapublichealth.gov/allkids/eligibility.html",
+      "https://www.alabamapublichealth.gov/allkids/apply.html"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

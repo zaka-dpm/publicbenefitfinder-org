@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "603 Legal Aid is New Hampshire’s centralized starting point for free civil legal help. Apply online at any time or call during the organization’s published intake hours.",
+  "description": "603 Legal Aid is New Hampshire’s centralized starting point for free civil legal help. Apply online at any time or call during the organization’s published intake hours.",
+  "sections": {
+    "who": "<p>The provider assists people experiencing economic hardship with qualifying New Hampshire civil legal issues. It screens the request and available services; this is not a general criminal-defense application.</p>",
+    "get": "<p>Help may be telephone advice, representation or a referral to another legal program. Published issue areas include housing, family and domestic violence, benefits, civil rights and tax matters.</p>",
+    "docs": "<ul><li>Relevant court papers, notices or agency decisions.</li><li>The next hearing or response date.</li><li>A short account of what happened.</li><li>Household and income information for screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose online or phone intake</h3><p>Use <a href=\"https://www.603legalaid.org/\">603 Legal Aid’s application</a>, or call 800-639-5290 or 603-224-3333.</p></li><li><h3 class=\"pbf-h3\">Check phone hours</h3><p>The organization currently lists Monday–Wednesday, 9 a.m.–12:30 p.m. Tell staff promptly about a court deadline.</p></li><li><h3 class=\"pbf-h3\">Clarify what is accepted</h3><p>Ask whether the case is accepted and what assistance or referral will follow.</p></li></ol>",
+    "after": "<p>Keep the response and continue tracking deadlines. Website self-help documents can support preparation, but confirm case-specific steps with the legal provider.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.603legalaid.org/\">603 Legal Aid application and services</a>, <a href=\"https://www.nhla.org/\">NH Legal Assistance intake pathway</a>. <a href=\"https://usaassistance.org/programs/603-legal-aid-free-civil-legal-help-in-new-hampshire/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I submit online outside phone hours?",
+      "The organization says its website application is available at any time."
+    ],
+    [
+      "Is 603 Legal Aid connected to NH Legal Assistance?",
+      "NH Legal Assistance directs applicants to 603 Legal Aid’s centralized intake."
+    ],
+    [
+      "Does applying guarantee a lawyer?",
+      "No. Intake determines the help or referral available for the request."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.603legalaid.org/",
+      "https://www.nhla.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

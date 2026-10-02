@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska weatherization services are arranged by regional nonprofit providers. The provider checks eligibility and performs an energy audit before scheduling approved work.",
+  "description": "Nebraska weatherization services are arranged by regional nonprofit providers. The provider checks eligibility and performs an energy audit before scheduling approved work.",
+  "sections": {
+    "who": "<p>Eligible low-income homeowners and renters can apply. Renters need written landlord permission. Priority and funding availability affect scheduling; eligibility does not guarantee immediate service.</p>",
+    "get": "<p>Measures may include insulation, sealing drafts and selected heating-efficiency or safety work. The state specifically excludes general roof replacement, siding repairs and replacement windows.</p>",
+    "docs": "<ul><li>Prepare income and household information.</li><li>Have utility records and property details available.</li><li>For a rental, ask about written permission from the owner.</li><li>Tell the provider about any previous weatherization.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the regional provider</h3><p>Use the map and links on <a href=\"https://dwee.nebraska.gov/aid/nebraska-weatherization-assistance-program\">Nebraska’s weatherization page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete local intake</h3><p>Ask about the checklist and waiting list, then submit the application to the provider.</p></li><li><h3 class=\"pbf-h3\">Arrange the audit</h3><p>Discuss the home’s energy problems and review the measures the audit supports.</p></li></ol>",
+    "after": "<p>Confirm the work scope and appointments. Keep the provider’s maintenance guidance and ask about the final inspection.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dwee.nebraska.gov/aid/nebraska-weatherization-assistance-program\">Nebraska weatherization scope and regional providers</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-nebraska/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are renters eligible?",
+      "Yes, with written landlord permission and applicable program restrictions."
+    ],
+    [
+      "Can the program replace my roof?",
+      "The state excludes roof replacement, siding repairs and replacement windows from weatherization services."
+    ],
+    [
+      "Does financial eligibility guarantee work immediately?",
+      "No. The state says services depend on available funds and waiting lists may apply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dwee.nebraska.gov/aid/nebraska-weatherization-assistance-program"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

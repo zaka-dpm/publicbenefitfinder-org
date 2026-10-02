@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "211 Wisconsin’s resource directory helps people find community services by need. Use the directory to locate providers and confirm their current availability and intake requir",
+  "introduction": "211 Wisconsin’s resource directory helps people find community services by need. Use the directory to locate providers and confirm their current availability and intake requirements.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "People seeking Wisconsin community resources.",
+      "Each provider applies its own eligibility and service area rules."
+    ],
+    "get": "<p>A route to resource listings, including addiction recovery and local emergency resources. A listing does not reserve a benefit or appointment.</p>",
+    "docs": "<p>Have your city or county and a brief explanation of the need ready. For a provider call, note any immediate shutoff, housing or other deadline. Do not upload identity records to an unconfirmed contact.</p>",
+    "apply": "<ol><li>Open the 211 Wisconsin resource directory.</li><li>Choose Search by Need or a targeted category.</li><li>Review the provider location and intake instructions.</li><li>Contact the provider directly to confirm availability; dial 211 for referral help.</li></ol>",
+    "after": "<p>Record referrals and call outcomes. If an option is unavailable, ask for another resource that serves your location. In immediate danger call 911.</p>",
+    "sources": "<ul><li><a href=\"https://211wisconsin.communityos.org/\">211Wisconsin resource directory</a></li><li><a href=\"https://usaassistance.org/programs/211-wisconsin/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is 211 a benefits eligibility office?",
+      "No; the directory points people toward service providers."
+    ],
+    [
+      "Can I search without a benefit application?",
+      "Yes, use the public resource directory."
+    ],
+    [
+      "Will a listing guarantee funds?",
+      "Confirm availability with the provider."
+    ],
+    [
+      "Does the directory include recovery resources?",
+      "Its categories include addiction recovery information and services."
+    ],
+    [
+      "How do I find nearby services?",
+      "Search by need and check the provider’s location and service area."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "211-wisconsin",
+    "source_url": "https://usaassistance.org/programs/211-wisconsin/",
+    "source_updated": "August 2026",
+    "primary_url": "https://211wisconsin.communityos.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://211wisconsin.communityos.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

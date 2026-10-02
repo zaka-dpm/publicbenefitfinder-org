@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts HEAP helps eligible residents pay part of their winter heating costs. Apply through the local energy agency or the Commonwealth’s HEAP portal.",
+  "introduction": "Massachusetts HEAP helps eligible residents pay part of their winter heating costs. Apply through the local energy agency or the Commonwealth’s HEAP portal.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Massachusetts households responsible for heating costs, including heat included in rent.",
+      "Household size and gross annual income determine eligibility; the published ceiling is 60% of state median income."
+    ],
+    "get": "<p>A contribution toward winter heating expenses. Ask the agency about separate weatherization, heating repair and utility discount programs.</p>",
+    "docs": "<p>Prepare recent income records, household names, address, heating supplier account and lease if heat is included in rent. Ask the agency for its exact checklist before sending documents.</p>",
+    "apply": "<ol><li>Open the state HEAP application page below and use its application and provider locator.</li><li>Apply online, or contact the agency serving your town for a phone or in-person application.</li><li>Tell the agency immediately about a shutoff notice or lack of fuel.</li></ol>",
+    "after": "<p>Save the confirmation and provider’s contact information. Ask which heating season the application covers and whether additional proof is needed; keep communicating with the supplier while assistance is pending.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/apply-for-home-energy-assistance-heap\">State HEAP application and locator</a></li><li><a href=\"https://usaassistance.org/programs/fuel-assistance-liheap-massachusetts/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is heat included in rent covered?",
+      "You may apply; tell the agency that your rent includes heat."
+    ],
+    [
+      "Is the application free?",
+      "The state describes HEAP as a free resource."
+    ],
+    [
+      "Does HEAP pay the whole bill?",
+      "It helps pay a portion of winter heating costs."
+    ],
+    [
+      "Where do I ask about the current season?",
+      "Ask the local administering agency serving your city or town."
+    ],
+    [
+      "Is insulation the same benefit?",
+      "Weatherization is a separate service; ask the agency to screen you for it."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "fuel-assistance-liheap-massachusetts",
+    "source_url": "https://usaassistance.org/programs/fuel-assistance-liheap-massachusetts/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/how-to/apply-for-home-heating-and-energy-assistance",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/apply-for-home-energy-assistance-heap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

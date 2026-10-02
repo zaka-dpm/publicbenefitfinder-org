@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska’s earned income credit is claimed on the income-tax return. The 2025 Form 1040N includes the state credit calculation tied to the federal EITC.",
+  "description": "Nebraska’s earned income credit is claimed on the income-tax return. The 2025 Form 1040N includes the state credit calculation tied to the federal EITC.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility and Nebraska return circumstances determine the claim. Nonresident, part-year or net-operating-loss situations can require additional calculation under the state instructions.</p>",
+    "get": "<p>The 2025 return starts with 10% of the federal credit. Use the state instructions for any adjustment and refund computation; it is not a separate monthly-assistance application.</p>",
+    "docs": "<ul><li>Your federal return and federal EITC calculation.</li><li>Nebraska income and residence information for the return year.</li><li>Dependent records and any schedule relevant to part-year, nonresident or loss circumstances.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Get the year-specific return</h3><p>Use the <a href=\"https://revenue.nebraska.gov/about/forms/individual-income-tax-forms\">Nebraska forms directory</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the credit line</h3><p>For tax year 2025, follow Form 1040N line 44 and the instructions. Use the special worksheet when directed.</p></li><li><h3 class=\"pbf-h3\">File and retain records</h3><p>Submit the state return with required schedules and keep the calculation and confirmation.</p></li></ol>",
+    "after": "<p>Read Revenue notices and ask a tax preparer about any adjustment to the federal credit. Do not reuse a prior year’s form for a new claim.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2025/f_1040N.pdf\">2025 Nebraska Form 1040N</a>, <a href=\"https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2025/f_Individual_Income_Tax_Booklet.pdf\">2025 individual tax instructions</a>, <a href=\"https://revenue.nebraska.gov/about/forms/individual-income-tax-forms\">Tax forms directory</a>. <a href=\"https://usaassistance.org/programs/nebraska-earned-income-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Where is the credit claimed for 2025?",
+      "On Form 1040N, line 44, following the state instructions."
+    ],
+    [
+      "Is there an application through iServe?",
+      "No. This credit is claimed through the tax return."
+    ],
+    [
+      "What if I have a net operating loss?",
+      "The state booklet includes a specific earned-income worksheet; follow it or get tax-preparation help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2025/f_1040N.pdf",
+      "https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2025/f_Individual_Income_Tax_Booklet.pdf",
+      "https://revenue.nebraska.gov/about/forms/individual-income-tax-forms"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

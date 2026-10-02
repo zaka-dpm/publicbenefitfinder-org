@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington 211 connects people with local health and social services. Use your location to find relevant providers.",
+  "description": "Washington 211 connects people with local health and social services. Use your location to find relevant providers.",
+  "sections": {
+    "who": "<p>The directory serves people seeking help in Washington. Each listed service sets its own eligibility.</p>",
+    "get": "<p>Referrals can identify food, housing, utility and other assistance. A listing does not approve benefits.</p>",
+    "docs": "<ul><li>ZIP code or county.</li><li>Need, deadline and accessibility preferences.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find help</h3><p>Dial 211 or 877-211-9274, or search <a href=\"https://search.wa211.org/\">Washington 211 resources</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Describe any urgent deadline and ask about suitable local services.</p></li><li><h3 class=\"pbf-h3\">Contact referrals</h3><p>Confirm intake, eligibility and availability directly.</p></li></ol>",
+    "after": "<p>Keep provider details. Ask for another referral if the first service cannot help.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://wa211.org/\">Washington 211</a>; <a href=\"https://wa211.org/contact-washington-211/\">Contact options</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 award benefits?",
+      "Providers make their own decisions."
+    ],
+    [
+      "Can I search online?",
+      "Yes. The directory is available online."
+    ],
+    [
+      "What if 211 does not connect?",
+      "Use 877-211-9274."
+    ],
+    [
+      "Which documents are needed?",
+      "Ask the referred provider for its checklist."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://wa211.org/",
+      "https://wa211.org/contact-washington-211/"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

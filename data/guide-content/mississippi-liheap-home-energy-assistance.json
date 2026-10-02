@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi LIHEAP helps eligible households with home-energy expenses. A local Community Action Agency completes the full application.",
+  "description": "Mississippi LIHEAP helps eligible households with home-energy expenses. A local Community Action Agency completes the full application.",
+  "sections": {
+    "who": "<p>Household income and program conditions apply. The agency screens the household and current assistance availability.</p>",
+    "get": "<p>Help can address qualifying energy costs. Explain a shutoff notice or other urgent energy problem directly to the agency.</p>",
+    "docs": "<ul><li>Household identity and income information.</li><li>Utility or fuel bills and account details.</li><li>Any disconnection notice.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit a pre-application</h3><p>Follow <a href=\"https://www.mdhs.ms.gov/community/liheap/\">MDHS LIHEAP instructions</a> through Access MS.</p></li><li><h3 class=\"pbf-h3\">Attend the agency appointment</h3><p>The local CAA helps complete the full application.</p></li><li><h3 class=\"pbf-h3\">Supply remaining records</h3><p>Ask what additional information your case needs.</p></li></ol>",
+    "after": "<p>Contact the CAA about status and notify it of changing emergency deadlines.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.mdhs.ms.gov/community/liheap/\">Mississippi LIHEAP application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the pre-application the final decision?",
+      "No. The agency completes full intake."
+    ],
+    [
+      "Who handles my case?",
+      "The assigned Community Action Agency."
+    ],
+    [
+      "Should I mention a shutoff?",
+      "Yes, directly and promptly."
+    ],
+    [
+      "Does applying stop disconnection?",
+      "Do not assume it does; contact the utility and agency."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.mdhs.ms.gov/community/liheap/"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-liheap-home-energy-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

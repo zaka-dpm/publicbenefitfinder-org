@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida LIHEAP helps eligible households with home heating or cooling bills. Applications go to the provider serving your county, not a single statewide benefit portal.",
+  "description": "Florida LIHEAP helps eligible households with home heating or cooling bills. Applications go to the provider serving your county, not a single statewide benefit portal.",
+  "sections": {
+    "who": "<p>Applicants must meet Florida residency, household financial and status rules and be responsible for home energy costs. The local provider checks the current rules and available funding.</p>",
+    "get": "<p>Assistance is paid to the utility on the household’s behalf. It is energy assistance: Florida’s program does not pay water, sewer or telephone bills.</p>",
+    "docs": "<ul><li>Your most recent home-energy bill.</li><li>Any final termination or disconnection notice.</li><li>Current income records for household members.</li><li>Applicant identification and the household identity or status records requested by the provider.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate the county provider</h3><p>Use <a href=\"https://www.floridajobs.org/community-development/Low-Income-Home-Energy-Assistance-Program/find-your-local-low-income-home-energy-assistance-program-provider-for-help\">FloridaCommerce’s provider directory</a>.</p></li><li><h3 class=\"pbf-h3\">Check local intake</h3><p>Some county providers offer an online application. If none is listed, contact the agency directly for its process and appointment availability.</p></li><li><h3 class=\"pbf-h3\">Explain urgent circumstances</h3><p>Give the provider the shutoff date and notice. Ask the utility separately about an arrangement while the application is being considered.</p></li></ol>",
+    "after": "<p>Ask the provider whether assistance was approved and sent to the utility. An application alone does not confirm payment or stop a shutoff.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.floridajobs.org/community-development/Low-Income-Home-Energy-Assistance-Program\">Florida LIHEAP overview</a>, <a href=\"https://www.floridajobs.org/community-development/Low-Income-Home-Energy-Assistance-Program/find-your-local-low-income-home-energy-assistance-program-provider-for-help\">County provider directory</a>. <a href=\"https://usaassistance.org/programs/liheap-home-energy-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can LIHEAP pay a water bill?",
+      "Florida’s LIHEAP page excludes water, sewer and telephone costs. Ask 211 about other assistance."
+    ],
+    [
+      "Does FloridaCommerce decide my application directly?",
+      "Local county providers process applications and assistance."
+    ],
+    [
+      "What if the county has no online form?",
+      "Call the provider listed for your county to ask how to apply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.floridajobs.org/community-development/Low-Income-Home-Energy-Assistance-Program",
+      "https://www.floridajobs.org/community-development/Low-Income-Home-Energy-Assistance-Program/find-your-local-low-income-home-energy-assistance-program-provider-for-help"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "DC offers energy-bill assistance through LIHEAP and discounts through UDP. DOEE announces FY27 applications opening October 20, 2026.",
+  "description": "DC offers energy-bill assistance through LIHEAP and discounts through UDP. DOEE announces FY27 applications opening October 20, 2026.",
+  "sections": {
+    "who": "<p>LIHEAP assesses household income and energy circumstances. UDP has its own income rules and requires bills in the applicant’s name. Do not assume one approval automatically grants both.</p>",
+    "get": "<p>LIHEAP can help with heating or cooling costs; UDP reduces qualifying utility charges. Emergency support has additional conditions.</p>",
+    "docs": "<ul><li>Photo ID and requested household Social Security records.</li><li>Income evidence and recent utility bills.</li><li>Any disconnection notice or utility confirmation of disconnected service.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the opening notice</h3><p>Review <a href=\"https://doee.dc.gov/liheap\">LIHEAP</a> and <a href=\"https://doee.dc.gov/udp\">UDP</a> for October 20 application instructions.</p></li><li><h3 class=\"pbf-h3\">Ask DOEE about urgency</h3><p>Call 311 or 202-737-4404 if service is disconnected or fuel is depleted.</p></li><li><h3 class=\"pbf-h3\">Submit directly to DOEE</h3><p>Use DOEE’s current authorized application route. The LIHEAP page warns against submitting through unauthorized third parties.</p></li></ol>",
+    "after": "<p>Save the confirmation and contact the utility about pending disconnection. Previous-year dollar tables should not be treated as FY27 limits.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://doee.dc.gov/liheap\">DOEE LIHEAP intake</a>; <a href=\"https://doee.dc.gov/udp\">DOEE Utility Discount Program</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "When do FY27 applications open?",
+      "DOEE announces October 20, 2026 for both programs."
+    ],
+    [
+      "Are LIHEAP and UDP the same?",
+      "No. One provides assistance; the other offers utility discounts."
+    ],
+    [
+      "Must UDP bills be in my name?",
+      "Yes, according to the current overview."
+    ],
+    [
+      "Can I give LIHEAP papers to a third party?",
+      "DOEE says applications must be submitted directly to it."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://doee.dc.gov/liheap",
+      "https://doee.dc.gov/udp"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-energy-assistance-liheap-and-utility-discount-program/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

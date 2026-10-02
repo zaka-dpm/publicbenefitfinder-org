@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "New Mexico SNAP applications begin through YesNM or Income Support Division. HCA interviews applicants and requests records about household circumstances.",
+  "description": "New Mexico SNAP applications begin through YesNM or Income Support Division. HCA interviews applicants and requests records about household circumstances.",
+  "sections": {
+    "who": "<p>The assessment considers who lives and eats together, income, relevant resources and expenses, status and applicable participation rules. Ask about current work-rule exceptions and financial standards.</p>",
+    "get": "<p>Approved benefits are deposited monthly to EBT for eligible food purchases. The determination states the award and how to challenge a disputed decision.</p>",
+    "docs": "<ul><li>Current income statements.</li><li>Housing, utility and childcare expenses.</li><li>Identity and requested status information.</li><li>Relevant household resource evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the request</h3><p>Follow the YesNM link from <a href=\"https://www.hsd.state.nm.us/lookingforassistance/supplemental_nutrition_assistance_program__snap/\">HCA’s SNAP application page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Use the appointment instructions and explain household composition and expenses.</p></li><li><h3 class=\"pbf-h3\">Provide the worker’s checklist</h3><p>Keep copies. Tell the worker promptly if a record is unavailable or extra time is needed.</p></li></ol>",
+    "after": "<p>Read the decision and reporting instructions. The page’s income chart still ends September 30, 2026; confirm the current period instead of applying an expired table.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hsd.state.nm.us/lookingforassistance/supplemental_nutrition_assistance_program__snap/\">HCA SNAP eligibility, interview and application guidance</a>. <a href=\"https://usaassistance.org/programs/new-mexico-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does everyone at an address necessarily form one household?",
+      "Explain who lives and eats together so HCA can determine the correct assessment."
+    ],
+    [
+      "What if I cannot obtain a requested record?",
+      "Tell the assigned worker promptly and ask what alternative or extra time is available."
+    ],
+    [
+      "Where is approved food assistance delivered?",
+      "HCA describes a monthly EBT deposit."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hsd.state.nm.us/lookingforassistance/supplemental_nutrition_assistance_program__snap/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

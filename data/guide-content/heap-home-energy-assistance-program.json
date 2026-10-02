@@ -1,0 +1,46 @@
+{
+  "status": "reviewed",
+  "introduction": "New York HEAP helps eligible households with heating costs. Regular, emergency and equipment assistance have separate intake rules and funding windows.",
+  "description": "New York HEAP helps eligible households with heating costs. Regular, emergency and equipment assistance have separate intake rules and funding windows.",
+  "sections": {
+    "who": "<p>Household income and circumstances affect eligibility. Confirm current-season rules with your HEAP district.</p>",
+    "get": "<p>Assistance may support fuel or utility costs. Emergency help requires direct district contact and case review.</p>",
+    "docs": "<ul><li>Income and household records.</li><li>Residence and heating-account details.</li><li>Shutoff or fuel-emergency information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check current opening</h3><p>Erie County anticipates regular heating intake on November 2, 2026. Broome County confirms heating-equipment repair/replacement and clean-and-tune benefits open October 1, 2026. Check <a href=\"https://otda.ny.gov/programs/heap/\">OTDA HEAP</a> or your district for the component you need; these dates do not establish that every component is open.</p></li><li><h3 class=\"pbf-h3\">Use the local route</h3><p>Follow state instructions for myBenefits outside NYC or HRA in NYC.</p></li><li><h3 class=\"pbf-h3\">Report an emergency directly</h3><p>Explain loss of fuel or a disconnect date to the district.</p></li></ol>",
+    "after": "<p>Do not arrange equipment work before asking about approval. Track notices and status with the district.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ny.gov/services/apply-heating-assistance-heap\">State HEAP application guidance</a>; <a href=\"https://otda.ny.gov/programs/heap/\">OTDA seasonal guidance</a>. Some current details still need confirmation; contact the program before relying on them.</p><p>Current seasonal checks: <a href=\"https://www3.erie.gov/heap/regular-benefits\">Erie County regular HEAP guidance</a> and <a href=\"https://broomecountyny.gov/dss/assistance/heap\">Broome County equipment-benefit opening notice</a>, checked October 1, 2026.</p>"
+  },
+  "faqs": [
+    [
+      "Does every HEAP component open together?",
+      "No. Confirm the relevant component."
+    ],
+    [
+      "Can renters seek help?",
+      "Ask the district about household heating responsibility."
+    ],
+    [
+      "Does submitting stop shutoff?",
+      "Do not assume it does."
+    ],
+    [
+      "Are last season\u2019s dates current?",
+      "No. Confirm the new season."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ny.gov/services/apply-heating-assistance-heap",
+      "https://otda.ny.gov/programs/heap/",
+      "https://www3.erie.gov/heap/regular-benefits",
+      "https://broomecountyny.gov/dss/assistance/heap"
+    ],
+    "background_source": "https://usaassistance.org/programs/heap-home-energy-assistance-program/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": [],
+    "blockers": [],
+    "resolved_notes": "Current county primary pages confirm equipment opening and anticipated regular heating opening; exact anticipated status retained."
+  }
+}

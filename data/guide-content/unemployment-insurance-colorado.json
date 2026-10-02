@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado unemployment insurance provides temporary wage replacement for qualifying workers. MyUI+ handles claims, follow-up tasks and payment requests.",
+  "description": "Colorado unemployment insurance provides temporary wage replacement for qualifying workers. MyUI+ handles claims, follow-up tasks and payment requests.",
+  "sections": {
+    "who": "<p>CDLE reviews recent wages and the reason work ended or hours were reduced. Ongoing eligibility also matters. A wage-screening threshold alone does not guarantee benefits.</p>",
+    "get": "<p>A approved claim provides temporary payments while you meet the program’s conditions. The amount and duration are determined from your claim.</p>",
+    "docs": "<ul><li>Employer names, addresses, employment dates and pay information for the past 18 months.</li><li>Pay stubs and information about how work ended.</li><li>Identity documents needed for ID.me and any records CDLE requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start or reopen the claim</h3><p>Use the MyUI+ link on <a href=\"https://cdle.colorado.gov/unemployment/file-a-claim\">CDLE’s Start a Claim page</a>. Returning claimants should use their existing account.</p></li><li><h3 class=\"pbf-h3\">Verify identity</h3><p>Complete each ID.me request CDLE sends; the state may request verification more than once.</p></li><li><h3 class=\"pbf-h3\">Handle required tasks</h3><p>Check the claim tracker, upload requested documents and follow the claimant guide for weekly payment and work-search responsibilities.</p></li></ol>",
+    "after": "<p>Save upload confirmations and check determinations. If the system reports an unfamiliar existing account, contact CDLE rather than creating repeated new accounts.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://cdle.colorado.gov/unemployment/file-a-claim\">CDLE claim and upload instructions</a>; <a href=\"https://cdle.colorado.gov/unemployment/ui-claimant-guide\">UI claimant guide</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "I claimed before. Do I create a new account?",
+      "CDLE says claimants who filed since 2015 are returning claimants; use the registration instructions for the existing account."
+    ],
+    [
+      "Why am I asked to verify identity again?",
+      "CDLE says it may require repeated ID.me verification for claim actions."
+    ],
+    [
+      "How do I send additional records?",
+      "Use MyUI+ and the issue identified in your claim tracker, following CDLE’s upload instructions."
+    ],
+    [
+      "What if an account exists that I did not create?",
+      "Contact CDLE customer support at 303-318-9000 or 800-388-5515."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://cdle.colorado.gov/unemployment/file-a-claim",
+      "https://cdle.colorado.gov/unemployment/ui-claimant-guide"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-colorado/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

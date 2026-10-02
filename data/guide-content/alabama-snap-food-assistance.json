@@ -1,0 +1,18 @@
+{
+ "status":"reviewed",
+ "description":"Apply for Alabama SNAP through MyDHR or your county DHR office. Learn about documents, interviews, EBT and urgent food assistance.",
+ "sections":{
+  "who":"<p>Alabama DHR administers SNAP for households with limited income. Eligibility and benefit calculations depend on household circumstances and USDA rules. The county office reviews your application.</p><p>Households whose members are all at least 65 and have no earned income may use Alabama’s Elderly Simplified Application Project. Check the DHR program page for that separate application pathway.</p>",
+  "get":"<p>Approved households receive monthly grocery benefits through an EBT account. The amount depends on the eligibility calculation; it is not a flat payment for every applicant.</p><p>Use current DHR eligibility instructions rather than amounts displayed in the August 2026 screenshots.</p>",
+  "docs":"<p>Prepare identity and income records, plus evidence of expenses relevant to your case. Examples include housing costs, utility bills, child care payments and child support paid outside the household. Qualifying older or disabled members may also have medical expenses to document.</p><p>The interview worker explains what else is needed. The application requests Social Security and citizenship or immigration information for people seeking benefits; nonapplicants may still need to provide household income information.</p>",
+  "apply":"<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File your application</h3><p>Apply through <a href=\"https://mydhr.alabama.gov/\">MyDHR</a> or use the <a href=\"https://dhr.alabama.gov/wp-content/uploads/2026/09/Form-2116-1942-Combined-Rev-09-2026-.pdf\">DHR paper application</a>. Submit it to the county where you live. DHR’s form says your name, address and signature are enough to file initially.</p></li><li><h3 class=\"pbf-h3\">Attend the interview</h3><p>Follow the appointment instructions. The form lets you request a telephone or in-person interview and indicate your preferred language.</p></li><li><h3 class=\"pbf-h3\">Send requested evidence</h3><p>Keep copies and respond by the dates DHR gives you. Ask the county office for help if you cannot obtain a record.</p></li></ol>",
+  "after":"<p>DHR’s FAQ gives a standard decision period of up to 30 days, with seven-day processing for qualifying expedited cases. Read the decision notice and contact the county office about outstanding requests.</p>",
+  "sources":"<p>Reviewed October 1, 2026 against Alabama DHR’s <a href=\"https://dhr.alabama.gov/food-assistance/\">program overview</a>, <a href=\"https://dhr.alabama.gov/food-assistance/food-assistance-division-frequently-asked-questions/\">application FAQ</a> and <a href=\"https://dhr.alabama.gov/wp-content/uploads/2026/09/Form-2116-1942-Combined-Rev-09-2026-.pdf\">September 2026 application</a>. DHR makes eligibility decisions.</p>"
+ },
+ "faqs":[
+  ["Must I have every document before filing?","No. The current DHR form allows initial filing with your name, address and signature. You must still complete the process and provide requested evidence."],
+  ["Can I request faster help?","Tell DHR if you have very little income or money available, high housing and utility costs relative to your resources, or seasonal farm work circumstances. The agency screens for expedited service."],
+  ["Can someone help represent my household?","The application allows an authorized representative who understands your circumstances. You remain responsible for information submitted on your behalf."],
+  ["How are food benefits delivered?","DHR loads approved food benefits into an EBT account each month. You use the associated card for eligible grocery purchases."]
+ ]
+}

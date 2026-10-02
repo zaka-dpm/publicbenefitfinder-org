@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma unemployment uses the OESC claimant portal for initial claims, identity verification and weekly certifications. An application and a weekly payment request are separate tasks.",
+  "description": "Oklahoma unemployment uses the OESC claimant portal for initial claims, identity verification and weekly certifications. An application and a weekly payment request are separa",
+  "sections": {
+    "who": "<p>OESC assesses covered earnings, unemployment circumstances and continued eligibility. Follow the work-search and availability requirements assigned to your claim.</p>",
+    "get": "<p>Eligible weeks are paid to the program debit card. After activation, the vendor provides an option to transfer funds automatically to a personal bank account.</p>",
+    "docs": "<ul><li>Identity and address evidence.</li><li>Employer details and separation information.</li><li>Weekly earnings and work-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open the claimant portal</h3><p>Follow <a href=\"https://oklahoma.gov/oesc/individuals/unemployment.html\">OESC’s Get Started link</a> and complete the initial claim.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Respond to identity and eligibility requests and keep account contact details accurate.</p></li><li><h3 class=\"pbf-h3\">File weekly certifications</h3><p>Report earnings and other weekly circumstances. Record job-search activity as instructed.</p></li></ol>",
+    "after": "<p>Monitor portal notices. OESC identifies EmployOklahoma’s Job Search Activity tool for recording searches and lists 405-525-1500 for claim help.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/oesc/individuals/unemployment.html\">Current OESC filing and payment instructions</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-oklahoma-oesc/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I receive payments without weekly filing?",
+      "Weekly certifications are required for the weeks requested."
+    ],
+    [
+      "Where can I save work-search records?",
+      "OESC recommends the Job Search Activity area in EmployOklahoma."
+    ],
+    [
+      "Does OESC directly deposit into my bank?",
+      "The state describes payment to its vendor debit card, with optional automatic transfers after activation."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/oesc/individuals/unemployment.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "SD Law Help sends one online legal-help application to the appropriate organization. You do not need to choose between East River, Dakota Plains and Access to Justice yourself.",
+  "description": "SD Law Help sends one online legal-help application to the appropriate organization. You do not need to choose between East River, Dakota Plains and Access to Justice yourself",
+  "sections": {
+    "who": "<p>Providers screen finances and the civil legal issue. Some services also address older adults, veterans or domestic-violence survivors under applicable rules.</p>",
+    "get": "<p>Available assistance can range from advice and self-help support to representation. Representation is limited and requires a provider’s acceptance.</p>",
+    "docs": "<ul><li>Household and financial information.</li><li>Names of other parties.</li><li>Notices, court papers and dates.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the common application</h3><p>Follow <a href=\"https://sdlawhelp.org/about/\">SD Law Help’s application link</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the issue and location</h3><p>Identify the county or Tribal court context and any approaching deadline.</p></li><li><h3 class=\"pbf-h3\">Watch for follow-up</h3><p>Check email, spam and voicemail and supply requested information.</p></li></ol>",
+    "after": "<p>Clarify whether the provider is giving advice or representing you. Follow court instructions while intake is pending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://sdlawhelp.org/about/\">SD Law Help screening and routing</a>. <a href=\"https://usaassistance.org/programs/south-dakota-legal-aid-east-river-and-dakota-plains/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must I choose the right legal-aid organization?",
+      "No. The common application is routed based on your answers."
+    ],
+    [
+      "Is every accepted person represented in court?",
+      "No. The provider describes advice and self-help as well as limited representation."
+    ],
+    [
+      "Does the service handle criminal cases?",
+      "The site lists criminal law among cases it does not accept."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://sdlawhelp.org/about/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

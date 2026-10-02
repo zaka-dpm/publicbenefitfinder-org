@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota’s Working Family Credit is a refundable income-tax credit for eligible workers with income below the applicable limit.",
+  "description": "Minnesota’s Working Family Credit is a refundable income-tax credit for eligible workers with income below the applicable limit.",
+  "sections": {
+    "who": "<p>Check Schedule M1CWFC. Full-year nonresidents and another person’s dependents are excluded; other restrictions apply.</p>",
+    "get": "<p>The credit can increase a refund even when no tax is due. It is calculated with the child-related credits on M1CWFC.</p>",
+    "docs": "<ul><li>Earned-income records.</li><li>Filing-status and dependent details.</li><li>Residency records for part-year allocation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Read the current rules</h3><p>Visit <a href=\"https://www.revenue.state.mn.us/working-family-credit\">Revenue’s Working Family Credit page</a>.</p></li><li><h3 class=\"pbf-h3\">Calculate the credit</h3><p>Complete the correct tax year’s M1CWFC and any required M1NR allocation.</p></li><li><h3 class=\"pbf-h3\">File Minnesota taxes</h3><p>Include the schedules with the state return.</p></li></ol>",
+    "after": "<p>Keep the filed return and schedules. Government debts can offset a refund.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.revenue.state.mn.us/working-family-credit\">Working Family Credit eligibility and filing</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a benefit-portal application?",
+      "No. Claim it on the tax return."
+    ],
+    [
+      "Is it refundable?",
+      "Yes."
+    ],
+    [
+      "Can part-year residents apply?",
+      "They can qualify with an income allocation."
+    ],
+    [
+      "What if I received advance child-credit payments?",
+      "Revenue says a following-year income-tax return must be filed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.revenue.state.mn.us/working-family-credit"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-working-family-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

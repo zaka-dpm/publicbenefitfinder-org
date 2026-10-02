@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada TANF provides cash and related support for qualifying families with dependent children. Access Nevada is the state’s online application and case-management route.",
+  "description": "Nevada TANF provides cash and related support for qualifying families with dependent children. Access Nevada is the state’s online application and case-management route.",
+  "sections": {
+    "who": "<p>DSS considers family circumstances, financial eligibility and the relevant program category. Parents and non-parent relatives caring for dependent children may be considered; work-related requirements depend on the case.</p>",
+    "get": "<p>Cash assistance can be accompanied by employment-related case management and support such as childcare or transportation. The NEON category serves households with a work-eligible individual.</p>",
+    "docs": "<ul><li>Household income and identity information.</li><li>Children’s ages and caregiver relationship details.</li><li>Housing and other requested financial records.</li><li>Employment circumstances and evidence supporting an exemption when relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request cash assistance</h3><p>Use <a href=\"https://accessnevada.nv.gov/\">Access Nevada</a> and identify each family member involved.</p></li><li><h3 class=\"pbf-h3\">Complete the eligibility review</h3><p>Respond to DSS interview or document instructions and explain non-parent caregiving or other relevant circumstances.</p></li><li><h3 class=\"pbf-h3\">Discuss the program category</h3><p>Ask which cash program applies and what employment or support-service plan is required.</p></li></ol>",
+    "after": "<p>Read reporting and participation notices. Tell the worker about barriers such as unavailable childcare and ask how to document them; do not assume the same obligations apply to every family.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.dss.nv.gov/programs/tanf/\">Nevada TANF purpose and application</a>, <a href=\"https://www.dss.nv.gov/programs/tanf/program-categories/\">Cash-program categories</a>. <a href=\"https://usaassistance.org/programs/nevada-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative caregiver ask for assistance?",
+      "The state lists non-parent relatives caring for dependent children among its cash-program applicants."
+    ],
+    [
+      "What does NEON provide?",
+      "The state describes cash assistance, case management and support aimed at addressing employment barriers for work-eligible households."
+    ],
+    [
+      "Does one application settle every program requirement?",
+      "No. DSS still reviews eligibility and explains category-specific participation and reporting requirements."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dss.nv.gov/programs/tanf/",
+      "https://www.dss.nv.gov/programs/tanf/program-categories/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

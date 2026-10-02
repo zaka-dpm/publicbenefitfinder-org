@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana 211 connects people in all 64 parishes with local health and human services. Specialists can help identify options when a household needs several kinds of support.",
+  "introduction": "Louisiana 211 connects people in all 64 parishes with local health and human services. Specialists can help identify options when a household needs several kinds of support.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "Anyone in Louisiana can ask for information and referrals.",
+      "A referred organization conducts its own eligibility review and decides whether assistance is available."
+    ],
+    "get": "<p>A confidential specialist conversation can identify relevant providers and contacts. Telephone service operates 24 hours a day, seven days a week, with language interpretation available.</p>",
+    "docs": "<p>Have your ZIP code, parish, immediate need and any deadline ready. Write down providers already contacted so the specialist can look for another option. These are preparation suggestions; 211 does not require a benefit application for a referral.</p>",
+    "apply": "<ol><li>Dial <a href=\"tel:211\">211</a> or text your ZIP code to 898211.</li><li>Explain your location and whether the problem involves a deadline, such as an eviction hearing or disconnection.</li><li>Ask for the provider’s intake details and contact it directly.</li></ol>",
+    "after": "<p>Keep a referral list and note each response. If an organization cannot serve you, ask 211 about alternatives and explain the obstacle. For immediate danger, contact emergency services rather than waiting for a community referral.</p>",
+    "sources": "<ul><li><a href=\"https://www.louisiana211.org/accessing-211-help\">Louisiana 211 access</a></li><li><a href=\"https://www.louisiana211.org/\">Statewide coverage</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-211/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does the network cover my parish?",
+      "The Louisiana 211 network states that it covers all 64 parishes."
+    ],
+    [
+      "Can I reach someone at night?",
+      "The telephone service advertises help 24 hours a day, seven days a week."
+    ],
+    [
+      "How do I get a referral by text?",
+      "Text your ZIP code to 898211. Explain your need when the team responds."
+    ],
+    [
+      "Can 211 send a utility payment?",
+      "It provides referrals. The utility assistance provider decides whether to accept an application and make a payment."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-211",
+    "source_url": "https://usaassistance.org/programs/louisiana-211/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.louisiana211.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.louisiana211.org/accessing-211-help",
+      "https://www.louisiana211.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

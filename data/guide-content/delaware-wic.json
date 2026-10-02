@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware WIC supports eligible pregnant participants, new mothers, infants and children younger than five. Start with a local clinic or WIC Client Portal.",
+  "description": "Delaware WIC supports eligible pregnant participants, new mothers, infants and children younger than five. Start with a local clinic or WIC Client Portal.",
+  "sections": {
+    "who": "<p>Applicants must live in Delaware, meet income rules and have a nutritional risk assessed by WIC. Eligible categories include pregnancy, breastfeeding through the baby’s first birthday, non-breastfeeding postpartum through six months, and infants or children under five. Parents, guardians and foster parents can apply for children. US citizenship and marriage are not required.</p>",
+    "get": "<p>Support includes supplemental foods, nutrition education, breastfeeding help and referrals to health care.</p>",
+    "docs": "<ul><li>Household income evidence, such as pay stubs, a recent tax return or employer letter; bring qualifying benefit evidence if applicable.</li><li>Identity and Delaware address evidence, such as photo ID and a utility bill, rent receipt or addressed business letter.</li><li>The baby or child under five, or pregnancy evidence from the doctor, as requested for the appointment.</li></ul><p>Ask the clinic how to handle missing documents. The old DHSS dollar table is dated July 2024–June 2025; use the clinic’s current limits rather than that expired table.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use the <a href=\"https://wicclientportal.dhss.delaware.gov/Public/Clinics\">Delaware WIC clinic directory</a> and request an appointment.</p></li><li><h3 class=\"pbf-h3\">Use the client portal if helpful</h3><p>The <a href=\"https://wicclientportal.dhss.delaware.gov/\">WIC Client Portal</a> offers a new-client eligibility check. Existing DE WIC app users can use their credentials.</p></li><li><h3 class=\"pbf-h3\">Complete clinic screening</h3><p>Ask about records and who should attend. Clinic staff determine enrollment and explain benefits.</p></li></ol>",
+    "after": "<p>Keep clinic contact information and appointment dates. Ask staff for the current food and shopping instructions.</p>",
+    "sources": "<p>Verified eligibility categories: <a href=\"https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/wic-applicant-qualifications/\">DHSS applicant qualifications</a>. Evidence checklist: <a href=\"https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/wic-appointment/\">first-appointment preparation</a>. Intake and clinic search: <a href=\"https://wicclientportal.dhss.delaware.gov/\">WIC Client Portal</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Can existing app users use the portal?",
+      "Yes. The portal says to use existing DE WIC app credentials."
+    ],
+    [
+      "Is the portal check approval?",
+      "No. Complete the clinic’s eligibility process."
+    ],
+    [
+      "Who can help find a clinic?",
+      "Use the portal’s Clinics directory or contact Delaware WIC."
+    ],
+    [
+      "Is WIC only food assistance?",
+      "It also provides nutrition, breastfeeding support and health referrals."
+    ],
+    [
+      "Must an applicant be a US citizen?",
+      "No. Delaware’s applicant guidance says citizenship is not required."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://wicclientportal.dhss.delaware.gov/",
+      "https://wicclientportal.dhss.delaware.gov/Public/Clinics",
+      "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/wic-applicant-qualifications/",
+      "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/wic-appointment/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "resolved_notes": [
+      "Recovered migrated DHSS qualification and document pages. Expired income dollar table not reproduced."
+    ]
+  }
+}

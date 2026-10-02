@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Mass 211 connects Massachusetts residents with community services, including housing, food, utilities and child care. It provides referrals; each provider decides whether it c",
+  "introduction": "Mass 211 connects Massachusetts residents with community services, including housing, food, utilities and child care. It provides referrals; each provider decides whether it can help.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "Anyone in Massachusetts looking for local services or information.",
+      "General housing and home energy questions can be answered around the clock; interpretation is available."
+    ],
+    "get": "<p>Information about service providers and application routes. Mass 211 also operates specialist referral lines, including child care information.</p>",
+    "docs": "<p>No benefits application documents are needed to begin asking for information. Have your town, the service needed and any urgent deadline ready. Send financial or identity records directly to the eventual provider through its approved process.</p>",
+    "apply": "<ol><li>Call 211 or 877-211-6277.</li><li>Explain your town, immediate need and preferred language.</li><li>Ask for the provider’s name, contact details and next step.</li><li>Contact the recommended provider to request help.</li></ol>",
+    "after": "<p>Keep a short list of referrals and call results. If a provider cannot help, ask 211 for another option and explain what happened. For a RAFT application already submitted, contact the assigned regional agency for case status.</p>",
+    "sources": "<ul><li><a href=\"https://mass211.org/\">Mass 211 services</a></li><li><a href=\"https://www.mass.gov/home-energy-assistance-programs\">State housing contact guidance</a></li><li><a href=\"https://usaassistance.org/programs/mass-211/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Will 211 award rent assistance?",
+      "It refers callers to housing resources; the assistance provider makes the decision."
+    ],
+    [
+      "Can I ask about child care?",
+      "Mass 211 has a Child Care Information Line within the statewide referral network."
+    ],
+    [
+      "Can I ask in another language?",
+      "State housing guidance lists interpreter services for 211."
+    ],
+    [
+      "What if 211 does not connect from my phone?",
+      "Try 877-211-6277."
+    ],
+    [
+      "Should I call about immediate danger?",
+      "Call 911 for an immediate emergency; 211 provides non-emergency information."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "mass-211",
+    "source_url": "https://usaassistance.org/programs/mass-211/",
+    "source_updated": "August 2026",
+    "primary_url": "https://mass211.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://mass211.org/",
+      "https://www.mass.gov/home-energy-assistance-programs"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

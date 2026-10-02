@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana WIC offers specific foods, nutrition education and breastfeeding support for eligible participants and children younger than five. Start with a clinic or the online ",
+  "introduction": "Louisiana WIC offers specific foods, nutrition education and breastfeeding support for eligible participants and children younger than five. Start with a clinic or the online interest form.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Participants must live in Louisiana and meet WIC category, income and health-screening conditions.",
+      "Medicaid, SNAP or TANF enrollment can establish income eligibility. Foster children also meet the program’s income guidelines, but clinic enrollment is still required."
+    ],
+    "get": "<p>The clinic assigns a WIC food package and explains the WIC EBT card. Free apps can help with appointments, shopping and breastfeeding questions.</p>",
+    "docs": "<p>Bring identification for each applicant, proof of physical residence and income or qualifying benefits. Bring the applying child to the initial appointment and keep uploaded documents available in case an image is unreadable.</p>",
+    "apply": "<ol><li>Open <a href=\"https://louisianawic.org/about-wic/how-to-apply/\">Louisiana WIC’s application page</a> and submit the interest form or use Find a Clinic.</li><li>Arrange an initial certification appointment and confirm what to bring.</li><li>Complete the eligibility and health screening. Ask the clinic to explain the card and food list before shopping.</li></ol>",
+    "after": "<p>Keep the appointment schedule: Louisiana says WIC benefits are added to the card during appointments rather than loading automatically like SNAP. If work or school prevents attendance, ask about appointing a proxy using the clinic’s form.</p>",
+    "sources": "<ul><li><a href=\"https://louisianawic.org/about-wic/how-to-apply/\">Louisiana WIC application instructions</a></li><li><a href=\"https://louisianawic.org/\">Louisiana WIC services and apps</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the interest form a final approval?",
+      "No. The clinic must complete eligibility and certification."
+    ],
+    [
+      "Can someone attend or shop for me?",
+      "Louisiana permits an authorized proxy. Ask the clinic for its Proxy at Certification form and instructions."
+    ],
+    [
+      "Why did new benefits not automatically appear?",
+      "Louisiana WIC says benefits must be added during WIC appointments. Contact the clinic about the card and next appointment."
+    ],
+    [
+      "Does SNAP proof replace all WIC checks?",
+      "No. It can establish income eligibility, but the clinic still completes the WIC screening and enrollment."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-wic",
+    "source_url": "https://usaassistance.org/programs/louisiana-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://louisianawic.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://louisianawic.org/about-wic/how-to-apply/",
+      "https://louisianawic.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

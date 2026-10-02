@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington WIC offers nutritious foods and nutrition support through local clinics. WIC eligibility is separate from SNAP and Apple Health.",
+  "description": "Washington WIC offers nutritious foods and nutrition support through local clinics. WIC eligibility is separate from SNAP and Apple Health.",
+  "sections": {
+    "who": "<p>Participants include pregnant or recently postpartum people, breastfeeding participants, infants and children under five. Household income and clinic assessment matter; U.S. citizenship is not required.</p>",
+    "get": "<p>The clinic assigns food benefits and nutrition services. Caregivers can enroll eligible young children.</p>",
+    "docs": "<ul><li>Ask the clinic which identity, address and income records to bring.</li><li>Child or pregnancy details for certification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use <a href=\"https://doh.wa.gov/you-and-your-family/wic/apply-wic\">Apply for WIC</a> or call 800-841-1410.</p></li><li><h3 class=\"pbf-h3\">Book certification</h3><p>Call the clinic and confirm remote or in-person options.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>Staff review eligibility and explain benefits.</p></li></ol>",
+    "after": "<p>Attend follow-up appointments. A change in another benefit program does not automatically end WIC.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://doh.wa.gov/you-and-your-family/wic/apply-wic\">DOH WIC intake</a>; <a href=\"https://doh.wa.gov/uk/node/9368\">WIC eligibility</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a grandparent enroll a child?",
+      "Caregivers may enroll eligible children under five."
+    ],
+    [
+      "Is citizenship required?",
+      "Washington DOH says U.S. citizenship is not required."
+    ],
+    [
+      "Do I need a clinic appointment?",
+      "Yes. Arrange certification with the clinic."
+    ],
+    [
+      "Does loss of SNAP automatically end WIC?",
+      "No. WIC has separate eligibility rules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://doh.wa.gov/you-and-your-family/wic/apply-wic",
+      "https://doh.wa.gov/uk/node/9368"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

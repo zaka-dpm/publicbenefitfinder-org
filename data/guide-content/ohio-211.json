@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio 211 connects residents with local food, housing, utility and other community services.",
+  "description": "Ohio 211 connects residents with local food, housing, utility and other community services.",
+  "sections": {
+    "who": "<p>Anyone seeking local resources can ask for referrals. Each provider separately decides who it can serve.</p>",
+    "get": "<p>A navigator or directory helps identify possible assistance; the referral does not guarantee funding.</p>",
+    "docs": "<ul><li>Your location or ZIP code.</li><li>The help needed and any deadline.</li><li>Language, transport or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact a navigator</h3><p>Call 211 or 1-888-OHIO-211. You can also search <a href=\"https://ohio211.org/\">Ohio 211</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Describe the most urgent problem first.</p></li><li><h3 class=\"pbf-h3\">Check the referral</h3><p>Ask the provider about intake, documents and current availability.</p></li></ol>",
+    "after": "<p>If a referral cannot help, ask 211 for another option. Its administrative contact form is not individual assistance intake.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://ohio211.org/contact-us/\">Ohio 211 contact instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I call outside business hours?",
+      "Ohio 211 lists service around the clock."
+    ],
+    [
+      "Does 211 approve benefits?",
+      "No. It provides connections to service providers."
+    ],
+    [
+      "Should I email the contact form for help?",
+      "The provider directs individual assistance requests to the phone service."
+    ],
+    [
+      "What if a referred program has no funds?",
+      "Ask for another referral in your area."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://ohio211.org/contact-us/"
+    ],
+    "background_source": "https://usaassistance.org/programs/ohio-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

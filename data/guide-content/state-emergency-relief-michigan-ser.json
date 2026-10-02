@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "State Emergency Relief addresses qualifying Michigan emergencies involving housing, utilities, essential repairs or burial costs. It is intended for occasional crises.",
+  "description": "State Emergency Relief addresses qualifying Michigan emergencies involving housing, utilities, essential repairs or burial costs. It is intended for occasional crises.",
+  "sections": {
+    "who": "<p>MDHHS reviews the emergency, financial circumstances and the rules for the specific service. Do not assume every SER category has the same contribution or eligibility rules.</p><p>For energy services, MDHHS includes household income and assets in screening. Its October 1, 2026 manual says there is no income copayment for energy assistance, but income must meet the applicable limit. Other required payments can still arise, including a balance above the program cap or another service category.</p>",
+    "get": "<p>Assistance can help address a qualifying emergency. Ongoing energy-cost reduction is a separate weatherization need.</p>",
+    "docs": "<ul><li>The shutoff, eviction or other emergency notice.</li><li>Income, resources and household records.</li><li>Bills, estimates or property evidence relevant to the requested service.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply promptly</h3><p>Use <a href=\"https://newmibridges.michigan.gov/\">MI Bridges</a> or contact your local MDHHS office. Identify the exact service and deadline.</p></li><li><h3 class=\"pbf-h3\">Provide emergency evidence</h3><p>Submit the relevant notice or bill and respond to follow-up requests.</p></li><li><h3 class=\"pbf-h3\">Confirm any contribution</h3><p>Ask the caseworker which payment or contribution rules apply before relying on approval.</p></li></ol>",
+    "after": "<p>Contact the utility, landlord or other provider about the deadline. An application alone does not stop a shutoff or court action.</p><p>The decision notice explains any payment obligations. For energy help, confirm the amount needed to maintain or restore service and any remaining balance with the provider. Ask about Michigan Energy Assistance Program services if further help is needed.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://mdhhs-pres-prod.michigan.gov/olmweb/exF/ER/Mobile/ERM/ERM%20Mobile.pdf\">current State Emergency Relief Manual, ERM 301 (October 1, 2026)</a> and <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/emergency-relief\">MDHHS emergency services</a>. <a href=\"https://usaassistance.org/programs/state-emergency-relief-michigan-ser/\">USA Assistance background guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Is SER for recurring monthly shortfalls?",
+      "The state describes emergency relief as occasional crisis support."
+    ],
+    [
+      "Does utility help have the same rules as relocation?",
+      "No. Ask about the specific service category."
+    ],
+    [
+      "Does energy assistance require an income copayment?",
+      "The current energy manual says no income copayment applies. This does not waive other required payments or amounts above the program cap; read your decision notice."
+    ],
+    [
+      "What else reduces long-term energy costs?",
+      "Ask about weatherization and other energy programs."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mdhhs-pres-prod.michigan.gov/olmweb/exF/ER/Mobile/ERM/ERM%20Mobile.pdf",
+      "https://www.michigan.gov/mdhhs/assistance-programs/emergency-relief"
+    ],
+    "background_source": "https://usaassistance.org/programs/state-emergency-relief-michigan-ser/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": [],
+    "resolved_notes": "Current ERM301 distinguishes income copayment from other required balances. Legacy utility-page amounts not repeated."
+  }
+}

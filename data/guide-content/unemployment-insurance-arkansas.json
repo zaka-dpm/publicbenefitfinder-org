@@ -1,0 +1,52 @@
+{
+  "status": "reviewed",
+  "description": "Arkansas unemployment claims begin through EZARC, followed by identity verification and weekly claims. The Division of Workforce Services reviews eligibility rather than treat",
+  "introduction": "Arkansas unemployment claims begin through EZARC, followed by identity verification and weekly claims. The Division of Workforce Services reviews eligibility rather than treating an initial submission as payment approval.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Applicants must satisfy wage and job-separation rules and the weekly conditions. These include being able and available for suitable work and making the required effort to find work.",
+      "Disqualifying circumstances can affect a claim. Tell the agency accurately why employment ended and disclose work, earnings or other relevant changes."
+    ],
+    "get": "<p>Approved benefits are paid for eligible claimed weeks. The state identifies a waiting week before payable benefits. Review the determination rather than relying on an older online amount estimate.</p>",
+    "docs": "<p>Prepare identification, contact details, employment history and separation information. Keep wage records and the weekly work-search log. Follow the filing system’s exact verification prompts and retain the confirmation.</p>",
+    "apply": "<ol><li>Open <a href=\"https://dws.arkansas.gov/workforce-services/unemployment-2/unemployment-2/\">the state unemployment claims page</a> and follow its EZARC initial-claim link.</li><li>Complete the claim, then use the Verify Identity link on the confirmation page for the available verification choices.</li><li>Register for work as instructed and use the state’s File a Weekly Claim option for continued filings.</li></ol>",
+    "after": "<p>Read all notices and complete any required reemployment assessment. Report earnings and keep weekly records. For assistance, the state service center is 1-844-908-2178. Use the appeal instructions if a determination appears incorrect.</p>",
+    "sources": "<ul><li><a href=\"https://dws.arkansas.gov/workforce-services/unemployment-2/unemployment-2/\">Initial claim, verification and weekly eligibility</a></li><li><a href=\"https://dws.arkansas.gov/workforce-services/contact/\">Current service center contact</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-arkansas/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is identity verification separate from filing?",
+      "Yes. The claims page describes a Verify Identity link after the initial claim."
+    ],
+    [
+      "Do I need to file every week?",
+      "Yes. Use the state’s weekly-claim instructions after opening the claim."
+    ],
+    [
+      "Is there a waiting week?",
+      "The state identifies one waiting week before benefits become payable, subject to the claim’s eligibility."
+    ],
+    [
+      "Who can help with a claim?",
+      "Contact the Division of Workforce Services service center at 1-844-908-2178."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-arkansas",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-arkansas/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dws.arkansas.gov/unemployment/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dws.arkansas.gov/unemployment/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dws.arkansas.gov/workforce-services/unemployment-2/unemployment-2/",
+      "https://dws.arkansas.gov/workforce-services/contact/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

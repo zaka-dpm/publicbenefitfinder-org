@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid of North Carolina offers civil legal assistance and a JusticeHub application portal. Intake does not guarantee representation.",
+  "description": "Legal Aid of North Carolina offers civil legal assistance and a JusticeHub application portal. Intake does not guarantee representation.",
+  "sections": {
+    "who": "<p>Eligibility and case capacity are screened. Dedicated helplines serve some specialized needs.</p>",
+    "get": "<p>JusticeHub supports applications, secure messages, document uploads and case updates. Accepted cases may receive legal help.</p>",
+    "docs": "<ul><li>Issue and county.</li><li>Notices and court dates.</li><li>Income and household information requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online</h3><p>Use <a href=\"https://legalaidnc.org/apply/\">JusticeHub</a>.</p></li><li><h3 class=\"pbf-h3\">Call if needed</h3><p>General intake866-219-5262 is listed Monday–Friday,9a.m.–3p.m.</p></li><li><h3 class=\"pbf-h3\">Explain urgent dates</h3><p>Follow the intake worker’s document requests.</p></li></ol>",
+    "after": "<p>Continue meeting deadlines until a lawyer advises otherwise.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://legalaidnc.org/apply/\">Legal Aid NC current intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is JusticeHub available anytime?",
+      "Online intake is available through the portal."
+    ],
+    [
+      "Can I call for general intake?",
+      "Yes, during listed hours."
+    ],
+    [
+      "Is criminal defense provided here?",
+      "The general service is civil legal aid."
+    ],
+    [
+      "Does submitting mean a lawyer accepted?",
+      "No."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://legalaidnc.org/apply/"
+    ],
+    "background_source": "https://usaassistance.org/programs/legal-aid-of-north-carolina/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

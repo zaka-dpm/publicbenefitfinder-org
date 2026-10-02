@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "LawHelpNY offers free legal information and a directory of civil legal aid providers. Search by location and legal issue.",
+  "description": "LawHelpNY offers free legal information and a directory of civil legal aid providers. Search by location and legal issue.",
+  "sections": {
+    "who": "<p>Public resources are available to everyone. Providers separately screen income, issue and capacity.</p>",
+    "get": "<p>The site connects people with information and legal-help options; it does not guarantee a lawyer.</p>",
+    "docs": "<ul><li>County and legal issue.</li><li>Court papers, notices and dates.</li><li>Income information for provider screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find resources</h3><p>Use <a href=\"https://www.lawhelpny.org/\">LawHelpNY</a> and the legal-help directory.</p></li><li><h3 class=\"pbf-h3\">Request intake</h3><p>Contact the listed provider, explain deadlines and ask what records it needs.</p></li><li><h3 class=\"pbf-h3\">Use LiveHelp if needed</h3><p>The site lists chat Monday–Thursday,9a.m.–9p.m., excluding most holidays.</p></li></ol>",
+    "after": "<p>Follow court deadlines. Ask a qualified provider about the rules that apply to your case.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.lawhelpny.org/\">LawHelpNY resources and chat</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is LiveHelp legal representation?",
+      "It helps locate information and resources."
+    ],
+    [
+      "Can I find help outside NYC?",
+      "Search the statewide directory."
+    ],
+    [
+      "Does an application suspend deadlines?",
+      "No."
+    ],
+    [
+      "Can everyone receive a lawyer?",
+      "Providers screen eligibility and capacity."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.lawhelpny.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/lawhelpny-org-eviction-and-legal-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

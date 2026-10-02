@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Arkansas Transitional Employment Assistance offers short-term cash and employment support for eligible families with children. DHS County Operations administers TEA and determ",
+  "introduction": "Arkansas Transitional Employment Assistance offers short-term cash and employment support for eligible families with children. DHS County Operations administers TEA and determines eligibility.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families need a child under 18 in the home and must meet the income and other TEA requirements. DHS evaluates the assistance unit and relevant exceptions.",
+      "Time-limit and participation rules apply. Current DHS policy differs from some older 24-month summaries; ask the worker about the current count, deferrals and exceptions for your case."
+    ],
+    "get": "<p>TEA provides financial assistance and services supporting work, education or training. Supports can include job preparation, transportation and child care. The case plan determines the assistance available.</p>",
+    "docs": "<p>Prepare family and income information, identity, residency and Social Security or applicable immigration records for benefit applicants. Follow the interview notice’s verification list and ask for help with unavailable records.</p>",
+    "apply": "<ol><li>Apply for TEA through <a href=\"https://access.arkansas.gov/\">Access Arkansas</a> or contact the DHS county office for a paper application.</li><li>Complete the signed application and eligibility interview, keeping confirmation.</li><li>Discuss the employment plan, care needs and any participation barrier with the assigned worker.</li></ol>",
+    "after": "<p>Read the approval and reporting/participation requirements. Keep appointments and report changes through the instructed method. If moving from TEA into paid work, ask whether a separate Work Pays application is appropriate rather than assuming it continues automatically.</p>",
+    "sources": "<ul><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/county-operations/temporary-assistance-for-needy-families/\">Current TEA administration and supports</a></li><li><a href=\"https://access.arkansas.gov/Learn/Home.aspx\">Access Arkansas TEA household and filing information</a></li><li><a href=\"https://humanservices.arkansas.gov/wp-content/uploads/TEA-Manual-updated-4.1.2024.pdf\">Updated TEA policy and time limits</a></li><li><a href=\"https://usaassistance.org/programs/arkansas-tea-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is TEA just a monthly payment?",
+      "No. It combines short-term financial assistance with employment-related support services."
+    ],
+    [
+      "Does DHS or the workforce office decide eligibility?",
+      "The current DHS TANF page says County Operations administers and determines TEA and Work Pays eligibility."
+    ],
+    [
+      "Can it help with child care?",
+      "Child-care support is among the services described by DHS. Ask the worker what fits the plan."
+    ],
+    [
+      "Is the old 24-month rule still reliable?",
+      "Current DHS policy changed the general TEA period in March 2024. Have the worker review the current time limit and applicable exceptions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arkansas-tea-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/arkansas-tea-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://access.arkansas.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/county-operations/temporary-assistance-for-needy-families/",
+      "https://access.arkansas.gov/Learn/Home.aspx",
+      "https://humanservices.arkansas.gov/wp-content/uploads/TEA-Manual-updated-4.1.2024.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

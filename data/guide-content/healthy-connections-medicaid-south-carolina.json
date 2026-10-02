@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Healthy Connections is South Carolina Medicaid. Apply online, request a paper form or contact a county eligibility office.",
+  "description": "Healthy Connections is South Carolina Medicaid. Apply online, request a paper form or contact a county eligibility office.",
+  "sections": {
+    "who": "<p>The state reviews financial circumstances and coverage categories including children, pregnancy, caregivers, disability and older adults. Low income alone does not establish every adult’s eligibility.</p>",
+    "get": "<p>Approved coverage helps pay eligible medical bills. Read your category and plan information for covered services.</p>",
+    "docs": "<ul><li>Household dates of birth and requested identification.</li><li>Income, benefits and relevant resources.</li><li>Existing coverage and requested expense information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start with Healthy Connections</h3><p>Use <a href=\"https://www.scdhhs.gov/members/getting-started\">the state intake page</a> or call 888-549-0820.</p></li><li><h3 class=\"pbf-h3\">Supply requested information</h3><p>Use the state document-upload route when additional records are requested.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check each applicant’s result and any managed-care instructions.</p></li></ol>",
+    "after": "<p>Keep contact details current and respond to annual review notices.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.scdhhs.gov/members/getting-started\">Coverage and intake</a>, <a href=\"https://www.scdhhs.gov/members/program-eligibility-and-income-limits\">Program-specific eligibility</a>, <a href=\"https://www.scdhhs.gov/members/forms\">Document upload</a>. <a href=\"https://usaassistance.org/programs/healthy-connections-medicaid-south-carolina/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can SC Thrive help me apply?",
+      "The Medicaid agency lists SC Thrive as an application-help provider."
+    ],
+    [
+      "Can I request a paper application?",
+      "Call 888-549-0820 or use the downloadable form."
+    ],
+    [
+      "Where do requested documents go?",
+      "The state Forms page links its document-upload tool for matching records to your case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.scdhhs.gov/members/getting-started",
+      "https://www.scdhhs.gov/members/program-eligibility-and-income-limits",
+      "https://www.scdhhs.gov/members/forms"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "NJ FamilyCare is New Jersey’s Medicaid and children’s coverage program. Apply through the FamilyCare pathway and review each applicant’s decision and plan-enrollment instructions.",
+  "description": "NJ FamilyCare is New Jersey’s Medicaid and children’s coverage program. Apply through the FamilyCare pathway and review each applicant’s decision and plan-enrollment instructi",
+  "sections": {
+    "who": "<p>Eligibility depends on category, household income, residence and status rules. Children under 19 can apply regardless of immigration status through Cover All Kids. Some adult non-citizen rules change in fall 2026; consult the current state update.</p>",
+    "get": "<p>Approved coverage helps pay for qualifying medical services. Coverage dates and plans depend on the individual decision; the provider portal is not the resident application route.</p>",
+    "docs": "<ul><li>Household names and dates of birth.</li><li>Income, employer and tax-filing details.</li><li>Current address and existing health coverage.</li><li>Status information for people requesting coverage and any requested records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the appropriate application</h3><p>Use <a href=\"https://www.nj.gov/coverallkids/apply/\">Cover All Kids</a> for a child or the linked NJ FamilyCare application. Call 800-701-0710 for help.</p></li><li><h3 class=\"pbf-h3\">Save the confirmation</h3><p>Keep the application copy and the eligibility agency contact listed on its confirmation page.</p></li><li><h3 class=\"pbf-h3\">Answer follow-up requests</h3><p>Provide requested records and read the result for each person, including health-plan selection.</p></li></ol>",
+    "after": "<p>Keep contact details current. The state’s community-engagement update describes changes beginning in 2027 for certain adults; follow the notice for your coverage category and renewal timing.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/coverallkids/apply/\">Children’s application pathway</a>, <a href=\"https://njfamilycare.dhs.state.nj.us/docs/Applicant_NJFC_Application_Check_List_en.pdf\">FamilyCare application checklist</a>, <a href=\"https://www.nj.gov/humanservices/dmahs/obbba/medicaid-federal-changes.shtml\">Current federal-rule changes and timing</a>. <a href=\"https://usaassistance.org/programs/nj-familycare-medicaid-and-chip/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a child apply without eligible adult immigration status?",
+      "Cover All Kids says children under 19 may apply regardless of their own immigration status, subject to other rules."
+    ],
+    [
+      "Must every household member have an SSN to apply?",
+      "The application checklist says you can still apply if an SSN is unavailable."
+    ],
+    [
+      "Are the new adult work rules already universal?",
+      "No. The state describes 2027 changes for particular adult coverage groups, with exclusions and individual notice."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/coverallkids/apply/",
+      "https://njfamilycare.dhs.state.nj.us/docs/Applicant_NJFC_Application_Check_List_en.pdf",
+      "https://www.nj.gov/humanservices/dmahs/obbba/medicaid-federal-changes.shtml"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

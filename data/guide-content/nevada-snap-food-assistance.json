@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada SNAP applications can be filed online through Access Nevada or on paper through a DSS office. An interview and requested verification are part of the application process.",
+  "description": "Nevada SNAP applications can be filed online through Access Nevada or on paper through a DSS office. An interview and requested verification are part of the application proces",
+  "sections": {
+    "who": "<p>DSS reviews household composition, income and applicable SNAP requirements. Explain who buys and prepares food together and any circumstances relevant to a participation-rule exception.</p>",
+    "get": "<p>Approved households receive monthly food benefits on EBT. The mailed decision states the amount and certification period.</p>",
+    "docs": "<ul><li>Identity and current income evidence.</li><li>Housing and utility records.</li><li>Dependent-care or child-support expenses where applicable.</li><li>Medical expenses for an older or disabled member when relevant.</li><li>Other records requested in the interview.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use <a href=\"https://accessnevada.nv.gov/\">Access Nevada</a> or mail, fax or deliver the state paper application to a DSS office.</p></li><li><h3 class=\"pbf-h3\">Explain urgent food needs</h3><p>Tell DSS if the household has little or no money and needs immediate help so it can assess expedited service.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Follow the appointment notice, provide requested proof and keep the submission confirmation.</p></li></ol>",
+    "after": "<p>Read the mailed decision and reporting instructions. If you miss the interview, contact DSS promptly to arrange another; an uncompleted interview can prevent approval.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.dss.nv.gov/programs/snap/\">Nevada SNAP application process</a>, <a href=\"https://www.dss.nv.gov/programs/snap/facts-faq/snap-faqs-7/\">Interview and document guidance</a>. <a href=\"https://usaassistance.org/programs/nevada-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must I have a photo ID?",
+      "Nevada’s published document guidance says a picture ID is not required. Ask what identity proof is acceptable."
+    ],
+    [
+      "Can I apply alongside medical or cash assistance?",
+      "The state says those applicants can request SNAP at the same time."
+    ],
+    [
+      "What if I miss the interview?",
+      "Contact DSS to reschedule rather than waiting for another automatic appointment."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dss.nv.gov/programs/snap/",
+      "https://www.dss.nv.gov/programs/snap/facts-faq/snap-faqs-7/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

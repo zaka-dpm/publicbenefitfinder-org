@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina weatherization applications go to the Community Action provider serving your county. Ask for its current home-assessment and income checklist.",
+  "description": "South Carolina weatherization applications go to the Community Action provider serving your county. Ask for its current home-assessment and income checklist.",
+  "sections": {
+    "who": "<p>The state considers residence, income and need for help with energy costs. Priority includes older adults, households with disabilities and families with children.</p>",
+    "get": "<p>Approved work improves the home’s energy performance to reduce energy use.</p>",
+    "docs": "<ul><li>Household income and members.</li><li>Address and energy bills.</li><li>Property and permission records requested by the provider.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the county provider</h3><p>Use <a href=\"https://oeo.sc.gov/managedsites/prd/oeo/weatherization.html\">OEO’s Community Action link</a>.</p></li><li><h3 class=\"pbf-h3\">Complete local intake</h3><p>Confirm current financial and home requirements.</p></li><li><h3 class=\"pbf-h3\">Arrange the review</h3><p>Provide access and discuss any required permissions or waiting list.</p></li></ol>",
+    "after": "<p>Ask the agency about the assessment and proposed work. OEO describes an appeal route beginning with the local agency.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oeo.sc.gov/managedsites/prd/oeo/weatherization.html\">Weatherization eligibility, intake and appeal</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-south-carolina/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Who accepts my application?",
+      "The Community Action agency serving weatherization in your county."
+    ],
+    [
+      "Are some households prioritized?",
+      "The state lists older adults, disabilities and children as preference groups."
+    ],
+    [
+      "Can I dispute a denial?",
+      "OEO directs you first to notify the county agency and request review."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oeo.sc.gov/managedsites/prd/oeo/weatherization.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

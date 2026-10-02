@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Washington’s Working Families Tax Credit refunds qualifying sales or use tax. Apply separately from the federal tax return.",
+  "description": "Washington’s Working Families Tax Credit refunds qualifying sales or use tax. Apply separately from the federal tax return.",
+  "sections": {
+    "who": "<p>Rules include 183 days in Washington, an SSN or ITIN, federal-return filing and EITC eligibility or the equivalent ITIN rules. Applicants must be at least 25 and under 65 or have a qualifying child.</p>",
+    "get": "<p>The refund depends on the tax year, income and qualifying children. Use that year’s instructions.</p>",
+    "docs": "<ul><li>Entire federal tax return.</li><li>Identification, household and residence evidence requested by Revenue.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Complete federal filing</h3><p>Determine eligibility for the matching tax year.</p></li><li><h3 class=\"pbf-h3\">Apply</h3><p>Use MyDOR or a paper form from <a href=\"https://workingfamiliescredit.wa.gov/apply\">WFTC Apply</a>.</p></li><li><h3 class=\"pbf-h3\">Attach the return</h3><p>Include the entire federal return and save submission details.</p></li></ol>",
+    "after": "<p>Do not submit duplicates. Check the application status and answer Revenue’s requests.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://workingfamiliescredit.wa.gov/eligibility\">Current eligibility</a>; <a href=\"https://workingfamiliescredit.wa.gov/apply\">WFTC application</a>; <a href=\"https://workingfamiliescredit.wa.gov/sites/default/files/2026-01/WFTC_AppInstructions_TY2025_English.pdf\">2025 application instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is an ITIN accepted?",
+      "Yes, subject to the program’s eligibility rules."
+    ],
+    [
+      "Is federal filing the whole application?",
+      "No. WFTC requires its own application."
+    ],
+    [
+      "Is only the first return page enough?",
+      "Revenue requires the entire federal return."
+    ],
+    [
+      "Should I reapply if processing is slow?",
+      "Do not submit a duplicate application."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://workingfamiliescredit.wa.gov/eligibility",
+      "https://workingfamiliescredit.wa.gov/apply",
+      "https://workingfamiliescredit.wa.gov/sites/default/files/2026-01/WFTC_AppInstructions_TY2025_English.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-working-families-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

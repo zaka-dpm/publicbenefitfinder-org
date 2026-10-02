@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi H-HEAP has separate energy-credit and energy-crisis routes. Applications are processed by the Community Action Agency serving your island, not by the DHS office.",
+  "description": "Hawaiʻi H-HEAP has separate energy-credit and energy-crisis routes. Applications are processed by the Community Action Agency serving your island, not by the DHS office.",
+  "sections": {
+    "who": "<p>Eligible households must satisfy the local intake requirements. Crisis intervention concerns electricity or gas that has been disconnected or is scheduled for disconnection, supported by the utility’s notice.</p>",
+    "get": "<p>H-HEAP provides a one-time payment toward eligible electric or gas costs. The state says a household can receive only one type of H-HEAP payment per program year, October through September.</p>",
+    "docs": "<ul><li>The current electric or gas bill.</li><li>A disconnection notice if requesting crisis help.</li><li>Household income and identity information required by the island agency.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact your island agency</h3><p>Use <a href=\"https://humanservices.hawaii.gov/bessd/liheap/\">DHS’s H-HEAP provider link</a>. Do not send the application to a DHS office.</p></li><li><h3 class=\"pbf-h3\">Choose the appropriate route</h3><p>The published energy-credit window is June 1–30. Energy Crisis Intervention accepts requests year-round, with limited monthly approvals.</p></li><li><h3 class=\"pbf-h3\">Submit the local application</h3><p>Ask the provider for its current checklist and explain the service-disconnection date when relevant.</p></li></ol>",
+    "after": "<p>Confirm whether a payment was approved and sent to the utility. An application does not itself guarantee funding or prevent disconnection; ask the utility about options while awaiting a decision.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://humanservices.hawaii.gov/bessd/liheap/\">Hawaiʻi H-HEAP routes and intake guidance</a>. <a href=\"https://usaassistance.org/programs/hawaii-home-energy-assistance-program-h-heap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Where do I submit the documents?",
+      "To the Community Action Agency serving your island. The state warns that sending them to DHS can delay processing."
+    ],
+    [
+      "Can I apply for crisis help outside June?",
+      "The state describes crisis intake as year-round, subject to limited monthly approvals."
+    ],
+    [
+      "Can I receive both assistance types in one year?",
+      "DHS says households can receive only one type of payment per October–September program year."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://humanservices.hawaii.gov/bessd/liheap/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

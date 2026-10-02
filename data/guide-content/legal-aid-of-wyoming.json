@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Legal Aid of Wyoming offers free civil legal help to low-income Wyoming residents. Use its issue-based online intake or telephone hotline to request a case assessment.",
+  "introduction": "Legal Aid of Wyoming offers free civil legal help to low-income Wyoming residents. Use its issue-based online intake or telephone hotline to request a case assessment.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Low-income Wyoming residents with a civil issue the organization can accept.",
+      "Its online intake lists housing, family, benefits, employment and other topics; criminal defense, personal injury and several complex matters are directed to private lawyers."
+    ],
+    "get": "<p>Advice or other accepted civil legal services. Confirm the scope of assistance and case acceptance rather than assuming an intake request assigns a lawyer.</p>",
+    "docs": "<p>Gather notices, court papers, relevant correspondence and deadlines. Write a brief timeline and the other party’s name. Prepare financial information for intake screening.</p>",
+    "apply": "<ol><li>Choose the relevant legal issue on the Apply Online page.</li><li>Alternatively call 877-432-9955, Monday–Friday 9 a.m.–4 p.m.</li><li>Explain urgent filing or hearing dates first.</li><li>Ask how to send supporting records and follow up.</li></ol>",
+    "after": "<p>Keep following court instructions while waiting. Ask whether representation is confirmed, who is responsible for filings and what deadlines remain. If it cannot help, ask about WYLawHelp or the bar’s referral directory.</p>",
+    "sources": "<ul><li><a href=\"https://www.lawyoming.org/\">Legal Aid program and hotline</a></li><li><a href=\"https://www.lawyoming.org/apply-online\">Issue-based application and exclusions</a></li><li><a href=\"https://usaassistance.org/programs/legal-aid-of-wyoming/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I request help with an eviction?",
+      "The online intake lists eviction and landlord problems."
+    ],
+    [
+      "Can it handle criminal defense?",
+      "Its application page directs criminal matters to private lawyers."
+    ],
+    [
+      "What is the current hotline?",
+      "877-432-9955."
+    ],
+    [
+      "Is every online request accepted?",
+      "The organization must assess eligibility, case type and capacity."
+    ],
+    [
+      "What if my issue is not listed?",
+      "The site directs people to WYLawHelp or the hotline."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "legal-aid-of-wyoming",
+    "source_url": "https://usaassistance.org/programs/legal-aid-of-wyoming/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.lawyoming.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.lawyoming.org/",
+      "https://www.lawyoming.org/apply-online"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

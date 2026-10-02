@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "MassHealth and the Children’s Medical Security Plan provide health coverage pathways in Massachusetts. The application used depends on age, family circumstances and long-term ",
+  "introduction": "MassHealth and the Children’s Medical Security Plan provide health coverage pathways in Massachusetts. The application used depends on age, family circumstances and long-term care needs.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Massachusetts residents seeking health or dental coverage. Eligibility varies by coverage category, income and other circumstances.",
+      "The health and dental coverage application serves most people under 65; seniors and people needing long-term care should check the separate application guidance."
+    ],
+    "get": "<p>Coverage determined by MassHealth’s eligibility notice. Read the coverage type and services listed before choosing a provider or assuming a bill is covered.</p>",
+    "docs": "<p>Prepare income and employer information, existing insurance, tax information if filed and identity or immigration records for applicants. Tell the assistance worker about missing documents rather than guessing.</p>",
+    "apply": "<ol><li>Open the state application page and confirm which form fits your household.</li><li>Use the available application route, or call MassHealth at 800-841-2900 for help and the correct form.</li><li>For the health and dental paper application, use the state’s Health Insurance Processing Center mailing instructions.</li><li>Ask about the separate senior or long-term care application when relevant.</li></ol>",
+    "after": "<p>Respond to requests for information and read the written eligibility notice. Some approved coverage types require health plan enrollment afterwards; follow the notice’s instructions and verify provider participation.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/apply-for-masshealth-the-health-safety-net-or-the-childrens-medical-security-plan\">Health and dental application</a></li><li><a href=\"https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth\">CMSP and paper application contact</a></li><li><a href=\"https://www.mass.gov/info-details/senior-guide-and-application-for-health-care-coverage\">Senior and long-term care guidance</a></li><li><a href=\"https://usaassistance.org/programs/masshealth-medicaid-and-childrens-medical-security-plan/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is CMSP the same as every MassHealth coverage type?",
+      "Read the determination notice; coverage is assessed through the health coverage application."
+    ],
+    [
+      "What if I am 65 or need nursing facility care?",
+      "Use the senior and long-term care guidance to confirm your application route."
+    ],
+    [
+      "Can I request a paper form?",
+      "Call MassHealth Customer Service at 800-841-2900."
+    ],
+    [
+      "Do I need to choose a plan after approval?",
+      "Some approved members must enroll in a health plan; the notice explains this."
+    ],
+    [
+      "Where do I ask about missing application proof?",
+      "Contact MassHealth and identify the document request and deadline."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "masshealth-medicaid-and-childrens-medical-security-plan",
+    "source_url": "https://usaassistance.org/programs/masshealth-medicaid-and-childrens-medical-security-plan/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/apply-for-masshealth-the-health-safety-net-or-the-childrens-medical-security-plan",
+      "https://www.mass.gov/how-to/apply-or-enroll-in-cmspmasshealth",
+      "https://www.mass.gov/info-details/senior-guide-and-application-for-health-care-coverage"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

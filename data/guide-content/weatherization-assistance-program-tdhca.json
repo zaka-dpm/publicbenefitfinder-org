@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas weatherization funds qualifying energy-efficiency work through local providers. An energy audit helps determine which measures fit the home.",
+  "description": "Texas weatherization funds qualifying energy-efficiency work through local providers. An energy audit helps determine which measures fit the home.",
+  "sections": {
+    "who": "<p>The provider reviews household eligibility and whether the dwelling can benefit from the proposed work.</p>",
+    "get": "<p>Measures may include insulation, sealing leaks or approved heating and cooling improvements. This is not a general renovation allowance.</p>",
+    "docs": "<ul><li>Income information.</li><li>Dwelling and occupancy information.</li><li>Requested ownership or rental records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate the provider</h3><p>Choose Weatherization in <a href=\"https://www.tdhca.texas.gov/help-for-texans\">Help for Texans</a>.</p></li><li><h3 class=\"pbf-h3\">Complete local intake</h3><p>Ask about required documents and waiting lists.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Discuss the dwelling and approved audit measures.</p></li></ol>",
+    "after": "<p>Wait for authorization before arranging work you expect the program to cover.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tdhca.texas.gov/weatherization-assistance-program\">Weatherization services</a>, <a href=\"https://www.tdhca.texas.gov/help-for-texans\">Local intake</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-tdhca/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply directly to TDHCA?",
+      "Individual intake is through local providers."
+    ],
+    [
+      "Does approval mean every repair is covered?",
+      "The program targets energy-saving measures identified for the home."
+    ],
+    [
+      "What if no provider can assist?",
+      "TDHCA recommends also checking city or county resources."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tdhca.texas.gov/weatherization-assistance-program",
+      "https://www.tdhca.texas.gov/help-for-texans"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

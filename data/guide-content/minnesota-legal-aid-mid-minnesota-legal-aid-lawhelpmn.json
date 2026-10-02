@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "LawHelpMN helps people find Minnesota legal information, clinics and legal aid referrals. Its guide asks questions to suggest suitable resources.",
+  "description": "LawHelpMN helps people find Minnesota legal information, clinics and legal aid referrals. Its guide asks questions to suggest suitable resources.",
+  "sections": {
+    "who": "<p>Anyone can use the information library. Legal aid providers separately decide eligibility and whether they can accept a case.</p>",
+    "get": "<p>The site offers self-help information and connections to free or low-cost legal options. It does not guarantee representation.</p>",
+    "docs": "<ul><li>County and legal issue.</li><li>Court papers and dates.</li><li>Income information if a provider requests screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the guide</h3><p>Visit <a href=\"https://www.lawhelpmn.org/\">LawHelpMN</a> and answer the referral questions.</p></li><li><h3 class=\"pbf-h3\">Find providers</h3><p>Search Providers and Clinics by legal topic and service area.</p></li><li><h3 class=\"pbf-h3\">Contact intake</h3><p>Explain deadlines and ask what records the organization needs.</p></li></ol>",
+    "after": "<p>Continue observing court deadlines until a lawyer explicitly accepts the case.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.lawhelpmn.org/site-help\">LawHelpMN site guidance</a>; <a href=\"https://www.lawhelpmn.org/providers-and-clinics\">Provider directory</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is LawHelpMN a lawyer?",
+      "It supplies information and referrals."
+    ],
+    [
+      "Can I search by county?",
+      "The provider directory filters service areas."
+    ],
+    [
+      "Are other languages available?",
+      "The site includes Spanish, Hmong and Somali."
+    ],
+    [
+      "Does a referral guarantee a lawyer?",
+      "No. The provider screens the case."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.lawhelpmn.org/site-help",
+      "https://www.lawhelpmn.org/providers-and-clinics"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-legal-aid-mid-minnesota-legal-aid-lawhelpmn/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware TANF provides temporary cash support to eligible families with children. DSS assesses financial circumstances and explains participation requirements.",
+  "description": "Delaware TANF provides temporary cash support to eligible families with children. DSS assesses financial circumstances and explains participation requirements.",
+  "sections": {
+    "who": "<p>A related minor child, specified pregnancy circumstances or eligible student circumstances can establish a family category. Income and resource limits also apply.</p>",
+    "get": "<p>TANF combines temporary financial support with responsibilities aimed at employment and family stability. Time limits and requirements should be discussed with the case manager.</p>",
+    "docs": "<ul><li>Household and child or pregnancy records.</li><li>Income, resources and child-care expense information.</li><li>Documents relevant to any barrier to work or required activities.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through a state channel</h3><p>Use ASSIST, a paper application or a State Service Center, as linked on <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/temporary-assistance-for-needy-families-tanf/\">DHSS TANF</a>.</p></li><li><h3 class=\"pbf-h3\">Attend the DSS interview</h3><p>Explain family circumstances and submit requested evidence.</p></li><li><h3 class=\"pbf-h3\">Confirm the case requirements</h3><p>Ask the case manager to explain approved activities, reporting duties and any applicable exemptions.</p></li></ol>",
+    "after": "<p>Keep appointments and notices. Do not rely on the state page’s expired 2025–2026 financial table for a new filing year.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/temporary-assistance-for-needy-families-tanf/\">Delaware TANF eligibility and application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is TANF available to every unemployed adult?",
+      "No. Family-category and financial requirements apply."
+    ],
+    [
+      "Is an interview part of intake?",
+      "Yes. The state lists a DSS social-worker interview."
+    ],
+    [
+      "Who explains participation requirements?",
+      "Your DSS case manager."
+    ],
+    [
+      "Can I use an old income table?",
+      "Ask DSS for the limits effective for your application date."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhss.delaware.gov/dss/division-of-social-services/temporary-assistance-for-needy-families-tanf/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-tanf-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

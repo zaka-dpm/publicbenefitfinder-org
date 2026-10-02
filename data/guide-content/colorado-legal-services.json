@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado Legal Services offers civil legal help to eligible low-income residents and seniors. Its intake team checks the legal issue and available resources.",
+  "description": "Colorado Legal Services offers civil legal help to eligible low-income residents and seniors. Its intake team checks the legal issue and available resources.",
+  "sections": {
+    "who": "<p>CLS handles civil matters rather than criminal or traffic cases. Eligibility, case priorities and staff capacity affect the help offered.</p>",
+    "get": "<p>Assistance may include advice or representation for housing, public benefits, consumer or family issues. Some courthouses offer eviction clinics.</p>",
+    "docs": "<ul><li>Notices, summons and court papers, including all deadlines.</li><li>Income and household information for intake.</li><li>Relevant leases, benefit decisions, payment records or correspondence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an intake method</h3><p>Use <a href=\"https://www.coloradolegalservices.org/get-help/\">Get Help</a> to find the office serving your county, or start the linked online pre-application.</p></li><li><h3 class=\"pbf-h3\">Complete the screening</h3><p>A staff member must speak with you about eligibility and whether resources are available. State any hearing or response deadline immediately.</p></li><li><h3 class=\"pbf-h3\">Ask about an eviction clinic</h3><p>Check the listed courthouses and clinic schedule. Bring your summons and case documents; clinic assistance depends on eligibility and availability.</p></li></ol>",
+    "after": "<p>An online pre-application does not mean a lawyer has accepted your case. Keep court deadlines while waiting and ask what you should do next.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.coloradolegalservices.org/get-help/\">CLS intake and offices</a>; <a href=\"https://www.coloradolegalservices.org/about/\">CLS mission</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this for criminal cases?",
+      "No. CLS describes its service as civil legal assistance, excluding criminal and traffic matters."
+    ],
+    [
+      "Is the online form the whole intake?",
+      "No. A staff member must follow up about eligibility and resources."
+    ],
+    [
+      "Can I attend any eviction clinic?",
+      "Check the location for the courthouse on your summons and the current schedule."
+    ],
+    [
+      "What if English is not my first language?",
+      "The Get Help page says staff can assist callers or visitors in their native language."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.coloradolegalservices.org/get-help/",
+      "https://www.coloradolegalservices.org/about/"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-legal-services/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming 211 provides free, confidential referrals to community resources statewide. Call or text a resource specialist during posted hours, or use the online directory.",
+  "introduction": "Wyoming 211 provides free, confidential referrals to community resources statewide. Call or text a resource specialist during posted hours, or use the online directory.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "Individuals and families looking for Wyoming services.",
+      "Providers make their own eligibility and availability decisions."
+    ],
+    "get": "<p>Referrals for food, housing, utility assistance, job training, mental health and other local support.</p>",
+    "docs": "<p>Have your town or ZIP code and immediate need ready. For an urgent referral, note any deadline or disconnection date. You do not need a complete benefits packet to ask for information.</p>",
+    "apply": "<ol><li>Call 211 or 888-425-7138, or text your ZIP code to 898211.</li><li>The website lists Monday–Friday 8 a.m.–5 p.m. hours.</li><li>Use Search Resources for an online lookup.</li><li>Contact the referred provider for its application requirements.</li></ol>",
+    "after": "<p>Record the provider’s details and confirm it serves your location. If it cannot help, ask for alternatives. Use 911 for immediate danger.</p>",
+    "sources": "<ul><li><a href=\"https://wyoming211.org/\">Wyoming 211 current contact and resources</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-211/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is it a free service?",
+      "Yes, Wyoming 211 describes itself as free and confidential."
+    ],
+    [
+      "Can I text?",
+      "Text your ZIP code to 898211."
+    ],
+    [
+      "Is the listed office open all night?",
+      "The current website lists Monday–Friday 8 a.m.–5 p.m.; the resource directory is available online."
+    ],
+    [
+      "Does a referral approve aid?",
+      "No; the provider decides eligibility and availability."
+    ],
+    [
+      "What if dialing211 fails?",
+      "Try 888-425-7138."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-211",
+    "source_url": "https://usaassistance.org/programs/wyoming-211/",
+    "source_updated": "August 2026",
+    "primary_url": "https://wyoming211.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://wyoming211.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

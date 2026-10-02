@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Kansas LIEAP provides a one-time annual heating benefit to eligible households. The 2026 application period has ended; DCF has not yet announced the next opening.",
+  "introduction": "Kansas LIEAP provides a one-time annual heating benefit to eligible households. The 2026 application period has ended; DCF has not yet announced the next opening.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>An adult at the address must be responsible for heating costs paid to a landlord, utility or fuel supplier. DCF reviews combined household income and other conditions during the application period.</p>",
+    "get": "<p>The benefit pays part of home heating costs, including eligible electricity, gas, propane or other heating fuels.</p>",
+    "docs": "<p>Use the season’s checklist for income and heating bills. DCF requires signatures from all adults living in the residence.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Check <a href=\"https://www.dcf.ks.gov/services/ees/Pages/EnergyAssistance.aspx\">DCF’s LIEAP page</a> for the next announced application window. Do not use an old closing date as a current deadline.</p></li><li><p>When applications reopen, use the DCF portal or request a paper form at the local Service Center. For immediate utility trouble, contact the supplier and ask about payment arrangements or other local aid.</p></li></ol>",
+    "after": "<p>Read the decision and verify how assistance is credited. Ask the utility about Cold Weather Rule conditions rather than assuming protection happens automatically.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.dcf.ks.gov/services/ees/Pages/EnergyAssistance.aspx/\">LIEAP status and application instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-lieap-low-income-energy-assistance/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply now in October 2026?",
+      "DCF says the 2026 period ended and the next opening will be announced."
+    ],
+    [
+      "Can heating paid through rent qualify?",
+      "The eligibility page includes responsibility for heating costs payable to a landlord."
+    ],
+    [
+      "Is the benefit paid monthly?",
+      "DCF describes a one-time annual benefit."
+    ],
+    [
+      "Does it cover the entire energy bill?",
+      "No. It helps with a portion."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dcf.ks.gov/services/ees/Pages/EnergyAssistance.aspx/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

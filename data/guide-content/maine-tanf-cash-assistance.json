@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maine TANF provides cash assistance to eligible families while they work toward financial independence. Related services can help with training, education and employment barri",
+  "introduction": "Maine TANF provides cash assistance to eligible families while they work toward financial independence. Related services can help with training, education and employment barriers.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families with dependent children at home and pregnant individuals may qualify, subject to the program’s financial and other rules.",
+      "My Maine Connection offers a prescreening tool, but the Office for Family Independence makes the eligibility decision."
+    ],
+    "get": "<p>Approved TANF provides cash. ASPIRE can support an individual career plan, with assistance for approved needs such as child care or transportation rather than automatic payment of every employment expense.</p>",
+    "docs": "<p>Prepare household and child information, income records and details of pregnancy or school circumstances when applicable. Explain barriers such as health, transportation or care responsibilities and ask what proof is needed.</p>",
+    "apply": "<ol><li>Apply through My Maine Connection linked from <a href=\"https://www.maine.gov/dhhs/ofi/programs-services/tanf\">Maine TANF</a>, or submit its paper application.</li><li>Paper forms can be mailed, emailed to Farmington.DHHS@Maine.gov, faxed to 207-778-8429 or delivered to a district office.</li><li>Follow OFI’s verification and interview instructions and discuss any required ASPIRE referral.</li></ol>",
+    "after": "<p>Read the eligibility decision and career-plan duties. Ask about support necessary to carry out the plan before paying an expense. If work ends cash eligibility, ask about transitional child care and transportation. Call 855-797-4357 and select the TANF option for case questions.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/dhhs/ofi/programs-services/tanf\">Maine TANF and related services</a></li><li><a href=\"https://usaassistance.org/programs/maine-tanf-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "What is ASPIRE?",
+      "It is Maine’s employment and education support program for TANF and Parents as Scholars participants, using an individual career plan."
+    ],
+    [
+      "Can a pregnant person ask about TANF?",
+      "Yes. Maine lists pregnant individuals as a potentially eligible group."
+    ],
+    [
+      "Could short-term employment help be available instead?",
+      "Ask about Alternative Aid Assistance, which provides qualifying families employment-related vendor payments to avoid ongoing TANF."
+    ],
+    [
+      "Does leaving TANF end all child care help?",
+      "Not necessarily. Maine lists transitional child care for eligible former TANF recipients. Ask for a separate review."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maine-tanf-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/maine-tanf-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/dhhs/ofi/programs-services/tanf",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/dhhs/ofi/programs-services/tanf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

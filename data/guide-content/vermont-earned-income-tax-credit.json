@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont’s refundable earned income credit is claimed on the state tax return. Current law distinguishes taxpayers with and without qualifying children.",
+  "description": "Vermont’s refundable earned income credit is claimed on the state tax return. Current law distinguishes taxpayers with and without qualifying children.",
+  "sections": {
+    "who": "<p>Resident or part-year resident eligibility follows federal EITC rules, with a state exception for otherwise eligible people lacking qualifying taxpayer identification numbers. Residency affects the calculation.</p>",
+    "get": "<p>Current statute provides 38% of federal EITC with qualifying children or 100% without qualifying children, adjusted for the residency-income ratio. Check the filing year’s instructions.</p>",
+    "docs": "<ul><li>Federal EITC calculation.</li><li>Wage and qualifying family records.</li><li>Vermont return and residency information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select the filing year</h3><p>Use the matching Vermont forms and instructions.</p></li><li><h3 class=\"pbf-h3\">Complete the credit calculation</h3><p>Apply the relevant child and residency rules, including any identification-number exception.</p></li><li><h3 class=\"pbf-h3\">File and retain evidence</h3><p>Keep the federal calculation and state return.</p></li></ol>",
+    "after": "<p>The current statutory percentage should not be substituted into a prior-year return without checking that year’s instructions.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://legislature.vermont.gov/statutes/section/32/151/05828b\">Current Vermont EITC statute</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is one percentage used for everyone?",
+      "Current law distinguishes qualifying-child and no-child cases."
+    ],
+    [
+      "Can the credit exceed tax owed?",
+      "Yes. The statute provides payment of the excess."
+    ],
+    [
+      "Does part-year residence matter?",
+      "Yes. The residency-income ratio affects the credit."
+    ],
+    [
+      "Is this a myBenefits application?",
+      "No. Claim it through income-tax filing."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://legislature.vermont.gov/statutes/section/32/151/05828b"
+    ],
+    "background_source": "https://usaassistance.org/programs/vermont-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

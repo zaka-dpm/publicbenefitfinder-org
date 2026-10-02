@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia TANF combines qualifying-family cash assistance with an employment-services component. DFCS assesses the family and any participation requirements.",
+  "description": "Georgia TANF combines qualifying-family cash assistance with an employment-services component. DFCS assesses the family and any participation requirements.",
+  "sections": {
+    "who": "<p>The state describes TANF for eligible low-income families with children under 18, children aged 18 attending school full time, and pregnant applicants. Child-support cooperation is required unless good cause is established. Other eligibility rules also apply.</p>",
+    "get": "<p>Approved families receive monthly cash assistance. The case may include employment-related activities and support; follow the instructions for your own circumstances.</p>",
+    "docs": "<ul><li>Prepare household income and financial information.</li><li>Have children’s relationship, age and school information available.</li><li>Keep records relevant to pregnancy, caregiving or a requested participation exception.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start with DFCS</h3><p>Use <a href=\"https://gateway.ga.gov/\">Georgia Gateway</a> for TANF or obtain the paper application linked on the <a href=\"https://dfcs.georgia.gov/services/temporary-assistance-needy-families\">TANF page</a>.</p></li><li><h3 class=\"pbf-h3\">Submit to the appropriate office</h3><p>For a paper application, follow the local DFCS submission instructions. Keep a copy and submission record.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Respond to requests about eligibility, child support and employment activities. Raise any concern about cooperation or participation with the caseworker.</p></li></ol>",
+    "after": "<p>Check Gateway for status and notices. Read the decision alongside any employment-services instructions and reporting requirements.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dfcs.georgia.gov/services/temporary-assistance-needy-families\">Georgia TANF overview</a>, <a href=\"https://dhs.georgia.gov/georgia-gateway\">Georgia Gateway program list</a>. <a href=\"https://usaassistance.org/programs/tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is TANF only a cash payment?",
+      "Georgia describes an employment-services component as part of the program."
+    ],
+    [
+      "Can a pregnant applicant be considered?",
+      "The state includes pregnant applicants among the program groups, subject to eligibility checks."
+    ],
+    [
+      "What if child-support cooperation is a concern?",
+      "Tell DFCS about the circumstances. The state recognizes good cause as an exception, which the agency must assess."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dfcs.georgia.gov/services/temporary-assistance-needy-families",
+      "https://dhs.georgia.gov/georgia-gateway"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

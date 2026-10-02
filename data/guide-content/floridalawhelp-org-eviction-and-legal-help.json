@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "FloridaLawHelp helps people find civil legal information and legal-aid intake routes. If you have an eviction notice or court papers, tell the provider about the deadline when requesting help.",
+  "description": "FloridaLawHelp helps people find civil legal information and legal-aid intake routes. If you have an eviction notice or court papers, tell the provider about the deadline when",
+  "sections": {
+    "who": "<p>Each legal-aid organization decides whether it can accept a case based on its service area, eligibility and the legal issue. Reading a guide or submitting an intake form does not create lawyer representation.</p>",
+    "get": "<p>The site offers legal information, a provider directory and links to online intake. Some listed organizations accept applications online; others must be contacted directly.</p>",
+    "docs": "<ul><li>Keep the lease, notices and court papers together.</li><li>Prepare a short timeline and your county of residence.</li><li>Have rent-payment records and relevant landlord correspondence ready for the provider.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the relevant provider</h3><p>Use <a href=\"https://www.floridalawhelp.org/apply-help\">Apply for Help</a> and select an organization serving your county and issue.</p></li><li><h3 class=\"pbf-h3\">Describe the urgent deadline</h3><p>State the date on any court paper or eviction notice. Ask how you will be contacted and whether other help is available if the case cannot be accepted.</p></li><li><h3 class=\"pbf-h3\">Confirm what assistance is offered</h3><p>Do not assume the intake submission covers a court response. Ask explicitly whether a lawyer has accepted the case and what you must do next.</p></li></ol>",
+    "after": "<p>Keep copies of submissions and continue checking court deadlines. Consult the provider about your specific documents rather than treating general website information as personalized legal advice.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.floridalawhelp.org/apply-help\">FloridaLawHelp application directory</a>, <a href=\"https://www.floridalawhelp.org/housing/tenants/evictions\">FloridaLawHelp eviction information</a>. <a href=\"https://usaassistance.org/programs/floridalawhelp-org-eviction-and-legal-help/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do all providers use the same application?",
+      "No. FloridaLawHelp lists several intake options and a separate directory for providers without online applications."
+    ],
+    [
+      "Does an online request mean I have a lawyer?",
+      "No. The provider must assess the request and confirm the assistance it can offer."
+    ],
+    [
+      "What should I send about an eviction?",
+      "Have the lease, notice and court documents ready and identify any response or hearing deadline."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.floridalawhelp.org/apply-help",
+      "https://www.floridalawhelp.org/housing/tenants/evictions"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

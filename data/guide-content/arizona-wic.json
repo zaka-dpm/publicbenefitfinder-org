@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Arizona WIC provides nutrition support and approved foods for eligible pregnancy, postpartum and breastfeeding participants, infants and young children. Contact the local WIC ",
+  "introduction": "Arizona WIC provides nutrition support and approved foods for eligible pregnancy, postpartum and breastfeeding participants, infants and young children. Contact the local WIC clinic to begin certification.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "WIC serves income-eligible participants in the pregnancy, postpartum or breastfeeding categories and infants and children younger than five. Clinic staff assess the other certification conditions, including nutritional need.",
+      "A parent or caregiver can apply for a child. Dads, grandparents, foster parents and other guardians are included; the program is not limited to mothers requesting their own benefits."
+    ],
+    "get": "<p>Participants receive nutrition education, breastfeeding support, supplemental foods and referrals. eWIC purchases follow the approved food package rather than an unrestricted grocery allowance.</p>",
+    "docs": "<p>Ask the clinic what identity, residency and income evidence to provide. Its policy recognizes pay stubs, benefit letters and other records and allows several verification methods. Explain missing records before the appointment so staff can advise you.</p>",
+    "apply": "<ol><li>Find a clinic through <a href=\"https://www.azdhs.gov/prevention/azwic/\">Arizona WIC</a>, or call 1-800-252-5942 for information.</li><li>Request an application appointment and the clinic’s checklist. Ask whether a remote appointment is available if visiting is difficult.</li><li>Complete certification and request eWIC activation, food-package and shopping instructions.</li></ol>",
+    "after": "<p>Keep nutrition and certification appointments. Check the approved food list and benefits before shopping. For eWIC foods, EZWIC or shopping questions, the state lists the WIC Shoppers Helpline at 866-927-8390.</p>",
+    "sources": "<ul><li><a href=\"https://www.azdhs.gov/prevention/azwic/\">Arizona WIC categories and clinic search</a></li><li><a href=\"https://www.azdhs.gov/documents/prevention/azwic/manuals/policy/chapter-02-certification.pdf\">Certification evidence guidance</a></li><li><a href=\"https://www.azdhs.gov/prevention/azwic/vendors/index.php\">Current shoppers helpline</a></li><li><a href=\"https://usaassistance.org/programs/arizona-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a father apply?",
+      "Yes. Arizona WIC says all parents and other guardians can apply for eligible infants and children."
+    ],
+    [
+      "Can an appointment happen from home?",
+      "The state advises contacting your local clinic to ask about a remote appointment."
+    ],
+    [
+      "Do I need to buy only approved foods?",
+      "Yes. WIC supplies a specified food package; ask the clinic or shoppers helpline about eligible items."
+    ],
+    [
+      "Who helps with a card or shopping question?",
+      "For WIC foods, eWIC shopping or EZWIC questions, call the state shoppers helpline at 866-927-8390."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arizona-wic",
+    "source_url": "https://usaassistance.org/programs/arizona-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.azdhs.gov/prevention/azwic/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.azdhs.gov/prevention/azwic/",
+      "https://www.azdhs.gov/documents/prevention/azwic/manuals/policy/chapter-02-certification.pdf",
+      "https://www.azdhs.gov/prevention/azwic/vendors/index.php"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania Medical Assistance is the state’s Medicaid health-coverage program. The county assistance office reviews eligibility.",
+  "description": "Pennsylvania Medical Assistance is the state’s Medicaid health-coverage program. The county assistance office reviews eligibility.",
+  "sections": {
+    "who": "<p>Different categories consider income, age, disability, pregnancy and household circumstances. Specialized disability or long-term care requests can require additional evidence.</p>",
+    "get": "<p>Medical Assistance covers physical and behavioral health services. Most eligible members use HealthChoices for physical care.</p>",
+    "docs": "<ul><li>Income and tax-filing details.</li><li>Identity, birth dates and requested status information.</li><li>Health insurance and any relevant resource or disability records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an application method</h3><p>Apply at <a href=\"https://www.compass.dhs.pa.gov/\">COMPASS</a>, call 866-550-4355, or use a county assistance office or mailed form.</p></li><li><h3 class=\"pbf-h3\">Provide evidence</h3><p>Respond to the office’s requests for your eligibility category.</p></li><li><h3 class=\"pbf-h3\">Check progress</h3><p>Use <a href=\"https://trackmybenefits.pa.gov/\">Track My Benefits</a> and read the final notice.</p></li></ol>",
+    "after": "<p>After approval, follow plan-enrollment and renewal instructions. Ask your plan which providers accept the coverage.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dhs/apply-for-medicaid-benefits\">State Medicaid application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is Medical Assistance Medicaid?",
+      "Yes. Pennsylvania uses both names."
+    ],
+    [
+      "Can I apply by telephone?",
+      "The state lists 866-550-4355."
+    ],
+    [
+      "Do all categories require the same records?",
+      "No. Disability and specialized coverage can need different materials."
+    ],
+    [
+      "Does an application mean coverage started?",
+      "Check the decision and effective dates."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dhs/apply-for-medicaid-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/medical-assistance-pennsylvania-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

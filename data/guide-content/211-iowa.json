@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "211 Iowa connects residents with local food, housing, utility and other community resources by telephone, text and online search.",
+  "introduction": "211 Iowa connects residents with local food, housing, utility and other community resources by telephone, text and online search.",
+  "service_type": "referral",
+  "sections": {
+    "who": "<p>Anyone looking for local resources can contact 211. Each organization receiving a referral applies its own eligibility and availability rules.</p>",
+    "get": "<p>A specialist or directory helps identify services near your location. A referral does not itself approve financial help.</p>",
+    "docs": "<p>Have your ZIP code and a short description of the help needed. Note deadlines, disconnected utilities or an immediate lack of shelter before contacting a provider.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call 211, text your ZIP code to 898211, or use <a href=\"https://search.211iowa.org/\">211 Iowa’s directory</a>.</p></li><li><p>Ask which agency serves your address, how to contact it and whether an appointment is needed.</p></li></ol>",
+    "after": "<p>Contact the referred provider directly. If it cannot help, return to 211 with that information and ask about alternatives.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://211iowa.org/contact/\">Contact options</a>, <a href=\"https://search.211iowa.org/\">Resource directory</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/211-iowa/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does 211 send benefit payments?",
+      "It connects you with providers; those providers handle applications and assistance."
+    ],
+    [
+      "Can I text?",
+      "Yes. Send your ZIP code to 898211."
+    ],
+    [
+      "Can I search without calling?",
+      "Yes. Use the online directory."
+    ],
+    [
+      "Does a listed program guarantee an opening?",
+      "No. Confirm availability with the provider."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://211iowa.org/contact/",
+      "https://search.211iowa.org/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

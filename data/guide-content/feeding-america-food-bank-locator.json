@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "Use Feeding America’s locator to find a food bank serving your community and ask where to obtain food from its partner pantries or distributions.",
+  "introduction": "Use Feeding America’s locator to find a food bank serving your community and ask where to obtain food from its partner pantries or distributions.",
+  "service_type": "foodbank",
+  "sections": {
+    "who": [
+      "People who need help affording food can look for local food assistance. Some providers have residence or other local requirements."
+    ],
+    "get": "<p>Food banks distribute food through a network of community partners. The local bank can direct you to a pantry or distribution where individuals receive food.</p>",
+    "docs": "<p>Before visiting, ask the distribution site about identification, household information and any local requirements. Check opening hours and whether an appointment is needed; the warehouse address may not be a public pickup location.</p>",
+    "apply": "<p>Enter your ZIP code in the <a href=\"https://www.feedingamerica.org/find-your-local-foodbank\">food bank locator</a>, then contact the listed bank for nearby pantry and distribution information.</p>",
+    "after": "<p>Confirm the pickup location and schedule directly. Tell the provider about transportation or dietary needs. Ask when you may return and what to do if a scheduled distribution is cancelled.</p>",
+    "sources": "<ul><li><a href=\"https://www.feedingamerica.org/find-your-local-foodbank\">Feeding America locator</a></li><li><a href=\"https://usaassistance.org/programs/feeding-america-food-bank-locator/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Should I go directly to the food bank warehouse?",
+      "Contact it first. A partner pantry or distribution may be the correct pickup location."
+    ],
+    [
+      "Does the locator enroll me in SNAP?",
+      "No. It locates food banks; SNAP has a separate application."
+    ],
+    [
+      "Must every pantry follow identical rules?",
+      "No. Ask your chosen site about its local requirements."
+    ],
+    [
+      "What if I cannot travel to the location?",
+      "Ask the bank about another distribution or local delivery options; availability varies."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "feeding-america-food-bank-locator",
+    "source_url": "https://usaassistance.org/programs/feeding-america-food-bank-locator/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.feedingamerica.org/find-your-local-foodbank",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.feedingamerica.org/find-your-local-foodbank"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

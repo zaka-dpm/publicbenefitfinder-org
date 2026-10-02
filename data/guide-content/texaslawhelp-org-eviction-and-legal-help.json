@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "TexasLawHelp provides eviction information and a regional legal-aid directory. Choose legal help based on your county and case rather than treating an article as representation.",
+  "description": "TexasLawHelp provides eviction information and a regional legal-aid directory. Choose legal help based on your county and case rather than treating an article as representatio",
+  "sections": {
+    "who": "<p>Information is available publicly. Legal-aid organizations decide eligibility and case acceptance.</p>",
+    "get": "<p>Self-help resources and routes to legal assistance; the website does not guarantee an attorney.</p>",
+    "docs": "<ul><li>Lease and landlord notices.</li><li>Court papers with hearing details.</li><li>Payment records and relevant messages.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find regional help</h3><p>Use <a href=\"https://texaslawhelp.org/eviction-referral\">the eviction referral page</a>.</p></li><li><h3 class=\"pbf-h3\">Describe the case</h3><p>Give the provider your county, court date and notices.</p></li><li><h3 class=\"pbf-h3\">Follow intake instructions</h3><p>Ask whether representation or advice is available.</p></li></ol>",
+    "after": "<p>Keep court dates visible while seeking help. Request guidance on your papers rather than assuming a referral changes the hearing.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://texaslawhelp.org/eviction-referral\">TexasLawHelp eviction and regional intake</a>. <a href=\"https://usaassistance.org/programs/texaslawhelp-org-eviction-and-legal-help/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I search by region?",
+      "The referral page lists legal-aid providers by geographic service area."
+    ],
+    [
+      "Does rent assistance equal legal representation?",
+      "They are different services; ask separately about each need."
+    ],
+    [
+      "Can I find self-help information?",
+      "The page links to eviction responses, appeals and related tenant issues."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://texaslawhelp.org/eviction-referral"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

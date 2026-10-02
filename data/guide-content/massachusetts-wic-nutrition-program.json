@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts WIC provides food and nutrition support for eligible pregnant or postpartum people, infants and children under five. An online pre-application starts contact wit",
+  "introduction": "Massachusetts WIC provides food and nutrition support for eligible pregnant or postpartum people, infants and children under five. An online pre-application starts contact with a local clinic.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Massachusetts residents in a qualifying pregnancy, breastfeeding or postpartum category, and children under five.",
+      "A nutrition need and qualifying household income are required.",
+      "Current MassHealth, SNAP or TAFDC participation establishes income eligibility, while other WIC requirements still apply."
+    ],
+    "get": "<p>Food support, nutrition education and help connecting with health services. Clinic staff assess each participant’s needs.</p>",
+    "docs": "<p>Bring income proof, Massachusetts address proof and identity for each applicant. Recent pay records or proof of a qualifying benefit can document income. Contact the clinic if you cannot obtain a listed record.</p>",
+    "apply": "<ol><li>Use Apply for WIC online on the state page and provide a telephone number, or call the nearest clinic.</li><li>You can also call 800-942-1007 to arrange an appointment.</li><li>Complete the clinic assessment and follow its instructions for participation.</li></ol>",
+    "after": "<p>The online form is a pre-application; a representative contacts you to complete the process. Confirm appointment time, who should attend and the documents needed before visiting. Keep clinic contact information for benefit or nutrition questions.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/info-details/check-eligibility-for-wic\">WIC eligibility</a></li><li><a href=\"https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program\">WIC application and documents</a></li><li><a href=\"https://usaassistance.org/programs/massachusetts-wic-nutrition-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a father or guardian apply for a child?",
+      "A parent or legal guardian may apply for a child under five."
+    ],
+    [
+      "Does SNAP automatically enroll my child in WIC?",
+      "It establishes income eligibility, but WIC has its own application and assessment."
+    ],
+    [
+      "Is WIC free?",
+      "The state says its services are free."
+    ],
+    [
+      "Is the online form final approval?",
+      "It begins the pre-application process; a representative follows up."
+    ],
+    [
+      "Can I arrange an appointment outside normal work hours?",
+      "Ask the clinic; the state lists evening and Saturday appointments at many locations."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "massachusetts-wic-nutrition-program",
+    "source_url": "https://usaassistance.org/programs/massachusetts-wic-nutrition-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/info-details/check-eligibility-for-wic",
+      "https://www.mass.gov/how-to/apply-for-the-women-infants-children-wic-nutrition-program"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

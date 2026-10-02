@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming unemployment insurance supports eligible workers who lose jobs or have reduced work. File through WYUI and certify each week, documenting employer contacts and reporti",
+  "introduction": "Wyoming unemployment insurance supports eligible workers who lose jobs or have reduced work. File through WYUI and certify each week, documenting employer contacts and reporting work.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Partially or fully unemployed workers meeting wage and separation requirements.",
+      "Claimants must be able, available and actively looking for suitable work unless the agency confirms an applicable exception."
+    ],
+    "get": "<p>Temporary weekly payments based on past covered wages and current eligibility. Report work and earnings even if you expect no payment for a week.</p>",
+    "docs": "<p>Prepare employer history, job separation details, identity and payment information. Keep written search records showing date, employer, contact information, job sought and outcome.</p>",
+    "apply": "<ol><li>Apply at wyui.wyo.gov using the registration instructions for a first-time claimant.</li><li>File weekly continued claims after each claim week ends on Saturday.</li><li>Submit each continued claim within 14 days of the week’s end.</li><li>For telephone or claim assistance call 307-473-3789 during the agency’s listed hours.</li></ol>",
+    "after": "<p>Complete at least two employer contacts weekly as directed by the current FAQ and keep proof. Respond to agency requests and report earnings. Review decisions for appeal instructions rather than assuming a potential benefit estimate approves the claim.</p>",
+    "sources": "<ul><li><a href=\"https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/faq2/\">Current Wyoming claimant FAQ</a></li><li><a href=\"https://dws.wyo.gov/dws-directory/unemployment-insurance-casper/\">Claimant phone hours</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-wyoming/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Which portal manages a claim?",
+      "WYUI at wyui.wyo.gov."
+    ],
+    [
+      "How frequently do I certify?",
+      "Weekly, after the claimed week ends."
+    ],
+    [
+      "How long do I have to submit a continued claim?",
+      "The current FAQ lists 14 days after the claim week ends."
+    ],
+    [
+      "How many employer contacts are required?",
+      "The current FAQ lists at least two each week."
+    ],
+    [
+      "Can I call all Wednesday afternoon?",
+      "The directory lists Wednesday telephone claim hours 8 a.m.–noon, with longer hours on other weekdays."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-wyoming",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-wyoming/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dws.wyo.gov/dws-division/unemployment-insurance/claimants/faq2/",
+      "https://dws.wyo.gov/dws-directory/unemployment-insurance-casper/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

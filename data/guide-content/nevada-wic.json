@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada WIC supports pregnancy, infant feeding and young children’s nutrition. Contact a nearby WIC clinic to arrange the assessment appointment.",
+  "description": "Nevada WIC supports pregnancy, infant feeding and young children’s nutrition. Contact a nearby WIC clinic to arrange the assessment appointment.",
+  "sections": {
+    "who": "<p>Applicants must live in Nevada, meet income rules and have a health or nutrition need. The program covers pregnancy, the first six postpartum months, breastfeeding an infant under one and children younger than five. Citizenship is not required.</p>",
+    "get": "<p>WIC provides nutrition support and program-approved foods. Ask the clinic about breastfeeding assistance and the benefits appropriate to each participant.</p>",
+    "docs": "<ul><li>Identity records for applicants.</li><li>Proof of Nevada residence.</li><li>Household income evidence.</li><li>Available pregnancy or child-health information, plus anything the clinic requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use the clinic finder linked from <a href=\"https://nevadawic.org/eligibility/\">Nevada WIC’s eligibility page</a>.</p></li><li><h3 class=\"pbf-h3\">Schedule assessment</h3><p>Call the clinic and confirm who should attend and which records it accepts.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Discuss nutrition needs and ask staff to explain benefits, shopping and future appointments.</p></li></ol>",
+    "after": "<p>Keep the clinic informed about relevant changes and follow appointment instructions. Ask staff for help using benefits or finding an approved vendor.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://nevadawic.org/eligibility/\">Nevada WIC eligibility and clinic application route</a>. <a href=\"https://usaassistance.org/programs/nevada-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a father or grandparent apply for a child?",
+      "Yes. Nevada WIC welcomes caregivers and legal guardians applying for an eligible child under five."
+    ],
+    [
+      "Do I need US citizenship?",
+      "Nevada WIC says citizenship is not required."
+    ],
+    [
+      "Does checking eligibility online enroll me?",
+      "No. Contact a clinic for assessment and certification."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://nevadawic.org/eligibility/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

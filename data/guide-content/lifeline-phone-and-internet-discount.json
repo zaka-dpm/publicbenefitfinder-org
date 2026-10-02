@@ -1,0 +1,52 @@
+{
+  "status": "reviewed",
+  "description": "Lifeline reduces eligible households’ phone or internet costs. After eligibility approval, choose a participating service provider to put the discount on a qualifying service.",
+  "introduction": "Lifeline reduces eligible households’ phone or internet costs. After eligibility approval, choose a participating service provider to put the discount on a qualifying service.",
+  "service_type": "lifeline",
+  "sections": {
+    "who": [
+      "Households may qualify through income or participation in an eligible assistance program such as SNAP or Medicaid. A dependent child’s qualifying benefit can also establish eligibility."
+    ],
+    "get": "<p>The standard monthly discount is up to $9.25; qualifying Tribal lands may have a higher discount, up to $34.25. Provider plans and covered services differ.</p>",
+    "docs": "<p>Follow the eligibility application’s evidence requests for income or qualifying benefits. Before choosing a company, ask about the total monthly charge, equipment costs, coverage and what happens if eligibility ends.</p>",
+    "apply": "<p>Start from <a href=\"https://www.lifelinesupport.org/\">Lifeline Support</a> and use Apply Now. Oregon and Texas applicants should use the state application route linked there. Once approved, contact a participating company.</p>",
+    "after": "<p>Approval alone does not activate service. Complete enrollment with the company and respond to any annual recertification notice by its deadline. Use the support site for account changes or call 800-234-9473 for application help.</p>",
+    "sources": "<ul><li><a href=\"https://www.lifelinesupport.org/\">USAC Lifeline Support</a></li><li><a href=\"https://usaassistance.org/programs/lifeline-phone-and-internet-discount/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does approval automatically start a phone plan?",
+      "No. You must enroll with a participating company after approval."
+    ],
+    [
+      "Can my child’s benefit help the household qualify?",
+      "Yes. Lifeline Support describes eligibility through a child or dependent’s qualifying benefit."
+    ],
+    [
+      "Can I use the discount for internet?",
+      "Lifeline can support qualifying phone, internet or bundled service."
+    ],
+    [
+      "Do Oregon and Texas use the usual application?",
+      "Use the specific state route linked by Lifeline Support."
+    ],
+    [
+      "Will every provider offer the same plan?",
+      "No. Compare participating companies’ terms before enrolling."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "lifeline-phone-and-internet-discount",
+    "source_url": "https://usaassistance.org/programs/lifeline-phone-and-internet-discount/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.lifelinesupport.org",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.lifelinesupport.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

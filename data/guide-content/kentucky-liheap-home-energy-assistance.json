@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky LIHEAP offers seasonal help with home energy expenses through local community action agencies. Application windows and the documents needed depend on the component cu",
+  "introduction": "Kentucky LIHEAP offers seasonal help with home energy expenses through local community action agencies. Application windows and the documents needed depend on the component currently operating.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Household income, energy expenses and the rules of the particular subsidy or crisis component determine eligibility.",
+      "The summer 2026 subsidy window ended September 11. Do not treat that announcement as an open application period or assume its income rules apply to a future winter component."
+    ],
+    "get": "<p>Eligible assistance is generally paid to the energy vendor. A subsidy can differ from crisis assistance, so explain whether you need routine bill help or face disconnection.</p>",
+    "docs": "<p>Prepare household identity information, recent income records and the current utility bill or other accepted proof of energy responsibility. If facing disconnection, keep the notice and tell intake the date. Ask for the checklist for the active component.</p>",
+    "apply": "<ol><li>Find your community action agency through <a href=\"https://www.capky.org/network/\">Community Action Kentucky’s network</a>, or call 800-456-3452 for a referral.</li><li>Ask which LIHEAP component is accepting applications, its dates and whether an appointment is required.</li><li>Submit the agency’s application and verification. Keep a receipt and ask how you will learn the outcome.</li></ol>",
+    "after": "<p>Confirm with the agency and utility that any approved payment has posted. An application alone does not suspend a disconnection; contact the utility about payment arrangements while assistance is pending. Ask about other help if a seasonal window is closed.</p>",
+    "sources": "<ul><li><a href=\"https://www.capky.org/resources/\">Community Action Kentucky seasonal assistance</a></li><li><a href=\"https://www.capky.org/network/\">Local community action network</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-liheap-home-energy-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need a shutoff notice for every LIHEAP component?",
+      "No. Kentucky’s summer subsidy announcement did not require disconnection. Crisis programs have different conditions; ask about the active component."
+    ],
+    [
+      "Is the 2026 summer subsidy still open?",
+      "Its published window ended September 11, 2026. Contact the local agency for later programs."
+    ],
+    [
+      "Can I apply directly to Community Action Kentucky for a payment?",
+      "Start with the local agency serving your county. The statewide network provides referrals and program information."
+    ],
+    [
+      "Does filing stop a shutoff?",
+      "Do not assume it does. Ask the utility about arrangements and confirm any approved payment."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-liheap-home-energy-assistance",
+    "source_url": "https://usaassistance.org/programs/kentucky-liheap-home-energy-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.capky.org/resources/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.capky.org/resources/",
+      "https://www.capky.org/network/"
+    ],
+    "review_scope": "Primary published past windows and local application pathway reviewed; no claim of an unannounced upcoming opening."
+  }
+}

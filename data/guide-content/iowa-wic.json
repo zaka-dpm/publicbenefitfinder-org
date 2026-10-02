@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Iowa WIC provides nutrition support and eWIC food benefits through local clinics for pregnant or postpartum participants and children under five.",
+  "introduction": "Iowa WIC provides nutrition support and eWIC food benefits through local clinics for pregnant or postpartum participants and children under five.",
+  "service_type": "wic",
+  "sections": {
+    "who": "<p>Applicants need an Iowa address, qualifying income and a medical or nutritional need. SNAP, Medicaid or FIP participation may establish income eligibility; the clinic still completes WIC screening.</p>",
+    "get": "<p>Services include approved foods, nutrition education, breastfeeding support and health referrals.</p>",
+    "docs": "<p>Bring identity and address evidence, income records or qualifying benefit notices, and the signed WIC rights-and-responsibilities document. Ask the clinic about missing records.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Find the local clinic through the state’s WIC location map and schedule an appointment.</p></li><li><p>Complete the clinic’s eligibility and nutrition assessment. The office can supply the rights-and-responsibilities form if you forget it.</p></li></ol>",
+    "after": "<p>Ask the clinic to explain the food package, eWIC shopping and follow-up appointments. Keep clinic contact information with your card instructions.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/assistance-programs/food-assistance/wic-Iowa\">Iowa WIC eligibility and clinic map</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-wic/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does SNAP enrollment automatically enroll me in WIC?",
+      "No. It can establish income eligibility, but WIC requires its own clinic screening."
+    ],
+    [
+      "Where do I apply?",
+      "Contact a local WIC office and arrange an appointment."
+    ],
+    [
+      "Can the clinic supply the consent paperwork?",
+      "Yes, the office has the rights-and-responsibilities document."
+    ],
+    [
+      "Is WIC ordinary grocery cash?",
+      "It provides approved food benefits and nutrition services."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/assistance-programs/food-assistance/wic-Iowa"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

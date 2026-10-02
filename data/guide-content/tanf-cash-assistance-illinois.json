@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois TANF provides temporary cash and supportive services for eligible pregnant women and families with dependent children. Apply through IDHS.",
+  "description": "Illinois TANF provides temporary cash and supportive services for eligible pregnant women and families with dependent children. Apply through IDHS.",
+  "service_type": "cash",
+  "sections": {
+    "who": "<p>Applicants must live in Illinois and meet the program’s financial and other rules. The state includes pregnancy or a child younger than 19; an 18-year-old child must attend high school full time. Applicants develop and follow a self-sufficiency plan.</p>",
+    "get": "<p>TANF can help with food, shelter, utilities and other basic expenses. Related services can support education, work and family stability.</p>",
+    "docs": "<ul><li>Child, caregiver and household details.</li><li>Income and expense records.</li><li>Identification, residence and other case verification requested by IDHS.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the request</h3><p>Use <a href=\"https://abe.illinois.gov/\">ABE</a> or the Family Community Resource Center serving your area.</p></li><li><h3 class=\"pbf-h3\">Return requested evidence</h3><p>Provide accurate household information and complete intake.</p></li><li><h3 class=\"pbf-h3\">Discuss your plan</h3><p>Ask about the work, training or support activities assigned to your case.</p></li></ol>",
+    "after": "<p>Eligible cash benefits are issued through Illinois Link. Follow the decision notice, case plan and reporting directions.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhs.state.il.us/page.aspx?item=30358\">Illinois TANF conditions and services</a>, <a href=\"https://www.dhs.state.il.us/page.aspx?item=33698\">application options</a>. Agency staff determine eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply while homeless?",
+      "Yes. The state explicitly says homelessness does not by itself prevent TANF eligibility."
+    ],
+    [
+      "Can pregnancy qualify without another child?",
+      "The state includes qualifying pregnant applicants even without other children."
+    ],
+    [
+      "Is TANF the same as SNAP?",
+      "No. SNAP is food assistance with its own determination."
+    ],
+    [
+      "What if my child is 18?",
+      "The state requires an 18-year-old dependent child to be a full-time high school student."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dhs.state.il.us/page.aspx?item=30358",
+      "https://www.dhs.state.il.us/page.aspx?item=33698"
+    ]
+  }
+}

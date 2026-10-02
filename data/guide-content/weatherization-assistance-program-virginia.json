@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia weatherization provides approved home energy improvements through local nonprofit providers. It does not pay utility bills.",
+  "description": "Virginia weatherization provides approved home energy improvements through local nonprofit providers. It does not pay utility bills.",
+  "sections": {
+    "who": "<p>The provider reviews current income eligibility and property conditions. Contact the provider serving the home’s location for the actual assessment.</p>",
+    "get": "<p>Work can include air sealing, insulation, ventilation and heating or cooling improvements. The assessment determines suitable measures.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Property and tenancy details.</li><li>Owner permission and records the local provider requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find intake</h3><p>Use Find Your Local Provider on <a href=\"https://www.dhcd.virginia.gov/wx\">DHCD Weatherization</a>.</p></li><li><h3 class=\"pbf-h3\">Ask for the checklist</h3><p>Confirm eligibility evidence and permission requirements.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Discuss access, safety and the proposed work plan.</p></li></ol>",
+    "after": "<p>Weatherization is not intended as emergency no-heat response. Ask about separate energy assistance for an urgent heating problem.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dhcd.virginia.gov/wx\">DHCD weatherization</a>; <a href=\"https://www.dhcd.virginia.gov/sites/default/files/DocX/weatherization/weatherization-faq.pdf\">State WAP FAQ</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Will it pay an overdue bill?",
+      "No. DHCD says WAP does not pay utility bills."
+    ],
+    [
+      "Who handles applications?",
+      "The local provider where the home is located."
+    ],
+    [
+      "Can I choose any renovation?",
+      "Only approved energy and safety work is covered."
+    ],
+    [
+      "Is it immediate furnace emergency service?",
+      "The state FAQ says it is not intended as emergency no-heat response."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dhcd.virginia.gov/wx",
+      "https://www.dhcd.virginia.gov/sites/default/files/DocX/weatherization/weatherization-faq.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-virginia/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

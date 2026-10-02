@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "North Carolina Food and Nutrition Services provides grocery benefits through EBT. County DSS handles eligibility and interviews.",
+  "description": "North Carolina Food and Nutrition Services provides grocery benefits through EBT. County DSS handles eligibility and interviews.",
+  "sections": {
+    "who": "<p>Household income and circumstances affect eligibility. The caseworker determines the budget and applicable rules.</p>",
+    "get": "<p>Approved households receive food assistance. The application date can affect the first month’s benefit.</p>",
+    "docs": "<ul><li>Identity and household details.</li><li>Income, resources and monthly bills.</li><li>Relevant dependent-care or medical expenses.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply promptly</h3><p>Use <a href=\"https://www.ncdhhs.gov/divisions/child-and-family-well-being/food-and-nutrition-services-food-stamps/apply-food-and-nutrition-services-food-stamps\">ePASS, county DSS or mail</a>. Do not delay for missing proof.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Options include phone, in-person or video; a chosen representative can participate.</p></li><li><h3 class=\"pbf-h3\">Send verification</h3><p>Provide the requested information and save receipts.</p></li></ol>",
+    "after": "<p>Follow reporting and recertification notices.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ncdhhs.gov/divisions/child-and-family-well-being/food-and-nutrition-services-food-stamps/apply-food-and-nutrition-services-food-stamps\">FNS application and documents</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must every document be ready first?",
+      "No. Submit and add information afterward."
+    ],
+    [
+      "Can I apply by mail?",
+      "Yes, to county DSS."
+    ],
+    [
+      "Can interviews be remote?",
+      "Phone or video options are listed."
+    ],
+    [
+      "Does application date matter?",
+      "Yes, if approved."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ncdhhs.gov/divisions/child-and-family-well-being/food-and-nutrition-services-food-stamps/apply-food-and-nutrition-services-food-stamps"
+    ],
+    "background_source": "https://usaassistance.org/programs/food-and-nutrition-services-north-carolina-snap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Heating Assistance provides seasonal help with home-energy costs. The current program includes federally funded LIHEAP and the state-funded Alaska Affordable Heating Pr",
+  "introduction": "Alaska Heating Assistance provides seasonal help with home-energy costs. The current program includes federally funded LIHEAP and the state-funded Alaska Affordable Heating Program, using one application.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Households must have at least $200 in yearly out-of-pocket heating costs and meet the season’s income rules.",
+      "LIHEAP and the Alaska Affordable Heating Program have different income bands. Use the current season’s state guidelines; older source screenshots show the previous season’s limits."
+    ],
+    "get": "<p>Eligible help is generally a one-time vendor credit for the season. The shared application covers regular heating assistance, crisis assistance and a qualifying subsidized-housing utility-deposit option.</p>",
+    "docs": "<p>Prepare heating-vendor or account details, household income records and any urgent disconnection or fuel notice. Sign the application even when submitting it electronically. Use its checklist for the exact records required.</p>",
+    "apply": "<ol><li>Use <a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/heating-assistance/\">the current HAP page</a> to reach Alaska Connect or the Heating Assistance Form.</li><li>Submit through the portal, in person or by mail to a Public Assistance office, or by the fax/email methods listed on that page.</li><li>Regular applications run October 1–April 30. If fuel is almost exhausted or service is threatened, disclose that immediately and ask about the separate crisis window.</li></ol>",
+    "after": "<p>Continue communicating with the vendor while waiting. A pending request is not a payment guarantee. Contact DPA at 800-478-7778 about the application and check the vendor account after approval.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/heating-assistance/\">Current 2026–2027 heating overview and application</a></li><li><a href=\"https://my.alaska.gov/Help.aspx?pubid=HAP\">Heating application support</a></li><li><a href=\"https://usaassistance.org/programs/alaska-heating-assistance-program-hap-liheap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is assistance paid to me?",
+      "Regular heating help is credited through the approved heating-fuel or electric vendor."
+    ],
+    [
+      "What if I am nearly out of fuel?",
+      "The current state page identifies being out of fuel or within 48 hours of running out as a crisis situation. Contact intake promptly."
+    ],
+    [
+      "Do the older screenshots show this season’s limits?",
+      "Not necessarily. The state now publishes 2026–2027 guidelines, so check those rather than a previous-season figure."
+    ],
+    [
+      "Can this help with a utility deposit?",
+      "The shared application includes SRHUD for qualifying subsidized-rental utility deposits. Ask DPA about that option’s conditions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-heating-assistance-program-hap-liheap",
+    "source_url": "https://usaassistance.org/programs/alaska-heating-assistance-program-hap-liheap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/heating-assistance/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/heating-assistance/",
+      "https://my.alaska.gov/Help.aspx?pubid=HAP"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

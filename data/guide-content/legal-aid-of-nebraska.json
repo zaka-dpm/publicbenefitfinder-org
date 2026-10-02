@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid of Nebraska screens civil legal-help requests through AccessLine or its online callback application. Use the specialized line when an older adult, disaster or other listed program fits.",
+  "description": "Legal Aid of Nebraska screens civil legal-help requests through AccessLine or its online callback application. Use the specialized line when an older adult, disaster or other ",
+  "sections": {
+    "who": "<p>The organization reviews household income, assets, the issue and eligibility for its projects. It does not handle ordinary criminal defense or every kind of civil dispute.</p>",
+    "get": "<p>Accepted applicants may receive civil legal assistance. Intake must confirm the scope; submitting a form does not mean a lawyer has agreed to handle a court case.</p>",
+    "docs": "<ul><li>Keep notices, contracts and court papers ready.</li><li>Prepare a short timeline and identify the next deadline.</li><li>Have household income and asset details available.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose intake</h3><p>Call AccessLine at 1-877-250-2016 or use the online callback portal linked from <a href=\"https://legalaidofnebraska.org/call-for-help.html\">Call for Help</a>.</p></li><li><h3 class=\"pbf-h3\">Check the schedule</h3><p>AccessLine publishes different morning and afternoon windows by weekday. Confirm the current hours before calling.</p></li><li><h3 class=\"pbf-h3\">Explain urgent papers</h3><p>Tell intake about a response deadline or hearing and ask what help, if any, has been accepted.</p></li></ol>",
+    "after": "<p>Record advice and next steps. If the organization cannot assist, ask about another resource and continue tracking deadlines.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://legalaidofnebraska.org/call-for-help.html\">Legal Aid of Nebraska intake and eligibility</a>. <a href=\"https://usaassistance.org/programs/legal-aid-of-nebraska/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a line for older Nebraskans?",
+      "ElderAccessLine serves people aged 60 or older; the current contact page lists 1-800-527-7249."
+    ],
+    [
+      "Can I request a callback online?",
+      "Yes. The Call for Help page links the online intake portal."
+    ],
+    [
+      "Does Legal Aid handle every case?",
+      "No. The organization screens eligibility and lists excluded case types on its contact page."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://legalaidofnebraska.org/call-for-help.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

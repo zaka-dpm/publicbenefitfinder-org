@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island CCAP helps eligible families pay for care through approved child care providers.",
+  "description": "Rhode Island CCAP helps eligible families pay for care through approved child care providers.",
+  "sections": {
+    "who": "<p>Eligible routes include work, approved training or education, RI Works and specified teen programs. At application, the current income limit is 261% of federal poverty; age and residence rules also apply.</p>",
+    "get": "<p>The program covers all or part of approved care costs. A household copayment and authorized hours may apply.</p>",
+    "docs": "<ul><li>Household income and address evidence.</li><li>Child age and relationship information.</li><li>Work, school or training schedule and requested provider details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://healthyrhode.ri.gov/\">HealthyRhode</a>, a paper application or DHS phone intake at 855-697-4347.</p></li><li><h3 class=\"pbf-h3\">Submit the checklist</h3><p>Provide the requested verification of your eligibility route.</p></li><li><h3 class=\"pbf-h3\">Select approved care</h3><p>Confirm the provider’s participation, authorization and family share before relying on payment.</p></li></ol>",
+    "after": "<p>Follow CCAP’s own change-reporting rules, which differ from other benefits. Report address and household changes as instructed.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhs.ri.gov/programs-and-services/child-care/child-care-assistance-program-ccap/ccap-family-eligibility-how\">CCAP eligibility and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can college count?",
+      "Specified Rhode Island public college degree programs are eligible routes."
+    ],
+    [
+      "Can any provider be paid?",
+      "Care must be through a CCAP-approved provider."
+    ],
+    [
+      "Is every family’s care free?",
+      "A copayment may apply."
+    ],
+    [
+      "Are CCAP reporting rules identical to SNAP?",
+      "No. Read the CCAP instructions separately."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhs.ri.gov/programs-and-services/child-care/child-care-assistance-program-ccap/ccap-family-eligibility-how"
+    ],
+    "background_source": "https://usaassistance.org/programs/ri-child-care-assistance-program-ccap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

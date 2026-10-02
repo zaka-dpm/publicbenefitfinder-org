@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "PIPP Plus helps eligible Ohio utility customers manage monthly electric and natural-gas payments according to household income.",
+  "description": "PIPP Plus helps eligible Ohio utility customers manage monthly electric and natural-gas payments according to household income.",
+  "sections": {
+    "who": "<p>You need an active account with a participating PUCO-regulated utility. OCC currently lists income at or below 175% of federal guidelines.</p>",
+    "get": "<p>Monthly payments are generally 5% of income for each gas or electric service, or 10% for an all-electric home, with a minimum payment. Full payments made on time also earn debt credits.</p>",
+    "docs": "<ul><li>Photo identification and household list.</li><li>Recent utility bills.</li><li>Adult household income records requested for the relevant period.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply year-round</h3><p>Use <a href=\"https://energyhelp.ohio.gov/\">Ohio Energy Assistance</a> or a local energy assistance provider.</p></li><li><h3 class=\"pbf-h3\">Confirm the calculation</h3><p>Ask which accounts participate and what your required payments will be.</p></li><li><h3 class=\"pbf-h3\">Record renewal dates</h3><p>Check your bill for the reverification and anniversary dates.</p></li></ol>",
+    "after": "<p>Pay the full required amount by its due date, reverify annually and report household or income changes within 30 days.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.occ.ohio.gov/factsheet/percentage-income-payment-plan-pipp-plus\">OCC PIPP Plus</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is every utility included?",
+      "No. Confirm that yours participates."
+    ],
+    [
+      "Is this a one-time grant?",
+      "No. It is an ongoing payment arrangement."
+    ],
+    [
+      "Do late payments earn the same credits?",
+      "Debt credits depend on full, timely payments."
+    ],
+    [
+      "Do I have to renew?",
+      "Yes. Annual income reverification is required."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.occ.ohio.gov/factsheet/percentage-income-payment-plan-pipp-plus"
+    ],
+    "background_source": "https://usaassistance.org/programs/pipp-plus-percentage-of-income-payment-plan/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Alaska SNAP helps qualifying households buy food using the Alaska Quest card. The application goes through the Division of Public Assistance, with Alaska-specific rules for ru",
+  "introduction": "Alaska SNAP helps qualifying households buy food using the Alaska Quest card. The application goes through the Division of Public Assistance, with Alaska-specific rules for rural benefits and some subsistence purchases.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Applicants must reside in Alaska and meet the applicable income, resource and individual eligibility conditions. DPA determines the food household and checks exceptions.",
+      "Household composition, student status, immigration status and work rules can affect eligibility. The state has updated notices and temporary Alaska exemptions; use the current guidance rather than older age or work-rule summaries."
+    ],
+    "get": "<p>Approved households receive food benefits on Quest. Alaska has special rural benefit rules and limited hunting or fishing subsistence-supply provisions. Ask DPA whether these apply to your location and household.</p>",
+    "docs": "<p>Gather income records, household details and records of shelter, utilities and other expenses you want DPA to consider. Keep proof of any circumstance supporting an exception. Ask the worker which records are required for your case.</p>",
+    "apply": "<ol><li>Open <a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/snap-nutrition-assistance/\">Alaska’s SNAP page</a> and follow its Alaska Connect application link.</li><li>Complete the household and financial questions, sign and save the submission. The page also provides an Application for Services option for people without email.</li><li>Respond to verification or interview instructions. For help, contact DPA’s Virtual Contact Center at 800-478-7778.</li></ol>",
+    "after": "<p>Follow the interim-report date on your notice and report required changes. Do not submit an interim report early simply because an online form is available. Keep the Quest card secure and check current program notices when renewing.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/snap-nutrition-assistance/\">Alaska SNAP application, reporting and Quest help</a></li><li><a href=\"https://usaassistance.org/programs/alaska-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the Quest card just for Anchorage?",
+      "No. Alaska SNAP serves eligible households statewide, with some special rules for rural areas."
+    ],
+    [
+      "Can SNAP buy subsistence supplies?",
+      "Alaska has limited hunting and fishing subsistence-supply rules. Ask DPA whether your household and intended purchase qualify."
+    ],
+    [
+      "When do I complete an interim report?",
+      "Follow the due date on the report sent by DPA. The state advises against completing the online report before the due month."
+    ],
+    [
+      "What if the card is lost?",
+      "The state lists Quest Customer Service at 888-997-8111 for a lost, stolen or damaged card or an account-balance error."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/alaska-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/snap-nutrition-assistance/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/snap-nutrition-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

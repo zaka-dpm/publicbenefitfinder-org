@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maryland Temporary Cash Assistance is the state’s TANF cash program for eligible families with dependent children. Assistance comes with family and work-program obligations.",
+  "introduction": "Maryland Temporary Cash Assistance is the state’s TANF cash program for eligible families with dependent children. Assistance comes with family and work-program obligations.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families must meet financial and technical rules; income is evaluated against the assistance-unit benefit level.",
+      "Child-support cooperation, work activities and substance-abuse provisions apply. Explain barriers and ask the worker about applicable exceptions or accommodations."
+    ],
+    "get": "<p>Approved TCA provides cash assistance while the family works toward independence. Families can also ask about a separate application for child care costs.</p>",
+    "docs": "<p>Prepare child and household information, income records and any child-support documents. Ask the local department for a case-specific checklist and explain any difficulty obtaining proof.</p>",
+    "apply": "<ol><li>Apply at <a href=\"https://marylandbenefits.gov/\">Maryland Benefits</a> or contact the local Department of Social Services.</li><li>Paper applications can be delivered, mailed or faxed through the local office’s instructions.</li><li>Provide verification and discuss work and child-support requirements with the worker.</li></ol>",
+    "after": "<p>Read the decision and participation requirements. Report changes and keep appointment records. If a requirement is difficult to meet, tell the worker before missing it; noncompliance can affect benefits.</p>",
+    "sources": "<ul><li><a href=\"https://dhs.maryland.gov/weathering-tough-times/temporary-cash-assistance/\">Maryland TCA</a></li><li><a href=\"https://usaassistance.org/programs/maryland-temporary-cash-assistance-tca/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does SNAP automatically enroll me in TCA?",
+      "No. Make sure the cash program is requested and provide the additional family information."
+    ],
+    [
+      "Can someone deliver a paper application for me?",
+      "The state permits someone else to drop it off. Follow the local office’s submission instructions."
+    ],
+    [
+      "Can I also ask about child care?",
+      "Yes. Maryland says families can file an application for child care assistance."
+    ],
+    [
+      "What if I cannot meet a work activity?",
+      "Contact your worker promptly to explain the barrier and ask about an exception, accommodation or support."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-temporary-cash-assistance-tca",
+    "source_url": "https://usaassistance.org/programs/maryland-temporary-cash-assistance-tca/",
+    "source_updated": "August 2026",
+    "primary_url": "https://marylandbenefits.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhs.maryland.gov/weathering-tough-times/temporary-cash-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

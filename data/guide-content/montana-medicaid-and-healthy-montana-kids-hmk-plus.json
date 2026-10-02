@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana’s health application screens Medicaid and Healthy Montana Kids coverage. Public Assistance reviews eligibility for each applicant.",
+  "description": "Montana’s health application screens Medicaid and Healthy Montana Kids coverage. Public Assistance reviews eligibility for each applicant.",
+  "sections": {
+    "who": "<p>Age, income, household and program-category conditions matter. Explain pregnancy, disability or long-term-care needs.</p>",
+    "get": "<p>Approved applicants receive health coverage according to the program and decision notice.</p>",
+    "docs": "<ul><li>Household and income details.</li><li>Existing insurance information.</li><li>Requested identity and eligibility records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the application</h3><p>Visit <a href=\"https://www.dphhs.mt.gov/healthcare/Apply\">DPHHS health application guidance</a>.</p></li><li><h3 class=\"pbf-h3\">Apply for multiple needs</h3><p>For health, food and cash together, use apply.mt.gov or call 888-706-1535.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Save confirmation and respond to requested information.</p></li></ol>",
+    "after": "<p>Read the coverage decision, follow renewal instructions and report changes.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dphhs.mt.gov/healthcare/Apply\">Montana health application routes</a>; <a href=\"https://apply.mt.gov/\">Combined assistance portal</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply for children separately?",
+      "List the people needing coverage so their eligibility is screened."
+    ],
+    [
+      "Can I apply for food help too?",
+      "The shared application route supports combined requests."
+    ],
+    [
+      "Does one denial determine everyone’s eligibility?",
+      "Different family members can have different coverage categories."
+    ],
+    [
+      "Is submission approval?",
+      "No. Public Assistance reviews the case."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dphhs.mt.gov/healthcare/Apply",
+      "https://apply.mt.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-medicaid-and-healthy-montana-kids-hmk-plus/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

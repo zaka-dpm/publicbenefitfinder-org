@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "New Hampshire weatherization arranges home-efficiency improvements through local Community Action Agencies. The household application and property assessment are separate stages.",
+  "description": "New Hampshire weatherization arranges home-efficiency improvements through local Community Action Agencies. The household application and property assessment are separate stag",
+  "sections": {
+    "who": "<p>Income-qualified owners and renters may be considered. Renters need landlord permission, and local providers assess the property and prioritize available funding.</p>",
+    "get": "<p>An energy audit identifies suitable measures such as insulation, draft sealing or selected heating-system work. Approved services are improvements to the home rather than cash for any repair you choose.</p>",
+    "docs": "<ul><li>Income and household records requested by the agency.</li><li>Your address and energy bills.</li><li>Owner or tenancy information.</li><li>Landlord contact and permission if renting.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the CAA serving your town</h3><p>Use the <a href=\"https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf\">state’s local intake guide</a>.</p></li><li><h3 class=\"pbf-h3\">Request weatherization explicitly</h3><p>In Hillsborough and Rockingham, the provider uses a Fuel or Electric Assistance application and requires a yes answer to the weatherization-interest question. Ask your own agency about its form.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>If selected, allow the audit and confirm the work authorized for the property.</p></li></ol>",
+    "after": "<p>Ask about waiting-list status and whether income certification needs renewal while waiting. After work, keep the provider’s inspection and maintenance instructions.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf\">State weatherization and local application overview</a>, <a href=\"https://www.caphr.org/services/weatherization\">Hillsborough and Rockingham weatherization intake</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-new-hampshire/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is fuel assistance required before weatherization?",
+      "The state brochure says you need eligibility certification but do not have to accept a fuel benefit."
+    ],
+    [
+      "Can a renter receive improvements?",
+      "Yes, subject to eligibility and landlord permission."
+    ],
+    [
+      "Does an audit promise every listed improvement?",
+      "No. The property assessment and available funding determine the approved measures."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/sonh/fuel-weatherization-assistance-brochure.pdf",
+      "https://www.caphr.org/services/weatherization"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

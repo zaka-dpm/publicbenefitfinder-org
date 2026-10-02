@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "West Virginia LIEAP helps eligible households with heating costs during announced application periods. The published regular February and emergency June 2026 windows have ende",
+  "introduction": "West Virginia LIEAP helps eligible households with heating costs during announced application periods. The published regular February and emergency June 2026 windows have ended; ask DoHS about the next opening.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Households responsible for home heating costs whose income and other circumstances meet the announced program rules.",
+      "Emergency assistance has additional energy-crisis requirements and its own application period."
+    ],
+    "get": "<p>Approved assistance toward home energy expenses. Program openings depend on the announced dates and funding; an accessible portal does not establish that applications are currently open.</p>",
+    "docs": "<p>Prepare income and household information and a heating account or supplier record. For emergency screening, keep shutoff or past-due notices and any receipt showing how earlier LIEAP assistance was used.</p>",
+    "apply": "<ol><li>Contact the county DoHS office or check current agency notices for an open period.</li><li>During regular intake, use WV PATH or the application from the county office or participating agency.</li><li>For emergency intake, follow that announcement’s instructions; the June 2026 notice required applying in person.</li><li>Explain an immediate loss of heat and ask about other available resources.</li></ol>",
+    "after": "<p>Keep proof of filing and any energy payment receipts. Continue discussing payment arrangements with the supplier. Ask the office whether a new period is announced rather than assuming last winter’s dates repeat.</p>",
+    "sources": "<ul><li><a href=\"https://dohs.wv.gov/article/west-virginia-department-human-services-announces-energy-assistance-program-low-income\">Regular 2026 LIEAP announcement</a></li><li><a href=\"https://bfa.wv.gov/article/west-virginia-department-human-services-opens-applications-emergency-low-income-energy\">Emergency 2026 LIEAP announcement</a></li><li><a href=\"https://usaassistance.org/programs/lieap-low-income-energy-assistance-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the February 2026 window still open?",
+      "No; the announcement listed February 2–20, 2026, or earlier funding exhaustion."
+    ],
+    [
+      "Was emergency June intake separate?",
+      "Yes, the June 8–26, 2026 announcement had separate crisis and in-person requirements."
+    ],
+    [
+      "Can I assume a 2027 opening date?",
+      "No; check a current announcement or the county office."
+    ],
+    [
+      "Does applying stop a utility shutoff?",
+      "Ask the utility about your account and contact the county office urgently."
+    ],
+    [
+      "Why keep heating payment receipts?",
+      "The emergency announcement required proof that a prior direct LIEAP payment was used for heating."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "lieap-low-income-energy-assistance-program",
+    "source_url": "https://usaassistance.org/programs/lieap-low-income-energy-assistance-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.wvpath.wv.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dohs.wv.gov/article/west-virginia-department-human-services-announces-energy-assistance-program-low-income",
+      "https://bfa.wv.gov/article/west-virginia-department-human-services-opens-applications-emergency-low-income-energy"
+    ],
+    "review_scope": "Primary published past windows and local application pathway reviewed; no claim of an unannounced upcoming opening."
+  }
+}

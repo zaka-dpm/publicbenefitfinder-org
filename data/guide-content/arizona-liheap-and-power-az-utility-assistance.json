@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Arizona LIHEAP helps qualifying households with heating and cooling bills. Power AZ is closed to new applications: DES says its funds are exhausted and applications submitted ",
+  "introduction": "Arizona LIHEAP helps qualifying households with heating and cooling bills. Power AZ is closed to new applications: DES says its funds are exhausted and applications submitted after September 21, 2026 cannot be accepted or processed.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "LIHEAP requires an eligible energy need, qualifying citizenship or immigration status and household income within its rules.",
+      "Current DES Nutrition Assistance or Cash Assistance enrollment meets the LIHEAP income requirement, but other program conditions still apply. Funding is limited."
+    ],
+    "get": "<p>Approved LIHEAP assistance is paid to energy accounts. Regular and crisis benefits have separate conditions and frequency limits. Power AZ’s old higher-income thresholds are historical and are not a route for a new application.</p>",
+    "docs": "<p>The application requests a current utility bill, photo identification, citizenship or immigration records, a shutoff notice if applicable, and income evidence. DES does not require new income documents from households categorically eligible through current DES Cash or Nutrition Assistance enrollment.</p>",
+    "apply": "<ol><li>Open <a href=\"https://des.az.gov/liheap\">DES’s current LIHEAP page</a> and use its A-to-Z Arizona Portal application link.</li><li>For paper filing, use the application linked in the applicant FAQ on that page.</li><li>Submit verification and identify which energy accounts need payment. For application help, contact a local Community Action Agency or call 866-494-1981.</li></ol>",
+    "after": "<p>Save the application reference and respond to requests. If a shutoff is pending, contact the utility while the application is reviewed. Read the decision and its appeal instructions. Power AZ applications submitted by the cutoff may still be reviewed; this does not reopen intake.</p>",
+    "sources": "<ul><li><a href=\"https://des.az.gov/liheap\">Current LIHEAP rules and Power AZ closure</a></li><li><a href=\"https://usaassistance.org/programs/arizona-liheap-and-power-az-utility-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply for Power AZ now?",
+      "No. DES says applications after September 21, 2026 cannot be accepted or processed because its funds are exhausted."
+    ],
+    [
+      "Does receiving SNAP mean LIHEAP is approved?",
+      "Current DES Nutrition Assistance establishes the income requirement, but DES still checks the other LIHEAP conditions."
+    ],
+    [
+      "Who receives the payment?",
+      "DES directs approved benefits to the specified energy utility accounts."
+    ],
+    [
+      "Can I get help with a shutoff?",
+      "Tell intake staff about the deadline and ask about crisis eligibility. The application alone does not guarantee disconnection will be stopped."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arizona-liheap-and-power-az-utility-assistance",
+    "source_url": "https://usaassistance.org/programs/arizona-liheap-and-power-az-utility-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://des.az.gov/liheap",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://des.az.gov/liheap"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

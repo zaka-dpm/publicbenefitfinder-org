@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont Legal Aid and Legal Services Vermont jointly provide free civil legal help. Legal Services Vermont screens requests and assigns or refers accepted matters.",
+  "description": "Vermont Legal Aid and Legal Services Vermont jointly provide free civil legal help. Legal Services Vermont screens requests and assigns or refers accepted matters.",
+  "sections": {
+    "who": "<p>Eligibility depends on the issue, Vermont connection, income and resources. Current funding limits exclude many issues from callbacks; check the list before requesting help.</p>",
+    "get": "<p>Help can range from information or advice to representation in an accepted case. A request alone does not create representation.</p>",
+    "docs": "<ul><li>Court papers and notices with dates.</li><li>Records related to the legal issue.</li><li>Income and household details needed for intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the service list</h3><p>Read <a href=\"https://vtlawhelp.org/how-we-can-help\">How We Can Help</a>, including the current issues that cannot receive replies.</p></li><li><h3 class=\"pbf-h3\">Request screening</h3><p>Use its Legal Help Request Form or leave a helpline message at 800-889-2047 during listed hours.</p></li><li><h3 class=\"pbf-h3\">Provide safe contact details</h3><p>State the safest way to reach you and all important deadlines.</p></li></ol>",
+    "after": "<p>The current provider asks applicants not to leave a second message. Keep court deadlines while waiting and use the linked self-help resources.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://vtlawhelp.org/how-we-can-help\">Current joint legal intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does every issue get a callback?",
+      "No. The provider publishes current exclusions due to limited staffing."
+    ],
+    [
+      "Is this criminal defense intake?",
+      "The joint service principally handles civil matters."
+    ],
+    [
+      "Can I request an interpreter?",
+      "The provider offers interpreters without charge."
+    ],
+    [
+      "Should I leave repeated messages?",
+      "Its current instructions say not to leave a second message."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://vtlawhelp.org/how-we-can-help"
+    ],
+    "background_source": "https://usaassistance.org/programs/vermont-legal-aid-and-legal-services-vermont/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

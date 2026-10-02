@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi 211 is a statewide referral service for community assistance. United Way lists round-the-clock access.",
+  "description": "Mississippi 211 is a statewide referral service for community assistance. United Way lists round-the-clock access.",
+  "sections": {
+    "who": "<p>Anyone seeking local resources can call. Providers separately screen applications.</p>",
+    "get": "<p>The service identifies resources for housing, food, health and other needs. It does not approve benefits.</p>",
+    "docs": "<ul><li>County or ZIP code.</li><li>The need and urgent dates.</li><li>Language or accessibility requirements.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call 211</h3><p>Explain where you live and what help you need.</p></li><li><h3 class=\"pbf-h3\">Clarify availability</h3><p>Ask which programs are currently taking applications.</p></li><li><h3 class=\"pbf-h3\">Contact the referral</h3><p>Confirm hours and required records before visiting.</p></li></ol>",
+    "after": "<p>If one resource cannot help, request another referral.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.myunitedway.com/211\">Mississippi 211 provider</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it statewide?",
+      "Yes."
+    ],
+    [
+      "Is it a cash-benefit application?",
+      "No. It is a referral service."
+    ],
+    [
+      "Does a referral guarantee assistance?",
+      "No."
+    ],
+    [
+      "Can I call outside business hours?",
+      "United Way lists 24/7 service."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.myunitedway.com/211"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

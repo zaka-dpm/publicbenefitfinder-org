@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "The Working Pennsylvanians Tax Credit is a refundable state credit based on federal EITC. Claim it through income-tax filing.",
+  "description": "The Working Pennsylvanians Tax Credit is a refundable state credit based on federal EITC. Claim it through income-tax filing.",
+  "sections": {
+    "who": "<p>The state lists Pennsylvania earned income, federal EITC eligibility and filing both federal Form 1040 and PA-40 as requirements.</p>",
+    "get": "<p>The credit equals 10% of federal EITC and can reduce state tax or increase a refund. Use the instructions for the year being filed.</p>",
+    "docs": "<ul><li>Federal return showing EITC.</li><li>Wage and self-employment records.</li><li>PA-40 and the required federal return copy.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the federal return</h3><p>Determine federal EITC and complete Form 1040.</p></li><li><h3 class=\"pbf-h3\">File Pennsylvania taxes</h3><p>Use tax software or <a href=\"https://mypath.pa.gov/\">myPATH</a>. Enter the requested federal credit and provide the federal return.</p></li><li><h3 class=\"pbf-h3\">Include evidence for paper filing</h3><p>Mail the required Form 1040 copy with PA-40 so Revenue can verify eligibility.</p></li></ol>",
+    "after": "<p>The online calculator is an estimate and cannot replace the credit calculation on your return. Keep both filings.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/personal-income-tax/working-pennsylvanians-tax-credit\">Working Pennsylvanians Tax Credit</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can it produce a refund without state tax owed?",
+      "Yes. The credit is refundable."
+    ],
+    [
+      "Is COMPASS the application?",
+      "No. Claim it through tax returns."
+    ],
+    [
+      "What if I file federal taxes elsewhere?",
+      "myPATH asks for federal EITC information and a Form 1040 upload."
+    ],
+    [
+      "Is the calculator guaranteed?",
+      "No. Revenue determines the final result from the filed information."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/personal-income-tax/working-pennsylvanians-tax-credit"
+    ],
+    "background_source": "https://usaassistance.org/programs/working-pennsylvanians-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

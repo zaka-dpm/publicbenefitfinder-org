@@ -1,0 +1,39 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois Home Weatherization Assistance Program helps qualifying households improve energy efficiency. Apply through the community action agency serving your area.",
+  "description": "Illinois Home Weatherization Assistance Program helps qualifying households improve energy efficiency. Apply through the community action agency serving your area.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": "<p>The agency reviews household income and property participation. Illinois also lists qualifying benefit-program enrollment as a possible categorical eligibility route. Use the current IHWAP guidance for your household.</p>",
+    "get": "<p>Approved work can include air sealing, insulation, heating or water-heater measures and selected health and safety improvements. The assessment determines the work.</p>",
+    "docs": "<ul><li>Household income or qualifying benefit enrollment evidence.</li><li>Address and property information.</li><li>The local agency’s requested records and rental permissions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your agency</h3><p>Use the community action agency link on the <a href=\"https://dceo.illinois.gov/communityservices/homeweatherization.html\">IHWAP page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete local intake</h3><p>Ask about eligibility and the assessment process.</p></li><li><h3 class=\"pbf-h3\">Confirm approved work</h3><p>Arrange access and review what the provider has authorized.</p></li></ol>",
+    "after": "<p>Keep the assessment, appointments and completed-work information. Ask the local agency about any safety condition preventing work.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://dceo.illinois.gov/communityservices/homeweatherization.html\">Illinois IHWAP requirements and measures</a>. Agency staff determine eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Does LIHEAP enrollment matter?",
+      "Illinois lists recent LIHEAP participation as a categorical eligibility route."
+    ],
+    [
+      "Can I select an unrestricted renovation?",
+      "No. Approved weatherization and safety measures govern the work."
+    ],
+    [
+      "Are the income guidelines current?",
+      "The state page identifies its current table as program year 2027."
+    ],
+    [
+      "Where do I apply?",
+      "Contact the community action agency serving your area."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://dceo.illinois.gov/communityservices/homeweatherization.html"
+    ]
+  }
+}

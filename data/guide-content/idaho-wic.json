@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Idaho WIC enrollment begins with a local clinic appointment. Clinics provide selected food benefits and nutrition support for qualifying pregnancy, postpartum and early-childhood needs.",
+  "description": "Idaho WIC enrollment begins with a local clinic appointment. Clinics provide selected food benefits and nutrition support for qualifying pregnancy, postpartum and early-childh",
+  "sections": {
+    "who": "<p>The state lists Idaho residence and income requirements, with benefits for pregnant or breastfeeding applicants, those who gave birth within the last six months, infants and children before their fifth birthday. Parents, guardians and foster parents can arrange a child’s application.</p>",
+    "get": "<p>WIC provides an electronic food card, nutrition education, breastfeeding information and help finding health or community services. Benefit packages depend on the participant’s age and circumstances.</p>",
+    "docs": "<ul><li>Ask the clinic for the appointment checklist linked from the state application page.</li><li>Prepare income, residence and identity information.</li><li>Have available pregnancy or child-health information ready and confirm who must attend.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the clinic</h3><p>Use the <a href=\"https://healthandwelfare.idaho.gov/wic-clinics\">Idaho WIC clinic locator</a>.</p></li><li><h3 class=\"pbf-h3\">Schedule the first appointment</h3><p>Call the clinic and ask about its current attendance and document requirements.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Discuss the participant’s needs and ask staff to explain the food package and WIC-card shopping instructions.</p></li></ol>",
+    "after": "<p>Keep clinic appointments and use current approved-food information. The WICShopper app is an additional resource for approved items and your food list.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-wic\">Idaho WIC application instructions</a>, <a href=\"https://healthandwelfare.idaho.gov/services-programs/food-assistance/about-wic\">WIC benefits and shopping resources</a>, <a href=\"https://healthandwelfare.idaho.gov/wic-clinics\">Clinic locator</a>. <a href=\"https://usaassistance.org/programs/idaho-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a foster parent apply for a child?",
+      "The Idaho application page includes foster parents among the caregivers who can arrange participation for an eligible child."
+    ],
+    [
+      "Is WIC the same as SNAP?",
+      "No. WIC is a separate nutrition program with a clinic-based application and assessment."
+    ],
+    [
+      "How can I check approved foods?",
+      "Use clinic guidance and Idaho’s approved-food resources; the state also lists WICShopper."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/food-assistance/apply-wic",
+      "https://healthandwelfare.idaho.gov/services-programs/food-assistance/about-wic",
+      "https://healthandwelfare.idaho.gov/wic-clinics"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

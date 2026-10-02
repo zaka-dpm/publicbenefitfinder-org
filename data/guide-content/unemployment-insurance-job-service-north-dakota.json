@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota unemployment claims start in UI ICE. File during the week unemployment begins; the agency says claims cannot be backdated.",
+  "description": "North Dakota unemployment claims start in UI ICE. File during the week unemployment begins; the agency says claims cannot be backdated.",
+  "sections": {
+    "who": "<p>Job Service reviews covered earnings and the reason work ended or hours decreased. Ongoing eligibility includes being able and available for work and meeting assigned work-search requirements.</p>",
+    "get": "<p>Approved benefits provide temporary payments for eligible weeks. An initial application alone does not request every weekly payment.</p>",
+    "docs": "<ul><li>Identity and employment information.</li><li>Employer contacts, work dates and separation details.</li><li>Weekly earnings and job-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the initial claim</h3><p>Use <a href=\"https://www.jobsnd.com/unemployment-individuals/file-claim\">Job Service’s current filing instructions</a> to reach UI ICE.</p></li><li><h3 class=\"pbf-h3\">Monitor claim tasks</h3><p>Check My To-Do List and respond to verification or eligibility requests.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Submit each weekly request through UI ICE or the agency’s automated telephone route.</p></li></ol>",
+    "after": "<p>Report earnings and availability accurately. If you miss filing, contact Job Service about reopening and the affected weeks rather than assuming the account remains active.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.jobsnd.com/unemployment-individuals/file-claim\">Initial claim rules</a>, <a href=\"https://www.jobsnd.com/unemployment-individuals/after-my-claim-filed\">Weekly certifications and claim tasks</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-job-service-north-dakota/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I wait and claim earlier weeks later?",
+      "The state says claims are effective for the filing week and cannot be backdated."
+    ],
+    [
+      "Is there a weekly telephone option?",
+      "The agency lists its automated system at 701-328-4995, using the required PIN."
+    ],
+    [
+      "Where do I find outstanding tasks?",
+      "UI ICE provides a My To-Do List for claim actions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.jobsnd.com/unemployment-individuals/file-claim",
+      "https://www.jobsnd.com/unemployment-individuals/after-my-claim-filed"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

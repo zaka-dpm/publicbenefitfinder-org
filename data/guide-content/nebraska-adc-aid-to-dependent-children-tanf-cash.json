@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska Aid to Dependent Children is the state’s TANF-funded cash-assistance program. Employment First participants are moving into a new TANF pilot beginning October 1, 2026.",
+  "description": "Nebraska Aid to Dependent Children is the state’s TANF-funded cash-assistance program. Employment First participants are moving into a new TANF pilot beginning October 1, 2026",
+  "sections": {
+    "who": "<p>ADC serves eligible low-income families with children. DHHS reviews the family and financial criteria and applicable participation rules; certain caregiver or disability circumstances affect the assistance rules.</p>",
+    "get": "<p>Approved families receive cash support. Adults able to work are linked to Employment First services for employment preparation and support.</p>",
+    "docs": "<ul><li>Prepare household income and family information.</li><li>Have children’s identity and relationship records available.</li><li>Keep medical or caregiver information relevant to the participation assessment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start through iServe</h3><p>Apply at <a href=\"https://iserve.nebraska.gov/\">iServe Nebraska</a> or ask a DHHS office about assistance.</p></li><li><h3 class=\"pbf-h3\">Explain the family circumstances</h3><p>Identify the children and caregivers and supply the records requested by DHHS.</p></li><li><h3 class=\"pbf-h3\">Review participation instructions</h3><p>Ask how the TANF pilot affects your Employment First activities and what you must complete next.</p></li></ol>",
+    "after": "<p>Keep the decision and participation notices together. Tell your worker about barriers that affect attendance, work or required cooperation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/TANF.aspx\">Current Nebraska ADC/TANF overview and pilot notice</a>, <a href=\"https://dhhs.ne.gov/iServe%20CP%20Pilot%20Documents/QRG_iServe%20NE_How%20to%20Submit%20an%20Incomplete%20Application_vF.pdf\">iServe application guidance</a>. <a href=\"https://usaassistance.org/programs/nebraska-adc-aid-to-dependent-children-tanf-cash/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is ADC different from Nebraska TANF?",
+      "ADC is the cash program funded through TANF."
+    ],
+    [
+      "Has Employment First changed?",
+      "The current TANF page says new and existing participants move into the pilot starting October 1, 2026."
+    ],
+    [
+      "Do all cases have identical time limits?",
+      "No. The state describes different treatment for specified non-parent caregiver and disability circumstances. Ask about your case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/TANF.aspx",
+      "https://dhhs.ne.gov/iServe%20CP%20Pilot%20Documents/QRG_iServe%20NE_How%20to%20Submit%20an%20Incomplete%20Application_vF.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

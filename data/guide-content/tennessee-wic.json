@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Tennessee WIC enrollment begins with your local health department. Use the state clinic directory or WICShopper’s Find a WIC Clinic option.",
+  "description": "Tennessee WIC enrollment begins with your local health department. Use the state clinic directory or WICShopper’s Find a WIC Clinic option.",
+  "sections": {
+    "who": "<p>The clinic assesses the qualifying pregnancy or young-child category, income and nutrition needs.</p>",
+    "get": "<p>Approved food and nutrition services include breastfeeding support.</p>",
+    "docs": "<ul><li>Identification and address evidence requested by the clinic.</li><li>Household income or benefit records.</li><li>Health and child information for the appointment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact local WIC intake</h3><p>Use <a href=\"https://www.tn.gov/health/wic.html\">the state WIC Clinics directory</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange the appointment</h3><p>Ask who must attend and which records are needed.</p></li><li><h3 class=\"pbf-h3\">Complete enrollment</h3><p>Discuss nutrition needs and learn the food and shopping instructions.</p></li></ol>",
+    "after": "<p>Keep follow-up appointments. Tell the clinic about access or language needs; the state provides free assistance on request.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tn.gov/health/wic.html\">Tennessee WIC clinic intake and participant help</a>. <a href=\"https://usaassistance.org/programs/tennessee-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is 800-DIAL-WIC the local application number?",
+      "The state directs applications to local clinics and identifies that number for concerns or certification-transfer requests."
+    ],
+    [
+      "How do I find my clinic?",
+      "Use the state directory or WICShopper clinic finder."
+    ],
+    [
+      "Can I request language assistance?",
+      "Yes. The state lists free language assistance and communication aids on request."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tn.gov/health/wic.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

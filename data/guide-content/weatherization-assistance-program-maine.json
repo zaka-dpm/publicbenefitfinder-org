@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Maine weatherization provides approved home efficiency improvements at no cost to eligible households. Local community action agencies arrange the assessment and work.",
+  "introduction": "Maine weatherization provides approved home efficiency improvements at no cost to eligible households. Local community action agencies arrange the assessment and work.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Eligible homeowners, renters and certain two-to-four-unit residential properties can qualify. Renters need the owner’s approval.",
+      "HEAP participation can establish a pathway, but some households qualify under weatherization rules alone. The agency assesses income and property eligibility."
+    ],
+    "get": "<p>A home assessment identifies appropriate measures, such as insulation, air sealing, ventilation and heating-efficiency work. The work varies by the home’s needs and funding.</p>",
+    "docs": "<p>Ask the local agency for its current checklist. Prepare income or HEAP eligibility records, utility information and ownership or landlord-contact details. Explain any structural, moisture or safety problem before an assessor visits.</p>",
+    "apply": "<ol><li>Use the agency directory linked from <a href=\"https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization\">MaineHousing’s weatherization page</a>.</li><li>Contact the local community action agency for an application and waiting-list information.</li><li>Arrange the assessment and obtain owner consent if needed.</li></ol>",
+    "after": "<p>Ask for the approved scope and final-inspection information. Some hazards must be corrected before work can start; request the reason for a deferral and ask about another repair program. Do not order work independently expecting reimbursement.</p>",
+    "sources": "<ul><li><a href=\"https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization\">Maine weatherization household guidance</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-maine/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do all homes get the same improvements?",
+      "No. The assessment determines suitable measures for the particular dwelling."
+    ],
+    [
+      "Must I already receive HEAP?",
+      "Not always. MaineHousing says some households qualify under weatherization income rules alone."
+    ],
+    [
+      "Can a landlord with a small apartment building ask about help?",
+      "Yes. Eligible two-to-four-unit residential buildings are included, subject to the program’s property requirements."
+    ],
+    [
+      "Can unsafe conditions delay the work?",
+      "Yes. Structural, electrical, heating or moisture problems can require correction first. Ask the agency what is needed."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-maine",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-maine/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

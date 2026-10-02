@@ -1,0 +1,39 @@
+{
+  "status": "reviewed",
+  "introduction": "Nevada unemployment claims now use the NUI Claimant Self Service route. The older ui.nv.gov address redirects to the current NUI landing page.",
+  "description": "Nevada unemployment claims now use the NUI Claimant Self Service route. The older ui.nv.gov address redirects to the current NUI landing page.",
+  "sections": {
+    "who": "<p>DETR reviews wage history, separation circumstances and continuing eligibility. Claimants must follow the work-search and availability instructions applying to their case.</p>",
+    "get": "<p>Approved benefits provide temporary income. Establishing a claim and requesting payment for a particular week are separate actions.</p>",
+    "docs": "<ul><li>Identity and Social Security details.</li><li>Employer names, employment dates and separation information.</li><li>Records of earnings for each claimed week.</li><li>Work-search documentation and agency correspondence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use Claimant Self Service</h3><p>Go through <a href=\"https://nui.nv.gov/_/?os=___\">the NUI landing page</a> and choose Employees and Claimants, not the employer service.</p></li><li><h3 class=\"pbf-h3\">Complete the initial claim</h3><p>Review the current <a href=\"https://detr.nv.gov/Page/Unemployment_Insurance_Claimant_Portal\">DETR how-to resources</a> and respond to account or eligibility questions.</p></li><li><h3 class=\"pbf-h3\">Request weekly payment</h3><p>Complete the weekly certification and maintain the required work-search record. The initial application alone does not request each week’s payment.</p></li></ol>",
+    "after": "<p>Check messages and decisions in the claimant account. Report work and earnings accurately and ask DETR about a disputed determination or missed certification.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://nui.nv.gov/_/?os=___\">Current NUI claimant landing page</a>, <a href=\"https://detr.nv.gov/Page/Unemployment_Insurance_Claimant_Portal\">DETR claimant resources</a>, <a href=\"https://ui.nv.gov/PDFS/UI_Claimants_Handbook.pdf\">Claim and weekly-payment distinction</a>, <a href=\"https://ui.nv.gov/PDFS/Top_10_-_WorkSearch_FAQ.pdf\">Work-search records</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-nevada-detr/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Should I log in to Employer Self Service?",
+      "No. Individual applicants use Claimant Self Service."
+    ],
+    [
+      "Does opening a claim request all weekly payments?",
+      "No. The claimant handbook describes a separate weekly certification and payment request."
+    ],
+    [
+      "Should I keep evidence of job searches?",
+      "Yes. DETR’s work-search guidance says records may be requested for verification."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://nui.nv.gov/_/?os=___",
+      "https://detr.nv.gov/Page/Unemployment_Insurance_Claimant_Portal",
+      "https://ui.nv.gov/PDFS/UI_Claimants_Handbook.pdf",
+      "https://ui.nv.gov/PDFS/Top_10_-_WorkSearch_FAQ.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "211 Connects Alabama helps people find local food, housing, health care, employment and other services. A specialist can help when several needs affect the same household.",
+  "introduction": "211 Connects Alabama helps people find local food, housing, health care, employment and other services. A specialist can help when several needs affect the same household.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "The service covers Alabama statewide and is free and confidential. You do not need a benefit approval to ask for a referral.",
+      "The organization receiving the referral has its own eligibility and intake rules."
+    ],
+    "get": "<p>You can speak with a trained specialist around the clock or search the statewide resource database. A referral supplies contacts and service information; it does not reserve funding.</p>",
+    "docs": "<p>Have your ZIP code, the problem you need help with, and any shutoff or eviction date ready. For a follow-up call, keep the names of providers already contacted. These are preparation tips rather than an application checklist.</p>",
+    "apply": "<ol><li>Dial <a href=\"tel:211\">211</a>, or call <a href=\"tel:18884211266\">888-421-1266</a> if the short number does not connect.</li><li>You can also text your ZIP code to 898211 or use <a href=\"https://www.211connectsalabama.org/\">the online service directory</a>.</li><li>Explain your location and urgency. Ask for the provider’s intake method and contact details, then contact that provider directly.</li></ol>",
+    "after": "<p>Write down each referral and its response. If the provider is closed, out of funds or serves another area, ask 211 for another option. For an immediate threat to safety, contact emergency services rather than waiting for a referral.</p>",
+    "sources": "<ul><li><a href=\"https://www.211connectsalabama.org/\">211 Connects Alabama</a></li><li><a href=\"https://usaassistance.org/programs/211-connects-alabama/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the phone service open at night?",
+      "Yes. Alabama’s 211 service advertises telephone help 24 hours a day, seven days a week."
+    ],
+    [
+      "What if dialing 211 does not work?",
+      "Use the statewide alternative number, 888-421-1266."
+    ],
+    [
+      "Can I get help by text?",
+      "Text your ZIP code to 898211. The separate keyword 211KNOW is for wellness information; the ZIP option is the resource request."
+    ],
+    [
+      "Does 211 approve utility assistance?",
+      "No. Ask the referred utility-assistance provider about its current application and funding."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "211-connects-alabama",
+    "source_url": "https://usaassistance.org/programs/211-connects-alabama/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.211connectsalabama.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.211connectsalabama.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

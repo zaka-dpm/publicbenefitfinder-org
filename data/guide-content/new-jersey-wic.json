@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Jersey WIC supports pregnancy and young children’s nutrition. Start with the Participant Portal or arrange an appointment with a local WIC agency.",
+  "description": "New Jersey WIC supports pregnancy and young children’s nutrition. Start with the Participant Portal or arrange an appointment with a local WIC agency.",
+  "sections": {
+    "who": "<p>Eligible categories include pregnancy, six months after delivery, breastfeeding within the first year and children younger than five. Residence, income and a nutrition or health risk are assessed by WIC staff.</p>",
+    "get": "<p>Benefits include selected foods, nutrition education and breastfeeding support. The pre-screen sends information to the local agency; it does not itself finish certification.</p>",
+    "docs": "<ul><li>Identity, residence and income proof.</li><li>Pregnancy evidence where relevant.</li><li>A health referral if your provider completed one.</li><li>Children’s health and vaccination records requested by the clinic.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit preliminary information</h3><p>Use <a href=\"https://wic.nj.gov/participantportal/en/Eligibility\">NJ WIC’s Participant Portal</a> or call a local clinic.</p></li><li><h3 class=\"pbf-h3\">Arrange the assessment</h3><p>Confirm which applicants must attend and the records needed for the appointment.</p></li><li><h3 class=\"pbf-h3\">Learn the benefit process</h3><p>Ask the agency to explain eWIC shopping, approved foods and future nutrition appointments.</p></li></ol>",
+    "after": "<p>Keep appointment and card information. Ask the clinic before buying a product you cannot match to the approved-food guidance.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/health/fhs/wic/participants/apply-wic/index.shtml\">NJ WIC application and document guidance</a>, <a href=\"https://www.nj.gov/health/fhs/wic/\">Current participant pre-screen pathway</a>, <a href=\"https://wic.nj.gov/participantportal/en/Eligibility\">Portal eligibility questions</a>. <a href=\"https://usaassistance.org/programs/new-jersey-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the portal pre-screen approve benefits?",
+      "No. It sends preliminary information to the local agency, which completes assessment."
+    ],
+    [
+      "Can an unemployed family apply?",
+      "The state specifically includes families experiencing unemployment or temporary financial hardship."
+    ],
+    [
+      "What residence proof can I use?",
+      "The state lists options such as a lease, current state ID or qualifying recent mail; confirm with the clinic."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/health/fhs/wic/participants/apply-wic/index.shtml",
+      "https://www.nj.gov/health/fhs/wic/",
+      "https://wic.nj.gov/participantportal/en/Eligibility"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

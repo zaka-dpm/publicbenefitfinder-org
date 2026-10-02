@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "CARE and FERA reduce qualifying California utility bills. Apply to your utility company rather than to a state cash-assistance office.",
+  "introduction": "CARE and FERA reduce qualifying California utility bills. Apply to your utility company rather than to a state cash-assistance office.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>CARE uses household income or participation in listed assistance programs, including Medi-Cal, SNAP, WIC and SSI. FERA serves households above CARE’s income limit within its own band; availability depends on the electric utility.</p>",
+    "get": "<p>CPUC lists CARE electric discounts of 30–35% at larger utilities and 20% at smaller ones, plus a 20% gas discount. FERA gives an 18% electricity discount at PG&E, SCE and SDG&E.</p>",
+    "docs": "<p>Have the utility account, household size and income or qualifying-benefit information ready. Ask the utility what verification it requires.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the utility links on <a href=\"https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-costs/care-fera-program\">CPUC’s CARE/FERA page</a>. Compare your household with the June 2026–May 2027 guidance.</p></li><li><p>Complete the utility application and respond to verification requests. Ask about FERA if income is above CARE limits.</p></li></ol>",
+    "after": "<p>Check the bill for enrollment and the discount. Follow utility renewal notices. If behind on payments, ask separately about arrears or payment plans.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-costs/care-fera-program\">CARE/FERA discounts, limits and utility applications</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/care-fera-utility-bill-discounts/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a payment sent to me?",
+      "It is a utility-bill discount."
+    ],
+    [
+      "Can benefits participation establish CARE eligibility?",
+      "The CPUC page lists qualifying programs; the utility verifies enrollment."
+    ],
+    [
+      "Is FERA available from every utility?",
+      "CPUC lists PG&E, SCE and SDG&E."
+    ],
+    [
+      "Does a discount erase overdue bills?",
+      "Ask the utility separately about arrears assistance or payment arrangements."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-costs/care-fera-program"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

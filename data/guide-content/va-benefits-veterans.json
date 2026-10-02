@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "VA offers several benefit programs for eligible veterans and, in some cases, dependents or survivors. Choose the benefit you need rather than treating VA benefits as one appli",
+  "introduction": "VA offers several benefit programs for eligible veterans and, in some cases, dependents or survivors. Choose the benefit you need rather than treating VA benefits as one application.",
+  "service_type": "veterans",
+  "sections": {
+    "who": [
+      "Eligibility varies by benefit and can depend on service history, disability, family relationship and other program rules. Accredited assistance can help identify the appropriate claim."
+    ],
+    "get": "<p>Benefits include disability compensation, education and training, and housing-related assistance. Each program has its own decision and application pathway.</p>",
+    "docs": "<p>Prepare service records and documents relevant to the requested benefit. For education, VA lists identity, banking, military or education history and school information. Ask about a dependent or survivor application when the benefit is based on another person’s service.</p>",
+    "apply": "<p>Use <a href=\"https://www.benefits.va.gov/BENEFITS/Applying.asp\">VA’s benefit application directory</a>. It links to disability, pension, education and other programs and explains alternatives to online filing. Ask a VA accredited representative for claim assistance if needed.</p>",
+    "after": "<p>Track each claim and respond to requests from the relevant VA program. Read the decision before choosing any review or appeal route. Keep separate records for separate benefits.</p>",
+    "sources": "<ul><li><a href=\"https://www.benefits.va.gov/BENEFITS/Applying.asp\">VA benefit application directory</a></li><li><a href=\"https://benefits.va.gov/gibill/apply.asp\">VA education applications</a></li><li><a href=\"https://www.va.gov/housing-assistance/\">VA housing assistance</a></li><li><a href=\"https://usaassistance.org/programs/va-benefits-veterans/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is one application enough for every VA benefit?",
+      "No. Use the application for the particular benefit."
+    ],
+    [
+      "Can dependents or survivors apply?",
+      "Some programs cover dependents or survivors under their own requirements."
+    ],
+    [
+      "Does housing assistance mean a free home?",
+      "VA housing programs include loans and adaptation assistance; the specific program determines eligibility and terms."
+    ],
+    [
+      "Can someone help with the claim?",
+      "VA encourages assistance from accredited representatives."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "va-benefits-veterans",
+    "source_url": "https://usaassistance.org/programs/va-benefits-veterans/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.va.gov",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.benefits.va.gov/BENEFITS/Applying.asp",
+      "https://benefits.va.gov/gibill/apply.asp",
+      "https://www.va.gov/housing-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

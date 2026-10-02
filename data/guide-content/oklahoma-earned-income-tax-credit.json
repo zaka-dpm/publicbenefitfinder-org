@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma’s earned income credit is claimed on the state income-tax return. Its calculation is tied to federal rules for 2020, so using today’s federal credit amount without the state worksheet can give the wrong result.",
+  "description": "Oklahoma’s earned income credit is claimed on the state income-tax return. Its calculation is tied to federal rules for 2020, so using today’s federal credit amount without th",
+  "sections": {
+    "who": "<p>Use the instructions for the return’s tax year to assess earnings, filing status and qualifying children. Oklahoma Form 511-EIC provides the state calculation.</p>",
+    "get": "<p>For tax year 2025, the state instructions allow five percent of the credit calculated under the specified 2020 federal rules. Proration may apply when Oklahoma adjusted gross income is lower than federal adjusted gross income.</p>",
+    "docs": "<ul><li>Federal return and income documents.</li><li>Qualifying-child and filing-status information.</li><li>Completed Oklahoma Form 511-EIC and any required Schedule 511-G.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the correct year</h3><p>Use <a href=\"https://oklahoma.gov/tax/individuals/file-taxes.html\">the Tax Commission’s filing page</a> to obtain the appropriate forms.</p></li><li><h3 class=\"pbf-h3\">Complete the state worksheet</h3><p>Follow Form 511-EIC rather than copying a current federal figure.</p></li><li><h3 class=\"pbf-h3\">Claim on the return</h3><p>Transfer the calculation as instructed and include required supporting forms.</p></li></ol>",
+    "after": "<p>Keep the worksheet and return copies. Ask a qualified tax preparer about eligibility or a corrected return if the calculation is unclear.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-Pkt.pdf\">2025 resident return instructions</a>, <a href=\"https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-EIC.pdf\">State EIC calculation worksheet</a>, <a href=\"https://oklahoma.gov/tax/individuals/file-taxes.html\">Tax-year filing routes</a>. <a href=\"https://usaassistance.org/programs/oklahoma-earned-income-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Why does the worksheet refer to 2020?",
+      "The 2025 instructions expressly use federal requirements in effect for the 2020 tax year."
+    ],
+    [
+      "Is there a separate benefit application?",
+      "The credit is claimed through the Oklahoma income-tax return."
+    ],
+    [
+      "When is Schedule 511-G relevant?",
+      "The instructions require proration when Oklahoma adjusted gross income is lower than federal adjusted gross income."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-Pkt.pdf",
+      "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-EIC.pdf",
+      "https://oklahoma.gov/tax/individuals/file-taxes.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

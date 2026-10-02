@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Indiana Legal Services offers free civil legal help to eligible residents. Request intake for housing, benefits, family and other noncriminal problems.",
+  "introduction": "Indiana Legal Services offers free civil legal help to eligible residents. Request intake for housing, benefits, family and other noncriminal problems.",
+  "service_type": "legal",
+  "sections": {
+    "who": "<p>ILS generally serves low-income applicants, with income and asset rules and some project-specific exceptions. It does not handle ordinary criminal defense or juvenile delinquency cases, but certain expungement services are available.</p>",
+    "get": "<p>Depending on case acceptance, help may include advice or representation. An application is a request for review, not confirmation that an attorney has taken the case.</p>",
+    "docs": "<ul><li>A summary of the issue and any court or response deadline.</li><li>Notices, court papers, contracts or letters relevant to the issue.</li><li>Household financial information requested during intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request intake</h3><p>Use the <a href=\"https://www.indianalegalservices.org/applyonline/\">ILS application page</a> or call 844-243-8570. The page lists telephone intake Monday–Thursday, 10 a.m.–2 p.m.</p></li><li><h3 class=\"pbf-h3\">Explain deadlines</h3><p>State any hearing, eviction or response date at the start.</p></li><li><h3 class=\"pbf-h3\">Confirm the next step</h3><p>Ask whether your request has been accepted and what records or appointment are needed.</p></li></ol>",
+    "after": "<p>Keep appointments and monitor court notices while intake is pending. Ask the provider about another service if it cannot take the case.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.indianalegalservices.org/eligibility-guidelines/\">ILS eligibility guidelines</a>, <a href=\"https://www.indianalegalservices.org/applyonline/\">ILS intake and alternative resources</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "What if I am unsure about the income rules?",
+      "Apply. ILS says some projects have different eligibility guidelines."
+    ],
+    [
+      "Is the general office number the intake line?",
+      "The application page directs telephone applicants to 844-243-8570."
+    ],
+    [
+      "Will an online legal answer include court representation?",
+      "IN Free Legal Answers provides answers to questions; it does not provide full-case representation through that service."
+    ],
+    [
+      "Does applying cancel a court deadline?",
+      "Do not assume so. Explain the deadline to intake staff and continue following court instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.indianalegalservices.org/eligibility-guidelines/",
+      "https://www.indianalegalservices.org/applyonline/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

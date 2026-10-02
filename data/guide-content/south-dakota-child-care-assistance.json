@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota Child Care Assistance accepts online and paper applications. Your application must identify the provider who will care for the child.",
+  "description": "South Dakota Child Care Assistance accepts online and paper applications. Your application must identify the provider who will care for the child.",
+  "sections": {
+    "who": "<p>The state reviews income and minimum work or school conditions. The provider must fit an eligible licensed, registered, relative or other approved care arrangement.</p>",
+    "get": "<p>Approved assistance covers eligible costs above the family contribution, within program limits.</p>",
+    "docs": "<ul><li>Household income.</li><li>Work or school information.</li><li>Child and provider details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online or download the form</h3><p>Use <a href=\"https://dss.sd.gov/childcare/childcareassistance/apply.aspx\">the child-care intake page</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the provider</h3><p>Check that the arrangement meets the state’s provider requirements.</p></li><li><h3 class=\"pbf-h3\">Read the certificate</h3><p>If approved, review the monthly authorization and eligibility period. The provider receives a copy.</p></li></ol>",
+    "after": "<p>Discuss the copayment and provider charges before care starts. Ask your benefits specialist about changes affecting the certificate.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sd.gov/childcare/childcareassistance/apply.aspx\">Provider selection and application</a>, <a href=\"https://dss.sd.gov/childcare/childcareassistance/eligible.aspx\">Current financial screening</a>, <a href=\"https://dss.sd.gov/childcare/childcareassistance/default.aspx\">Work and school requirements</a>. <a href=\"https://usaassistance.org/programs/south-dakota-child-care-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative provide care?",
+      "The state lists certain eligible relatives and other care arrangements; confirm the exact provider before relying on payment."
+    ],
+    [
+      "Will I receive an approval document?",
+      "Approved families receive a child-care certificate explaining assistance and eligibility dates."
+    ],
+    [
+      "Where can I ask about a denial?",
+      "The program lists 800-227-3020 for questions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sd.gov/childcare/childcareassistance/apply.aspx",
+      "https://dss.sd.gov/childcare/childcareassistance/eligible.aspx",
+      "https://dss.sd.gov/childcare/childcareassistance/default.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

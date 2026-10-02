@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana SNAP helps eligible households buy food. Public Assistance offers online, telephone and local-office application routes.",
+  "description": "Montana SNAP helps eligible households buy food. Public Assistance offers online, telephone and local-office application routes.",
+  "sections": {
+    "who": "<p>Household income, resources and other conditions apply. People buying and preparing meals together generally form a SNAP household; special grouping rules apply.</p>",
+    "get": "<p>Approved households receive food assistance through EBT. Expedited service is available for qualifying urgent cases.</p>",
+    "docs": "<ul><li>Household and income records.</li><li>Resource and housing-cost information.</li><li>Requested identity records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://dphhs.mt.gov/hcsd/SNAP/\">DPHHS’s SNAP page</a> and apply.mt.gov, or call 888-706-1535.</p></li><li><h3 class=\"pbf-h3\">Explain urgent circumstances</h3><p>Ask about expedited screening.</p></li><li><h3 class=\"pbf-h3\">Complete case requirements</h3><p>Follow interview and verification instructions.</p></li></ol>",
+    "after": "<p>Read reporting and renewal notices. Published income tables ending September30,2026 should not be treated as current.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dphhs.mt.gov/hcsd/SNAP/\">Montana SNAP application and households</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply by phone?",
+      "Call 888-706-1535."
+    ],
+    [
+      "Can emergency cases be faster?",
+      "Ask about expedited screening."
+    ],
+    [
+      "Do all roommates form one household?",
+      "Meal-sharing and mandatory family grouping rules matter."
+    ],
+    [
+      "Are last year’s income tables current?",
+      "Confirm current rules with Public Assistance."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dphhs.mt.gov/hcsd/SNAP/"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

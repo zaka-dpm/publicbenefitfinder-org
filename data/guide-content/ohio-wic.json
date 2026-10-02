@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio WIC supplies nutrition support for eligible pregnant, postpartum and breastfeeding participants, infants and children younger than five. Enrollment happens through a local clinic.",
+  "description": "Ohio WIC supplies nutrition support for eligible pregnant, postpartum and breastfeeding participants, infants and children younger than five. Enrollment happens through a local cli",
+  "sections": {
+    "who": "<p>The clinic checks residence, income and nutritional risk. Columbus Public Health lists the Ohio income guideline as 185% of federal poverty guidelines.</p>",
+    "get": "<p>Services include selected nutritious foods, nutrition counseling, breastfeeding support and referrals. WIC is separate from SNAP.</p>",
+    "docs": "<ul><li>Identification, birth-date and address evidence.</li><li>Income records and any Medicaid or SNAP information.</li><li>Pregnancy documentation when requested; bring participating children as instructed.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Contact the WIC clinic serving your county. Franklin County residents can use <a href=\"https://www.columbus.gov/Services/Public-Health/Health-Clinics-and-Services/WIC-Women-Infants-and-Children-Nutrition-Program\">Columbus Public Health WIC</a> or call 614-645-7280.</p></li><li><h3 class=\"pbf-h3\">Arrange certification</h3><p>Ask what to bring and who must attend.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>The clinic reviews eligibility and explains food benefits and follow-up visits.</p></li></ol>",
+    "after": "<p>Use benefits within their assigned period and keep clinic appointments. Confirm local procedures rather than assuming statewide walk-in intake.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.columbus.gov/Services/Public-Health/Health-Clinics-and-Services/WIC-Women-Infants-and-Children-Nutrition-Program\">Columbus WIC services and certification</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the Columbus phone statewide intake?",
+      "No. It serves Franklin County; use your local clinic elsewhere."
+    ],
+    [
+      "Does WIC cover every grocery item?",
+      "No. Benefits cover the assigned food package."
+    ],
+    [
+      "Can SNAP recipients ask about WIC?",
+      "Yes. Bring benefit information for the clinic to review."
+    ],
+    [
+      "Can I just walk in?",
+      "Call the clinic first; Columbus currently requires appointments."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.columbus.gov/Services/Public-Health/Health-Clinics-and-Services/WIC-Women-Infants-and-Children-Nutrition-Program"
+    ],
+    "background_source": "https://usaassistance.org/programs/ohio-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

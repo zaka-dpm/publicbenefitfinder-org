@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio’s earned income credit reduces state income tax for eligible taxpayers who qualify for federal EITC.",
+  "description": "Ohio’s earned income credit reduces state income tax for eligible taxpayers who qualify for federal EITC.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility and Ohio filing requirements apply. Use instructions for the tax year you are filing.</p>",
+    "get": "<p>The statute provides a nonrefundable state credit equal to 30% of federal EITC. It cannot exceed the remaining Ohio tax after applicable preceding credits.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Wage and self-employment records.</li><li>The Ohio return and instructions for the same year.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Complete the federal calculation</h3><p>Determine federal EITC eligibility using the relevant year’s rules.</p></li><li><h3 class=\"pbf-h3\">Use current state forms</h3><p>Follow the Ohio return instructions and transfer the credit amount to the specified place.</p></li><li><h3 class=\"pbf-h3\">Save your records</h3><p>Keep both returns and the supporting calculation.</p></li></ol>",
+    "after": "<p>Read any tax-agency notice carefully and respond using its instructions. Do not reuse an old form’s line number.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5747.71\">Ohio Revised Code 5747.71</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can this credit itself produce a refund?",
+      "It is nonrefundable and offsets Ohio tax."
+    ],
+    [
+      "Is it a benefits-portal application?",
+      "No. Claim it on the state income-tax return."
+    ],
+    [
+      "Is federal EITC relevant?",
+      "Yes. The state calculation is based on that credit."
+    ],
+    [
+      "Can I use a prior year’s form?",
+      "Use the forms matching the year being filed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://codes.ohio.gov/ohio-revised-code/section-5747.71"
+    ],
+    "background_source": "https://usaassistance.org/programs/ohio-earned-income-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

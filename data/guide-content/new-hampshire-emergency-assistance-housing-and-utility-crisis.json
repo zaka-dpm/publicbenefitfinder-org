@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "introduction": "Ask New Hampshire DHHS specifically about Emergency Assistance when a family faces a housing or utility crisis. Explain the urgent date and request the current eligibility and evidence checklist.",
+  "description": "Ask New Hampshire DHHS specifically about Emergency Assistance when a family faces a housing or utility crisis. Explain the urgent date and request the current eligibility and",
+  "sections": {
+    "who": "<p>Emergency Assistance serves families with dependent children who meet FANF eligibility conditions; receiving FANF cash is not required. The crisis must involve threatened homelessness, utility loss or lack of essential fuel, with insufficient resources. Quitting a job or refusing required employment or training can affect eligibility. Funding limits also apply.</p>",
+    "get": "<p>Eligible expenses include housing deposits or first-month rent, rent or mortgage arrears, utility arrears or deposits, and heating fuel. Payments generally go to the vendor, with limits on amounts and how often assistance can be received. Ask which expense category applies to your bill.</p>",
+    "docs": "<ul><li>Lease, mortgage or utility-account details.</li><li>Eviction, arrears or shutoff notices.</li><li>The amount needed and provider contact information.</li><li>Family income, household and any additional DHHS proof requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Prepare the emergency request</h3><p>Complete and sign <a href=\"https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/bfa-765.pdf\">Form BFA 765</a>. Describe the housing or utility problem and urgent date.</p></li><li><h3 class=\"pbf-h3\">Include supporting records</h3><p>Supply family eligibility proof, the emergency notice and amount required. If the bill exceeds program limits, document how the balance will be covered.</p></li><li><h3 class=\"pbf-h3\">Submit and follow up</h3><p>The agency lists Centralized Scanning Unit, PO Box 181, Concord, NH 03301 for the signed form and proof. Contact DHHS promptly about an imminent deadline and confirm receipt.</p></li></ol>",
+    "after": "<p>Keep records of the response and continue contacting the landlord or utility about the pending crisis. If this program cannot help, 211 and local town welfare can identify other intake options.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf\">DHHS current family and emergency assistance guidance</a>, <a href=\"https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/bfa-765.pdf\">Program instructions and forms</a>, <a href=\"https://www.nhhousing.org/rental-assistance/voucher-faq/\">Additional agency guidance</a>. <a href=\"https://usaassistance.org/programs/new-hampshire-emergency-assistance-housing-and-utility-crisis/\">USA Assistance background guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Is this the New Hampshire Housing voucher program?",
+      "No. NH Housing says it does not operate an emergency-assistance program and refers people to community agencies and town welfare."
+    ],
+    [
+      "Can utility or fuel needs be included?",
+      "Yes. Certain utility arrears, deposits and heating-fuel needs can qualify, subject to family eligibility, expense limits and available funding."
+    ],
+    [
+      "Does filing stop an eviction or shutoff?",
+      "Do not assume so. Confirm the actual approval and arrangements with DHHS and the provider."
+    ],
+    [
+      "Must I already receive FANF cash?",
+      "No. The family must meet FANF eligibility conditions, but it need not already receive a cash payment."
+    ],
+    [
+      "Who receives an approved payment?",
+      "The agency generally pays the vendor. Confirm the approved amount and how any remaining balance will be handled."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dhhs.nh.gov/temporary-assistance-needy-families-tanf",
+      "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/bfa-765.pdf",
+      "https://www.nhhousing.org/rental-assistance/voucher-faq/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [],
+    "reviewed_on": "2026-10-01",
+    "resolved_notes": "Current TANF and NHEP agency pages read in Chrome after research-tool access failed."
+  }
+}

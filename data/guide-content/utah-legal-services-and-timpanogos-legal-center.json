@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah Legal Services and Timpanogos Legal Center provide different civil legal-help routes. Ask the provider which service fits your case before assuming full representation.",
+  "description": "Utah Legal Services and Timpanogos Legal Center provide different civil legal-help routes. Ask the provider which service fits your case before assuming full representation.",
+  "sections": {
+    "who": "<p>Each organization screens its own cases. Timpanogos clinics assess income or an abuse-related qualifying situation.</p>",
+    "get": "<p>Legal information, brief advice, clinics or qualifying case assistance depending on provider and case.</p>",
+    "docs": "<ul><li>Court notices and deadlines.</li><li>Relevant agreements and correspondence.</li><li>Income information requested during screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the relevant service</h3><p>Review <a href=\"https://www.utahlegalservices.org/\">Utah Legal Services topics</a> and <a href=\"https://www.timplegal.org/legal-services/our-services\">Timpanogos programs</a>.</p></li><li><h3 class=\"pbf-h3\">Request screening</h3><p>Explain your location, issue and upcoming court date.</p></li><li><h3 class=\"pbf-h3\">Confirm the scope</h3><p>Ask whether the provider offers advice, documents or representation.</p></li></ol>",
+    "after": "<p>Follow court notices while waiting and keep copies of documents given to intake.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.utahlegalservices.org/\">ULS services and interpretation</a>, <a href=\"https://www.timplegal.org/legal-services/our-services\">Timpanogos eligibility and service types</a>. <a href=\"https://usaassistance.org/programs/utah-legal-services-and-timpanogos-legal-center/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do all clinics prepare every type of filing?",
+      "Timpanogos describes its document clinic as certain family-law filings."
+    ],
+    [
+      "Can housing issues fit a clinic?",
+      "Timpanogos lists housing among legal-advice clinic topics."
+    ],
+    [
+      "Is interpretation available?",
+      "Utah Legal Services advertises free interpreters; ask intake about your language."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.utahlegalservices.org/",
+      "https://www.timplegal.org/legal-services/our-services"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

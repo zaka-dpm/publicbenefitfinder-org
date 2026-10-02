@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "A HUD participating housing counseling agency can help you understand housing choices and problems, including renting, buying a home or keeping your current home.",
+  "introduction": "A HUD participating housing counseling agency can help you understand housing choices and problems, including renting, buying a home or keeping your current home.",
+  "service_type": "counseling",
+  "sections": {
+    "who": [
+      "Renters, homeowners and prospective buyers can seek housing counseling. The service is guidance; it does not itself establish eligibility for rental assistance or a mortgage."
+    ],
+    "get": "<p>Counselors help people obtain, sustain and retain housing. Ask the agency which counseling topics it handles and whether it offers appointments by phone, online or in person.</p>",
+    "docs": "<p>Prepare the documents relevant to your question: a lease or mortgage statement, notices, a list of income and expenses, and any deadline. Ask the agency what it needs before sending records.</p>",
+    "apply": "<p>Use <a href=\"https://www.hud.gov/stat/sfh/housing-counseling\">HUD’s housing counseling directory</a> or call <a href=\"tel:8005694287\">800-569-4287</a> to find an agency.</p>",
+    "after": "<p>Explain any court, foreclosure or eviction deadline when booking. Ask for an agreed action list and clarify fees before accepting services. Counseling does not replace a court response or guarantee a lender will modify a loan.</p>",
+    "sources": "<ul><li><a href=\"https://www.hud.gov/stat/sfh/housing-counseling\">HUD housing counseling</a></li><li><a href=\"https://www.hud.gov/sites/dfiles/Housing/documents/HUD_HC_GeneralHCposter.pdf\">HUD counseling information</a></li><li><a href=\"https://usaassistance.org/programs/hud-housing-counseling/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Will HUD counseling pay my rent?",
+      "Counseling provides guidance. Ask the agency about separate assistance programs."
+    ],
+    [
+      "Can renters use the service?",
+      "Yes. HUD’s counseling materials include renters as well as homeowners and buyers."
+    ],
+    [
+      "Is every service free?",
+      "HUD describes counseling as free or low cost. Confirm any fee with the agency first."
+    ],
+    [
+      "Where can I find a counselor?",
+      "Use HUD’s directory or call 800-569-4287."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "hud-housing-counseling",
+    "source_url": "https://usaassistance.org/programs/hud-housing-counseling/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.hud.gov/counseling",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.hud.gov/stat/sfh/housing-counseling",
+      "https://www.hud.gov/sites/dfiles/Housing/documents/HUD_HC_GeneralHCposter.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

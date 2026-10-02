@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "USAGov’s benefit finder lets you explore government assistance by category and locate information about applying. It supplies starting points rather than a benefit approval.",
+  "introduction": "USAGov’s benefit finder lets you explore government assistance by category and locate information about applying. It supplies starting points rather than a benefit approval.",
+  "service_type": "navigation",
+  "sections": {
+    "who": [
+      "Anyone researching assistance for themselves or their family can browse the finder. Eligibility is determined by the individual benefit program."
+    ],
+    "get": "<p>Choose categories such as food, health, housing and utilities, disability, jobs, education or veterans to explore relevant benefits and application information.</p>",
+    "docs": "<p>Browsing categories is separate from submitting an application. Make a short list of the needs you want to address, then review each agency’s document instructions before applying.</p>",
+    "apply": "<p>Visit the <a href=\"https://www.usa.gov/benefit-finder\">USAGov benefit finder</a>, select at least one category and choose Apply selections. Follow the resulting program information to the responsible agency.</p>",
+    "after": "<p>Compare the requirements of each promising program and note its application route. Keep applications and reference numbers separately so that one pending request is not confused with another.</p>",
+    "sources": "<ul><li><a href=\"https://www.usa.gov/benefit-finder\">USAGov benefit finder</a></li><li><a href=\"https://usaassistance.org/programs/usagov-benefit-finder/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does Apply selections submit a benefits application?",
+      "It applies your category choices to the search; the agency application is a separate step."
+    ],
+    [
+      "Can I choose multiple categories?",
+      "Yes. The finder allows multiple selections."
+    ],
+    [
+      "Can it help me research family benefits?",
+      "Yes. Children and families is one of its categories."
+    ],
+    [
+      "Does appearing in results mean I qualify?",
+      "No. Review the program requirements and seek the agency’s decision."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "usagov-benefit-finder",
+    "source_url": "https://usaassistance.org/programs/usagov-benefit-finder/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.usa.gov/benefit-finder",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.usa.gov/benefit-finder"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

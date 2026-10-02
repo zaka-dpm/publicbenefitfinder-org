@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Arkansas Weatherization Assistance improves eligible homes through energy-efficiency and health-and-safety measures. Local service providers handle applications and arrange th",
+  "introduction": "Arkansas Weatherization Assistance improves eligible homes through energy-efficiency and health-and-safety measures. Local service providers handle applications and arrange the work identified by an energy audit.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Households within the state’s current income rules may qualify. The state overview uses 200% of federal poverty guidelines.",
+      "Households with an SSI recipient or receiving or eligible for LIHEAP have categorical eligibility described by the state. The home and other program conditions still need review."
+    ],
+    "get": "<p>The provider uses diagnostic assessment to determine approved conservation work. No client contribution is required. The program is not a cash allowance to spend on independently selected renovations.</p>",
+    "docs": "<p>The state requests household income and identifying records and the previous 12 months of utility bills. Ask the provider for the exact checklist and any ownership or landlord-permission records needed before an assessment.</p>",
+    "apply": "<ol><li>Open <a href=\"https://adeq.state.ar.us/energy/assistance/wap.aspx\">the state WAP page</a> and its local-provider link.</li><li>Apply to the community action agency or nonprofit serving the county where the home is located.</li><li>Supply the requested records and arrange assessment access if selected. Discuss permissions before any work is scheduled.</li></ol>",
+    "after": "<p>Ask about waiting time, the audit and the approved measures. Keep the completion record. Do not pay a private contractor expecting later reimbursement through this program.</p>",
+    "sources": "<ul><li><a href=\"https://adeq.state.ar.us/energy/assistance/wap.aspx\">Arkansas WAP eligibility, documents and intake</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-arkansas/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is LIHEAP approval mandatory for everyone?",
+      "The state describes income eligibility as well as categorical routes through SSI or LIHEAP. Ask the provider which pathway fits your household."
+    ],
+    [
+      "Who decides the work?",
+      "The service provider uses an energy audit and approved conservation measures."
+    ],
+    [
+      "Do I pay a client contribution?",
+      "The state overview says no client contribution is required."
+    ],
+    [
+      "Which office accepts applications?",
+      "The local community action agency or nonprofit serving the home’s county."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-arkansas",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-arkansas/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.acaaa.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://adeq.state.ar.us/energy/assistance/wap.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

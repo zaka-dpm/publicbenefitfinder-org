@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota WIC provides nutrition and breastfeeding support through local clinics. Use the state enrollment route or contact the clinic serving your area.",
+  "description": "South Dakota WIC provides nutrition and breastfeeding support through local clinics. Use the state enrollment route or contact the clinic serving your area.",
+  "sections": {
+    "who": "<p>The program assesses the pregnancy or young-child category, household income and nutrition risk.</p>",
+    "get": "<p>Approved assistance includes a tailored food package, nutrition education and breastfeeding support.</p>",
+    "docs": "<ul><li>Applicant identification.</li><li>Residence and income evidence requested by the clinic.</li><li>Child and health information requested for the appointment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find local enrollment</h3><p>Use <a href=\"https://doh.sd.gov/programs/wic/\">the state WIC link</a> and local-agency directory.</p></li><li><h3 class=\"pbf-h3\">Arrange an appointment</h3><p>Confirm which participants should attend and the required records.</p></li><li><h3 class=\"pbf-h3\">Complete the nutrition review</h3><p>Discuss feeding needs and learn how approved food benefits work.</p></li></ol>",
+    "after": "<p>Keep appointments and contact clinic staff about shopping or breastfeeding questions.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://doh.sd.gov/programs/wic/\">State WIC eligibility and services</a>, <a href=\"https://www.sd.gov/wic?id=cs_kb_article_view&sysparm_article=KB0041542\">Current local-agency directory</a>, <a href=\"https://www.fna.usda.gov/contact/wic/south-dakota\">USDA state intake listing</a>. <a href=\"https://usaassistance.org/programs/south-dakota-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I start online?",
+      "The USDA state directory lists an online application as well as clinic appointments."
+    ],
+    [
+      "Where can I find my clinic?",
+      "The state local-agency directory lists counties and clinic contact details."
+    ],
+    [
+      "Are benefits the same for every participant?",
+      "The state describes food packages tailored to participants’ nutrition needs."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://doh.sd.gov/programs/wic/",
+      "https://www.sd.gov/wic?id=cs_kb_article_view&sysparm_article=KB0041542",
+      "https://www.fna.usda.gov/contact/wic/south-dakota"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

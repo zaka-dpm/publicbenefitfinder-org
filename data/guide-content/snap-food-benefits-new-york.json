@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "New York SNAP helps eligible households buy food through EBT. Application routes differ between New York City and other counties.",
+  "description": "New York SNAP helps eligible households buy food through EBT. Application routes differ between New York City and other counties.",
+  "sections": {
+    "who": "<p>Household income and circumstances affect eligibility. Most households do not face a savings-resource test, but the district must review the case.</p>",
+    "get": "<p>Monthly food assistance depends on the household budget. Qualifying urgent cases can receive expedited benefits.</p>",
+    "docs": "<ul><li>Income evidence.</li><li>Rent or mortgage and utility information.</li><li>Requested identity and household records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the local route</h3><p>Outside NYC use <a href=\"https://www.ny.gov/services/apply-snap\">myBenefits or paper intake</a>; NYC uses ACCESS HRA.</p></li><li><h3 class=\"pbf-h3\">Explain urgent needs</h3><p>Ask for expedited screening when food and money are very limited.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Follow interview and document instructions.</p></li></ol>",
+    "after": "<p>Read reporting and recertification notices. Do not use old income tables as current figures.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ny.gov/services/apply-snap\">State SNAP application guidance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is a pre-screen an application?",
+      "No. Submit the actual application."
+    ],
+    [
+      "Can I apply on paper?",
+      "Yes, through the local district."
+    ],
+    [
+      "Can savings automatically exclude everyone?",
+      "Most households do not have a savings test."
+    ],
+    [
+      "Can urgent cases be expedited?",
+      "Yes, if expedited conditions are met."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ny.gov/services/apply-snap"
+    ],
+    "background_source": "https://usaassistance.org/programs/snap-food-benefits-new-york/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

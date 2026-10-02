@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Maryland WIC supports eligible pregnant, postpartum and breastfeeding participants, infants and children younger than five. A local WIC agency completes enrollment at an appoi",
+  "introduction": "Maryland WIC supports eligible pregnant, postpartum and breastfeeding participants, infants and children younger than five. A local WIC agency completes enrollment at an appointment.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Applicants must live in Maryland, meet the income rules and have a nutritional need.",
+      "Parents, guardians and grandparents can apply for an eligible child; employment or homeownership does not by itself exclude a household."
+    ],
+    "get": "<p>WIC provides participant-specific foods and nutrition support. Ask the clinic about breastfeeding help and the current eWIC shopping instructions.</p>",
+    "docs": "<p>Bring each applicant, identity proof, address proof and household income or accepted benefit evidence. The state lists pay records, benefit letters or Medical Assistance evidence; pregnancy or immunization information may also be requested.</p>",
+    "apply": "<ol><li>Use <a href=\"https://health.maryland.gov/phpa/wic/pages/wic-apply.aspx\">Maryland WIC’s county contacts</a> or its Client Portal to schedule an appointment.</li><li>Confirm the checklist with the clinic and bring each person applying.</li><li>Complete the income and nutrition review and ask how benefits and follow-up appointments work.</li></ol>",
+    "after": "<p>Keep appointments and use the Maryland WIC app or current food list to check purchases. Contact the local agency for benefit questions. The statewide WIC hotline is 800-242-4942.</p>",
+    "sources": "<ul><li><a href=\"https://health.maryland.gov/phpa/wic/pages/wic-apply.aspx\">Maryland WIC appointment and checklist</a></li><li><a href=\"https://health.maryland.gov/phpa/wic/pages/wic-contact-us.aspx\">WIC hotline and contacts</a></li><li><a href=\"https://usaassistance.org/programs/maryland-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I schedule online?",
+      "Yes. The state’s application page links to the WIC Client Portal for appointment scheduling."
+    ],
+    [
+      "Can a grandparent apply for a child?",
+      "Yes. Maryland lists grandparents and guardians as eligible caregivers to apply for a child."
+    ],
+    [
+      "Must the infant attend the first appointment?",
+      "Maryland directs applicants to bring every person seeking benefits, including infants and children. Confirm any accommodation with the clinic."
+    ],
+    [
+      "Does owning a home disqualify me?",
+      "No. The state explicitly says applicants may own a home. Income and other WIC rules still apply."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-wic",
+    "source_url": "https://usaassistance.org/programs/maryland-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.maryland.gov/phpa/wic/pages/home.aspx",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.maryland.gov/phpa/wic/pages/wic-apply.aspx",
+      "https://health.maryland.gov/phpa/wic/pages/wic-contact-us.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

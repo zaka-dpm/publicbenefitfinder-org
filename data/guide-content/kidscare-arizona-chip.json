@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "KidsCare covers qualifying Arizona children younger than 19 who are not eligible for Medicaid. AHCCCS currently states that KidsCare monthly premiums are stopped until further",
+  "introduction": "KidsCare covers qualifying Arizona children younger than 19 who are not eligible for Medicaid. AHCCCS currently states that KidsCare monthly premiums are stopped until further notice.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "The child must meet Arizona residency, income, citizenship or qualifying immigration, and Social Security number requirements.",
+      "The program checks that the child does not qualify for Medicaid, does not have current health insurance, and is not eligible for state-employee health coverage. Other program conditions still apply."
+    ],
+    "get": "<p>KidsCare provides AHCCCS medical coverage through an enrolled health plan. Benefits include physician, hospital, prescription, dental, vision and behavioral health services under the plan’s coverage rules.</p>",
+    "docs": "<p>Prepare the child’s identity and household information, income records and current or recent coverage details. Keep any proof of applying for a Social Security number if needed. Ask the worker which verification is required before sending sensitive records.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.azahcccs.gov/Members/GetCovered/Categories/KidsCare.html\">the KidsCare page</a> to review the conditions and application link.</li><li>Apply through Health-e-Arizona Plus. Request assistor help through the AHCCCS application page if needed.</li><li>Respond to verification requests and read the decision for the effective date and health-plan enrollment.</li></ol>",
+    "after": "<p>Confirm when coverage starts before using the plan. Check participating providers and keep the child’s renewal and contact information current. Premium policy can change, so follow the current AHCCCS notice rather than an older screenshot.</p>",
+    "sources": "<ul><li><a href=\"https://www.azahcccs.gov/Members/GetCovered/Categories/KidsCare.html\">Current KidsCare conditions and premium notice</a></li><li><a href=\"https://epm.azahcccs.gov/EligibilityPolicyManual/Policy/Chapter_400_AHCCCS_Medical_Assistance_Programs/MA0408.htm\">KidsCare policy and services</a></li><li><a href=\"https://www.azahcccs.gov/Members/GetCovered/apply.html\">Application and assistor routes</a></li><li><a href=\"https://usaassistance.org/programs/kidscare-arizona-chip/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is KidsCare for adults?",
+      "No. It is Arizona’s children’s health insurance program for eligible children under 19."
+    ],
+    [
+      "Is a monthly premium currently required?",
+      "The current public KidsCare page says premiums are stopped until further notice. Check any updated enrollment notice."
+    ],
+    [
+      "Can Medicaid-eligible children enroll instead?",
+      "KidsCare is intended for children who are not eligible for Medicaid. The application checks the appropriate coverage."
+    ],
+    [
+      "Is the old income table reliable?",
+      "Use the current agency page and worker determination. Published tables and screenshot labels can be out of date."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kidscare-arizona-chip",
+    "source_url": "https://usaassistance.org/programs/kidscare-arizona-chip/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.azahcccs.gov/Members/GetCovered/Categories/KidsCare.html",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.azahcccs.gov/Members/GetCovered/Categories/KidsCare.html",
+      "https://epm.azahcccs.gov/EligibilityPolicyManual/Policy/Chapter_400_AHCCCS_Medical_Assistance_Programs/MA0408.htm",
+      "https://www.azahcccs.gov/Members/GetCovered/apply.html"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

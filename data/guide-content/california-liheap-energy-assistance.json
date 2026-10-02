@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "California LIHEAP helps eligible households with heating or cooling costs through local energy agencies. Available funding and local priorities affect assistance.",
+  "introduction": "California LIHEAP helps eligible households with heating or cooling costs through local energy agencies. Available funding and local priorities affect assistance.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>The agency checks household income, size, energy costs and other eligibility conditions. The 2026 state income table is a screening reference; the local agency determines eligibility.</p>",
+    "get": "<p>Bill assistance and energy-crisis services can help meet immediate energy needs. Ask the provider which component is available for a regular bill, shutoff or fuel emergency.</p>",
+    "docs": "<p>Prepare all household income, residence and current energy bills. The state plan requires evidence of energy-cost responsibility and relevant eligibility factors.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the local-provider links on <a href=\"https://www.csd.ca.gov/Pages/LIHEAPProgram.aspx\">CSD’s LIHEAP page</a> and contact the agency serving your address.</p></li><li><p>Ask about current intake, required records and crisis handling. State any shutoff date or loss of heating/cooling before arranging the application.</p></li></ol>",
+    "after": "<p>Keep the award notice and verify the account credit. Discuss payment arrangements with the utility while waiting. Read the decision’s appeal instructions if you disagree.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.csd.ca.gov/Pages/LIHEAPProgram.aspx\">LIHEAP and local providers</a>, <a href=\"https://csd.ca.gov/Pages/LIHEAP-Income-Eligibility.aspx\">2026 income table</a>, <a href=\"https://www.csd.ca.gov/Shared%20Documents/2026-Final-LIHEAP-State-Plan.pdf\">Program eligibility and crisis components</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/california-liheap-energy-assistance/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is there one statewide application office?",
+      "Local energy agencies handle intake."
+    ],
+    [
+      "Does falling below the table guarantee assistance?",
+      "No. The provider checks other requirements, priorities and funding."
+    ],
+    [
+      "What if my utility is about to disconnect?",
+      "Tell the provider the date and ask about crisis services; also contact the utility."
+    ],
+    [
+      "Is LIHEAP the same as CARE?",
+      "No. CARE is a recurring bill discount; LIHEAP provides eligible energy assistance."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.csd.ca.gov/Pages/LIHEAPProgram.aspx",
+      "https://csd.ca.gov/Pages/LIHEAP-Income-Eligibility.aspx",
+      "https://www.csd.ca.gov/Shared%20Documents/2026-Final-LIHEAP-State-Plan.pdf"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

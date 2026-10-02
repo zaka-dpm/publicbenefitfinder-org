@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota 211 connects callers with community resources around the clock. The service is free and confidential.",
+  "description": "Minnesota 211 connects callers with community resources around the clock. The service is free and confidential.",
+  "sections": {
+    "who": "<p>Anyone looking for Minnesota resources can request referrals. Each provider has its own intake rules.</p>",
+    "get": "<p>Navigators help locate food, housing, utility and other support. A referral does not reserve funding.</p>",
+    "docs": "<ul><li>ZIP code or county.</li><li>The problem and any urgent deadline.</li><li>Language or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact 211</h3><p>Dial 211 or 800-543-7709, or text your ZIP code to 898211.</p></li><li><h3 class=\"pbf-h3\">Ask for a useful referral</h3><p>Describe the need and ask which providers are currently accepting applications.</p></li><li><h3 class=\"pbf-h3\">Contact the provider</h3><p>Use <a href=\"https://211unitedway.org/\">Minnesota 211</a> to search further resources.</p></li></ol>",
+    "after": "<p>Confirm appointment hours, required records and availability with the provider.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://211unitedway.org/\">Minnesota 211 services</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is phone help available at night?",
+      "Yes, 24 hours daily."
+    ],
+    [
+      "Can I text?",
+      "Text your ZIP code to 898211."
+    ],
+    [
+      "Is language help available?",
+      "211 offers multilingual assistance."
+    ],
+    [
+      "Does 211 approve assistance?",
+      "Providers make those decisions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://211unitedway.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-211-united-way/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

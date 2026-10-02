@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina unemployment claims use DEW’s MyBenefits portal. Weekly certifications and SCWOS job searches are separate ongoing tasks.",
+  "description": "South Carolina unemployment claims use DEW’s MyBenefits portal. Weekly certifications and SCWOS job searches are separate ongoing tasks.",
+  "sections": {
+    "who": "<p>DEW assesses covered earnings, job separation and continued eligibility. Report actual wages and availability for each claimed week.</p>",
+    "get": "<p>Approved payments provide temporary support for eligible weeks after the required waiting period.</p>",
+    "docs": "<ul><li>Social Security and identity information.</li><li>Employer contacts and work history.</li><li>Military or federal employment records where applicable.</li><li>Weekly earnings and search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File through MyBenefits</h3><p>Use <a href=\"https://dew.sc.gov/individuals/applying-benefits\">DEW’s filing instructions</a>.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Follow identity and eligibility requests and save the confirmation.</p></li><li><h3 class=\"pbf-h3\">Certify and search</h3><p>File weekly claims and complete the state’s required SCWOS searches.</p></li></ol>",
+    "after": "<p>Monitor notices and report work accurately. The agency lists 866-831-1724 for filing help.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dew.sc.gov/individuals/applying-benefits\">DEW current filing and weekly requirements</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-south-carolina-dew/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is there a waiting week?",
+      "The state says an unpaid waiting period equivalent to one full benefit week must be served."
+    ],
+    [
+      "Are job searches done in the claims portal?",
+      "DEW directs the required weekly searches to SCWOS."
+    ],
+    [
+      "Where do I file after moving out of state?",
+      "The agency says wages and the relevant employer location determine where to claim, rather than residence alone."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dew.sc.gov/individuals/applying-benefits"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

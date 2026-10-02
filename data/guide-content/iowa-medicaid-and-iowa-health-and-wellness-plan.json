@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Iowa Medicaid covers eligible residents through several pathways. The Iowa Health and Wellness Plan is the adult coverage pathway for qualifying people ages 19–64.",
+  "introduction": "Iowa Medicaid covers eligible residents through several pathways. The Iowa Health and Wellness Plan is the adult coverage pathway for qualifying people ages 19–64.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>HHS determines the appropriate Medicaid category. The Health and Wellness Plan has income and residency rules and is for adults not otherwise eligible for Medicaid or Medicare.</p>",
+    "get": "<p>Coverage includes medical care, prescriptions, mental health services and dental care. Health and Wellness Plan members may owe contributions after the first year unless applicable healthy-behavior steps are completed.</p>",
+    "docs": "<p>Have family income, existing health-insurance details, and applicants’ Social Security numbers or immigration document numbers available.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply through the <a href=\"https://hhsservices.iowa.gov/\">Iowa HHS Services Portal</a>, a local HHS office or a participating health center. Telephone applications: 855-889-7985.</p></li><li><p>Submit any requested evidence and read the eligibility decision before making plan choices.</p></li></ol>",
+    "after": "<p>Approved applicants receive Medicaid and enrollment information. Check the assigned medical/dental plan, choice deadline and coverage date. As of October 2026, HHS announces community-engagement requirements for certain adult-plan members beginning by December 1, 2026; read notices for your circumstances.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/medicaid/apply-medicaid\">Medicaid application</a>, <a href=\"https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan\">Health and Wellness Plan</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-medicaid-and-iowa-health-and-wellness-plan/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is submitting an application the same as selecting a plan?",
+      "No. Eligibility is decided first; enrollment information follows."
+    ],
+    [
+      "Can I apply by phone?",
+      "Yes: 855-889-7985."
+    ],
+    [
+      "Are the December rules already in effect in October?",
+      "The state announces a December 2026 start. Follow dated HHS notices."
+    ],
+    [
+      "Does every Medicaid member use the adult Wellness Plan?",
+      "No. Medicaid has several eligibility categories."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/medicaid/apply-medicaid",
+      "https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

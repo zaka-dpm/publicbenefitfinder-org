@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia Energy Assistance has separate fuel, crisis and cooling components. Each has its own application window and conditions.",
+  "description": "Virginia Energy Assistance has separate fuel, crisis and cooling components. Each has its own application window and conditions.",
+  "sections": {
+    "who": "<p>The current fuel, crisis and cooling income standard is 150% of federal poverty and a qualifying energy expense. Crisis requires an emergency; cooling requires a specified vulnerable household member.</p>",
+    "get": "<p>Help can offset heating costs, address eligible heating emergencies or assist with cooling bills and equipment. The component determines covered support.</p>",
+    "docs": "<ul><li>Household income and identity records.</li><li>Energy account, fuel or equipment information.</li><li>Emergency notice or vulnerable-member evidence when relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the component</h3><p>Review current windows on <a href=\"https://www.dss.virginia.gov/relief/ea/\">VDSS Energy Assistance</a>.</p></li><li><h3 class=\"pbf-h3\">Apply</h3><p>Use CommonHelp, phone intake at 855-635-4370, or the relevant paper form.</p></li><li><h3 class=\"pbf-h3\">Explain deadlines</h3><p>Provide any shutoff or unsafe-equipment details to local DSS.</p></li></ol>",
+    "after": "<p>Regular Fuel Assistance intake runs from the second Tuesday in October to the second Friday in November. Confirm other seasonal windows and never assume an application halts disconnection.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dss.virginia.gov/relief/ea/\">VDSS Energy Assistance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is one application window used for all help?",
+      "No. Components have different windows."
+    ],
+    [
+      "Does cooling have an extra household condition?",
+      "It requires a specified older, disabled or young household member."
+    ],
+    [
+      "Is weatherization bill payment?",
+      "No. DHCD handles separate home-efficiency services."
+    ],
+    [
+      "What if my heat is unsafe?",
+      "Ask local DSS about Crisis Assistance and state the immediate problem."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dss.virginia.gov/relief/ea/"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-energy-assistance-program-fuel-crisis-and-cooling/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "New York Temporary Assistance includes Family Assistance and Safety Net Assistance. Local districts assess regular and emergency requests.",
+  "description": "New York Temporary Assistance includes Family Assistance and Safety Net Assistance. Local districts assess regular and emergency requests.",
+  "sections": {
+    "who": "<p>Financial, household and program conditions apply. Work activities or other cooperation requirements may affect a case.</p>",
+    "get": "<p>Assistance can support basic needs; emergency help may address qualifying urgent costs. The district determines the form and amount.</p>",
+    "docs": "<ul><li>Identity and household records.</li><li>Income and shelter-cost evidence.</li><li>Emergency notices and requested eligibility records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose local intake</h3><p>Use <a href=\"https://mybenefits.ny.gov/mybenefits/begin\">myBenefits</a> or contact the district; NYC applicants use ACCESS HRA.</p></li><li><h3 class=\"pbf-h3\">Explain emergencies</h3><p>State the immediate need and deadlines to a worker.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Follow local document and activity instructions.</p></li></ol>",
+    "after": "<p>Read decisions and hearing instructions. Ask about exceptions or safety concerns with required activities.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://mybenefits.ny.gov/mybenefits/begin\">State assistance application portal</a>; <a href=\"https://access.nyc.gov/programs/cash-assistance/\">NYC cash assistance</a>; <a href=\"https://otda.ny.gov/programs/publications/5102.pdf\">OTDA assistance overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is screening the same as applying?",
+      "No. File an application."
+    ],
+    [
+      "Can I request one-time emergency help?",
+      "Ask the district about the relevant emergency category."
+    ],
+    [
+      "Does NYC use the same portal?",
+      "NYC uses ACCESS HRA."
+    ],
+    [
+      "Who decides eligibility?",
+      "The local social-services district."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mybenefits.ny.gov/mybenefits/begin",
+      "https://access.nyc.gov/programs/cash-assistance/",
+      "https://otda.ny.gov/programs/publications/5102.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/temporary-assistance-family-assistance-and-safety-net/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

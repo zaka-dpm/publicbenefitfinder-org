@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "DC TANF provides cash and supportive services for eligible families. DHS reviews family circumstances and financial eligibility.",
+  "description": "DC TANF provides cash and supportive services for eligible families. DHS reviews family circumstances and financial eligibility.",
+  "sections": {
+    "who": "<p>Applicants must meet District residency and qualifying family or pregnancy rules, with income and resource screening. Orientation, assessment and an Individual Responsibility Plan are part of the program.</p>",
+    "get": "<p>Support can include cash, employment and education coaching, child care and other family services. Exemptions from participation depend on circumstances.</p>",
+    "docs": "<ul><li>Household, child or pregnancy information.</li><li>Income and resource records.</li><li>Evidence relevant to work barriers, disability or requested exemptions.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use District Direct or the methods on <a href=\"https://dhs.dc.gov/page/public-benefits\">DHS Public Benefits</a>.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>Respond to evidence requests and attend Office of Work Opportunity orientation and assessment as directed.</p></li><li><h3 class=\"pbf-h3\">Develop the responsibility plan</h3><p>Discuss goals, supportive services and any exemption with the case worker.</p></li></ol>",
+    "after": "<p>Keep appointments and notices. Announced TANF stabilization changes begin October 1, 2027, not October 2026; review preparation instructions if affected.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhs.dc.gov/service/temporary-cash-assistance-needy-families-tanf\">DC TANF eligibility and current notices</a>; <a href=\"https://dhs.dc.gov/page/public-benefits\">DHS application and recertification</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is TANF only a cash benefit?",
+      "No. DHS lists employment, education, child care and other supports."
+    ],
+    [
+      "Can work participation be exempted?",
+      "Some circumstances qualify; discuss them with the case worker."
+    ],
+    [
+      "When do the announced changes begin?",
+      "DHS lists October 1, 2027."
+    ],
+    [
+      "Can a TANF-only renewal always be done online?",
+      "The current Public Benefits page says TANF-only recertification cannot be completed online; check instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhs.dc.gov/service/temporary-cash-assistance-needy-families-tanf",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-tanf-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

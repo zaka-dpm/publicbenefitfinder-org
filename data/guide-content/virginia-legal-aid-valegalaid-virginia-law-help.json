@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia Law Help offers civil legal information, self-help tools and a route to local legal aid.",
+  "description": "Virginia Law Help offers civil legal information, self-help tools and a route to local legal aid.",
+  "sections": {
+    "who": "<p>Information is available online. Providers screen legal-aid requests for location, financial eligibility, issue and resources.</p>",
+    "get": "<p>You can learn about housing, family, debt and benefits issues and request legal help. Using a tool does not make a lawyer your representative.</p>",
+    "docs": "<ul><li>Court papers and hearing dates.</li><li>Records relevant to the dispute.</li><li>Household information requested for legal-aid screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Read the relevant topic</h3><p>Start at <a href=\"https://www.virginialawhelp.org/\">Virginia Law Help</a>.</p></li><li><h3 class=\"pbf-h3\">Find intake</h3><p>Use its Get Legal Help tool by city or county, or call 866-534-5243.</p></li><li><h3 class=\"pbf-h3\">Explain deadlines</h3><p>State any hearing or response date and ask what help the provider can offer.</p></li></ol>",
+    "after": "<p>Keep deadlines while awaiting a reply. Confirm whether a lawyer has accepted the case and the scope of assistance.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.virginialawhelp.org/\">Virginia Law Help</a>; <a href=\"https://www.virginialawhelp.org/en/diy-tools\">Provider’s tools and intake contact</a>; <a href=\"https://selfhelp.vacourts.gov/page/81/vplc-launches-virginialawhelporg\">Court description of local lookup</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the website a law firm for every visitor?",
+      "It supplies information and connections; representation requires acceptance."
+    ],
+    [
+      "How do I locate local legal aid?",
+      "Use Get Legal Help or 866-534-5243."
+    ],
+    [
+      "Are DIY tools available?",
+      "The site has tools for specified forms and issues."
+    ],
+    [
+      "What if I have a court date?",
+      "Provide the exact date immediately during intake."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.virginialawhelp.org/",
+      "https://www.virginialawhelp.org/en/diy-tools",
+      "https://selfhelp.vacourts.gov/page/81/vplc-launches-virginialawhelporg"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-legal-aid-valegalaid-virginia-law-help/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Tennessee 211 provides free, confidential community-resource referrals. Specialist hours vary by location, so use the local contact-center links for current service information.",
+  "description": "Tennessee 211 provides free, confidential community-resource referrals. Specialist hours vary by location, so use the local contact-center links for current service informatio",
+  "sections": {
+    "who": "<p>You can ask for information without receiving another benefit. Each referred program sets eligibility for assistance.</p>",
+    "get": "<p>Specialists provide nearby provider contacts and help identify the type of service needed.</p>",
+    "docs": "<ul><li>County or ZIP code.</li><li>Need and any urgent date.</li><li>Previous referral results.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call 211</h3><p>Use <a href=\"https://www.uwtn.org/tn-211\">United Ways’ regional contact links</a> if you need your local center.</p></li><li><h3 class=\"pbf-h3\">Explain the problem</h3><p>Describe the location and help sought even if you do not know the program name.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Ask the provider about intake and available assistance.</p></li></ol>",
+    "after": "<p>Return for alternatives if the service cannot help.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.uwtn.org/tn-211\">TN 211 local services and hours</a>. <a href=\"https://usaassistance.org/programs/tn-211/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is every center open the same hours?",
+      "No. United Ways says hours vary by location."
+    ],
+    [
+      "Do I need to know the agency name?",
+      "No. Specialists can help identify a relevant service from the need you describe."
+    ],
+    [
+      "Does 211 approve benefits?",
+      "It provides referrals; the receiving program decides assistance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.uwtn.org/tn-211"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

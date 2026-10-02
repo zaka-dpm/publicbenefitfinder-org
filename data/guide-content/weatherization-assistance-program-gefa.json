@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia weatherization services begin with the Community Action Agency serving your county. Eligible homes receive an energy assessment before approved efficiency measures are selected.",
+  "description": "Georgia weatherization services begin with the Community Action Agency serving your county. Eligible homes receive an energy assessment before approved efficiency measures are",
+  "sections": {
+    "who": "<p>The local agency determines whether a low-income household qualifies. Ask about property requirements, any owner consent and the current waiting list.</p>",
+    "get": "<p>An energy audit examines efficiency and energy-related health or safety conditions. Approved measures follow the assessment; this is not an unrestricted cash payment for repairs.</p>",
+    "docs": "<ul><li>Prepare household income and residence information.</li><li>Have utility records and ownership or tenancy details available.</li><li>Get the local agency’s checklist before arranging the assessment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Identify the county agency</h3><p>Use the contact link on <a href=\"https://gefa.georgia.gov/how-do-i-apply-weatherization\">GEFA’s weatherization application page</a>.</p></li><li><h3 class=\"pbf-h3\">Request eligibility screening</h3><p>Submit the local application and ask whether the agency is accepting new households or maintaining a waiting list.</p></li><li><h3 class=\"pbf-h3\">Arrange the home audit</h3><p>If eligible, follow the agency’s inspection instructions and ask what measures are approved.</p></li></ol>",
+    "after": "<p>Confirm the planned work and appointments with the provider. Tell it about safety concerns or access limitations before a visit.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://gefa.georgia.gov/how-do-i-apply-weatherization\">GEFA weatherization application instructions</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-gefa/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can there be a waiting list?",
+      "Yes. GEFA warns that high demand can create a waiting list."
+    ],
+    [
+      "Who decides which work is done?",
+      "The local program selects measures following the home’s energy audit."
+    ],
+    [
+      "Does weatherization pay my energy bill?",
+      "Its focus is selected efficiency services. Ask the local agency separately about bill assistance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://gefa.georgia.gov/how-do-i-apply-weatherization"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

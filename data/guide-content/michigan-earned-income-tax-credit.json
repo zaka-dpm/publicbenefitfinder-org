@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan EITC is a refundable income-tax credit for eligible workers. Claim it on MI-1040 after claiming federal EITC.",
+  "description": "Michigan EITC is a refundable income-tax credit for eligible workers. Claim it on MI-1040 after claiming federal EITC.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility is required, with Michigan residency or qualifying Michigan-income rules. Both returns must be filed even if otherwise unnecessary.</p>",
+    "get": "<p>The state credit is 30% of the eligible federal EITC. Income, filing status and qualifying children affect the underlying calculation.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Wage and self-employment records.</li><li>Residency or Michigan-source income information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Confirm federal eligibility</h3><p>Use the resources linked from <a href=\"https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc\">Michigan Treasury’s EITC page</a>.</p></li><li><h3 class=\"pbf-h3\">File the federal return</h3><p>Claim the eligible federal credit.</p></li><li><h3 class=\"pbf-h3\">File MI-1040</h3><p>Claim Michigan EITC using the instructions for that tax year and keep the calculation.</p></li></ol>",
+    "after": "<p>For an older return, use year-specific amendment and filing guidance rather than assuming current procedures apply.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc\">Michigan EITC eligibility and filing</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I qualify federally?",
+      "Yes. Michigan says federal EITC eligibility is required."
+    ],
+    [
+      "Can it produce a refund without tax due?",
+      "Yes. The credit is refundable."
+    ],
+    [
+      "Is it claimed in MI Bridges?",
+      "No. Use the income-tax return."
+    ],
+    [
+      "Do I need to file both returns?",
+      "Yes, to claim the federal and Michigan credits."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/taxes/iit/tax-guidance/credits-exemptions/eitc"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

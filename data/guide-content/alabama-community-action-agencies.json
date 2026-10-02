@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alabama’s Community Action network connects residents with county providers for energy, housing, food, early learning and other assistance. The statewide association supplies ",
+  "introduction": "Alabama’s Community Action network connects residents with county providers for energy, housing, food, early learning and other assistance. The statewide association supplies a directory; local agencies deliver the services.",
+  "service_type": "navigation",
+  "sections": {
+    "who": [
+      "Every Alabama county has Community Action coverage. The county provider determines which services you can apply for.",
+      "Each program has its own eligibility rules and funding. Finding your agency does not establish eligibility for every program it offers."
+    ],
+    "get": "<p>Depending on the agency, services may include utility help, weatherization, food support, early-childhood services, workforce assistance and referrals. Check the provider’s current service list before arranging intake.</p>",
+    "docs": "<p>Start with your county or ZIP code and the need you want to address. After finding the agency, request the checklist for that specific service. Keep any urgent notice and income records available for an appointment if requested.</p>",
+    "apply": "<ol><li>Search the <a href=\"https://alabamaimpacthub.org/resources/agency-locator\">Community Action Association’s agency directory</a> by ZIP, county or service.</li><li>If the ZIP search does not identify your agency, select your county.</li><li>Contact the listed local provider. Ask which program fits the need, whether intake is open, and how to apply.</li></ol>",
+    "after": "<p>Keep the local provider’s contact and application reference. Return status questions to the agency handling the request. If it cannot offer a service, ask about another local provider or contact Alabama 211 for a referral.</p>",
+    "sources": "<ul><li><a href=\"https://alabamaimpacthub.org/\">Community Action network and services</a></li><li><a href=\"https://alabamaimpacthub.org/resources/agency-locator\">Agency locator</a></li><li><a href=\"https://usaassistance.org/programs/alabama-community-action-agencies/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does the statewide association pay assistance?",
+      "It supports the network and publishes the directory. Local agencies provide direct services."
+    ],
+    [
+      "What if my ZIP code is not recognized?",
+      "Select the county instead to find the agency’s service area."
+    ],
+    [
+      "Are all services available in every county?",
+      "The network covers the state, but local services and funding can differ. Confirm the service with the provider."
+    ],
+    [
+      "Can I ask about more than utility bills?",
+      "Yes. The directory includes several kinds of support; select the need and ask the local agency about its available programs."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alabama-community-action-agencies",
+    "source_url": "https://usaassistance.org/programs/alabama-community-action-agencies/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.caaalabama.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://alabamaimpacthub.org/",
+      "https://alabamaimpacthub.org/resources/agency-locator"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

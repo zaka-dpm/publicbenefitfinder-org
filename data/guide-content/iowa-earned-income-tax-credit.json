@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Iowa’s earned income tax credit is a refundable state credit tied to the federal EITC. Claim it on the Iowa income-tax return.",
+  "introduction": "Iowa’s earned income tax credit is a refundable state credit tied to the federal EITC. Claim it on the Iowa income-tax return.",
+  "service_type": "tax",
+  "sections": {
+    "who": "<p>You must qualify for the federal EITC. Check the federal rules for the tax year you are filing rather than using a current-year estimate for an older return.</p>",
+    "get": "<p>For tax year 2025, the state credit is 15% of the federal EITC. Part-year residents and nonresidents adjust it using the Iowa income percentage on IA 126.</p>",
+    "docs": "<p>Keep the federal return and EITC calculation, wage records, and any IA 126 used to allocate Iowa income. Keep dependent and filing-status records with the return.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Calculate federal EITC first. Use Iowa’s instructions for the same tax year.</p></li><li><p>For a 2025 return, calculate the Iowa credit and enter it on line 25. Follow the special instructions if filing only to receive EITC under the low-income exemption.</p></li></ol>",
+    "after": "<p>Save both returns and supporting calculations. If Revenue asks for records, use the channel and deadline in its notice.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/iowa-earned-income-tax-credit\">2025 Iowa EITC instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-earned-income-tax-credit/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a monthly benefit?",
+      "No. It is claimed through an Iowa tax return."
+    ],
+    [
+      "Do I have to qualify for federal EITC?",
+      "Yes."
+    ],
+    [
+      "Is the 2025 credit refundable?",
+      "Yes, according to Iowa’s 2025 instructions."
+    ],
+    [
+      "What if I lived in Iowa for only part of the year?",
+      "Use the IA 126 adjustment in the state instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/1040-expanded-instructions/iowa-earned-income-tax-credit"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming child care subsidy helps qualifying families pay for approved care while participating in an eligible activity. Apply through ECARES and confirm that your chosen provi",
+  "introduction": "Wyoming child care subsidy helps qualifying families pay for approved care while participating in an eligible activity. Apply through ECARES and confirm that your chosen provider can receive subsidy payments.",
+  "service_type": "childcare",
+  "sections": {
+    "who": [
+      "Low-income families meeting financial and approved activity requirements.",
+      "Parents or caretakers generally need approved work or employment-related education; two-parent households must have qualifying activities during the same hours."
+    ],
+    "get": "<p>A contribution toward approved child care costs. Families may owe a share and any provider charge above DFS maximum reimbursement.</p>",
+    "docs": "<p>Prepare income for family members, employment or education schedules, child information and provider details. Ask about the Employer’s Statement or Self Employment Statement if relevant.</p>",
+    "apply": "<ol><li>Use the ECARES link on the state child care page.</li><li>Complete the subsidy application and provide the requested activity and income proof.</li><li>Confirm the provider meets DFS requirements and the authorized hours.</li><li>Ask the local DFS office about family charges before agreeing to care.</li></ol>",
+    "after": "<p>Keep the authorization and billing agreement. Report schedule and household changes as directed. If earnings increase, ask whether Transitional Child Care rules allow continued assistance. Do not assume every attendance hour is covered.</p>",
+    "sources": "<ul><li><a href=\"https://dfs.wyo.gov/services/family-services/child-care/\">DFS child care subsidy and ECARES</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-child-care-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is ECARES the current application system?",
+      "The state directs subsidy applications to ECARES, launched in August 2025."
+    ],
+    [
+      "Can I choose a provider?",
+      "Yes, if the provider meets program health, safety and payment requirements."
+    ],
+    [
+      "Will DFS pay the provider’s full rate?",
+      "Charges above the maximum and a family share may remain payable by the parent."
+    ],
+    [
+      "Can both parents need an approved activity?",
+      "The state requires both caretakers’ approved activities during the same hours in a two-parent household."
+    ],
+    [
+      "What if my earnings increase?",
+      "Ask the local office about Transitional Child Care eligibility."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-child-care-assistance",
+    "source_url": "https://usaassistance.org/programs/wyoming-child-care-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dfs.wyo.gov/services/family-services/child-care/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dfs.wyo.gov/services/family-services/child-care/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dfs.wyo.gov/services/family-services/child-care/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

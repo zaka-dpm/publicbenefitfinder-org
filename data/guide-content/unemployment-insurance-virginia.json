@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia unemployment insurance provides temporary support after qualifying unemployment. VEC reviews monetary, separation and weekly eligibility.",
+  "description": "Virginia unemployment insurance provides temporary support after qualifying unemployment. VEC reviews monetary, separation and weekly eligibility.",
+  "sections": {
+    "who": "<p>Wages, job-separation circumstances and continuing ability and availability for work affect entitlement. Follow applicable work-search instructions.</p>",
+    "get": "<p>Approved payments replace part of wages. The initial application does not replace weekly requests.</p>",
+    "docs": "<ul><li>Identity and contact information.</li><li>Employer, work-date and wage records.</li><li>The reason work ended or hours changed.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File</h3><p>Use <a href=\"https://uidirect.vec.virginia.gov/CSS/CSSLogon.htm\">VEC claimant self-service</a> through the state unemployment page.</p></li><li><h3 class=\"pbf-h3\">Respond to questions</h3><p>Complete identity checks and any separation or wage inquiry.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>File after the week ends and accurately report earnings and eligibility information.</p></li></ol>",
+    "after": "<p>Read all decisions and requests. VEC says to continue eligible weekly filing during an appeal.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.vec.virginia.gov/benefits-eligibility\">VEC eligibility</a>; <a href=\"https://www.vec.virginia.gov/your-unemployment-benefit-rights-and-responsibilities\">VEC claimant responsibilities</a>; <a href=\"https://www.vec.virginia.gov/appeals\">VEC appeals</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does a wage determination settle everything?",
+      "Separation and weekly requirements must also be met."
+    ],
+    [
+      "When do I file a weekly request?",
+      "After that week is over, following VEC instructions."
+    ],
+    [
+      "Should I keep filing during an appeal?",
+      "VEC instructs claimants to continue weekly filing."
+    ],
+    [
+      "Can one application cover later weeks?",
+      "No. Weekly requests are required."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.vec.virginia.gov/benefits-eligibility",
+      "https://www.vec.virginia.gov/your-unemployment-benefit-rights-and-responsibilities",
+      "https://www.vec.virginia.gov/appeals"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-virginia/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

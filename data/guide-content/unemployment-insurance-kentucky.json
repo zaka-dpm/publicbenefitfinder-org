@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky Unemployment Insurance provides temporary benefits to qualifying workers. Filing the initial claim, verifying identity and requesting ongoing benefits are separate st",
+  "introduction": "Kentucky Unemployment Insurance provides temporary benefits to qualifying workers. Filing the initial claim, verifying identity and requesting ongoing benefits are separate steps.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "The state checks sufficient prior wages and whether you are unemployed or working less than full time through no fault of your own.",
+      "For payable weeks you must be able and available for work and meet work-search requirements unless the state recognizes an exemption."
+    ],
+    "get": "<p>The state determines the weekly payment and allowable period from your claim. Kentucky has an unpaid waiting week; follow the claim instructions so it is properly recorded.</p>",
+    "docs": "<p>Prepare identity details and employer names, addresses, dates and separation reasons for the last 18 months. Federal employees and former military members may need additional records. Keep work-search evidence as you complete it.</p>",
+    "apply": "<ol><li>Use <a href=\"https://kcc.ky.gov/career/individuals/Pages/File-A-Claim-or-Request-Benefits-Online.aspx\">KCC’s File a Claim link</a> rather than an employer login.</li><li>Complete the claim and required ID.me identity verification.</li><li>Request benefits on the schedule shown in your account and report work and earnings accurately.</li><li>Unless exempt, complete five verifiable weekly work-search activities, including three employment applications or interviews, and retain evidence.</li></ol>",
+    "after": "<p>Read monetary and eligibility determinations separately. Continue benefit requests as instructed while issues are reviewed. Keep confirmations, correspondence and work-search records. If you disagree with a determination, use the appeal instructions and deadline on that notice.</p>",
+    "sources": "<ul><li><a href=\"https://kcc.ky.gov/career/individuals/Pages/File-A-Claim-or-Request-Benefits-Online.aspx\">Kentucky claimant application instructions</a></li><li><a href=\"https://kcc.ky.gov/career/individuals/Pages/Work-Search-Requirements.aspx\">Weekly work-search requirements</a></li><li><a href=\"https://kcc.ky.gov/pages/index.aspx\">Current claim notices</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-kentucky/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is a wage determination an approval for every week?",
+      "No. Separation and weekly eligibility conditions can still affect payment."
+    ],
+    [
+      "Is identity verification required?",
+      "Kentucky says every unemployment claimant must pass ID.me verification. Use the state’s instructions for help."
+    ],
+    [
+      "How many weekly work-search activities are required?",
+      "Unless exempt, five verifiable activities, including three job applications or interviews. Keep supporting records."
+    ],
+    [
+      "Can everyone request benefits by telephone?",
+      "The state limits telephone benefit requests to claimants exempt from work search. Follow the online request instructions unless the state says that option applies to you."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-kentucky",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-kentucky/",
+    "source_updated": "August 2026",
+    "primary_url": "https://elc.ky.gov/Agencies/Pages/Office-of-Unemployment-Insurance.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://kcc.ky.gov/career/individuals/Pages/File-A-Claim-or-Request-Benefits-Online.aspx",
+      "https://kcc.ky.gov/career/individuals/Pages/Work-Search-Requirements.aspx",
+      "https://kcc.ky.gov/pages/index.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

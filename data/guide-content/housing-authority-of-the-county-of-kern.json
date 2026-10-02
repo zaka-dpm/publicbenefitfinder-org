@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "The Housing Authority of the County of Kern administers several affordable housing programs. Apply to the specific program or property whose waiting list is accepting applicat",
+  "introduction": "The Housing Authority of the County of Kern administers several affordable housing programs. Apply to the specific program or property whose waiting list is accepting applications.",
+  "service_type": "housing",
+  "sections": {
+    "who": [
+      "Eligibility depends on the housing program, household income and other requirements. Some properties have additional senior or farmworker criteria."
+    ],
+    "get": "<p>Options include public housing, Housing Choice Vouchers and project-based assistance. Project-based vouchers support specific apartments; assistance is not automatically portable when a tenant moves.</p>",
+    "docs": "<p>Prepare household names, birth dates, Social Security numbers where required, and reliable phone and email contact details. Ask about reasonable accommodation or translation help if needed to apply.</p>",
+    "apply": "<p>Start with <a href=\"https://kernha.org/\">the Housing Authority’s housing listings</a>. The <a href=\"https://kernha.org/project-based-voucher-pbv-program/\">project-based voucher page</a> currently lists online intake through kernhousing.com. Apply separately to each relevant open location.</p>",
+    "after": "<p>Save confirmation messages and monitor email. Report household or address changes through the applicant account. A waiting-list application is not an immediate housing offer; ask about the correct list if your needs change.</p>",
+    "sources": "<ul><li><a href=\"https://kernha.org/\">Kern housing programs and notices</a></li><li><a href=\"https://kernha.org/project-based-voucher-pbv-program/\">Project-based voucher applications</a></li><li><a href=\"https://usaassistance.org/programs/housing-authority-of-the-county-of-kern/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Are all housing lists open together?",
+      "No. Check the particular program or property."
+    ],
+    [
+      "Does a project-based voucher move with me?",
+      "Assistance is tied to the apartment and may not be transferable when you leave."
+    ],
+    [
+      "Is the project-based list open?",
+      "The reviewed page lists an opening from May 1, 2026; check for changes before applying."
+    ],
+    [
+      "Can I request help using the online process?",
+      "Call 661-631-8500 about reasonable accommodation or translation services."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "housing-authority-of-the-county-of-kern",
+    "source_url": "https://usaassistance.org/programs/housing-authority-of-the-county-of-kern/",
+    "source_updated": "August 2026",
+    "primary_url": "https://kernha.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://kernha.org/",
+      "https://kernha.org/project-based-voucher-pbv-program/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

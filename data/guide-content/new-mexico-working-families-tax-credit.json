@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "The Working Families Tax Credit is a refundable credit on New Mexico’s PIT-1 return. Complete the federal earned-income calculation and the state’s year-specific instructions.",
+  "description": "The Working Families Tax Credit is a refundable credit on New Mexico’s PIT-1 return. Complete the federal earned-income calculation and the state’s year-specific instructions.",
+  "sections": {
+    "who": "<p>The state ties eligibility to federal earned-income-credit criteria with additional provisions for some younger workers and taxpayers who cannot claim federally because of identification-number rules. Read the actual PIT instructions for those situations.</p>",
+    "get": "<p>For the 2025 filing season, the state describes a credit equal to 25% of the federal earned-income-credit calculation. It is claimed through the tax return, not YesNM.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Wage and other earned-income records.</li><li>Dependent and identification information.</li><li>The New Mexico PIT-1 instructions for the filed year.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Calculate federal eligibility</h3><p>Complete the relevant federal earned-income worksheet even when reviewing a state-only exception.</p></li><li><h3 class=\"pbf-h3\">Follow the state credit instructions</h3><p>Use <a href=\"https://www.tax.newmexico.gov/individuals/personal-income-tax-information-overview/\">Taxation and Revenue’s PIT guidance</a> to find the return and special provisions.</p></li><li><h3 class=\"pbf-h3\">File and retain the calculation</h3><p>Keep both returns, worksheets and submission confirmation.</p></li></ol>",
+    "after": "<p>Read adjustment notices. If a federal calculation changes, ask whether the state return also needs correction.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.tax.newmexico.gov/individuals/personal-income-tax-information-overview/\">State WFTC and exception guidance</a>, <a href=\"https://www.tax.newmexico.gov/wp-content/uploads/2026/01/20260112_New-Mexico-to-begin-accepting-electronic-income-tax-returns-Jan.-16_Final.pdf\">2025 filing-season rate summary</a>. <a href=\"https://usaassistance.org/programs/new-mexico-working-families-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a monthly cash payment?",
+      "No. It is a refundable personal-income-tax return credit."
+    ],
+    [
+      "Can a worker who fails a federal age rule check state eligibility?",
+      "Yes. The state describes an additional provision for certain younger workers; use the PIT instructions."
+    ],
+    [
+      "Are the same rates used for every prior year?",
+      "No. The state lists different historical rates. Use the year-specific return."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.tax.newmexico.gov/individuals/personal-income-tax-information-overview/",
+      "https://www.tax.newmexico.gov/wp-content/uploads/2026/01/20260112_New-Mexico-to-begin-accepting-electronic-income-tax-returns-Jan.-16_Final.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

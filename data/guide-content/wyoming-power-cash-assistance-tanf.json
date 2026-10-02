@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming POWER is the state’s TANF cash assistance program. It has a Work pathway and a Caretaker Relative pathway for relatives caring for children whose parents do not live i",
+  "introduction": "Wyoming POWER is the state’s TANF cash assistance program. It has a Work pathway and a Caretaker Relative pathway for relatives caring for children whose parents do not live in the home.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families meeting POWER income, resource and other eligibility requirements.",
+      "The Caretaker Relative pathway applies to qualifying primary relatives providing daily care for a child without the parent in the household."
+    ],
+    "get": "<p>Temporary cash assistance and, through the Work pathway, employment or financial stability support. Both pathways include child support assistance.</p>",
+    "docs": "<p>Prepare child and caregiver details, income, assets and relevant custody records. Explain work barriers and ask which pathway and participation rules apply.</p>",
+    "apply": "<ol><li>Download and complete the Application for Assistance from the DFS cash assistance page.</li><li>Contact the local DFS office and submit the application using an accepted office, mail, fax or email route.</li><li>After filing, call 307-777-8550 for the interview during posted hours, or arrange it with the local office.</li></ol>",
+    "after": "<p>Keep notices and any work plan. For status or other case questions, contact the local office rather than the interview line. Discuss earnings, household changes and barriers promptly with the worker.</p>",
+    "sources": "<ul><li><a href=\"https://dfs.wyo.gov/assistance-programs/cash-assistance/\">DFS POWER pathways and application</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-power-cash-assistance-tanf/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can grandparents apply?",
+      "The Caretaker Relative pathway includes qualifying relatives such as grandparents caring for children without the parents in the home."
+    ],
+    [
+      "Are both pathways employment placements?",
+      "DFS distinguishes POWER Work from Caretaker Relative assistance."
+    ],
+    [
+      "Where do I ask about case status?",
+      "Your local DFS office."
+    ],
+    [
+      "Does the interview line take case questions?",
+      "No; DFS reserves it for interviews after application."
+    ],
+    [
+      "Is child support assistance available?",
+      "The current program page lists it for both POWER pathways."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-power-cash-assistance-tanf",
+    "source_url": "https://usaassistance.org/programs/wyoming-power-cash-assistance-tanf/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dfs.wyo.gov/assistance-programs/cash-assistance/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dfs.wyo.gov/assistance-programs/cash-assistance/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dfs.wyo.gov/assistance-programs/cash-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

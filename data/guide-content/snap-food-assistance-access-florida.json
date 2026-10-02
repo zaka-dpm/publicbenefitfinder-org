@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida’s Food Assistance program is SNAP. MyACCESS is the current application and case-management portal; older references to ACCESS Florida refer to the same state benefit system.",
+  "description": "Florida’s Food Assistance program is SNAP. MyACCESS is the current application and case-management portal; older references to ACCESS Florida refer to the same state benefit s",
+  "sections": {
+    "who": "<p>DCF assesses household income, household circumstances and other SNAP rules. Describe who lives with you and the people for whom you purchase and prepare food; do not assume that everyone at one address belongs to the same SNAP household.</p>",
+    "get": "<p>Approved households receive food assistance through EBT. The decision explains the award and certification period; the agency’s current purchase rules apply.</p>",
+    "docs": "<ul><li>Prepare current income and household information.</li><li>Keep housing, childcare and relevant medical-expense records nearby.</li><li>DCF’s verification notice identifies the records it actually needs and the response deadline.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through MyACCESS</h3><p>Start at <a href=\"https://myaccess.myflfamilies.com/\">MyACCESS</a>. A DCF Family Resource Center can help if online access is difficult.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>Check for an interview notice and requests for evidence. An interview may be required; follow your own pending notice rather than relying on someone else’s case experience.</p></li><li><h3 class=\"pbf-h3\">Keep the result</h3><p>Save the submission confirmation and read the decision, EBT instructions and renewal date.</p></li></ol>",
+    "after": "<p>Read MyACCESS notices regularly. Contact DCF about an unclear decision, missing interview or requested record before the deadline in the notice.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.myflfamilies.com/services/public-assistance/applying-for-assistance\">DCF application instructions</a>, <a href=\"https://www.myflfamilies.com/myaccess\">MyACCESS</a>. <a href=\"https://usaassistance.org/programs/snap-food-assistance-access-florida/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must every document be uploaded before I apply?",
+      "MyACCESS says documents do not have to be uploaded to submit an application. DCF will tell you what it needs afterward."
+    ],
+    [
+      "Is ACCESS Florida still the portal name?",
+      "The current portal is MyACCESS. Start from DCF’s website rather than an unofficial login service."
+    ],
+    [
+      "Can I apply for other DCF benefits at the same time?",
+      "MyACCESS also handles temporary cash and medical assistance. Select the programs you need; each has its own eligibility rules."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.myflfamilies.com/services/public-assistance/applying-for-assistance",
+      "https://www.myflfamilies.com/myaccess"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

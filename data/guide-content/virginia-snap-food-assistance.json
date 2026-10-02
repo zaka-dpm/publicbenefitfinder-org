@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia SNAP helps approved households buy eligible food using EBT. Local DSS determines the household benefit.",
+  "description": "Virginia SNAP helps approved households buy eligible food using EBT. Local DSS determines the household benefit.",
+  "sections": {
+    "who": "<p>Household income, size, allowable deductions and applicable program rules affect eligibility. Some households have categorical eligibility routes.</p>",
+    "get": "<p>Monthly grocery support depends on the case. Use current rules rather than an expired income or benefit table.</p>",
+    "docs": "<ul><li>Household identity and income records.</li><li>Housing and applicable expense evidence.</li><li>Requested status and other verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://commonhelp.virginia.gov/\">CommonHelp</a> or ask local DSS for paper intake.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>Attend requested interviews and return evidence. Explain an urgent lack of food.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check the approved amount, EBT instructions and reporting duties.</p></li></ol>",
+    "after": "<p>VaCAP ended June 1, 2026. Former VaCAP cases move to ESAP assessment at recertification and may need additional income and expense information.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dss.virginia.gov/relief/food-assistance/snap/\">VDSS SNAP</a>; <a href=\"https://www.dss.virginia.gov/relief/food-assistance/\">State food assistance intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is a prior VaCAP fixed amount guaranteed?",
+      "No. ESAP assessment calculates benefits from income and allowable expenses."
+    ],
+    [
+      "Can I request paper intake?",
+      "Yes. Contact local DSS."
+    ],
+    [
+      "Does an old table determine my benefit?",
+      "Use the current agency assessment and notice."
+    ],
+    [
+      "Will I need renewal records?",
+      "Follow the recertification checklist, particularly if transitioning from VaCAP."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dss.virginia.gov/relief/food-assistance/snap/",
+      "https://www.dss.virginia.gov/relief/food-assistance/"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts SNAP helps eligible households buy groceries using an EBT card. DTA accepts applications through DTA Connect, by telephone and through paper application routes.",
+  "introduction": "Massachusetts SNAP helps eligible households buy groceries using an EBT card. DTA accepts applications through DTA Connect, by telephone and through paper application routes.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "Individuals and families whose household circumstances meet SNAP rules.",
+      "DTA checks income, household composition and relevant expenses; ask about rules specific to students or work requirements if these affect you."
+    ],
+    "get": "<p>Food benefits on an EBT card. Having a card does not itself mean benefits have been approved.</p>",
+    "docs": "<p>Prepare income records, household details and rent, utility, dependent care or relevant medical expense information. The interview identifies the proof DTA needs; ask about alternatives for unavailable records.</p>",
+    "apply": "<ol><li>Apply on DTA Connect, call 877-382-2363 and select the SNAP application option, or use the state paper form.</li><li>You may start with name, address if you have one, and signature.</li><li>Complete the scheduled telephone interview and return the verification requested.</li><li>Tell DTA if you need food urgently and ask about expedited screening.</li></ol>",
+    "after": "<p>Keep the application receipt and monitor DTA messages. If approved, benefits are effective from the application date. For food while waiting, the DTA FAQ directs people to Project Bread at 800-645-8333. Follow the reporting and renewal instructions in your notices.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/supplemental-nutrition-assistance-program-snap-formerly-known-as-food-stamps\">State SNAP application steps</a></li><li><a href=\"https://www.mass.gov/info-details/dta-frequently-asked-questions\">DTA SNAP telephone and food resources</a></li><li><a href=\"https://www.mass.gov/info-details/program-verifications-what-information-you-need-to-provide\">DTA verification guidance</a></li><li><a href=\"https://usaassistance.org/programs/massachusetts-snap-food-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must all documents be ready before I apply?",
+      "The state accepts an application with name, address if any, and signature."
+    ],
+    [
+      "Is an interview required?",
+      "DTA schedules a telephone interview and can provide an interpreter."
+    ],
+    [
+      "Can I apply without a permanent address?",
+      "The minimum application lists an address only if you have one."
+    ],
+    [
+      "Does a screening result decide my case?",
+      "Submit an application for DTA to make an eligibility decision."
+    ],
+    [
+      "What if I need food before approval?",
+      "Ask DTA about urgent screening and contact Project Bread for other food resources."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "massachusetts-snap-food-assistance",
+    "source_url": "https://usaassistance.org/programs/massachusetts-snap-food-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dtaconnect.eohhs.mass.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/supplemental-nutrition-assistance-program-snap-formerly-known-as-food-stamps",
+      "https://www.mass.gov/info-details/dta-frequently-asked-questions",
+      "https://www.mass.gov/info-details/program-verifications-what-information-you-need-to-provide"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

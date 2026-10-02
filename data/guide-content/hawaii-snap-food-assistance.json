@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi DHS accepts SNAP applications through PAIS or a signed paper application. Keep the tracking receipt and expect DHS to contact you for an interview.",
+  "description": "Hawaiʻi DHS accepts SNAP applications through PAIS or a signed paper application. Keep the tracking receipt and expect DHS to contact you for an interview.",
+  "sections": {
+    "who": "<p>DHS assesses household financial circumstances and other SNAP requirements. Its current page distinguishes broad-based categorical eligibility, households receiving certain cash benefits, and other income tests; do not use one income figure as a universal rule.</p>",
+    "get": "<p>Approved households receive SNAP food benefits through the Hawaiʻi EBT system. The decision explains the award and the household’s reporting and review responsibilities.</p>",
+    "docs": "<ul><li>Prepare household members’ information and current income records.</li><li>Have relevant housing, childcare and other expense information available.</li><li>Use DHS’s case-specific request to identify required verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit online or on paper</h3><p>Start from the <a href=\"https://humanservices.hawaii.gov/bessd/snap/\">DHS SNAP application page</a>. It links PAIS and the paper form.</p></li><li><h3 class=\"pbf-h3\">Save the tracking receipt</h3><p>For online applications, DHS provides a receipt and tracking number. Paper forms must be signed and may be mailed or dropped off at a processing center.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>DHS contacts you for an interview. Provide requested verification and read the eligibility decision.</p></li></ol>",
+    "after": "<p>Follow the reporting and recertification instructions in your notice. If PAIS is unavailable, use the paper route or call 1-855-643-1643 about assistance.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://humanservices.hawaii.gov/bessd/snap/\">Hawaiʻi DHS SNAP eligibility and intake instructions</a>. <a href=\"https://usaassistance.org/programs/hawaii-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without PAIS?",
+      "Yes. DHS lists signed paper applications submitted by mail or drop-off."
+    ],
+    [
+      "Does a tracking number mean approval?",
+      "No. It confirms receipt; DHS still reviews eligibility and interviews the household."
+    ],
+    [
+      "Are all households tested against the same income rule?",
+      "No. The agency lists different eligibility categories. Let DHS assess the applicable one."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://humanservices.hawaii.gov/bessd/snap/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

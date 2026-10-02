@@ -1,0 +1,205 @@
+{
+  "211-utah": {
+    "url": "https://211utah.org/",
+    "append": {
+      "apply": "<p>At the time of this review, 211 Utah lists phone service every day from 8:30 a.m. to 4:45 p.m. Live chat and text operate Monday through Friday during those hours. Use the website to check hours before contacting the service.</p>"
+    },
+    "introduction": "211 Utah connects residents with local food, housing, utility and other assistance providers. Call 211 or 888-826-9790, use the online directory, or check the website for live chat and text options."
+  },
+  "alaska-2-1-1": {
+    "url": "https://www.alaska211.org",
+    "append": {
+      "apply": "<p>Alaska 211 lists phone hours Monday through Friday, 8:30 a.m. to 5 p.m., with a closure from noon to 1 p.m. Check the website for holiday changes and online search options.</p>"
+    }
+  },
+  "general-assistance-maine": {
+    "url": "https://www.maine.gov/dhhs/ofi/programs-services/general-assistance",
+    "append": {
+      "get": "<p>Maine General Assistance is administered through municipal offices. Approved help is provided as a voucher payment to the vendor rather than a general monthly cash payment.</p>"
+    },
+    "sections": {
+      "apply": "<ol><li>Contact your town or city municipal office and ask for General Assistance intake.</li><li>Apply in person and explain the basic needs you cannot meet with your current income and resources.</li><li>Provide the requested records and keep the municipal decision and any voucher instructions.</li></ol>"
+    }
+  },
+  "indiana-energy-assistance-program-eap-liheap": {
+    "url": "https://www.in.gov/ihcda/homeowners-and-renters/low-income-home-energy-assistance-program-liheap/",
+    "append": {
+      "apply": "<p>For program year 2027, IHCDA lists applications from October 1, 2026 through April 30, 2027. Online applications use LITT, replacing EAPConnect. You can also apply by mail or in person through the local service provider serving your county.</p>"
+    },
+    "introduction": "Indiana’s Energy Assistance Program helps eligible households with energy costs. IHCDA and local service providers administer applications; use IHCDA’s county lookup to find the provider serving your home."
+  },
+  "colorado-leap-low-income-energy-assistance-program": {
+    "url": "https://cdhs.colorado.gov/leap",
+    "append": {
+      "apply": "<p>The Colorado LEAP page lists November 1, 2026 as the opening date for the upcoming application period. Check that page for season instructions and available application methods.</p>"
+    }
+  },
+  "north-dakota-child-care-assistance-program-ccap": {
+    "url": "https://www.hhs.nd.gov/applyforhelp",
+    "append": {
+      "apply": "<p>The state benefits portal warns that child care assistance applications submitted on or after December 1, 2025 are placed on a waitlist. Read the linked CCAP notice before making arrangements that depend on subsidy approval.</p>"
+    }
+  },
+  "nc-medicaid": {
+    "url": "https://medicaid.ncdhhs.gov/apply",
+    "append": {
+      "apply": "<p>North Carolina’s online ePASS application calls Medicaid “Medical Assistance.” Create or use your NCID to begin. The Medicaid application page also explains other ways to apply and offers an online application guide.</p>"
+    }
+  },
+  "wyoming-snap-food-assistance": {
+    "url": "https://dfs.wyo.gov/assistance-programs/food-assistance/supplemental-nutrition-assistance-program-snap/",
+    "append": {
+      "apply": "<p>Wyoming’s SNAP page provides English and Spanish paper applications. Completed forms can be submitted to a local DFS office, by mail, by fax or by email to snappowerservice@wyo.gov. Follow the page’s submission and interview instructions.</p>"
+    }
+  },
+  "wyoming-power-cash-assistance-tanf": {
+    "url": "https://dfs.wyo.gov/assistance-programs/cash-assistance/",
+    "append": {
+      "apply": "<p>For Wyoming POWER, download and complete the application, then contact your local Department of Family Services office for an appointment. Use the current office contact details on the program page.</p>"
+    }
+  },
+  "wyoming-lieap-low-income-energy-assistance-program": {
+    "url": "https://dfs.wyo.gov/assistance-programs/low-income-energy-assistance-program-lieap/",
+    "append": {
+      "apply": "<p>Wyoming lists online applications for the 2026–2027 heating season from October 1, 2026 through April 30, 2027. A new application is required each heating season. If you cannot apply online, the program lists 800-246-4221 for application help.</p>"
+    }
+  },
+  "wyoming-child-care-assistance": {
+    "url": "https://dfs.wyo.gov/services/family-services/child-care/",
+    "append": {
+      "apply": "<p>Wyoming directs parents and guardians to ECARES for child care assistance. Ask about the provider’s participation and any family contribution before relying on approval to cover care costs.</p>"
+    }
+  },
+  "unemployment-insurance-arkansas": {
+    "url": "https://dws.arkansas.gov/unemployment/",
+    "append": {
+      "after": "<p>Arkansas requires continuing weekly certification through Arkansas LAUNCH or Arkline. Keep the mailing address on the claim current and follow the instructions for reporting work and earnings each week.</p>"
+    }
+  },
+  "unemployment-insurance-alaska": {
+    "url": "https://labor.alaska.gov/unemployment/",
+    "append": {
+      "apply": "<p>Alaska’s online filing uses a myAlaska account. Recover a forgotten password before starting a claim and keep the confirmation number when the claim is submitted.</p>"
+    }
+  },
+  "unemployment-insurance-connecticut-dol": {
+    "url": "https://portal.ct.gov/dolui/reemployctinfo",
+    "append": {
+      "apply": "<p>Connecticut uses ReEmployCT for unemployment claims. The department recommends an up-to-date Chrome, Edge or Safari browser for that system.</p>"
+    }
+  },
+  "unemployment-insurance-colorado": {
+    "url": "https://cdle.colorado.gov/unemployment/file-a-claim",
+    "append": {
+      "apply": "<p>Colorado uses MyUI+ and may require identity verification when a claim is opened, reopened or changed. If an unexpected existing account prevents filing, follow the department’s customer support instructions.</p>"
+    }
+  },
+  "unemployment-benefits-washington-esd": {
+    "url": "https://esd.wa.gov/get-financial-help/unemployment-benefits",
+    "append": {
+      "who": "<p>Washington explains that unemployment benefits are based on qualifying work and job separation rather than financial need. Applicants must also meet continuing availability and job-search requirements.</p>"
+    }
+  },
+  "missouri-working-family-tax-credit": {
+    "url": "https://dor.mo.gov/faq/taxation/individual/missouri-working-family-tax-credit.html",
+    "append": {
+      "apply": "<p>Missouri’s revenue agency identifies Form MO-WFTC for calculating the credit. Attach it to the Missouri MO-1040 return with the required federal return copy. Use the forms and instructions for the tax year you are claiming.</p>"
+    }
+  },
+  "new-jersey-earned-income-tax-credit": {
+    "url": "https://www.nj.gov/treasury/taxation/eitc/eitcinfo.shtml",
+    "append": {
+      "after": "<p>New Jersey may send a request for additional information before applying the credit. Respond using the notice’s instructions and retain the records supporting your claim.</p>"
+    }
+  },
+  "new-mexico-legal-aid": {
+    "url": "https://newmexicolegalaid.org/",
+    "append": {
+      "apply": "<p>New Mexico Legal Aid accepts requests through its online application or by calling 833-545-4357. Intake staff determine the assistance available for the type of case and service area.</p>"
+    }
+  },
+  "missouri-legal-aid-free-civil-legal-help": {
+    "url": "https://www.lsmo.org/",
+    "append": {
+      "apply": "<p>Missouri has four separate legal aid programs. Use the statewide website’s Program Service Area lookup, then apply to the organization serving your county.</p>"
+    }
+  },
+  "north-carolina-wic": {
+    "url": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/community-nutrition-services-section/wic/apply-wic",
+    "append": {
+      "apply": "<p>North Carolina WIC operates through participating county health departments and other local providers. The state recommends an in-person first appointment; ask the clinic whether a remote option is available and which identification and other records to prepare.</p>"
+    }
+  },
+  "north-dakota-wic": {
+    "url": "https://www.hhs.nd.gov/food-programs/WIC/apply",
+    "append": {
+      "apply": "<p>Use the state clinic directory to find the WIC office near you. The state also lists 800-472-2286 and signupwic.com as ways to connect with a clinic.</p>"
+    }
+  },
+  "wisconsin-wic": {
+    "url": "https://www.dhs.wisconsin.gov/wic/apply.htm",
+    "append": {
+      "apply": "<p>Contact the local WIC office listed for your county to apply, ask questions, submit paperwork or arrange an appointment. Some cities span more than one county; the directory includes a guide to finding the correct county.</p>"
+    }
+  },
+  "nevada-energy-assistance-program-liheap": {
+    "url": "https://dss.nv.gov/programs/energy/apply-for-assistance/",
+    "append": {
+      "apply": "<p>Nevada offers an online application and printable forms. Paper applications are also available through EAP offices, social services offices and participating intake sites; intake sites can help with completing the application.</p>"
+    }
+  },
+  "nevada-snap-food-assistance": {
+    "url": "https://dss.nv.gov/programs/snap/",
+    "append": {
+      "apply": "<p>Nevada directs online SNAP applicants to Access Nevada. After submission, the agency schedules an interview; use the program’s Information Needed to Process Your Application checklist to prepare.</p>"
+    }
+  },
+  "south-dakota-liheap-low-income-energy-assistance": {
+    "url": "https://dss.sd.gov/economicassistance/energy_weatherization_assistance.aspx",
+    "append": {
+      "docs": "<p>South Dakota’s application instructions require signatures from household members age 18 or older. Use the current form to check the complete signature and verification requirements.</p>"
+    }
+  },
+  "weatherization-assistance-program-indiana": {
+    "url": "https://www.in.gov/ihcda/homeowners-and-renters/weatherizationenergy-conservation/",
+    "append": {
+      "get": "<p>Indiana describes weatherization as an energy efficiency service rather than an emergency or general home repair program. Contact the local provider about approved work instead of assuming roofing, siding or every window repair is covered.</p>"
+    }
+  },
+  "weatherization-assistance-program-north-dakota": {
+    "url": "https://www.capnd.org/programsandinitiatives/statewideprograms/weatherization/",
+    "append": {
+      "who": "<p>North Dakota’s program accepts applications from renters and owners, including people in manufactured homes, apartments and conventional houses. Rental participation also requires the landlord’s part of the process; ask the local provider for the forms.</p>"
+    }
+  },
+  "weatherization-assistance-program-maryland": {
+    "url": "https://dhcd.maryland.gov/Energy-Home-Repair/pages/homeowner-grants/wap.aspx",
+    "append": {
+      "apply": "<p>Maryland directs applicants to the local weatherization agency serving their area. Use the agency directory linked from the program page to begin intake.</p>"
+    }
+  },
+  "weatherization-assistance-program-new-jersey": {
+    "url": "https://www.nj.gov/dca/dhcr/offices/wap.shtml",
+    "append": {
+      "apply": "<p>New Jersey directs interested applicants to a weatherization agency serving their county. Check that agency’s intake process and property permission requirements.</p>"
+    }
+  },
+  "weatherization-assistance-program-maine": {
+    "url": "https://www.mainehousing.org/programs-services/HomeImprovement/homeimprovementdetail/weatherization",
+    "append": {
+      "get": "<p>Maine begins weatherization with a home energy assessment. The assessment identifies appropriate improvements; eligible households receive the approved services without a charge.</p>"
+    }
+  },
+  "weatherization-assistance-program-wyoming": {
+    "url": "https://dfs.wyo.gov/assistance-programs/weatherization-assistance-program/",
+    "append": {
+      "who": "<p>Wyoming welcomes both renters and homeowners to apply. Ask the local provider about household eligibility, the assessment and any owner permission needed for a rented property.</p>"
+    }
+  },
+  "weatherization-assistance-program-kansas": {
+    "url": "https://kshousingcorp.org/weatherization-assistance-program/",
+    "append": {
+      "apply": "<p>Kansas Housing’s page includes a notice about selecting a new provider for the eight-county area formerly served by Community Action, Inc. Use the current provider directory rather than an older agency contact list.</p>"
+    }
+  }
+}

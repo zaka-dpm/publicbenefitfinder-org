@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Indiana SNAP helps eligible households buy food through Hoosier Works EBT. Apply through FSSA or a local Division of Family Resources office.",
+  "introduction": "Indiana SNAP helps eligible households buy food through Hoosier Works EBT. Apply through FSSA or a local Division of Family Resources office.",
+  "service_type": "snap",
+  "sections": {
+    "who": "<p>DFR reviews the household, income, resources and other SNAP rules. Married couples and children younger than 22 living with their parents are among the relationships that must be included together. Use DFR’s current income guidance for your household.</p>",
+    "get": "<p>Approved food benefits are accessed through an EBT card. The state’s decision gives your household’s award; the application and card-service processes are separate.</p>",
+    "docs": "<ul><li>Household names, birth dates and Social Security information requested by DFR.</li><li>Income and resource records.</li><li>Housing, utility, dependent-care and court-ordered child support expenses.</li><li>Eligible older or disabled members’ unreimbursed medical expenses.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use the <a href=\"https://fssabenefits.in.gov/bp/\">FSSA Benefits Portal</a> or your local DFR office.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Discuss household circumstances and save the verification checklist and due date.</p></li><li><h3 class=\"pbf-h3\">Return verification</h3><p>Send the requested records by the stated deadline and retain submission evidence.</p></li></ol>",
+    "after": "<p>DFR sends an eligibility notice with appeal rights. Read it carefully, keep your address current and follow the reporting instructions for your case.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/fssa/dfr/snap-food-assistance/\">Indiana SNAP questions and application guidance</a>, <a href=\"https://secure.in.gov/fssa/dfr/about-dfr/contact-dfr\">DFR contact and office information</a>, <a href=\"https://www.in.gov/fssa/dfr/ebt-hoosier-works-card/\">Indiana EBT information</a>. The administering provider determines eligibility and availability.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without internet?",
+      "Yes. DFR offers applications at local offices."
+    ],
+    [
+      "Will I receive a document checklist?",
+      "The interview worker provides or mails a list of outstanding information with a deadline."
+    ],
+    [
+      "Do household transportation vehicles count?",
+      "Indiana excludes vehicles used for household transportation from the SNAP resource determination; other vehicles can be treated differently."
+    ],
+    [
+      "How do I challenge a decision?",
+      "Follow the appeal information in DFR’s eligibility notice."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.in.gov/fssa/dfr/snap-food-assistance/",
+      "https://secure.in.gov/fssa/dfr/about-dfr/contact-dfr",
+      "https://www.in.gov/fssa/dfr/ebt-hoosier-works-card/"
+    ],
+    "review_scope": "Published eligibility and intake facts; no inferred payment guarantees."
+  }
+}

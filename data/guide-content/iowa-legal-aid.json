@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Iowa Legal Aid provides free civil legal services. Apply directly for screening, and identify any hearing or response deadline immediately.",
+  "introduction": "Iowa Legal Aid provides free civil legal services. Apply directly for screening, and identify any hearing or response deadline immediately.",
+  "service_type": "legal",
+  "sections": {
+    "who": "<p>Eligibility depends on income and the legal issue. The provider also describes pathways for older adults, veterans and people experiencing domestic abuse. Apply rather than assuming one income cutoff decides every case.</p>",
+    "get": "<p>Help may involve housing, benefits, family safety or another civil issue. Screening does not guarantee a lawyer will take the case.</p>",
+    "docs": "<p>Prepare court papers, notices, case numbers, relevant dates and household financial information. Keep original documents and provide copies when asked.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the online application linked on Iowa Legal Aid’s Get Help page. If a deadline or hearing is within a week, call and state that urgency.</p></li><li><p>Under 60: call 800-532-1503, weekdays 9–11 a.m. and 1:30–3:30 p.m., except Thursday afternoon. Ages 60+: call 800-992-8161; see the separate senior intake schedule.</p></li></ol>",
+    "after": "<p>Follow intake requests promptly. Confirm what help is offered and who is responsible for court filings; contacting the office does not postpone a deadline.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://iowalegalaid.org/get-help/\">Apply and telephone intake</a>, <a href=\"https://iowalegalaid.org/get-help/faq/\">Eligibility and service FAQs</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-legal-aid/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is this criminal defense?",
+      "The organization handles civil legal problems."
+    ],
+    [
+      "Is there a separate senior number?",
+      "Yes: 800-992-8161 for people 60 and older."
+    ],
+    [
+      "Should I mention an upcoming hearing?",
+      "Yes. State the date at the start of intake."
+    ],
+    [
+      "Does an application guarantee representation?",
+      "No. Eligibility, the legal issue and available resources affect the help offered."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://iowalegalaid.org/get-help/",
+      "https://iowalegalaid.org/get-help/faq/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

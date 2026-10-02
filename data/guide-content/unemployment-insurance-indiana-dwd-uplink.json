@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Indiana unemployment insurance provides temporary income after a qualifying loss of work. File the initial claim and continuing weekly vouchers through Uplink.",
+  "introduction": "Indiana unemployment insurance provides temporary income after a qualifying loss of work. File the initial claim and continuing weekly vouchers through Uplink.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": "<p>Losing work through no fault of your own may qualify you. DWD also reviews earnings and continuing eligibility. Its monetary determination describes potential benefits; it does not itself approve the claim.</p>",
+    "get": "<p>Eligible claimants receive weekly payments. DWD decides the award and whether any issues concerning the claim must be investigated.</p>",
+    "docs": "<ul><li>A valid email address for your Uplink username.</li><li>Identification, address, Social Security number and contact details.</li><li>Your last employer’s contact details, employment dates and reason for separation.</li><li>Bank details if you choose direct deposit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File promptly</h3><p>Read the claimant handbook and use the filing route on <a href=\"https://www.in.gov/dwd/indiana-unemployment/file\">DWD’s application page</a>.</p></li><li><h3 class=\"pbf-h3\">File weekly vouchers</h3><p>Begin the week after applying. Report earnings and keep filing while a claim issue or appeal is pending.</p></li><li><h3 class=\"pbf-h3\">Maintain work-search records</h3><p>DWD currently requires two qualifying activities each week unless a waiver applies. Keep supporting records.</p></li></ol>",
+    "after": "<p>Check your Uplink claimant page for requests and decisions. DWD can review work-search evidence; its guidance says to retain confirmations for six months.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/dwd/indiana-unemployment/file\">initial claim and voucher instructions</a>, <a href=\"https://www.in.gov/dwd/indiana-unemployment/individuals/work-search\">work-search activities and waivers</a>, <a href=\"https://www.in.gov/dwd/indiana-unemployment/individuals/\">unemployment overview and handbook</a>. The provider makes eligibility decisions.</p>"
+  },
+  "faqs": [
+    [
+      "Does a monetary determination mean approval?",
+      "No. DWD separately determines claim eligibility."
+    ],
+    [
+      "Should I file vouchers during an appeal?",
+      "Yes. DWD instructs claimants to continue weekly vouchers while an appeal or delayed issue is pending."
+    ],
+    [
+      "Can work search be waived?",
+      "DWD lists specific waivers, including approved training and certain job-attached or hiring-hall situations. Confirm your status with DWD."
+    ],
+    [
+      "Is direct deposit mandatory?",
+      "No. DWD also offers a prepaid debit card option."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.in.gov/dwd/indiana-unemployment/file",
+      "https://www.in.gov/dwd/indiana-unemployment/individuals/work-search",
+      "https://www.in.gov/dwd/indiana-unemployment/individuals/"
+    ],
+    "facts_verified": true
+  }
+}

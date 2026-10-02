@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "King Outreach Ministry offers food, clothing and crisis assistance to families in western Stokes County. Contact the office before visiting for financial help.",
+  "introduction": "King Outreach Ministry offers food, clothing and crisis assistance to families in western Stokes County. Contact the office before visiting for financial help.",
+  "service_type": "navigation",
+  "sections": {
+    "who": "<p>The ministry serves crisis needs in western Stokes County. Assistance is assessed according to need; ask whether your address and request fall within its service area.</p>",
+    "get": "<p>Its listed services include a food pantry, clothing, prescription medicines, energy or heating assistance, and referrals. The office determines what help is available for your request.</p>",
+    "docs": "<p>For financial assistance, the ministry lists picture identification, Social Security cards for household members, residence proof, household income including benefits, the past 30 days of expenses, and relevant cut-off notices. Ask about alternatives if a record is unavailable.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call 336-983-4357 during office hours, Monday–Friday, 9–11:30 a.m. Describe the need and any deadline.</p></li><li><p>Confirm the documents and visit instructions. The office is at 221 Ingram Drive, King; thrift-shop hours are different.</p></li><li><p>Bring the requested records and explain the crisis and your available resources. Ask what assistance or referral staff can offer.</p></li></ol>",
+    "after": "<p>Keep the response and any payment details. If another agency is suggested, contact it directly and check its own intake requirements. A referral does not approve assistance.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://kingoutreach.org/\">Services, requirements and office contact</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/king-outreach-ministry/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Who does the ministry serve?",
+      "Families facing crisis needs in western Stokes County."
+    ],
+    [
+      "Does the thrift store have the same hours?",
+      "No. Use the office’s morning hours for assistance requests."
+    ],
+    [
+      "Can it help with medication?",
+      "Prescription medicine assistance is among its listed services; ask about your specific need."
+    ],
+    [
+      "Is water-bill help guaranteed?",
+      "No. Its published service list names energy and heating assistance. Ask the office about a water bill and other possible referrals."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://kingoutreach.org/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

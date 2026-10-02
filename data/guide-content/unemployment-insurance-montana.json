@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana unemployment insurance provides temporary wage replacement for eligible workers. Claimant resources explain filing and continued payment requests.",
+  "description": "Montana unemployment insurance provides temporary wage replacement for eligible workers. Claimant resources explain filing and continued payment requests.",
+  "sections": {
+    "who": "<p>Work history, job separation and weekly eligibility conditions affect a claim. Follow current work-search instructions.</p>",
+    "get": "<p>The agency determines payable benefits. An estimator is only an approximation.</p>",
+    "docs": "<ul><li>Identity and employer details.</li><li>Separation information.</li><li>Weekly earnings and work-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the claim</h3><p>Use <a href=\"https://uid.dli.mt.gov/claimants/\">Montana claimant resources</a> and the official claim link.</p></li><li><h3 class=\"pbf-h3\">Read account notices</h3><p>Respond to identity, wage and eligibility questions.</p></li><li><h3 class=\"pbf-h3\">Request weekly payments</h3><p>Complete each week’s questions and report work accurately.</p></li></ol>",
+    "after": "<p>Keep records and review the determination’s appeal instructions if you disagree.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://uid.dli.mt.gov/claimants/\">Montana claimant resources</a>; <a href=\"https://uid.dli.mt.gov/_docs/claims-processing/claimant-handbook.pdf\">Claimant handbook</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the estimator a decision?",
+      "No."
+    ],
+    [
+      "Do I need weekly requests?",
+      "Yes."
+    ],
+    [
+      "Where is the current filing link?",
+      "Follow the state claimant-resources page."
+    ],
+    [
+      "Should I report earnings before payment?",
+      "Follow the handbook’s earned-week reporting instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://uid.dli.mt.gov/claimants/",
+      "https://uid.dli.mt.gov/_docs/claims-processing/claimant-handbook.pdf"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-montana/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

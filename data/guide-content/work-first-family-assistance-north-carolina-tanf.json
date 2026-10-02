@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Work First is North Carolina’s TANF family-assistance program. It combines temporary support with employment services.",
+  "description": "Work First is North Carolina’s TANF family-assistance program. It combines temporary support with employment services.",
+  "sections": {
+    "who": "<p>County DSS checks family and financial rules. The wider service income threshold is not necessarily the cash-benefit threshold.</p>",
+    "get": "<p>Qualifying families may receive cash, diversion, emergency or supportive services. Availability depends on the category.</p>",
+    "docs": "<ul><li>Child and household information.</li><li>Income and resource records.</li><li>Requested residency and eligibility proof.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance\">ePASS or county DSS</a>.</p></li><li><h3 class=\"pbf-h3\">Discuss options</h3><p>Ask about Benefit Diversion or Emergency Assistance for short-term needs.</p></li><li><h3 class=\"pbf-h3\">Complete the plan</h3><p>Follow the Mutual Responsibility Agreement and relevant work requirements.</p></li></ol>",
+    "after": "<p>Ask about time limits and exemptions; report changes and retain notices.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance\">Work First services and application</a>; <a href=\"https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance/work-first-eligibility-and-income\">Eligibility</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the broad service income limit the cash limit?",
+      "No. Ask DSS for the applicable category."
+    ],
+    [
+      "Can I request diversion?",
+      "Ask the county before selecting ongoing assistance."
+    ],
+    [
+      "Is an agreement required?",
+      "Work First lists a Mutual Responsibility Agreement."
+    ],
+    [
+      "Can relatives caring for children seek help?",
+      "The program includes relevant relative-caregiver support."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance",
+      "https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance/work-first-eligibility-and-income"
+    ],
+    "background_source": "https://usaassistance.org/programs/work-first-family-assistance-north-carolina-tanf/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado WIC provides food and nutrition support during pregnancy and early childhood. Start with a clinic call or the state’s online callback request.",
+  "description": "Colorado WIC provides food and nutrition support during pregnancy and early childhood. Start with a clinic call or the state’s online callback request.",
+  "sections": {
+    "who": "<p>Colorado residents may qualify during pregnancy, specified postpartum or breastfeeding periods, or as children younger than five. Caregivers can apply for a child. Income and nutrition screening apply; U.S. citizenship is not required.</p>",
+    "get": "<p>WIC offers supplemental foods, nutrition education, breastfeeding support and health referrals. The clinic determines the appropriate food package.</p>",
+    "docs": "<ul><li>Identity and Colorado address information for the applicants.</li><li>Income records or enrollment evidence for Medicaid, TANF, SNAP or FDPIR.</li><li>Questions about pregnancy, feeding or the child’s nutrition; confirm the clinic’s document list.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request contact from WIC</h3><p>Use the online application linked from <a href=\"https://www.coloradowic.gov/my-family-eligible\">Colorado WIC eligibility</a>, or call the clinic you choose.</p></li><li><h3 class=\"pbf-h3\">Confirm the appointment</h3><p>Ask who must attend and what records the clinic needs. Tell staff about communication or accessibility support.</p></li><li><h3 class=\"pbf-h3\">Complete the screening</h3><p>The clinic checks program eligibility and discusses food, feeding and nutrition needs.</p></li></ol>",
+    "after": "<p>Follow the clinic’s appointment schedule and food-list instructions. Ask about card use and breastfeeding assistance before leaving.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.coloradowic.gov/my-family-eligible\">Colorado WIC eligibility</a>; <a href=\"https://www.coloradowic.gov/\">Colorado WIC benefits</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a father or grandparent enroll a child?",
+      "Yes. WIC welcomes caregivers applying for children younger than five."
+    ],
+    [
+      "Is citizenship required?",
+      "Colorado WIC says U.S. citizenship is not required."
+    ],
+    [
+      "What if I have SNAP or Medicaid?",
+      "Those programs can establish income eligibility; WIC’s other requirements still apply."
+    ],
+    [
+      "Is the callback request approval?",
+      "No. Clinic staff must complete eligibility screening."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.coloradowic.gov/my-family-eligible",
+      "https://www.coloradowic.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

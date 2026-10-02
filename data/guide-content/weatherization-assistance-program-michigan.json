@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan weatherization provides no-cost energy-conservation services for qualifying households. Local Community Action Agencies handle applications.",
+  "description": "Michigan weatherization provides no-cost energy-conservation services for qualifying households. Local Community Action Agencies handle applications.",
+  "sections": {
+    "who": "<p>Homeowners and renters must meet financial and property conditions. The home must be occupied and suitable for the work; homes undergoing remodeling, in foreclosure or for sale do not qualify under the listed conditions.</p>",
+    "get": "<p>An audit determines appropriate efficiency measures. Weatherization is not general rehabilitation, and no individual upgrade is guaranteed.</p>",
+    "docs": "<ul><li>Household income evidence.</li><li>Homeownership evidence or landlord permission.</li><li>Utility-company information and recent gas and electric bills.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the local agency</h3><p>Use the Community Action Agency link on <a href=\"https://www.michigan.gov/mdhhs/doing-business/weatherization/prospective-clients\">Seeking Weatherization Services</a>.</p></li><li><h3 class=\"pbf-h3\">Submit intake records</h3><p>Confirm the agency’s application and property checklist.</p></li><li><h3 class=\"pbf-h3\">Arrange the energy audit</h3><p>The assessment decides whether the home is ready and which measures fit.</p></li></ol>",
+    "after": "<p>Ask about waiting times and repairs outside the program’s scope before planning installation.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/mdhhs/doing-business/weatherization/prospective-clients\">Michigan WAP applicant guidance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes, with required landlord permission."
+    ],
+    [
+      "Is a new furnace guaranteed?",
+      "No. Measures depend on the audit."
+    ],
+    [
+      "Does it repair every unsafe condition?",
+      "No. Work must fit weatherization’s scope."
+    ],
+    [
+      "Are recently weatherized homes served again?",
+      "The state excludes homes served within the past 15 years."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/mdhhs/doing-business/weatherization/prospective-clients"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-michigan/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

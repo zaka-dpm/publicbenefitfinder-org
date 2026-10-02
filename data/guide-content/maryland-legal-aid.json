@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maryland Legal Aid provides free civil legal services to financially eligible residents. Use the dedicated intake line or online form to request a case review.",
+  "introduction": "Maryland Legal Aid provides free civil legal services to financially eligible residents. Use the dedicated intake line or online form to request a case review.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Intake reviews household income and assets as well as the legal issue and service capacity.",
+      "The provider excludes active criminal cases, personal injury and several other matters, including immigration. Explain the issue before assuming it fits its services."
+    ],
+    "get": "<p>Accepted cases can receive advice or representation in areas such as housing, benefits, family safety and employment. Services do not carry a legal-aid fee.</p>",
+    "docs": "<p>Prepare relevant notices, court dates, party names and household financial information. Keep the papers available during intake and identify any imminent filing deadline.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.mdlab.org/get-help-services/\">Maryland Legal Aid Get Help</a> for online intake or call 888-465-2468 Monday–Friday, 9 a.m.–2:30 p.m.</li><li>Alternatively check the listed clinics or office locations.</li><li>Complete the eligibility review and confirm the scope of any offered help.</li></ol>",
+    "after": "<p>Keep complying with court deadlines while waiting for acceptance. Save correspondence and ask about referrals if the program cannot help. If someone claiming to be Legal Aid asks for service fees, contact the intake office to verify the request.</p>",
+    "sources": "<ul><li><a href=\"https://www.mdlab.org/get-help-services/\">Maryland Legal Aid intake and services</a></li><li><a href=\"https://usaassistance.org/programs/maryland-legal-aid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Which number is for intake?",
+      "The Get Help page identifies 888-465-2468 as the main intake line."
+    ],
+    [
+      "Can I apply online?",
+      "Yes. The provider links to its online intake form."
+    ],
+    [
+      "Does Legal Aid charge for its services?",
+      "No. Its current guidance says it does not charge client service fees."
+    ],
+    [
+      "Does completing intake guarantee representation?",
+      "No. Confirm acceptance and what assistance is offered before assuming a lawyer is handling the case."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-legal-aid",
+    "source_url": "https://usaassistance.org/programs/maryland-legal-aid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.marylandlegalaid.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mdlab.org/get-help-services/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

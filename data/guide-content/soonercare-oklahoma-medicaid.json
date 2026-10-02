@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "SoonerCare is Oklahoma Medicaid. Use the member portal’s application link, then respond to requests about the people seeking coverage.",
+  "description": "SoonerCare is Oklahoma Medicaid. Use the member portal’s application link, then respond to requests about the people seeking coverage.",
+  "sections": {
+    "who": "<p>OHCA assesses income, status and a coverage category. Categories include children, pregnancy, qualifying adults ages 19–64, parents, older adults and people with disabilities.</p>",
+    "get": "<p>Approved coverage helps with eligible healthcare. Consult the benefit handbook and provider directory for your category.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Existing insurance details.</li><li>Identity and other evidence listed in OHCA’s verification request.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start from MySoonerCare</h3><p>Use <a href=\"https://oklahoma.gov/ohca/individuals/mysoonercare.html\">the member portal</a> and Apply for Benefits.</p></li><li><h3 class=\"pbf-h3\">Complete the household questions</h3><p>Review every applicant’s information before submitting and keep your confirmation.</p></li><li><h3 class=\"pbf-h3\">Answer OHCA notices</h3><p>Provide requested verification and read the decision and plan instructions.</p></li></ol>",
+    "after": "<p>Keep your address, phone and email current. OHCA announces work requirements for some expansion adults starting January 2027, with exemptions; follow your individual notice.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://oklahoma.gov/ohca/individuals/mysoonercare.html\">Application portal and helpline</a>, <a href=\"https://oklahoma.gov/ohca/individuals/mysoonercare/apply-for-soonercare-online/eligibility.html\">Coverage categories</a>, <a href=\"https://oklahoma.gov/ohca/individuals/mysoonercare/work-requirements.html\">2027 work-rule guidance</a>. <a href=\"https://usaassistance.org/programs/soonercare-oklahoma-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Where can I get online application help?",
+      "The SoonerCare helpline is 800-987-7767; OHCA also lists local Community Action agencies."
+    ],
+    [
+      "Are the work requirements already effective in October 2026?",
+      "OHCA states a January 1, 2027 start date."
+    ],
+    [
+      "Does every adult face those requirements?",
+      "No. OHCA lists affected expansion adults and multiple exemptions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://oklahoma.gov/ohca/individuals/mysoonercare.html",
+      "https://oklahoma.gov/ohca/individuals/mysoonercare/apply-for-soonercare-online/eligibility.html",
+      "https://oklahoma.gov/ohca/individuals/mysoonercare/work-requirements.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana CCAP helps eligible families pay approved child care providers while parents or guardians work, attend school or meet another qualifying activity condition.",
+  "introduction": "Louisiana CCAP helps eligible families pay approved child care providers while parents or guardians work, attend school or meet another qualifying activity condition.",
+  "service_type": "childcare",
+  "sections": {
+    "who": [
+      "The child generally must be younger than 13, or younger than 18 with a qualifying disability, and live in Louisiana with eligible citizenship or immigration status.",
+      "Household income and parent or guardian activity rules apply. The state also lists pathways for job seekers and families experiencing homelessness; explain your situation at intake."
+    ],
+    "get": "<p>Approved assistance goes to the child care provider. Confirm provider participation, the authorized schedule and any family charge before starting care.</p>",
+    "docs": "<p>The application checklist asks for child age or relationship proof, recent consecutive pay records or employer statements, other income, immunizations and school or training schedules where applicable. Prepare self-employment records if needed.</p>",
+    "apply": "<ol><li>Use the <a href=\"https://doe.louisiana.gov/families-and-students/early-childhood-families/child-care-assistance-program-(ccap)\">Department of Education CCAP page</a> and select its online CAFÉ application, or download the paper form.</li><li>Upload the checklist documents and answer questions about your care need.</li><li>Use the linked school and center finder or referral agency to identify an approved provider.</li></ol>",
+    "after": "<p>Check the case status in the CCAP CAFÉ portal and respond to verification requests. Report changes through the online account or state change form. Keep records of the authorization and actual family charges.</p>",
+    "sources": "<ul><li><a href=\"https://doe.louisiana.gov/families-and-students/early-childhood-families/child-care-assistance-program-(ccap)\">Louisiana CCAP</a></li><li><a href=\"https://doe.louisiana.gov/docs/default-source/child-care-providers/ccap-application-checklist.pdf?sfvrsn=94208e1f_12\">CCAP application checklist</a></li><li><a href=\"https://usaassistance.org/programs/child-care-assistance-program-louisiana-ccap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the CCAP CAFÉ portal the same entry point as SNAP?",
+      "Use the Department of Education’s CCAP link, which directs you to its child care CAFÉ system."
+    ],
+    [
+      "Can a child with a disability receive help after age 12?",
+      "Louisiana lists coverage for a qualifying child younger than 18. Submit the requested disability documentation."
+    ],
+    [
+      "What if I am seeking work?",
+      "The state lists an eligibility pathway for active job seekers. Ask intake about the applicable conditions and documents."
+    ],
+    [
+      "Where do payments go?",
+      "CCAP payments go directly to approved child care providers. Ask what costs remain your responsibility."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "child-care-assistance-program-louisiana-ccap",
+    "source_url": "https://usaassistance.org/programs/child-care-assistance-program-louisiana-ccap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://doe.louisiana.gov/families-and-students/early-childhood-families/child-care-assistance-program-(ccap)",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://doe.louisiana.gov/families-and-students/early-childhood-families/child-care-assistance-program-(ccap)",
+      "https://doe.louisiana.gov/docs/default-source/child-care-providers/ccap-application-checklist.pdf?sfvrsn=94208e1f_12"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

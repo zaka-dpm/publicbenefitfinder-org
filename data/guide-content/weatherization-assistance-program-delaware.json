@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware weatherization provides free energy-efficiency services for qualifying homes. The Energy Coordinating Agency handles statewide intake.",
+  "description": "Delaware weatherization provides free energy-efficiency services for qualifying homes. The Energy Coordinating Agency handles statewide intake.",
+  "sections": {
+    "who": "<p>Eligibility depends on household size and income. Homeowners and renters can apply; service priority and annual funding affect the waiting list.</p>",
+    "get": "<p>An energy audit selects conservation work such as insulation and air sealing. This is not a general home-repair program or a routine window replacement service.</p>",
+    "docs": "<ul><li>Household income and member information.</li><li>Property address and ownership or lease records.</li><li>Any owner permission or other property evidence the provider requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Arrange intake</h3><p>Call Energy Coordinating Agency at 302-504-6111 through the <a href=\"https://dnrec.delaware.gov/climate-coastal-energy/energy-office/programs/wap/\">DNREC WAP page</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the document list</h3><p>Bring the requested records and discuss the home’s heating and safety concerns.</p></li><li><h3 class=\"pbf-h3\">Arrange audit and contractor access</h3><p>An approved home is assessed before recommended work and a final quality inspection.</p></li></ol>",
+    "after": "<p>An adult must be available for contractor visits. DNREC says households not served within 12 months must reapply annually.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dnrec.delaware.gov/climate-coastal-energy/energy-office/programs/wap/\">DNREC WAP eligibility and intake</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does approval guarantee immediate work?",
+      "No. Need, priority and funding affect scheduling."
+    ],
+    [
+      "Is it a general repair grant?",
+      "No. It focuses on energy conservation."
+    ],
+    [
+      "Can renters apply?",
+      "Yes. Ask about property-owner requirements."
+    ],
+    [
+      "When do I reapply if not served?",
+      "DNREC says after 12 months, annually."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dnrec.delaware.gov/climate-coastal-energy/energy-office/programs/wap/"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-delaware/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

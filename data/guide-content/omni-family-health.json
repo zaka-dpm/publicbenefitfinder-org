@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Omni Family Health provides medical, dental and behavioral health services through Central Valley health centers. Ask about its sliding fee discount if paying for care is diff",
+  "introduction": "Omni Family Health provides medical, dental and behavioral health services through Central Valley health centers. Ask about its sliding fee discount if paying for care is difficult.",
+  "service_type": "clinic",
+  "sections": {
+    "who": [
+      "Omni says it sees patients regardless of ability to pay. Its sliding discount uses family size and income and is available at or below 200% of federal poverty guidelines for covered services."
+    ],
+    "get": "<p>The network offers primary and preventive care and other clinic services. The sliding fee program discounts eligible services; it does not make every outside service or expense free.</p>",
+    "docs": "<p>For discount screening, complete the Sliding Fee Discount Application and bring accepted income evidence such as a W-2, tax return, recent pay stubs or benefit records. Ask how to document no income or unusual circumstances.</p>",
+    "apply": "<p>Call or text <a href=\"tel:8667076664\">866-707-6664</a> to schedule. Obtain the discount form from <a href=\"https://omnifamilyhealth.org/policies/sliding-fee-scale/\">Omni’s sliding fee page</a> and bring it to your visit.</p>",
+    "after": "<p>Confirm the appointment location, expected charge and whether the requested service is within the discount’s scope. Ask about referral costs and coverage assistance before booking outside care.</p>",
+    "sources": "<ul><li><a href=\"https://omnifamilyhealth.org/services-programs/\">Omni services and appointments</a></li><li><a href=\"https://omnifamilyhealth.org/policies/sliding-fee-scale/\">Omni sliding fee policy and application</a></li><li><a href=\"https://usaassistance.org/programs/omni-family-health/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need insurance to receive care?",
+      "Omni says insurance is not required."
+    ],
+    [
+      "Is the discount based only on income?",
+      "Family size and income determine the applicable discount."
+    ],
+    [
+      "Where do I submit the discount form?",
+      "Bring the completed form and income evidence to your next visit, following Omni’s instructions."
+    ],
+    [
+      "Can I request an interpreter?",
+      "Omni lists free interpretation services at its health centers."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "omni-family-health",
+    "source_url": "https://usaassistance.org/programs/omni-family-health/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.omnifamilyhealth.org/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://omnifamilyhealth.org/services-programs/",
+      "https://omnifamilyhealth.org/policies/sliding-fee-scale/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

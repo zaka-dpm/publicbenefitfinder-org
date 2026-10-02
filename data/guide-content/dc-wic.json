@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "DC WIC provides food and nutrition support for eligible pregnancy, postpartum and early-childhood needs. A clinic appointment completes the application process.",
+  "description": "DC WIC provides food and nutrition support for eligible pregnancy, postpartum and early-childhood needs. A clinic appointment completes the application process.",
+  "sections": {
+    "who": "<p>Applicants must meet WIC’s residency, category, income and nutrition requirements. The local clinic screens potential eligibility before arranging the appointment.</p>",
+    "get": "<p>Support includes supplemental foods, nutrition guidance, breastfeeding help and health referrals. The clinic explains the food package.</p>",
+    "docs": "<ul><li>Recent DC address evidence.</li><li>Income records or relevant benefit-enrollment notice.</li><li>Pregnancy or birth evidence and the child’s immunization record, as requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact a WIC clinic</h3><p>Use the local-site link on <a href=\"https://dchealth.dc.gov/service/apply-wic\">DC Health Apply for WIC</a>.</p></li><li><h3 class=\"pbf-h3\">Complete preliminary screening</h3><p>Staff ask eligibility questions and arrange a clinic appointment if potentially eligible.</p></li><li><h3 class=\"pbf-h3\">Attend with the requested records</h3><p>Confirm which children must attend and allow time for the visit. Ask about communication assistance if needed.</p></li></ol>",
+    "after": "<p>Keep follow-up dates and shopping instructions. Call the clinic before missing an appointment.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dchealth.dc.gov/service/apply-wic\">DC WIC appointment instructions</a>; <a href=\"https://dchealth.dc.gov/service/special-supplemental-nutrition-program-women-infants-and-children-wic\">DC WIC overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does a phone screening enroll me?",
+      "No. It leads to an appointment for potentially eligible applicants."
+    ],
+    [
+      "Should I bring my child?",
+      "DC’s instructions say eligible children should attend; confirm arrangements with the clinic."
+    ],
+    [
+      "Can a benefits notice support income screening?",
+      "The application page lists several benefit notices as evidence."
+    ],
+    [
+      "Where are local sites listed?",
+      "Use the clinic link on DC Health’s application page."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dchealth.dc.gov/service/apply-wic",
+      "https://dchealth.dc.gov/service/special-supplemental-nutrition-program-women-infants-and-children-wic"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

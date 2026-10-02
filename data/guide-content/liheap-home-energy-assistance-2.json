@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania LIHEAP helps eligible households with heating costs and qualifying heat emergencies. Intake follows seasonal announcements.",
+  "description": "Pennsylvania LIHEAP helps eligible households with heating costs and qualifying heat emergencies. Intake follows seasonal announcements.",
+  "sections": {
+    "who": "<p>Renters and homeowners can qualify under household income rules. You do not need to receive another assistance benefit or already owe an unpaid heating bill.</p>",
+    "get": "<p>A heating grant is credited to the utility or fuel supplier. Crisis assistance has separate emergency conditions.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Heating supplier and account details.</li><li>Any shutoff, fuel shortage or equipment-emergency evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check the season</h3><p>The state currently schedules 2026–27 intake to open November 2, 2026; confirm the announcement before applying.</p></li><li><h3 class=\"pbf-h3\">Use the current instructions</h3><p>Follow the application route on the <a href=\"https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap\">LIHEAP page</a> or contact your county assistance office.</p></li><li><h3 class=\"pbf-h3\">Explain a crisis</h3><p>Ask separately about an urgent heating emergency and required evidence.</p></li></ol>",
+    "after": "<p>Track a submitted case at trackmybenefits.pa.gov. Pending assistance is not confirmation that a shutoff is stopped.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap\">State LIHEAP application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is current intake open?",
+      "As checked October 1, the next season is scheduled for November 2."
+    ],
+    [
+      "Must I already owe a bill?",
+      "No. An unpaid heating bill is not required for the regular grant."
+    ],
+    [
+      "Is payment sent to me?",
+      "The regular grant goes to the energy supplier."
+    ],
+    [
+      "Can a renter apply?",
+      "Yes, subject to program rules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dhs/apply-for-the-low-income-home-energy-assistance-program-liheap"
+    ],
+    "background_source": "https://usaassistance.org/programs/liheap-home-energy-assistance-2/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

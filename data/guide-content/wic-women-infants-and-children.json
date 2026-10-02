@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "WIC provides food, nutrition counseling and referrals for eligible pregnant or postpartum people, infants and children under five. Apply through the state or local WIC agency.",
+  "introduction": "WIC provides food, nutrition counseling and referrals for eligible pregnant or postpartum people, infants and children under five. Apply through the state or local WIC agency.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Applicants must fit a WIC participant category and meet income, residence and health-related requirements. Breastfeeding participants may qualify through the baby’s first birthday; other postpartum eligibility can extend six months after a pregnancy ends."
+    ],
+    "get": "<p>WIC supports nutrition through approved foods, counseling and service referrals. Your WIC clinic determines the participant’s eligibility and explains how to use local benefits.</p>",
+    "docs": "<p>Ask the clinic which identity, residence and income documents to bring and whether the child must attend. Tell staff if you need an interpreter or help obtaining evidence before the appointment.</p>",
+    "apply": "<p>Find your state, Tribal or local office through <a href=\"https://fns-prod.azureedge.us/wic/program-contacts\">USDA’s WIC contact directory</a>, then ask that office how to apply and schedule an appointment.</p>",
+    "after": "<p>Follow the clinic’s instructions for benefit use and future appointments. Ask about the foods available for your participant category and what to do when your circumstances or address change.</p>",
+    "sources": "<ul><li><a href=\"https://www.usa.gov/food-assistance\">USAGov WIC eligibility overview</a></li><li><a href=\"https://fns-prod.azureedge.us/wic/program-contacts\">USDA WIC agency contacts</a></li><li><a href=\"https://usaassistance.org/programs/wic-women-infants-and-children/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a parent apply for a child?",
+      "Yes. Children under five are a WIC participant category."
+    ],
+    [
+      "Is WIC the same application as SNAP?",
+      "No. Contact WIC directly about its enrollment process."
+    ],
+    [
+      "Does pregnancy alone guarantee eligibility?",
+      "No. The agency also checks income, residence and health-related requirements."
+    ],
+    [
+      "Where do I submit a national WIC application?",
+      "WIC is administered locally; use the contact directory to find your agency."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wic-women-infants-and-children",
+    "source_url": "https://usaassistance.org/programs/wic-women-infants-and-children/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.fns.usda.gov/wic",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.usa.gov/food-assistance",
+      "https://fns-prod.azureedge.us/wic/program-contacts"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

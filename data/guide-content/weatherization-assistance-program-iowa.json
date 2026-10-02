@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Iowa weatherization helps eligible households improve home energy efficiency. Applications go through the community action agency serving the county.",
+  "introduction": "Iowa weatherization helps eligible households improve home energy efficiency. Applications go through the community action agency serving the county.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": "<p>The program serves low-income households, with particular attention to older adults, people with disabilities and children. Ask the county agency about current screening and property requirements.</p>",
+    "get": "<p>An energy audit determines cost-effective work. Measures can include insulation, air sealing and combustion-appliance safety checks.</p>",
+    "docs": "<p>Ask the agency which income and residence records it needs, and whether owner permission or property information is necessary. Do not send account credentials or original ownership papers without instructions.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Find the county’s community action office through the state’s linked agency directory. If you cannot locate it, call the Community Action Agencies Unit at 515-776-8871.</p></li><li><p>Complete intake and arrange the assessment if selected. Ask which work is approved and when access to the home is needed.</p></li></ol>",
+    "after": "<p>Keep assessment and contractor paperwork. For heating-bill assistance, ask separately about LIHEAP; weatherization concerns improvements to the home.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/assistance-programs/housing-rent-assistance/weatherization-assistance\">Iowa weatherization and county intake</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-iowa/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Who decides which improvements are made?",
+      "The program’s energy audit identifies suitable, cost-effective measures."
+    ],
+    [
+      "Will the program pay my utility bill?",
+      "This program funds approved home efficiency work; ask about LIHEAP for bill assistance."
+    ],
+    [
+      "Where do I apply?",
+      "At the community action agency serving your Iowa county."
+    ],
+    [
+      "Can I pick any renovation?",
+      "Ask the agency about approved measures. The audit guides the work."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/assistance-programs/housing-rent-assistance/weatherization-assistance"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

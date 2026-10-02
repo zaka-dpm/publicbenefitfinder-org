@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont Seasonal Fuel Assistance pays part of eligible households’ heating costs. It is separate from emergency Crisis Fuel.",
+  "description": "Vermont Seasonal Fuel Assistance pays part of eligible households’ heating costs. It is separate from emergency Crisis Fuel.",
+  "sections": {
+    "who": "<p>The state currently lists gross income at or below 185% of federal poverty. Homeowners and renters can qualify, including households paying heat through rent.</p>",
+    "get": "<p>Payment depends on the primary fuel and how heating costs are paid. Active recipients also qualify for free weatherization.</p>",
+    "docs": "<ul><li>Household members, including people DCF may exclude from its fuel calculation.</li><li>Income evidence.</li><li>Heating fuel, supplier or rent information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start or renew</h3><p>Previous recipients complete the annual review form. New applicants use the online link on <a href=\"https://dcf.vermont.gov/benefits/fuel\">Fuel Assistance</a>.</p></li><li><h3 class=\"pbf-h3\">Choose paper if needed</h3><p>Call 800-479-6151 or use a district office; a fuel-only form is available.</p></li><li><h3 class=\"pbf-h3\">Return records</h3><p>Sign the form and supply the requested heating and income details.</p></li></ol>",
+    "after": "<p>The benefit covers part of heating costs. For an immediate emergency, contact Crisis Fuel intake separately.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dcf.vermont.gov/benefits/fuel\">Current DCF Fuel Assistance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can heat included in rent qualify?",
+      "Yes, subject to the program’s assessment."
+    ],
+    [
+      "Is this enough to pay all winter costs?",
+      "No. It pays a portion."
+    ],
+    [
+      "How do previous recipients renew?",
+      "DCF sends an annual review form."
+    ],
+    [
+      "Is weatherization related?",
+      "Active Seasonal Fuel households qualify for free weatherization services."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dcf.vermont.gov/benefits/fuel"
+    ],
+    "background_source": "https://usaassistance.org/programs/seasonal-fuel-assistance-vermont-liheap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

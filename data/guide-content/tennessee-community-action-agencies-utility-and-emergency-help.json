@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Tennessee Community Action agencies serve specific counties. Use the association directory to find local intake rather than submitting one statewide emergency-aid application.",
+  "description": "Tennessee Community Action agencies serve specific counties. Use the association directory to find local intake rather than submitting one statewide emergency-aid application.",
+  "sections": {
+    "who": "<p>Eligibility and available programs depend on the local agency and funding source. Explain your actual need and county.</p>",
+    "get": "<p>Local agencies offer community services; the agency must confirm whether it currently provides the assistance you need.</p>",
+    "docs": "<ul><li>County and contact information.</li><li>Income and household records requested locally.</li><li>Relevant bills or urgent notices.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the county agency</h3><p>Use <a href=\"https://tncommunityaction.org/agencies/\">TACA’s service-area directory</a>.</p></li><li><h3 class=\"pbf-h3\">Ask about current programs</h3><p>Describe the need and confirm openings, appointments and eligibility.</p></li><li><h3 class=\"pbf-h3\">Submit local records</h3><p>Follow the specific program checklist and save confirmation.</p></li></ol>",
+    "after": "<p>Ask for alternative referrals if the agency cannot assist or funding is exhausted.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://tncommunityaction.org/agencies/\">TACA county providers</a>. <a href=\"https://usaassistance.org/programs/tennessee-community-action-agencies-utility-and-emergency-help/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is there one statewide application?",
+      "The directory directs residents to agencies with defined county service areas."
+    ],
+    [
+      "Does every agency offer identical emergency help?",
+      "Confirm the current program directly with the county provider."
+    ],
+    [
+      "Can the directory help find a telephone number?",
+      "Yes. It lists provider contacts and service areas."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://tncommunityaction.org/agencies/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

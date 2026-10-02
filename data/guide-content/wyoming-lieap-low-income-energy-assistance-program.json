@@ -1,0 +1,56 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming LIEAP is accepting 2026–27 winter applications from October 1, 2026 through April 30, 2027. It helps eligible households with heating costs and separate heating emergencies.",
+  "introduction": "Wyoming LIEAP is accepting 2026–27 winter applications from October 1, 2026 through April 30, 2027. It helps eligible households with heating costs and separate heating emergencies.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Wyoming households responsible for heating costs with income at or below 60% of state median income.",
+      "Owners, renters and residents of permanently parked RVs may apply.",
+      "Crisis applicants must document a recent qualifying energy payment under the rules effective October 1, 2026."
+    ],
+    "get": "<p>A contribution paid directly to the fuel vendor; seasonal benefits do not cover bills before October 1, 2026. Amounts depend on household circumstances and do not necessarily cover all costs.</p>",
+    "docs": "<p>Prepare household and income records, supplier accounts and current bills. For crisis help, keep a recent disconnection notice and proof of at least one utility payment within the past 60 days.</p>",
+    "apply": "<ol><li>Use the application portal linked from the current LIEAP page; the updated short URL is MYLIEAPWYO.ORG.</li><li>Submit a new application for this heating season.</li><li>If unable to apply online, call 800-246-4221 for telephone help.</li><li>For additional crisis help after seasonal application, call the LIEAP office to request it.</li></ol>",
+    "after": "<p>Check status and provide requested documents. Keep payment receipts and ask the vendor about pending assistance. WAP uses the joint application but has separate income and work-selection rules.</p>",
+    "sources": "<ul><li><a href=\"https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/low-income-energy-assistance-program-lieap/\">Current 2026–27 LIEAP opening and changes</a></li><li><a href=\"https://usaassistance.org/programs/wyoming-lieap-low-income-energy-assistance-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the old LIEAP short URL current?",
+      "The state says the short URL changed to MYLIEAPWYO.ORG."
+    ],
+    [
+      "What is the current application window?",
+      "October 1, 2026–April 30, 2027."
+    ],
+    [
+      "Can benefits pay an old summer bill?",
+      "Seasonal benefits do not pay bills before October 1, 2026."
+    ],
+    [
+      "Is recent payment proof required for crisis aid?",
+      "The state’s October 2026 rule requires at least one verifiable payment toward a primary or secondary utility within 60 days."
+    ],
+    [
+      "Is weatherization available on the same form?",
+      "Yes, but WAP has separate requirements and year-round intake."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wyoming-lieap-low-income-energy-assistance-program",
+    "source_url": "https://usaassistance.org/programs/wyoming-lieap-low-income-energy-assistance-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dfs.wyo.gov/assistance-programs/low-income-energy-assistance-program-lieap/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dfs.wyo.gov/assistance-programs/low-income-energy-assistance-program-lieap/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/low-income-energy-assistance-program-lieap/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

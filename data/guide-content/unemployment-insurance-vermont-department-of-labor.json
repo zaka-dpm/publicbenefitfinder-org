@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont UI replaces part of lost wages after qualifying unemployment. The Department of Labor now uses an updated claimant system.",
+  "description": "Vermont UI replaces part of lost wages after qualifying unemployment. The Department of Labor now uses an updated claimant system.",
+  "sections": {
+    "who": "<p>The state reviews wage history, separation and continuing eligibility. Use current claimant instructions rather than an older portal address.</p>",
+    "get": "<p>Eligible weekly payments provide temporary support. Initial and weekly claims are distinct submissions.</p>",
+    "docs": "<ul><li>Identity and contact details.</li><li>Employer, work-date and wage records.</li><li>The separation reason and any requested evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Establish the claim</h3><p>Use <a href=\"https://labor.ui.vermont.gov/UI/Claimant\">Claimant e-Services</a> or call initial intake at 877-214-3330.</p></li><li><h3 class=\"pbf-h3\">Follow verification</h3><p>Complete identity and information requests.</p></li><li><h3 class=\"pbf-h3\">File weekly</h3><p>Use claimant e-Services or the automated weekly-claim number 800-983-2300 during its posted filing hours.</p></li></ol>",
+    "after": "<p>Claimant assistance is 877-214-3332. Read decisions and report earnings accurately in each requested week.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://labor.vermont.gov/unemployment-insurance\">Current state UI system instructions</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the employer portal for my claim?",
+      "No. Use the Claimant e-Services portal."
+    ],
+    [
+      "Are initial and weekly phone numbers the same?",
+      "No. The state lists separate numbers."
+    ],
+    [
+      "Can I reopen a prior claim online?",
+      "The updated claimant system supports reopening."
+    ],
+    [
+      "Does filing once cover later weeks?",
+      "No. File weekly claims as instructed."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://labor.vermont.gov/unemployment-insurance"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-vermont-department-of-labor/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

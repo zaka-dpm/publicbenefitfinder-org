@@ -1,0 +1,56 @@
+{
+  "status": "reviewed",
+  "description": "Wyoming weatherization offers free energy improvements for eligible households. Applications are accepted year-round through the joint LIEAP and WAP application, with work sel",
+  "introduction": "Wyoming weatherization offers free energy improvements for eligible households. Applications are accepted year-round through the joint LIEAP and WAP application, with work selected by priority and a home energy audit.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Wyoming households meeting the weatherization income rules, normally up to 200% of federal poverty guidelines.",
+      "SNAP, SSI or TANF participation can establish income eligibility.",
+      "Owners and renters can apply; renters need written landlord permission."
+    ],
+    "get": "<p>Approved efficiency and safety measures such as insulation, air sealing or heating system work. The agency decides appropriate work after assessing the home.</p>",
+    "docs": "<p>Prepare household income and address information and property details. Include the required rental agreement if renting and make sure adults sign the application as directed.</p>",
+    "apply": "<ol><li>Use the application portal linked on the current state WAP page.</li><li>If seeking only weatherization, use the joint application and select the WAP box.</li><li>Respond to requested proof and arrange the energy audit if selected.</li><li>For help call 800-246-4221.</li></ol>",
+    "after": "<p>Approval does not guarantee services that year because selection is prioritized. Confirm audit and work appointments. A property generally cannot be weatherized again until 15 years after prior service. Contact the weatherization agency first with a work complaint.</p>",
+    "sources": "<ul><li><a href=\"https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/weatherization-assistance-program-wap-2/\">Current WAP application and service rules</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-wyoming/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply outside winter?",
+      "Yes, WAP accepts applications year-round."
+    ],
+    [
+      "Can a mobile home qualify?",
+      "The state lists mobile homes among eligible property types."
+    ],
+    [
+      "Does LIEAP approval guarantee work?",
+      "No; it establishes consideration, and services use a priority system."
+    ],
+    [
+      "Can a renter apply?",
+      "Yes, with written landlord permission and required rental paperwork."
+    ],
+    [
+      "Can the home be weatherized every year?",
+      "No; the state generally requires 15 years between services."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-wyoming",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-wyoming/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dfs.wyo.gov/assistance-programs/weatherization-assistance-program/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://dfs.wyo.gov/assistance-programs/weatherization-assistance-program/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dfs.wyo.gov/assistance-programs/home-utilities-energy-assistance/weatherization-assistance-program-wap-2/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

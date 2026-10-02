@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "NM Energy$mart provides qualifying home-efficiency work through regional providers. Submit the household application to the provider serving your location, rather than to Housing New Mexico.",
+  "description": "NM Energy$mart provides qualifying home-efficiency work through regional providers. Submit the household application to the provider serving your location, rather than to Hous",
+  "sections": {
+    "who": "<p>Eligible homeowners and renters are considered under program income and property rules. Rental work requires landlord consent and a signed agreement before services can proceed.</p>",
+    "get": "<p>The program provides selected energy-saving retrofits and home modifications at no charge to eligible residents. Assessment determines suitable work; it is different from a cash utility award.</p>",
+    "docs": "<ul><li>Income and household records requested by the provider.</li><li>Home address and energy information.</li><li>Ownership or tenancy details.</li><li>Landlord consent and the provider’s rental agreement if renting.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Identify the provider</h3><p>Use the <a href=\"https://housingnm.org/individuals-and-families/home-rehabilitation-and-weatherization/energymart-weatherization-assistance/apply\">county and tribal service-area list</a>.</p></li><li><h3 class=\"pbf-h3\">Request and submit intake</h3><p>Central New Mexico Housing Corporation serves the listed northern area, Southwestern Regional Housing the southern area, and Red Feather the Navajo Nation route.</p></li><li><h3 class=\"pbf-h3\">Complete property assessment</h3><p>Ask about scheduling, approved measures and any condition that must be resolved before work.</p></li></ol>",
+    "after": "<p>Save your application copy and provider contact. Ask about waiting-list updates and post-work inspection and maintenance.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://housingnm.org/individuals-and-families/home-rehabilitation-and-weatherization/energymart-weatherization-assistance/apply\">Energy$mart household intake and regional providers</a>, <a href=\"https://housingnm.org/individuals-and-families/home-rehabilitation-and-weatherization/energymart-weatherization-assistance\">Energy$mart service purpose</a>. <a href=\"https://usaassistance.org/programs/nm-energy-mart-weatherization-program/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I mail my household application to Housing New Mexico?",
+      "No. Its application page says to submit directly to the local service provider."
+    ],
+    [
+      "Can a renter receive work?",
+      "Yes, subject to eligibility, landlord consent and the required rental agreement."
+    ],
+    [
+      "Which route serves Navajo Nation residents?",
+      "The current directory lists Red Feather Development Group."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://housingnm.org/individuals-and-families/home-rehabilitation-and-weatherization/energymart-weatherization-assistance/apply",
+      "https://housingnm.org/individuals-and-families/home-rehabilitation-and-weatherization/energymart-weatherization-assistance"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

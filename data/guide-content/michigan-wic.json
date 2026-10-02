@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan WIC supports eligible pregnant, postpartum or breastfeeding participants, infants and children younger than five. Local agencies complete enrollment.",
+  "description": "Michigan WIC supports eligible pregnant, postpartum or breastfeeding participants, infants and children younger than five. Local agencies complete enrollment.",
+  "sections": {
+    "who": "<p>Michigan residency, income and nutrition-risk requirements apply. Ask the clinic how existing benefits affect the income screen.</p>",
+    "get": "<p>WIC provides supplemental food, nutrition education, breastfeeding support and health referrals. The state offers WIC Connect and Client Connect resources.</p>",
+    "docs": "<ul><li>Identification and address evidence.</li><li>Income or benefit records requested by the clinic.</li><li>Pregnancy information where relevant and questions about the child’s feeding or health.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use Find My Clinic on <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/wic\">Michigan WIC</a>, or dial 211.</p></li><li><h3 class=\"pbf-h3\">Start the application</h3><p>The state also links Start My Application. Ask the clinic about the appointment format and documents.</p></li><li><h3 class=\"pbf-h3\">Complete nutrition screening</h3><p>Attend or connect as directed and discuss food and feeding needs.</p></li></ol>",
+    "after": "<p>Follow the clinic’s ongoing appointment instructions and current food list.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/wic\">Michigan WIC entry points</a>; <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/wic/aboutwic\">WIC program benefits</a>; <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/wic/welcome-to-wic\">Appointment preparation</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is WIC only groceries?",
+      "No. It also provides nutrition, breastfeeding and referral support."
+    ],
+    [
+      "Where do I find a clinic?",
+      "Use the state’s Find My Clinic link or 211."
+    ],
+    [
+      "Do I need an appointment?",
+      "Arrange enrollment with the local clinic."
+    ],
+    [
+      "Can I use a phone app?",
+      "Michigan lists the WIC Connect app on its program page."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/wic",
+      "https://www.michigan.gov/mdhhs/assistance-programs/wic/aboutwic",
+      "https://www.michigan.gov/mdhhs/assistance-programs/wic/welcome-to-wic"
+    ],
+    "background_source": "https://usaassistance.org/programs/michigan-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

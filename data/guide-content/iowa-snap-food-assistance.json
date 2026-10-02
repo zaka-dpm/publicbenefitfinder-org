@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Iowa SNAP helps eligible households buy groceries with an EBT card. Apply through Iowa HHS and complete the household interview.",
+  "introduction": "Iowa SNAP helps eligible households buy groceries with an EBT card. Apply through Iowa HHS and complete the household interview.",
+  "service_type": "snap",
+  "sections": {
+    "who": "<p>Iowa HHS reviews residency, income, household size and eligible citizenship or immigration status. Allowable expenses affect the benefit calculation.</p>",
+    "get": "<p>Approved households receive food benefits on EBT. Iowa returned to federal SNAP food-purchase guidelines in July 2026; earlier descriptions of Iowa-only food restrictions are outdated.</p>",
+    "docs": "<p>Prepare identification, household details, pay records, housing and utility costs, and relevant childcare or medical expenses. You can submit the initial application before gathering every record.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use the <a href=\"https://hhsservices.iowa.gov/\">Iowa HHS Services Portal</a>, visit a local HHS office, or use the paper form linked in the state’s application instructions. Sign the application and save confirmation.</p></li><li><p>Follow the telephone-interview notice. If you miss the appointment, contact HHS to reschedule and send requested evidence by its deadline.</p></li></ol>",
+    "after": "<p>The decision notice states eligibility, benefit amount and certification period. Follow reporting and renewal instructions. Keep your EBT PIN private; HHS does not ask for it by text or telephone.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/assistance-programs/food-assistance/snap\">SNAP overview</a>, <a href=\"https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap\">Application instructions</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/iowa-snap-food-assistance/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Do I need every document before applying?",
+      "No. Submit the initial signed application, then provide the evidence HHS requests."
+    ],
+    [
+      "Is an interview required?",
+      "Yes. Watch for telephone-interview instructions."
+    ],
+    [
+      "Did Iowa restrict which foods SNAP can buy?",
+      "The state returned to federal purchase guidelines in July 2026. Use current HHS guidance."
+    ],
+    [
+      "Where is the benefit amount shown?",
+      "In your case’s decision notice."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/assistance-programs/food-assistance/snap",
+      "https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

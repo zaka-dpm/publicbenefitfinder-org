@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Some Arizona regulated electric utilities protect residential customers from nonpayment disconnections during the summer. The protection depends on the utility’s tariff and do",
+  "introduction": "Some Arizona regulated electric utilities protect residential customers from nonpayment disconnections during the summer. The protection depends on the utility’s tariff and does not cancel or pause the bill.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "The Commission’s June 2026 notice says APS, Tucson Electric Power and UNS Electric chose a June 1–October 15 nonpayment disconnection moratorium.",
+      "Electric cooperatives have company-specific tariffs, and other providers may follow different rules. Confirm the policy for your actual utility rather than assuming one statewide rule covers every service."
+    ],
+    "get": "<p>Covered customers receive temporary protection from qualifying nonpayment disconnections during the applicable period. Charges continue to accumulate and remain payable. This protection is different from an assistance payment or protection against a service outage.</p>",
+    "docs": "<p>Keep your utility account number, current balance and disconnection notice. Note any medical or safety issue when contacting the provider. These are practical contact records rather than a benefit-eligibility document checklist.</p>",
+    "apply": "<ol><li>Call the utility and ask which disconnection tariff applies to the residential account and when the protection ends.</li><li>Request a payment arrangement and ask about bill assistance while protection is in effect.</li><li>For a regulated-utility concern, use <a href=\"https://www.azcc.gov/utilities/consumer-services\">Arizona Corporation Commission Consumer Services</a>. Keep the provider’s response and notice.</li></ol>",
+    "after": "<p>Continue paying what you can under an agreed arrangement. Ask how any remaining balance will be handled after the protected period. If a disconnection appears inconsistent with the tariff, contact the utility and Commission promptly rather than assuming the balance has been forgiven.</p>",
+    "sources": "<ul><li><a href=\"https://www.azcc.gov/news/home/2026/06/02/acc-reminds-ratepayers-of-summer-utility-disconnection-moratorium--utility-bill-assistance-programs\">Commission’s 2026 utility-specific moratorium notice</a></li><li><a href=\"https://www.azcc.gov/utilities/consumer-services\">Commission Consumer Services</a></li><li><a href=\"https://usaassistance.org/programs/summer-utility-shutoff-protection-arizona/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Are summer bills forgiven?",
+      "No. The Commission explicitly says charges are not paused or forgiven."
+    ],
+    [
+      "Does every Arizona utility have the same dates?",
+      "No. The Commission describes different regulated-utility options and company-specific cooperative tariffs."
+    ],
+    [
+      "What are the 2026 APS, TEP and UNS dates?",
+      "The Commission’s June notice identifies June 1 through October 15, 2026 for those utilities."
+    ],
+    [
+      "Does this prevent every power outage?",
+      "No. Nonpayment shutoff protection is different from outages caused by weather, equipment or other service issues."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "summer-utility-shutoff-protection-arizona",
+    "source_url": "https://usaassistance.org/programs/summer-utility-shutoff-protection-arizona/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.azcc.gov/utilities/consumer-services",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.azcc.gov/news/home/2026/06/02/acc-reminds-ratepayers-of-summer-utility-disconnection-moratorium--utility-bill-assistance-programs",
+      "https://www.azcc.gov/utilities/consumer-services"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

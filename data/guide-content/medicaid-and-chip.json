@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Medicaid and CHIP provide health coverage through state programs. Contact your state Medicaid agency to apply or resolve eligibility, card, provider or renewal questions.",
+  "introduction": "Medicaid and CHIP provide health coverage through state programs. Contact your state Medicaid agency to apply or resolve eligibility, card, provider or renewal questions.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility depends on the state and coverage category. CHIP generally serves uninsured children in families with limited income through a separate program, Medicaid expansion or both."
+    ],
+    "get": "<p>Approved participants receive health coverage under the applicable state program. Ask the state agency about covered services, enrollment and provider choices for your category.</p>",
+    "docs": "<p>Follow the state’s instructions for identity, residence, household and financial evidence. Tell staff who needs coverage so that children and adults can be assessed under the appropriate rules.</p>",
+    "apply": "<p>Choose your state in <a href=\"https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip\">Medicaid.gov’s state agency directory</a>, then use the linked enrollment route or contact number.</p>",
+    "after": "<p>Contact the state agency about your application status and renewals. Keep your address current and read requests for information. Once covered, ask how to locate an enrolled provider before arranging care.</p>",
+    "sources": "<ul><li><a href=\"https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip\">Medicaid and CHIP state contacts</a></li><li><a href=\"https://www.medicaid.gov/chip/state-program-information\">CHIP program structure</a></li><li><a href=\"https://usaassistance.org/programs/medicaid-and-chip/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does Medicaid.gov decide my application?",
+      "Your state Medicaid agency handles eligibility and enrollment."
+    ],
+    [
+      "Can children and adults qualify under different rules?",
+      "Yes. Ask the state to assess each person’s applicable coverage category."
+    ],
+    [
+      "Where do I replace a missing card?",
+      "Contact your state Medicaid agency."
+    ],
+    [
+      "Who can explain a renewal notice?",
+      "The state agency can help with renewal coverage status and its requirements."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "medicaid-and-chip",
+    "source_url": "https://usaassistance.org/programs/medicaid-and-chip/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.medicaid.gov",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip",
+      "https://www.medicaid.gov/chip/state-program-information"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

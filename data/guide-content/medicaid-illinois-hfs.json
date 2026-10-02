@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Illinois Medicaid offers health coverage through several eligibility pathways. Apply through ABE or a local Family Community Resource Center.",
+  "description": "Illinois Medicaid offers health coverage through several eligibility pathways. Apply through ABE or a local Family Community Resource Center.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Eligibility differs for children, pregnant applicants, adults, older people and people with disabilities. Use HFS’s program guidance for each applicant; income and other conditions are not identical across groups.</p>",
+    "get": "<p>The approved program and plan determine covered services and participating providers. Enrollment notices explain the coverage and next steps.</p>",
+    "docs": "<ul><li>Household names and birth dates.</li><li>An address where you can receive mail.</li><li>Income and applicant identification information.</li><li>Any additional pathway-specific records requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://abe.illinois.gov/\">ABE</a>, phone 800-843-6154, a local center or a paper application.</p></li><li><h3 class=\"pbf-h3\">Save the tracking number</h3><p>Online submission produces a T-number. Keep it to track the request.</p></li><li><h3 class=\"pbf-h3\">Return verification</h3><p>Follow any notice requesting additional information.</p></li></ol>",
+    "after": "<p>Keep contact details current through Manage My Case. HFS’s federal-change guidance says some ACA adult work and six-month review requirements begin in 2027; read the dated notice for your group.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://hfs.illinois.gov/medicalclients/medicaidguide/applying.html\">HFS application instructions</a>, <a href=\"https://hfs.illinois.gov/medicalclients/medicalprograms.html\">program pathways</a>, <a href=\"https://hfs.illinois.gov/medicalclients/medicaidguide/changes.html\">dated federal Medicaid changes</a>. The administering organization decides eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without a fixed home address?",
+      "HFS accepts an address where you can receive mail, with the address holder’s agreement."
+    ],
+    [
+      "Can I save an online application?",
+      "Yes. HFS describes Save and Exit to resume later."
+    ],
+    [
+      "Does every Medicaid member face the same new rules?",
+      "No. HFS identifies the affected groups and exemptions in its current federal-change guidance."
+    ],
+    [
+      "What number tracks my online application?",
+      "The T-number shown after submission."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hfs.illinois.gov/medicalclients/medicaidguide/applying.html",
+      "https://hfs.illinois.gov/medicalclients/medicalprograms.html",
+      "https://hfs.illinois.gov/medicalclients/medicaidguide/changes.html"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Jersey’s earned income tax credit is claimed through the state income-tax return. Use instructions for the year being filed rather than treating the credit as a benefit-portal application.",
+  "description": "New Jersey’s earned income tax credit is claimed through the state income-tax return. Use instructions for the year being filed rather than treating the credit as a benefit-po",
+  "sections": {
+    "who": "<p>Resident workers must meet the federal EITC criteria or the state’s special age provision. For 2025, New Jersey also considers qualifying applicants aged 18 or older who meet federal criteria except the federal age limit.</p>",
+    "get": "<p>For tax year 2025, the state credit is 40% of the federal EITC calculation. A part-year resident’s credit is adjusted for the months of New Jersey residence.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>Wage and other income statements.</li><li>Dependent and Social Security information.</li><li>New Jersey residence dates if you moved during the year.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Calculate the year’s credit</h3><p>Follow <a href=\"https://www.nj.gov/treasury/taxation/eitc/eitcinfo.shtml\">New Jersey Taxation’s EITC instructions</a>.</p></li><li><h3 class=\"pbf-h3\">Claim it on the state return</h3><p>Use the correct NJ return year and the special instructions if federal age rules prevented a federal award.</p></li><li><h3 class=\"pbf-h3\">File and retain evidence</h3><p>Keep the calculation, filed returns and submission confirmation.</p></li></ol>",
+    "after": "<p>Read any Taxation notice. If the federal EITC changes after filing, ask a tax preparer how it affects the state credit and whether amendment is needed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/treasury/taxation/eitc/eitcinfo.shtml\">NJEITC current information</a>, <a href=\"https://nj.gov/treasury/taxation/pdf/eitcstatement.pdf\">2025 eligibility and state age provision</a>, <a href=\"https://www.nj.gov/treasury/taxation/pdf/help/2025-update-handout.pdf\">2025 tax updates</a>. <a href=\"https://usaassistance.org/programs/new-jersey-earned-income-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I need children to qualify?",
+      "Not necessarily. The state includes qualifying workers without children, subject to its criteria."
+    ],
+    [
+      "Is 40% a rule for every past year?",
+      "This article’s figure is specifically verified for tax year 2025; use the form for the year filed."
+    ],
+    [
+      "What if I lived in NJ for only part of 2025?",
+      "The state notice describes a residence-month adjustment; follow the tax instructions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/treasury/taxation/eitc/eitcinfo.shtml",
+      "https://nj.gov/treasury/taxation/pdf/eitcstatement.pdf",
+      "https://www.nj.gov/treasury/taxation/pdf/help/2025-update-handout.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

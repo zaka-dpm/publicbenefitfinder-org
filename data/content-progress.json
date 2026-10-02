@@ -1,0 +1,641 @@
+{
+  "updated": "2026-10-01",
+  "guide_count": 594,
+  "statuses": {
+    "reviewed": 581,
+    "authored": 13
+  },
+  "fully_reviewed_states": [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "states": [
+    {
+      "state": "Alabama",
+      "slug": "alabama",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Alaska",
+      "slug": "alaska",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Arizona",
+      "slug": "arizona",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Arkansas",
+      "slug": "arkansas",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 9,
+        "authored": 1
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "arkansas-211",
+          "issues": [
+            "Current operator limits coverage to three counties, while legacy statewide/24-hour copy remains on primary page. Hours need confirmation."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "slug": "california",
+      "programs": 9,
+      "statuses": {
+        "reviewed": 9
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Colorado",
+      "slug": "colorado",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Connecticut",
+      "slug": "connecticut",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Delaware",
+      "slug": "delaware",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "District of Columbia",
+      "slug": "washington-dc",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Florida",
+      "slug": "florida",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Georgia",
+      "slug": "georgia",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Hawaii",
+      "slug": "hawaii",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Idaho",
+      "slug": "idaho",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Illinois",
+      "slug": "illinois",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Indiana",
+      "slug": "indiana",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Iowa",
+      "slug": "iowa",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Kansas",
+      "slug": "kansas",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Kentucky",
+      "slug": "kentucky",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Louisiana",
+      "slug": "louisiana",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Maine",
+      "slug": "maine",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Maryland",
+      "slug": "maryland",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Massachusetts",
+      "slug": "massachusetts",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Michigan",
+      "slug": "michigan",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Minnesota",
+      "slug": "minnesota",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Mississippi",
+      "slug": "mississippi",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 9,
+        "authored": 2
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "mississippi-center-for-legal-services-south-mississippi-legal-aid",
+          "issues": [
+            "The current provider homepage contains unrelated casino/spam links. Service overview is corroborated, but intake channel integrity requires confirmation before publishing a direct document-submission recommendation."
+          ]
+        },
+        {
+          "slug": "north-mississippi-rural-legal-services-north-mississippi-legal-aid",
+          "issues": [
+            "Current NMRLS homepage searchable but direct retrieval times out. The asserted January2026 intake change, phone and hours were not confirmed from current primary intake guidance."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Missouri",
+      "slug": "missouri",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Montana",
+      "slug": "montana",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Nebraska",
+      "slug": "nebraska",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Nevada",
+      "slug": "nevada",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "New Hampshire",
+      "slug": "new-hampshire",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "New Jersey",
+      "slug": "new-jersey",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "New Mexico",
+      "slug": "new-mexico",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 8,
+        "authored": 3
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "new-mexico-medicaid-turquoise-care",
+          "issues": [
+            "Current HCA Medicaid eligibility page inaccessible. Plan enrollment and federal/state service records verify pathways, not complete current applicant eligibility rules."
+          ]
+        },
+        {
+          "slug": "new-mexico-child-tax-credit",
+          "issues": [
+            "State page labels 2025 maximum $637 while January 2026 filing-season release says $622; correct current PIT calculation not yet independently checked. Numeric award omitted pending resolution."
+          ]
+        },
+        {
+          "slug": "new-mexico-liheap-energy-assistance",
+          "issues": [
+            "Federal directory verifies contacts, pathway and year-round dates; current state LIHEAP eligibility and crisis page inaccessible, so current detailed rules are not verified."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "slug": "new-york",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "North Carolina",
+      "slug": "north-carolina",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "North Dakota",
+      "slug": "north-dakota",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Ohio",
+      "slug": "ohio",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Oklahoma",
+      "slug": "oklahoma",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 10,
+        "authored": 1
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "weatherization-assistance-program-oklahoma",
+          "issues": [
+            "Human Services confirms program purpose and MyWAP route, but Commerce program page inaccessible; current detailed local home eligibility and assessment rules need provider confirmation."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Oregon",
+      "slug": "oregon",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Pennsylvania",
+      "slug": "pennsylvania",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Rhode Island",
+      "slug": "rhode-island",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "South Carolina",
+      "slug": "south-carolina",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "South Dakota",
+      "slug": "south-dakota",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Tennessee",
+      "slug": "tennessee",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 9,
+        "authored": 1
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "liheap-energy-assistance-tennessee",
+          "issues": [
+            "THDA page inaccessible to direct opening. Indexed primary guidance confirms online/local intake and supplier payments but current 2026\u201327 enrollment and eligibility detail were not retrievable."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "slug": "texas",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 10,
+        "authored": 1
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "twc-unemployment-benefits",
+          "issues": [
+            "TWC program and payment documents return an anti-bot JavaScript shell. Primary indexed agency material confirms contact and separate payment requests, but full current eligibility and continued-claim requirements were not retrievable."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "slug": "utah",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 10,
+        "authored": 1
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": [
+        {
+          "slug": "utah-heat-home-energy-assistance",
+          "issues": [
+            "Direct current HEAT URL returns a three-line shell. Indexed primary rules and document checklist are visible, but full current 2026\u201327 intake detail was not retrieved."
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Vermont",
+      "slug": "vermont",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Virginia",
+      "slug": "virginia",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Washington",
+      "slug": "washington",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "West Virginia",
+      "slug": "west-virginia",
+      "programs": 10,
+      "statuses": {
+        "reviewed": 10
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Wisconsin",
+      "slug": "wisconsin",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    },
+    {
+      "state": "Wyoming",
+      "slug": "wyoming",
+      "programs": 11,
+      "statuses": {
+        "reviewed": 11
+      },
+      "rewriting_remaining": [],
+      "pending_primary_review": []
+    }
+  ],
+  "publication": "Local only. No push authorized."
+}

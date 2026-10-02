@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Claim Oregon’s earned income credit through your state tax return. Special state rules also provide a route for some filers using an ITIN.",
+  "description": "Claim Oregon’s earned income credit through your state tax return. Special state rules also provide a route for some filers using an ITIN.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility generally establishes the Oregon credit. Oregon also describes eligibility when lack of a work-valid Social Security number is the only federal barrier.</p>",
+    "get": "<p>The credit can increase a refund. Tax-year instructions determine the calculation and any part-year or nonresident proration.</p>",
+    "docs": "<ul><li>Income and federal return records.</li><li>Qualifying-dependent details.</li><li>Tax identification and any Schedule OR-EIC-ITIN information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose tax-year instructions</h3><p>Read <a href=\"https://www.oregon.gov/DOR/programs/individuals/Pages/credits.aspx/\">Revenue’s credit guidance</a>.</p></li><li><h3 class=\"pbf-h3\">Calculate the appropriate credit</h3><p>Check the young-dependent rule, Oregon percentage and ITIN schedule if applicable.</p></li><li><h3 class=\"pbf-h3\">File the state return</h3><p>Keep calculation records and submit required schedules.</p></li></ol>",
+    "after": "<p>Save return copies and ask Revenue or a tax preparer about a calculation or amended return.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/DOR/programs/individuals/Pages/credits.aspx/\">Oregon EIC and ITIN provisions</a>. <a href=\"https://usaassistance.org/programs/oregon-earned-income-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can an ITIN filer qualify?",
+      "Oregon describes a state route when the lack of a work-valid SSN is the only federal EITC barrier."
+    ],
+    [
+      "Is there a separate welfare application?",
+      "The credit is claimed on the tax return."
+    ],
+    [
+      "Where can I ask an EIC question?",
+      "Revenue lists eic.4me@dor.oregon.gov."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/DOR/programs/individuals/Pages/credits.aspx/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

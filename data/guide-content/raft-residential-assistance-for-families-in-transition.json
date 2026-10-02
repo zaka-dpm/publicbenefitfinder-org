@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts RAFT provides short-term help with housing emergencies. The Housing Help Hub accepts applications, and regional agencies handle review and case questions.",
+  "introduction": "Massachusetts RAFT provides short-term help with housing emergencies. The Housing Help Hub accepts applications, and regional agencies handle review and case questions.",
+  "service_type": "housing",
+  "sections": {
+    "who": [
+      "Households facing loss of housing, foreclosure, utility shutoff or another documented housing crisis.",
+      "Income normally below 50% of local area median income; the state lists a higher threshold for households at risk of domestic violence."
+    ],
+    "get": "<p>Approved assistance may address rent, mortgage, utilities or moving costs. Explain which expense threatens your housing and provide supporting notices.</p>",
+    "docs": "<p>The head of household’s ID, current housing proof and crisis documentation are required. Income may be checked electronically; additional proof can be requested.</p>",
+    "apply": "<ol><li>Use the Housing Help Hub linked from the state RAFT application page.</li><li>Submit your application and keep the case number.</li><li>If landlord participation is needed, ask the landlord to submit their application promptly; the state lists a 21-day limit.</li><li>Contact your regional administering agency if you cannot apply online.</li></ol>",
+    "after": "<p>Read requests for missing information and upload it through the Hub. Ask the assigned agency about case status. A denial email explains how to request review. Do not assume applying changes a court or utility deadline.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs\">RAFT application and review process</a></li><li><a href=\"https://usaassistance.org/programs/raft-residential-assistance-for-families-in-transition/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can one person apply?",
+      "Ask the regional agency to assess your household; the program addresses household housing emergencies."
+    ],
+    [
+      "Can 211 check my case?",
+      "211 answers general questions; contact the agency assigned to your application for case status."
+    ],
+    [
+      "Does my landlord need to apply?",
+      "For assistance requiring landlord participation, the landlord must submit an application too."
+    ],
+    [
+      "Can I upload documents later?",
+      "The Housing Help Hub supports additional document uploads."
+    ],
+    [
+      "Does applying stop eviction proceedings?",
+      "Keep following court instructions and seek legal help about your deadlines."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "raft-residential-assistance-for-families-in-transition",
+    "source_url": "https://usaassistance.org/programs/raft-residential-assistance-for-families-in-transition/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

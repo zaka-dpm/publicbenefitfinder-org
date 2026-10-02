@@ -1,0 +1,57 @@
+{
+  "status": "reviewed",
+  "description": "BadgerCare Plus is full coverage Wisconsin Medicaid for eligible people ages 0–64. You can apply at any time through ACCESS, with county or Tribal agency assistance available.",
+  "introduction": "BadgerCare Plus is full coverage Wisconsin Medicaid for eligible people ages 0–64. You can apply at any time through ACCESS, with county or Tribal agency assistance available.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Wisconsin residents ages 0–64 meeting the relevant category and income rules.",
+      "Income limits differ for adults, pregnant people and children; a screening is not a final determination.",
+      "Older, blind or disabled applicants may need the separate Medicaid application route."
+    ],
+    "get": "<p>Approved medical coverage and a ForwardHealth card. Confirm providers and any health plan arrangements before receiving non-emergency care.</p>",
+    "docs": "<p>Prepare applicant identity and status, household composition, job and other income and available employer insurance. The agency’s verification request identifies needed records.</p>",
+    "apply": "<ol><li>Apply online through ACCESS, or telephone or visit the county or Tribal agency.</li><li>For mail filing use the BadgerCare Plus packet listed on ForwardHealth’s application page.</li><li>Supply requested verification and read the coverage decision.</li></ol>",
+    "after": "<p>Use ACCESS or MyACCESS to manage the case and follow renewal instructions. Ask the local agency about children’s premiums if applicable. A federal work requirement listed for 2027 is a future change; follow current notices about its implementation.</p>",
+    "sources": "<ul><li><a href=\"https://www.dhs.wisconsin.gov/badgercareplus/index.htm\">BadgerCare Plus current overview</a></li><li><a href=\"https://www.dhs.wisconsin.gov/forwardhealth/apply.htm\">Application packets and routes</a></li><li><a href=\"https://www.dhs.wisconsin.gov/badgercareplus/fpl.htm\">Current category income guidance</a></li><li><a href=\"https://www.dhs.wisconsin.gov/badgercareplus/faq.htm\">Premium and future work requirement FAQ</a></li><li><a href=\"https://usaassistance.org/programs/badgercare-plus-wisconsin-medicaid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must I wait for open enrollment?",
+      "No; BadgerCare Plus applications are accepted at any time."
+    ],
+    [
+      "Are adult and child income limits identical?",
+      "No; consult the current category table or apply for assessment."
+    ],
+    [
+      "What card do approved members receive?",
+      "A ForwardHealth card."
+    ],
+    [
+      "What if I am over 64?",
+      "Ask about Medicaid for elderly, blind or disabled applicants and its separate packet."
+    ],
+    [
+      "Where do I manage an approved case?",
+      "Use ACCESS or the MyACCESS mobile app."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "badgercare-plus-wisconsin-medicaid",
+    "source_url": "https://usaassistance.org/programs/badgercare-plus-wisconsin-medicaid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.dhs.wisconsin.gov/badgercareplus/index.htm",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.dhs.wisconsin.gov/badgercareplus/index.htm",
+      "https://www.dhs.wisconsin.gov/forwardhealth/apply.htm",
+      "https://www.dhs.wisconsin.gov/badgercareplus/fpl.htm",
+      "https://www.dhs.wisconsin.gov/badgercareplus/faq.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

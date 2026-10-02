@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Idaho Medicaid expansion covers qualifying adults who do not fit certain other coverage categories. Apply through DHW; the state’s announced 2027 requirements should not be presented as already effective in October 2026.",
+  "description": "Idaho Medicaid expansion covers qualifying adults who do not fit certain other coverage categories. Apply through DHW; the state’s announced 2027 requirements should not be pr",
+  "sections": {
+    "who": "<p>The expansion page describes adults aged 19–64 who meet income and status requirements and are not pregnant, disabled or eligible for Medicare or another Medicaid category. Other Idaho Medicaid pathways serve different groups.</p>",
+    "get": "<p>Approved Medicaid provides qualifying health coverage. Review the eligibility notice and benefits-plan information for services and participating providers.</p>",
+    "docs": "<ul><li>Prepare identity, Idaho residence and household income information.</li><li>Have current expense and insurance records available.</li><li>Provide relevant status records when requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the Medicaid application route</h3><p>Apply through <a href=\"https://idalink.idaho.gov/\">Idalink</a>, by phone at 877-456-1233, at a field office or using the paper route on the <a href=\"https://healthandwelfare.idaho.gov/services-programs/medicaid-health/apply-medicaid\">application page</a>.</p></li><li><h3 class=\"pbf-h3\">Respond to verification</h3><p>DHW sends a notice if it needs household information. Save your application confirmation and respond to the actual request.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check your coverage category and benefits-plan instructions. Ask about a different category if pregnancy, disability or another circumstance applies.</p></li></ol>",
+    "after": "<p>Keep contact details current. Idaho’s expansion page announces new requirements from January 1, 2027; read the state notice for activity rules, exclusions and any hardship or exemption review.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://healthandwelfare.idaho.gov/services-programs/medicaid-health/adult-medicaid-including-expansion\">Idaho expansion eligibility and 2027 notice</a>, <a href=\"https://healthandwelfare.idaho.gov/services-programs/medicaid-health/apply-medicaid\">Medicaid application instructions</a>. <a href=\"https://usaassistance.org/programs/idaho-medicaid-expanded-coverage/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are the announced work requirements already effective?",
+      "The state’s current expansion page identifies January 1, 2027 as the start date."
+    ],
+    [
+      "What if I am pregnant or have a disability?",
+      "Ask DHW about the appropriate Medicaid category rather than relying only on expansion rules."
+    ],
+    [
+      "How do I respond to a verification request?",
+      "Follow the deadline and submission instructions in DHW’s notice; Idalink also supports case management."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/medicaid-health/adult-medicaid-including-expansion",
+      "https://healthandwelfare.idaho.gov/services-programs/medicaid-health/apply-medicaid"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

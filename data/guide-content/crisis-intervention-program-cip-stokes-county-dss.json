@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Stokes County CIP helps eligible households facing a heating or cooling emergency. Explain the health risk and urgent utility deadline when requesting an assessment.",
+  "introduction": "Stokes County CIP helps eligible households facing a heating or cooling emergency. Explain the health risk and urgent utility deadline when requesting an assessment.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>Applicants must meet the income test, have an eligible citizen or noncitizen household member, and face a heating or cooling emergency. A past-due bill alone does not establish the full crisis criteria.</p>",
+    "get": "<p>The county publishes assistance up to $600 for a crisis, with total payments limited to $600 per state fiscal year, July–June. Approved payments go to the vendor; the amount depends on what is needed to resolve the crisis.</p>",
+    "docs": "<p>Have the utility bill, past-due or disconnection notice, household income and requested eligibility records ready. Explain the health or safety circumstances and date service may end.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Contact Stokes County DSS through its current service directory and request a CIP assessment. Identify any immediate heating or cooling danger.</p></li><li><p>Complete the energy application and the worker’s income and crisis review. Ask which documents can be provided later if something is missing.</p></li><li><p>Ask about the decision and vendor payment, then verify the arrangement with the utility. Do not assume intake pauses a disconnection.</p></li></ol>",
+    "after": "<p>Keep the decision, payment details and bills. If the approved amount does not resolve the problem, discuss the unpaid balance and other assistance promptly.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.co.stokes.nc.us/departments/crisis_intervention_program_(cip).php\">County CIP criteria and limits</a>, <a href=\"https://policies.ncdhhs.gov/wp-content/uploads/DSS-8178-ia-Consolidated-Energy-Assistance-Program-Application.pdf\">State energy application</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/crisis-intervention-program-cip-stokes-county-dss/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is it a general water-bill program?",
+      "Its purpose is heating and cooling emergencies. Ask DSS or a referral service about other expenses."
+    ],
+    [
+      "Can I receive more than one payment?",
+      "The county allows repeat assistance where eligible, subject to the $600 total fiscal-year cap."
+    ],
+    [
+      "Do I receive a check?",
+      "Approved CIP payments go directly to the vendor."
+    ],
+    [
+      "What if my notice date is close?",
+      "Tell DSS the exact deadline and health risk immediately, and contact the utility about available arrangements."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.co.stokes.nc.us/departments/crisis_intervention_program_(cip).php",
+      "https://policies.ncdhhs.gov/wp-content/uploads/DSS-8178-ia-Consolidated-Energy-Assistance-Program-Application.pdf"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

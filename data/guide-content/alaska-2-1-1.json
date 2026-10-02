@@ -1,0 +1,52 @@
+{
+  "status": "reviewed",
+  "description": "Alaska 211 connects residents with nonprofit, government and tribal services across the state. Its telephone line has set weekday hours; the online directory remains available",
+  "introduction": "Alaska 211 connects residents with nonprofit, government and tribal services across the state. Its telephone line has set weekday hours; the online directory remains available outside those hours.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "The referral service is free, confidential and statewide. It can help people identify community, health and social services.",
+      "Each referred provider determines eligibility for its own program. A 211 referral is not a benefit approval."
+    ],
+    "get": "<p>A specialist helps identify resources matching your location and needs. Language interpretation is available. You can also browse the directory without making a telephone request.</p>",
+    "docs": "<p>Prepare your community or ZIP code, the assistance needed and any immediate deadline. Keep details of agencies you have already contacted so the specialist can look for another option. No benefit application checklist is required merely to search the directory.</p>",
+    "apply": "<ol><li>Call 211 or 800-478-2221. The published call-center hours are Monday–Friday, 8:30 a.m.–5 p.m., with a noon–1 p.m. lunch closure.</li><li>Outside those hours, leave a voice message or search <a href=\"https://alaska211.org/\">the online database</a>.</li><li>Give your location and describe the problem. Request provider contacts and their intake instructions.</li></ol>",
+    "after": "<p>Contact the referred provider and keep a note of its response. If the service cannot help, return to 211 with the reason and ask about alternatives. For an immediate danger, contact emergency services rather than waiting for a callback.</p>",
+    "sources": "<ul><li><a href=\"https://alaska211.org/\">Alaska 211 current contact options</a></li><li><a href=\"https://alaska211.org/faq/\">Service coverage and after-hours options</a></li><li><a href=\"https://usaassistance.org/programs/alaska-2-1-1/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is Alaska 211 staffed 24 hours a day?",
+      "No. Its published phone hours are weekday 8:30 a.m.–5 p.m., excluding noon–1 p.m."
+    ],
+    [
+      "What can I do after hours?",
+      "Leave a voice message or search the service database online."
+    ],
+    [
+      "Can I request interpretation?",
+      "Yes. Alaska 211 says language interpretation is available."
+    ],
+    [
+      "Does it serve rural communities?",
+      "The service covers the entire state. Tell the specialist where you live so referrals fit your area."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-2-1-1",
+    "source_url": "https://usaassistance.org/programs/alaska-2-1-1/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.alaska211.org",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://www.alaska211.org",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://alaska211.org/",
+      "https://alaska211.org/faq/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio Medicaid provides health coverage for eligible residents. County Job and Family Services reviews the application and requested evidence.",
+  "description": "Ohio Medicaid provides health coverage for eligible residents. County Job and Family Services reviews the application and requested evidence.",
+  "sections": {
+    "who": "<p>Income, family size, age, disability and other conditions affect eligibility. Potential groups include low-income adults, pregnant people, children and people with disabilities.</p>",
+    "get": "<p>Coverage includes medical care and prescriptions; specialized services have additional rules. Check participating providers before making arrangements.</p>",
+    "docs": "<ul><li>Identity and household information.</li><li>Income evidence requested for your case.</li><li>Existing coverage and relevant medical information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit a request</h3><p>Use <a href=\"https://benefits.ohio.gov/\">Ohio Benefits</a> or contact your county JFS. The state Medicaid pharmacy portal lists 844-640-6446 for county application help.</p></li><li><h3 class=\"pbf-h3\">Provide verification</h3><p>Respond to the caseworker’s document requests.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check coverage dates and any managed-care enrollment instructions.</p></li></ol>",
+    "after": "<p>Keep your contact details current and respond to renewal requests. A preliminary eligibility check is not an approval.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Medical-Assistance-and-Support\">County Medicaid overview</a>; <a href=\"https://spbm.medicaid.ohio.gov/\">State Medicaid pharmacy portal</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does a screening tool enroll me?",
+      "No. Submit an application for a decision."
+    ],
+    [
+      "Are prescriptions covered?",
+      "Medicaid includes prescription services subject to program rules."
+    ],
+    [
+      "Can I get local application help?",
+      "Contact your county JFS."
+    ],
+    [
+      "What happens after approval?",
+      "Review the notice’s coverage and plan instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Medical-Assistance-and-Support",
+      "https://spbm.medicaid.ohio.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/medicaid-ohio/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

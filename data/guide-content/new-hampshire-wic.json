@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "introduction": "New Hampshire WIC applications begin online or by contacting a local clinic for an appointment. The clinic completes the assessment and explains food and nutrition benefits.",
+  "description": "New Hampshire WIC applications begin online or by contacting a local clinic for an appointment. The clinic completes the assessment and explains food and nutrition benefits.",
+  "sections": {
+    "who": "<p>New Hampshire WIC serves pregnant applicants, breastfeeding parents through the baby\u2019s first year, non-breastfeeding parents through six months after birth, and children younger than five. Applicants must live in their local agency\u2019s service area, meet income rules and have a nutrition risk assessed by WIC staff. The state publishes income guidelines at 185% of the federal poverty level; use its current household-size table rather than an older dollar limit.</p>",
+    "get": "<p>Benefits support nutrition through approved foods, education, breastfeeding support and referrals. They are different from a general food-budget EBT award.</p>",
+    "docs": "<ul><li>Identity for each applicant and caregiver.</li><li>Residence and household-income records requested by the clinic.</li><li>Existing benefit information if relevant.</li><li>Available pregnancy or child-health records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a clinic</h3><p>Find your local clinic through <a href=\"https://www.signupwic.com/\">SignUpWIC</a> or call 800-942-4321.</p></li><li><h3 class=\"pbf-h3\">Request an appointment</h3><p>The <a href=\"https://nhwic.com/preapplicationportal\">NH WIC pre-application</a> lets you select a town and clinic to call you. If transferring from another state, call instead of submitting this pre-application.</p></li><li><h3 class=\"pbf-h3\">Complete certification</h3><p>Ask the clinic which documents and family members to bring. Staff complete the eligibility and nutrition assessment and explain your food benefits.</p></li></ol>",
+    "after": "<p>Keep appointment instructions and contact the clinic about replacement cards or benefit changes. For account and benefit information, customer support is 855-279-0680; ebtEDGE also provides account access. If you disagree with an eligibility decision, ask about the state\u2019s WIC fair-hearing process.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.dhhs.nh.gov/programs-services/population-health/women-infants-children-nutrition-program\">NH WIC application and shopping guidance</a>, <a href=\"https://www.dhhs.nh.gov/programs-services/population-health/women-infants-children-nutrition-program/wic-eligibility\">NH WIC eligibility</a> and the <a href=\"https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/wic-identity.pdf\">NH identity policy</a>. <a href=\"https://usaassistance.org/programs/new-hampshire-wic/\">USA Assistance background guide</a>.</p>"
+  },
+  "faqs": [
+    [
+      "Can I start online?",
+      "Yes. Use the NH WIC pre-application to request a clinic appointment; it does not complete certification."
+    ],
+    [
+      "Is a Social Security card the only acceptable identity proof?",
+      "No. NH\u2019s published identity policy lists several alternatives; confirm the appropriate record with the clinic."
+    ],
+    [
+      "Does applying online finish certification?",
+      "No. The clinic completes the eligibility and nutrition assessment."
+    ],
+    [
+      "What if I already receive WIC in another state?",
+      "Call the New Hampshire WIC office to arrange a transfer. The state says not to use the online pre-application for transfers."
+    ],
+    [
+      "Who handles a replacement card?",
+      "Contact your local WIC clinic for a replacement card or changes to your food benefits."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dhhs.nh.gov/programs-services/population-health/women-infants-children-nutrition-program",
+      "https://www.dhhs.nh.gov/programs-services/population-health/women-infants-children-nutrition-program/wic-eligibility",
+      "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/wic-identity.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": [],
+    "reviewed_on": "2026-10-01",
+    "resolved_notes": "Current state pages read in Chrome; research-tool access failed."
+  }
+}

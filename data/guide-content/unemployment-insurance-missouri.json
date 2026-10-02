@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri unemployment claims and weekly payment requests use UInteract. Registration is the first step, followed by a claim.",
+  "description": "Missouri unemployment claims and weekly payment requests use UInteract. Registration is the first step, followed by a claim.",
+  "sections": {
+    "who": "<p>DES reviews work history and eligibility. Weekly work, earnings and other conditions affect payment.</p>",
+    "get": "<p>The agency determines payable benefits. Weekly requests are separate from the initial claim.</p>",
+    "docs": "<ul><li>Social Security number.</li><li>Employer names, addresses and employment dates for the past 18 months.</li><li>Weekly gross earnings and optional banking details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Register</h3><p>Use <a href=\"https://labor.mo.gov/des/how-to-file\">Labor’s filing instructions</a> and UInteract.</p></li><li><h3 class=\"pbf-h3\">File the claim</h3><p>Choose Unemployment Claim, then File Unemployment Claim. Save confirmation.</p></li><li><h3 class=\"pbf-h3\">Request payment weekly</h3><p>Select Weekly Request for Payment after the week ends and save its confirmation.</p></li></ol>",
+    "after": "<p>Read notices and report earnings accurately. Call 800-320-2519 outside local calling areas.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://labor.mo.gov/des/how-to-file\">Missouri unemployment filing</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does registration file the claim?",
+      "No. Complete the claim separately."
+    ],
+    [
+      "Do I need weekly requests?",
+      "Yes."
+    ],
+    [
+      "Should I save confirmations?",
+      "Save both claim and weekly confirmations."
+    ],
+    [
+      "Are banking details mandatory?",
+      "The filing page lists them as optional."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://labor.mo.gov/des/how-to-file"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-missouri/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

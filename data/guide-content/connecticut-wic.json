@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut WIC offers nutrition and food support for eligible pregnant or postpartum participants and young children. An online Interest Form starts contact with a WIC worker.",
+  "description": "Connecticut WIC offers nutrition and food support for eligible pregnant or postpartum participants and young children. An online Interest Form starts contact with a WIC worker.",
+  "sections": {
+    "who": "<p>Applicants must live in Connecticut, meet income requirements and complete a nutrition assessment. Citizenship is not required. SNAP, TFA or HUSKY enrollment can establish income eligibility in the circumstances the program specifies.</p>",
+    "get": "<p>WIC provides food benefits through eWIC along with nutrition support. Clinic staff help identify the appropriate benefits and nutrition goals.</p>",
+    "docs": "<ul><li>Identity and Connecticut address information.</li><li>Income or relevant SNAP, TFA or HUSKY enrollment records.</li><li>Information about pregnancy or the child’s health and feeding; confirm the clinic’s appointment checklist.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Send an Interest Form or call</h3><p>Use <a href=\"https://dphsubmissions.ct.gov/CTWIC_Interest_Form\">the WIC Interest Form</a>, or contact an office from the state’s local-agency list.</p></li><li><h3 class=\"pbf-h3\">Arrange the appointment</h3><p>A WIC worker will explain how to complete the application. Ask who should attend and which records to bring.</p></li><li><h3 class=\"pbf-h3\">Complete the nutrition assessment</h3><p>Discuss health, eating habits and nutrition questions with WIC staff before the eligibility decision.</p></li></ol>",
+    "after": "<p>Follow the clinic’s food-list and eWIC instructions and keep future appointment dates.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/dph/wic/how-to-apply\">WIC application and screening</a>; <a href=\"https://portal.ct.gov/dph/wic/wic\">WIC overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does the Interest Form enroll me?",
+      "No. A staff member follows up to complete the application."
+    ],
+    [
+      "Do I need proof of citizenship?",
+      "Connecticut WIC says citizenship or alien-status proof is not required."
+    ],
+    [
+      "Can SNAP or HUSKY help establish income eligibility?",
+      "Yes, under the program’s specified enrollment rules; the remaining WIC conditions still apply."
+    ],
+    [
+      "What happens at the nutrition assessment?",
+      "You discuss health and eating habits and any family nutrition questions with WIC staff."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/dph/wic/how-to-apply",
+      "https://portal.ct.gov/dph/wic/wic"
+    ],
+    "background_source": "https://usaassistance.org/programs/connecticut-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

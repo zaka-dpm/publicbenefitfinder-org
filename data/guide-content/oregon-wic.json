@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon WIC enrollment takes place through a local clinic. The online interest form helps connect you to services and is not a completed benefit application.",
+  "description": "Oregon WIC enrollment takes place through a local clinic. The online interest form helps connect you to services and is not a completed benefit application.",
+  "sections": {
+    "who": "<p>WIC assesses the pregnancy or young-child category, nutrition needs and income. Qualifying OHP, TANF, SNAP or FDPIR participation can establish income eligibility.</p>",
+    "get": "<p>The program provides approved foods, breastfeeding help and nutrition support.</p>",
+    "docs": "<ul><li>Applicant identification.</li><li>Residence and income or qualifying benefit information requested by the clinic.</li><li>Child and health records the clinic asks you to bring.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find a clinic</h3><p>Use <a href=\"https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/index.aspx\">the state clinic link or interest form</a>.</p></li><li><h3 class=\"pbf-h3\">Speak with clinic staff</h3><p>Arrange the actual eligibility appointment and ask for a document checklist.</p></li><li><h3 class=\"pbf-h3\">Complete enrollment</h3><p>Discuss nutrition needs and learn how the approved food package is used.</p></li></ol>",
+    "after": "<p>Keep follow-up appointments and ask clinic staff about shopping questions or breastfeeding support.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/index.aspx\">Local clinic enrollment and services</a>, <a href=\"https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/income.aspx\">Income eligibility</a>. <a href=\"https://usaassistance.org/programs/oregon-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the interest form apply for benefits?",
+      "The state expressly says it is not an official application; you must speak with a clinic."
+    ],
+    [
+      "Can SNAP establish income eligibility?",
+      "Yes. Oregon lists qualifying SNAP and other benefit participation for that purpose."
+    ],
+    [
+      "Where can I find approved foods?",
+      "The state WIC page links its current food list and shopping guidance."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/index.aspx",
+      "https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/pages/income.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska calls its Child Care Assistance program Parents Achieving Self Sufficiency, or PASS. The application route depends on whether the family receives Temporary Assistance, ",
+  "introduction": "Alaska calls its Child Care Assistance program Parents Achieving Self Sufficiency, or PASS. The application route depends on whether the family receives Temporary Assistance, is leaving that program, or needs another PASS category.",
+  "service_type": "childcare",
+  "sections": {
+    "who": [
+      "PASS I supports families receiving Alaska Temporary Assistance through their work-services case manager.",
+      "PASS II serves eligible families leaving Temporary Assistance with earned income. PASS III is for eligible families outside PASS I or II. Both require the child-care application and income and other eligibility checks.",
+      "PASS IV serves children in OCS protective services through the OCS case manager."
+    ],
+    "get": "<p>The program helps eligible families with child-care expenses. The regional office checks eligibility and the approved care arrangement; ask about any family share and the authorization before making financial commitments.</p>",
+    "docs": "<p>Prepare information about the children, household income, activity requiring care and the proposed provider. Use the CC08 application’s checklist or the case manager’s instructions for the applicable PASS category. Ask about records needed for a child’s special care needs.</p>",
+    "apply": "<ol><li>Start at <a href=\"https://health.alaska.gov/en/services/child-care-assistance/\">the state Child Care Assistance page</a>.</li><li>For PASS I, contact your work-services case manager; for PASS IV, contact your OCS case manager.</li><li>For PASS II or III, submit the CC08 application using the state page’s AKCCIS option or the listed regional Child Care Assistance office.</li><li>Confirm the provider and care authorization with that office. The AKCCIS portal also lists currently licensed providers.</li></ol>",
+    "after": "<p>Keep the authorization and ask how to report changes to work, income, provider or care schedule. Check the approved start date and any family payment responsibility with the office and provider before care begins.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/child-care-assistance/\">PASS categories, CC08 and regional offices</a></li><li><a href=\"https://usaassistance.org/programs/alaska-child-care-assistance-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Which route applies while I receive ATAP?",
+      "Ask the work-services case manager about PASS I."
+    ],
+    [
+      "Can I apply if I never received Temporary Assistance?",
+      "PASS III is the route for eligible families outside PASS I and II. The regional office reviews the application."
+    ],
+    [
+      "Who handles care for a child in OCS protective services?",
+      "Contact the OCS case manager about PASS IV."
+    ],
+    [
+      "How can I find a licensed provider?",
+      "The state page links to AKCCIS’s current provider information. Confirm program participation with the regional office."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-child-care-assistance-program",
+    "source_url": "https://usaassistance.org/programs/alaska-child-care-assistance-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/division-of-public-assistance/child-care-program-office/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/child-care-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

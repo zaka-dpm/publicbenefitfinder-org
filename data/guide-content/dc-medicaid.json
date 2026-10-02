@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "DC Medicaid pays for covered health services for eligible residents. District Direct and DHS service centers provide application routes.",
+  "description": "DC Medicaid pays for covered health services for eligible residents. District Direct and DHS service centers provide application routes.",
+  "sections": {
+    "who": "<p>Eligibility depends on the relevant coverage group and financial and status rules. Children, pregnant applicants, adults, older residents and people with disabilities may use different pathways.</p>",
+    "get": "<p>Covered services can include doctor and hospital care, prescriptions, dental care and other authorized treatment. Confirm that a provider accepts DC Medicaid.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Identity, address and requested status records.</li><li>Current insurance and any additional verification requested for the coverage group.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use <a href=\"https://districtdirect.dc.gov/\">District Direct</a>, the mobile app or the paper routes on <a href=\"https://dhs.dc.gov/page/public-benefits\">DHS Public Benefits</a>.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Respond to case-specific evidence requests and keep the submission confirmation.</p></li><li><h3 class=\"pbf-h3\">Read the notice</h3><p>Check the decision for each applicant and any instructions for plan enrollment.</p></li></ol>",
+    "after": "<p>Carry your Medicaid card to appointments and report other health insurance. Keep renewal and contact details current.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhcf.dc.gov/service/medicaid\">DC Medicaid services</a>; <a href=\"https://dhs.dc.gov/page/public-benefits\">DHS application routes</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I apply online?",
+      "No. DHS also lists paper and service-center options."
+    ],
+    [
+      "Can family members have different eligibility?",
+      "Yes. Different coverage groups can apply."
+    ],
+    [
+      "Does every doctor accept Medicaid?",
+      "No. Ask before receiving services."
+    ],
+    [
+      "Should I report other insurance?",
+      "Yes. DHCF directs recipients to report other coverage."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhcf.dc.gov/service/medicaid",
+      "https://dhs.dc.gov/page/public-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/dc-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

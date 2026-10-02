@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri’s Working Family Tax Credit is claimed with the state income-tax return and depends on federal EITC eligibility.",
+  "description": "Missouri’s Working Family Tax Credit is claimed with the state income-tax return and depends on federal EITC eligibility.",
+  "sections": {
+    "who": "<p>A same-year federal EITC, eligible filing status, remaining state liability and investment-income conditions apply.</p>",
+    "get": "<p>The credit is nonrefundable and cannot carry forward. Revenue lists 20% of federal EITC for tax year 2024 onward.</p>",
+    "docs": "<ul><li>Federal return and EITC information.</li><li>Dependent names, Social Security numbers and birth dates.</li><li>Correct-year Missouri forms.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Complete federal taxes</h3><p>Establish the same-year federal EITC.</p></li><li><h3 class=\"pbf-h3\">Prepare MO-WFTC</h3><p>Follow <a href=\"https://dor.mo.gov/faq/taxation/individual/missouri-working-family-tax-credit.html\">Revenue’s credit instructions</a>.</p></li><li><h3 class=\"pbf-h3\">Attach required records</h3><p>Include MO-WFTC and a copy of the federal return with MO-1040.</p></li></ol>",
+    "after": "<p>Keep copies. Missing the federal return can disallow the credit.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dor.mo.gov/faq/taxation/individual/missouri-working-family-tax-credit.html\">Missouri WFTC rules</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it refundable?",
+      "No."
+    ],
+    [
+      "Can unused credit carry forward?",
+      "No."
+    ],
+    [
+      "Is federal EITC required?",
+      "Yes, for the same year."
+    ],
+    [
+      "Must I attach the federal return?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dor.mo.gov/faq/taxation/individual/missouri-working-family-tax-credit.html"
+    ],
+    "background_source": "https://usaassistance.org/programs/missouri-working-family-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

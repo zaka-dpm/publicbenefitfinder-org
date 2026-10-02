@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Florida’s Weatherization Assistance Program arranges energy-efficiency services through local providers. Start with the county agency to ask about eligibility, the waiting list and the work it can consider.",
+  "description": "Florida’s Weatherization Assistance Program arranges energy-efficiency services through local providers. Start with the county agency to ask about eligibility, the waiting lis",
+  "sections": {
+    "who": "<p>The program serves qualifying low-income households. The local provider assesses the application and the home; financial eligibility alone does not establish which work will be performed.</p>",
+    "get": "<p>Approved assistance consists of selected energy-efficiency services. It is not a cash grant for a homeowner to spend on an unrestricted renovation.</p>",
+    "docs": "<ul><li>Prepare household income information.</li><li>Have your address, utility records and ownership or tenancy information available.</li><li>Ask the provider about its current checklist and any owner-consent requirement before arranging a visit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the local office</h3><p>Find your county in the <a href=\"https://floridajobs.org/community-development/Weatherization-Assistance-Program/contact-your-local-weatherization-office-for-help\">weatherization provider directory</a>.</p></li><li><h3 class=\"pbf-h3\">Request an application</h3><p>FloridaCommerce says applications are available from local providers and are not available online through its directory.</p></li><li><h3 class=\"pbf-h3\">Discuss the property</h3><p>Explain your heating or cooling concerns and follow the provider’s assessment and scheduling instructions.</p></li></ol>",
+    "after": "<p>Confirm the scope of approved work with the provider. Ask before paying for work yourself; this program’s intake does not establish that a private repair bill will be reimbursed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://floridajobs.org/community-development/Weatherization-Assistance-Program\">Florida weatherization overview</a>, <a href=\"https://floridajobs.org/community-development/Weatherization-Assistance-Program/contact-your-local-weatherization-office-for-help\">Application directory</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-floridacommerce/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply through a statewide online form?",
+      "FloridaCommerce’s directory says weatherization applications must be obtained from local providers."
+    ],
+    [
+      "Is this the same as LIHEAP?",
+      "No. Weatherization concerns selected efficiency services; LIHEAP concerns eligible energy bills."
+    ],
+    [
+      "Will every requested repair be approved?",
+      "The provider determines eligibility and available services. Ask about the specific problem at your home."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://floridajobs.org/community-development/Weatherization-Assistance-Program",
+      "https://floridajobs.org/community-development/Weatherization-Assistance-Program/contact-your-local-weatherization-office-for-help"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "211 NH offers non-emergency referrals around the clock, every day of the year. Call when you need help finding local food, housing, utility or other community services.",
+  "description": "211 NH offers non-emergency referrals around the clock, every day of the year. Call when you need help finding local food, housing, utility or other community services.",
+  "sections": {
+    "who": "<p>Resource information is available without a public-benefit approval. Providers receiving referrals apply their own eligibility and service-area rules.</p>",
+    "get": "<p>A specialist identifies relevant organizations, and the online directory offers another search route. A referral does not reserve funding or approve an application.</p>",
+    "docs": "<ul><li>Your town or ZIP code.</li><li>The type of help needed and any deadline.</li><li>Names of organizations already contacted.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call or search</h3><p>Dial 211 or 866-444-4211, or visit <a href=\"https://211nh.org/\">211 NH</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the need</h3><p>Describe the situation and whether an urgent notice or lack of shelter is involved.</p></li><li><h3 class=\"pbf-h3\">Contact the provider</h3><p>Ask the referred organization about current intake and what it needs to assess your request.</p></li></ol>",
+    "after": "<p>Ask for another option if the first referral is unavailable. Use the emergency contact appropriate to an immediate safety emergency rather than treating a resource request as emergency dispatch.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://211nh.org/\">211 NH contact and service information</a>. <a href=\"https://usaassistance.org/programs/211-new-hampshire/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is 211 NH open on weekends?",
+      "The provider advertises 24-hour access, 365 days a year."
+    ],
+    [
+      "Does a referral guarantee payment?",
+      "No. The receiving organization decides whether it can assist."
+    ],
+    [
+      "Can I find services without knowing a benefit name?",
+      "Yes. Explain the need and location so the specialist can identify options."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://211nh.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

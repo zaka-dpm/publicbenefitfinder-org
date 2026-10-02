@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina’s earned income credit is claimed with the state tax return using TC-60 for the correct tax year. It is a nonrefundable state credit.",
+  "description": "South Carolina’s earned income credit is claimed with the state tax return using TC-60 for the correct tax year. It is a nonrefundable state credit.",
+  "sections": {
+    "who": "<p>Revenue lists full-year South Carolina residents who claim federal EITC as eligible.</p>",
+    "get": "<p>For 2023 and later years, the state rate is 125 percent of federal EITC. A nonrefundable credit cannot reduce state tax below zero; the state lists no carryforward.</p>",
+    "docs": "<ul><li>Federal return and EITC calculation.</li><li>State residency and income records.</li><li>Correct-year TC-60 and required state schedules.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Get the correct form</h3><p>Use <a href=\"https://www.dor.sc.gov/tax-credits/tax-credits-forms\">Revenue’s credit listing</a>.</p></li><li><h3 class=\"pbf-h3\">Calculate the credit</h3><p>Follow TC-60 and the state return instructions.</p></li><li><h3 class=\"pbf-h3\">File with the return</h3><p>Include required schedules and save the calculation.</p></li></ol>",
+    "after": "<p>Keep return copies and ask a tax preparer or Revenue about a disputed calculation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.dor.sc.gov/tax-credits/tax-credits-forms\">Current EIC eligibility and rate</a>, <a href=\"https://dor.sc.gov/tax-credits\">Nonrefundable-credit rules</a>. <a href=\"https://usaassistance.org/programs/south-carolina-earned-income-tax-credit/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is it a cash refund beyond tax owed?",
+      "It is nonrefundable, so it cannot reduce state tax below zero."
+    ],
+    [
+      "Can part-year residents claim this state credit?",
+      "Revenue lists full-year residents for this credit."
+    ],
+    [
+      "Can unused credit carry forward?",
+      "The state credit listing says no carryforward."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dor.sc.gov/tax-credits/tax-credits-forms",
+      "https://dor.sc.gov/tax-credits"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

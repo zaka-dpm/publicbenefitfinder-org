@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "CAPK Veteran Supportive Services helps veterans and their families facing homelessness or housing instability. Intake identifies an appropriate program.",
+  "description": "CAPK Veteran Supportive Services helps veterans and their families facing homelessness or housing instability. Intake identifies an appropriate program.",
+  "sections": {
+    "who": "<p>Veteran status, housing situation, income and the particular housing program affect eligibility. Not every service uses identical rules.</p>",
+    "get": "<p>Services include housing support, case management and connections to essential resources. SSVF supports qualifying low-income veteran households.</p>",
+    "docs": "<ul><li>Ask about veteran-service evidence.</li><li>Household income and current housing circumstances.</li><li>Any eviction or homelessness documentation available.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request intake</h3><p>Dial 211 or800-273-2275 as directed by <a href=\"https://www.capk.org/veteran/\">CAPK VSS</a>.</p></li><li><h3 class=\"pbf-h3\">Explain the housing need</h3><p>State whether you lack housing or risk losing it.</p></li><li><h3 class=\"pbf-h3\">Complete screening</h3><p>Discuss the program match, requested documents and available support.</p></li></ol>",
+    "after": "<p>Maintain contact with the caseworker. A referral does not reserve a housing unit.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.capk.org/veteran/\">CAPK VSS</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this a VA disability application?",
+      "It focuses on housing and supportive services."
+    ],
+    [
+      "Must I already be homeless?",
+      "Some programs also address housing-loss risk."
+    ],
+    [
+      "Does every veteran get a unit?",
+      "Eligibility and availability determine assistance."
+    ],
+    [
+      "What is SSVF?",
+      "A homelessness-prevention and rapid-rehousing service for qualifying veteran families."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.capk.org/veteran/"
+    ],
+    "background_source": "https://usaassistance.org/programs/capk-veterans-and-supportive-services/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

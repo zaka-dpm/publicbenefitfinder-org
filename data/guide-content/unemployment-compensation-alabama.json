@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Alabama Unemployment Compensation provides temporary support to workers who meet the state’s claim and weekly eligibility rules. Filing the initial claim and certifying each w",
+  "introduction": "Alabama Unemployment Compensation provides temporary support to workers who meet the state’s claim and weekly eligibility rules. Filing the initial claim and certifying each week are separate steps.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "The state reviews your work and wage history and the circumstances of the job separation. An initial application is not an automatic approval.",
+      "For eligible weeks, you generally must be able and available for suitable full-time work. Unless exempt, you must register with the Alabama Career Center and follow work-search requirements."
+    ],
+    "get": "<p>Approved claims provide unemployment payments for eligible certified weeks. The state determines the amount and payable period from the claim; do not use an older online estimate as a payment promise.</p>",
+    "docs": "<p>Prepare employer names, dates worked, separation details and wage information. Keep identity-verification instructions and the weekly work-search record supplied during filing. Have a secure way to retain your claim confirmation.</p>",
+    "apply": "<ol><li>Open <a href=\"https://workforce.alabama.gov/unemployment/\">the Alabama Department of Workforce unemployment page</a> and follow its Unemployment Claims link to file.</li><li>Provide accurate employment and separation information. Follow any identity or additional-document instructions.</li><li>File weekly certifications through the state’s claim system. Report work and gross earnings for the week earned, even if payment arrives later.</li><li>Complete required work-search contacts. The state notice requires three contacts per week unless you have been instructed that the requirement does not apply.</li></ol>",
+    "after": "<p>Read wage and eligibility determinations, respond to requests and keep filing weekly certifications as instructed while a claim is pending. Report part-time or temporary earnings accurately. Use the appeal instructions and deadline on any determination you dispute.</p>",
+    "sources": "<ul><li><a href=\"https://workforce.alabama.gov/unemployment/\">Current unemployment entry page</a></li><li><a href=\"https://www.labor.alabama.gov/uc/claims.aspx\">Claims and benefits FAQ</a></li><li><a href=\"https://www.labor.alabama.gov/Message.aspx\">Weekly work-search notice</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-compensation-alabama/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does my first application cover future weeks?",
+      "No. Continue filing the weekly certifications required by the state."
+    ],
+    [
+      "When do I report wages?",
+      "Report gross earnings for the week you performed the work, rather than waiting for payday."
+    ],
+    [
+      "Must I look for work?",
+      "The state requires three weekly work-search contacts unless it has instructed you that you are exempt. Follow your claim’s instructions."
+    ],
+    [
+      "Can availability affect payment?",
+      "Yes. Report anything that limits your ability to accept suitable work, such as illness or a scheduling restriction. The state evaluates weekly eligibility."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-compensation-alabama",
+    "source_url": "https://usaassistance.org/programs/unemployment-compensation-alabama/",
+    "source_updated": "August 2026",
+    "primary_url": "https://adol.alabama.gov/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://workforce.alabama.gov/unemployment/",
+      "https://www.labor.alabama.gov/uc/claims.aspx",
+      "https://www.labor.alabama.gov/Message.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

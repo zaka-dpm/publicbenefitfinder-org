@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island WIC provides selected nutritious foods, nutrition support and breastfeeding services for eligible participants.",
+  "description": "Rhode Island WIC provides selected nutritious foods, nutrition support and breastfeeding services for eligible participants.",
+  "sections": {
+    "who": "<p>Eligible groups include pregnant and breastfeeding participants, postpartum participants up to six months, infants and children younger than five. The local agency checks the full eligibility rules.</p>",
+    "get": "<p>Participation has no charge. Benefits cover an assigned food package rather than all groceries.</p>",
+    "docs": "<ul><li>Identity and residence information.</li><li>Income or qualifying benefit evidence requested by the clinic.</li><li>Pregnancy or child records needed for certification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find intake</h3><p>Use Find A WIC Agency on <a href=\"https://health.ri.gov/women-infants-and-children\">Rhode Island WIC</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange certification</h3><p>Ask what to bring and who must attend the appointment.</p></li><li><h3 class=\"pbf-h3\">Complete assessment</h3><p>The clinic reviews eligibility and explains benefits and follow-up visits.</p></li></ol>",
+    "after": "<p>Use the WIC Shopper app for participant information and contact your clinic about benefit questions.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://health.ri.gov/women-infants-and-children\">Rhode Island WIC</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a parent apply for a child?",
+      "Any parent or guardian can request enrollment for a child younger than five."
+    ],
+    [
+      "Is there an enrollment fee?",
+      "The state says participation is free."
+    ],
+    [
+      "Does WIC cover every grocery item?",
+      "No. It supplies assigned approved foods."
+    ],
+    [
+      "Is a prescreen a final decision?",
+      "The local agency must review eligibility."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://health.ri.gov/women-infants-and-children"
+    ],
+    "background_source": "https://usaassistance.org/programs/rhode-island-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

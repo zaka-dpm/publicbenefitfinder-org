@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Medi-Cal provides California Medicaid coverage. Apply through the county, BenefitsCal or Covered California, and check the current rules for your eligibility category.",
+  "introduction": "Medi-Cal provides California Medicaid coverage. Apply through the county, BenefitsCal or Covered California, and check the current rules for your eligibility category.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Eligibility varies by income, household, age, pregnancy, disability and other circumstances. California’s 2026 changes affect some adult applicants and members based on immigration status; do not rely on older claims that every adult can newly enroll in full coverage.</p>",
+    "get": "<p>The eligibility notice identifies covered services and coverage type. Some 2026 adult immigration-status changes affect enrollment or dental coverage while other groups and exceptions have separate rules.</p>",
+    "docs": "<p>Prepare household and income information and any requested identity, insurance or immigration evidence. Ask the county what alternatives it accepts if a record is missing.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply year-round at <a href=\"https://BenefitsCal.com/\">BenefitsCal</a> or <a href=\"https://www.coveredca.com/\">Covered California</a>, or request phone, mail or in-person assistance from your county.</p></li><li><p>Respond to county verification requests. If affected by an immigration-status rule, ask specifically about existing-member protection, pregnancy, postpartum, youth or restricted-scope pathways.</p></li></ol>",
+    "after": "<p>Read the coverage decision, plan information and annual renewal notices. From October 2026, some federally funded eligibility categories change; DHCS describes temporary state-funded continuation for affected members through June 30, 2027. Follow the dated notice for your case.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.dhcs.ca.gov/medi-cal/apply/\">Application routes</a>, <a href=\"https://www.dhcs.ca.gov/medi-cal/updates/medi-cal-changes/\">Current enrollment and coverage changes</a>, <a href=\"https://www.dhcs.ca.gov/medi-cal-immigrant-eligibility-faqs/\">Immigration eligibility FAQs</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/medi-cal-california-medicaid/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply outside marketplace open enrollment?",
+      "Yes. Medi-Cal applications are year-round."
+    ],
+    [
+      "Did the 2026 enrollment freeze cancel all existing adult coverage?",
+      "No. Existing-member protections and other exceptions apply; keep renewals current."
+    ],
+    [
+      "Does immigration status affect children the same as adults?",
+      "No. DHCS explains separate protections and exceptions for children and other groups."
+    ],
+    [
+      "Who can explain my coverage decision?",
+      "Your county Medi-Cal office; the notice identifies how to follow up or appeal."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dhcs.ca.gov/medi-cal/apply/",
+      "https://www.dhcs.ca.gov/medi-cal/updates/medi-cal-changes/",
+      "https://www.dhcs.ca.gov/medi-cal-immigrant-eligibility-faqs/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

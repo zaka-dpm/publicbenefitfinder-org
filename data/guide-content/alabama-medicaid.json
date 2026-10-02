@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Alabama Medicaid has different application routes for families, pregnancy-related coverage, and elderly or disabled applicants. Choosing the right route helps get the applicat",
+  "introduction": "Alabama Medicaid has different application routes for families, pregnancy-related coverage, and elderly or disabled applicants. Choosing the right route helps get the application to the office responsible for your coverage category.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility depends on the Medicaid category, income and other applicable conditions. Low income alone does not establish eligibility for every Alabama adult.",
+      "Children, parents or caretakers, pregnant applicants, older people and people with disabilities have distinct pathways. Review the category that fits the person applying."
+    ],
+    "get": "<p>Medicaid provides health coverage under the approved eligibility category. Some programs, such as Plan First family planning or Medicare Savings Programs, have a narrower purpose than full Medicaid.</p>",
+    "docs": "<p>Gather contact and household information, income records and current insurance details. Elderly or disabled applications can request additional financial and medical records. Use the specific form’s checklist rather than assuming the family application fits every category.</p>",
+    "apply": "<ol><li>Start with <a href=\"https://www.medicaid.alabama.gov/content/3.0_Apply/default.aspx\">Alabama Medicaid’s application categories</a>.</li><li>For children, pregnancy, parents/caretakers or Plan First, the agency identifies <a href=\"https://insurealabama.adph.state.al.us/\">Insure Alabama</a> or the joint paper form.</li><li>For elderly and disabled programs, use the dedicated application linked from <a href=\"https://www.medicaid.alabama.gov/content/9.0_Resources/9.4_Forms_Library/9.4.1_Applicant_Forms.aspx\">the forms library</a>. Its online route and Form 204/205 cover these categories, including nursing-home and waiver applications.</li><li>Save your submission and respond to the assigned worker. For help choosing a route, call 800-362-1504.</li></ol>",
+    "after": "<p>Check the decision for the coverage category and effective date. Keep contact information current and read renewal or verification requests promptly. Ask the worker how to request review if you disagree with the determination.</p>",
+    "sources": "<ul><li><a href=\"https://www.medicaid.alabama.gov/content/3.0_Apply/default.aspx\">Application categories</a></li><li><a href=\"https://www.medicaid.alabama.gov/content/9.0_Resources/9.5_FAQ_Pages/9.5.2_FAQ_Applying.aspx\">Application FAQ</a></li><li><a href=\"https://www.medicaid.alabama.gov/content/9.0_Resources/9.4_Forms_Library/9.4.1_Applicant_Forms.aspx\">Applicant forms and category-specific routes</a></li><li><a href=\"https://usaassistance.org/programs/alabama-medicaid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can all adults use the children’s application?",
+      "No. Alabama has separate pathways, including a dedicated elderly and disabled application. Start with the agency’s category list."
+    ],
+    [
+      "Does a Medicare Savings application provide full Medicaid?",
+      "Not automatically. The agency identifies Form 211 specifically as a Medicare Savings Program application, rather than full Medicaid."
+    ],
+    [
+      "Can someone help me apply?",
+      "The forms library includes authorized-representative forms. Ask the agency which form applies to your situation."
+    ],
+    [
+      "Who can help me choose a form?",
+      "Call Alabama Medicaid’s Recipient Call Center at 800-362-1504."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alabama-medicaid",
+    "source_url": "https://usaassistance.org/programs/alabama-medicaid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://medicaid.alabama.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.medicaid.alabama.gov/content/3.0_Apply/default.aspx",
+      "https://www.medicaid.alabama.gov/content/9.0_Resources/9.5_FAQ_Pages/9.5.2_FAQ_Applying.aspx",
+      "https://www.medicaid.alabama.gov/content/9.0_Resources/9.4_Forms_Library/9.4.1_Applicant_Forms.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

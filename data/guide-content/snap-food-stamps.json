@@ -1,0 +1,20 @@
+{
+ "status":"reviewed",
+ "description":"Learn how SNAP food benefits work, prepare for an application and find the SNAP program for your state.",
+ "introduction":"SNAP helps eligible households pay for groceries. Your state or local SNAP agency handles the application and eligibility decision. Start with the state where you live; there is no single national household application.",
+ "sections":{
+  "who":"<p>The state reviews your household against its SNAP requirements, including financial eligibility. Household circumstances matter, so an income figure alone does not establish approval.</p><p>Use your state’s current eligibility instructions for income, resources and any work rules or exemptions. Ask the application office how it defines your household and what information it needs for each person applying.</p>",
+  "get":"<p>Approved benefits are added each month to an Electronic Benefits Transfer (EBT) card for grocery purchases. The state determines the amount for the household.</p><p>Do not treat a maximum allotment as a guaranteed payment. USDA has published <a href=\"https://www.fna.usda.gov/snap/allotment/cola/fy27\">FY 2027 cost-of-living adjustments</a>; use the current agency guidance rather than figures in older screenshots.</p>",
+  "docs":"<p>Your state provides the checklist for your case. Before starting, gather the information you will need to answer the form:</p><ul><li>Identity, contact and address information for applicants.</li><li>Household members and their income sources.</li><li>Housing and other expenses the form asks about.</li><li>Records the agency requests to verify the answers.</li></ul><p>This is a preparation guide, not a national list of mandatory attachments. If a record is hard to obtain, ask the application office how to proceed.</p>",
+  "apply":"<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your state’s program</h3><p>Use the state links below or <a href=\"https://www.usa.gov/food-stamps\">USAGov’s SNAP application information</a> to find the responsible office.</p></li><li><h3 class=\"pbf-h3\">Submit through that agency</h3><p>Depending on the state, applications may be accepted online, in person, by mail or by fax. Follow its instructions and keep submission details.</p></li><li><h3 class=\"pbf-h3\">Complete the review</h3><p>You may need an interview and additional evidence. Follow the office’s notices and deadlines.</p></li></ol>",
+  "after":"<p>Read the eligibility decision and any instructions about reporting changes or renewing benefits. For a missing card, balance problem or transaction issue, use your state’s EBT customer-service information rather than assuming it is handled by the application office.</p>",
+  "sources":"<p>Reviewed October 1, 2026 using <a href=\"https://www.usa.gov/food-stamps\">USAGov’s SNAP application and balance guidance</a> and USDA’s <a href=\"https://www.fna.usda.gov/snap/allotment/cola/fy27\">FY 2027 adjustment notice</a>. State agencies decide eligibility. Public Benefit Finder does not accept benefit applications.</p>"
+ },
+ "faqs":[
+  ["Can I apply through Public Benefit Finder?","No. Our guides link you to the program. Submit an application through the state or local SNAP agency."],
+  ["Is there one application for all states?","Use the application for the state where you live. The available submission methods and review steps are set by that agency."],
+  ["Does an online form finish the process?","Not necessarily. You may need an interview or additional evidence. Follow the agency’s instructions after submitting."],
+  ["How can I check my EBT balance?","Check a recent purchase receipt or use your state’s EBT app or customer-service process, where available."],
+  ["What if I need food while the application is being reviewed?","Explain the urgency to the SNAP office and ask about its emergency processing instructions. Contact a local food pantry or 211 for food resources available sooner."]
+ ]
+}

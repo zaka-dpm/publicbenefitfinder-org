@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Delaware SNAP provides grocery benefits to eligible households through an EBT card. DSS handles application screening and interviews.",
+  "description": "Delaware SNAP provides grocery benefits to eligible households through an EBT card. DSS handles application screening and interviews.",
+  "sections": {
+    "who": "<p>DSS reviews income, household relationships, residence and applicable status and work rules. Explain who lives together and shares food. Current rules can differ from older tables.</p>",
+    "get": "<p>Benefits can buy eligible foods from approved retailers. Non-food goods, delivery fees and most hot prepared foods cannot be paid for with SNAP.</p>",
+    "docs": "<ul><li>Requested identity, residency and status records.</li><li>Recent pay stubs and other income information.</li><li>Rent, mortgage and utility records relevant to the case.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit an application</h3><p>Use <a href=\"https://assist.dhss.delaware.gov/\">ASSIST</a> or visit a Delaware State Service Center.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Provide the evidence DSS requests to verify application details.</p></li><li><h3 class=\"pbf-h3\">Read the mailed decision</h3><p>Keep the notice. If you disagree, review its fair-hearing instructions.</p></li></ol>",
+    "after": "<p>Tell DSS about an immediate lack of food. Ask for local food resources while awaiting the decision.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhss.delaware.gov/dss/division-of-social-services/snap/\">Delaware SNAP rules and application</a>; <a href=\"https://assist.dhss.delaware.gov/\">ASSIST application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this still called food stamps?",
+      "SNAP is the current name; Delaware also uses Food Supplement Program."
+    ],
+    [
+      "Do I need an interview?",
+      "DSS’s application instructions include an eligibility interview."
+    ],
+    [
+      "Can SNAP pay delivery charges?",
+      "No. Online order fees must be paid separately."
+    ],
+    [
+      "What if the decision seems wrong?",
+      "Use the notice’s fair-hearing instructions."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhss.delaware.gov/dss/division-of-social-services/snap/",
+      "https://assist.dhss.delaware.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/delaware-snap-food-supplement-program/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

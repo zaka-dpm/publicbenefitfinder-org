@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Maryland OHEP provides several kinds of energy bill assistance. Heating, electricity and arrearage grants have distinct conditions within the July–June program year.",
+  "introduction": "Maryland OHEP provides several kinds of energy bill assistance. Heating, electricity and arrearage grants have distinct conditions within the July–June program year.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Income and household rules determine eligibility. Tell intake which bills are owed and whether a disconnection is pending.",
+      "A separate arrearage grant has past-due balance and frequency rules; an electricity or heating grant is not automatically debt forgiveness."
+    ],
+    "get": "<p>MEAP assists heating bills, EUSP assists electricity and eligible arrearage assistance addresses certain past-due bills. Payments go toward approved vendor accounts.</p>",
+    "docs": "<p>Prepare the current bills, household identity and prior 30-day income records. Adults reporting no income may need the zero-income declaration. Ask about accepted wage, gig-work or self-employment proof.</p>",
+    "apply": "<ol><li>Use <a href=\"https://dhs.maryland.gov/office-of-home-energy-programs/\">OHEP’s Apply Online link</a> or find the local home energy office.</li><li>For a paper form, call 800-332-6347 and follow the local submission instructions.</li><li>Provide the component-specific documents and retain the application confirmation.</li></ol>",
+    "after": "<p>Check application status through the official OHEP link and confirm utility posting after approval. Continue discussing payment arrangements with the utility. Ask separately about USPP protection, which requires qualifying participation and ongoing budget-billing payments.</p>",
+    "sources": "<ul><li><a href=\"https://dhs.maryland.gov/office-of-home-energy-programs/\">OHEP application and local offices</a></li><li><a href=\"https://dhs.maryland.gov/office-of-home-energy-programs/about-energy-assistance/\">Energy grant components</a></li><li><a href=\"https://dhs.maryland.gov/office-of-home-energy-programs/about-energy-assistance/acceptable-documents-energy-assistance/\">OHEP document checklist</a></li><li><a href=\"https://usaassistance.org/programs/maryland-energy-assistance-office-of-home-energy-programs-ohep/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is budget billing required for EUSP?",
+      "The state says EUSP recipients may choose budget billing; it is not required for that grant. USPP has different requirements."
+    ],
+    [
+      "Can the program help an old balance?",
+      "Arrearage assistance may apply if its balance, frequency and other conditions are met. Ask for a separate review."
+    ],
+    [
+      "What proof is used for gig income?",
+      "OHEP lists recent earnings statements among accepted evidence. Ask the office about your records and required period."
+    ],
+    [
+      "Does an application stop a disconnection?",
+      "Do not assume that. Speak with the utility and local energy office about your deadline and available protection."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-energy-assistance-office-of-home-energy-programs-ohep",
+    "source_url": "https://usaassistance.org/programs/maryland-energy-assistance-office-of-home-energy-programs-ohep/",
+    "source_updated": "August 2026",
+    "primary_url": "https://dhs.maryland.gov/office-of-home-energy-programs/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dhs.maryland.gov/office-of-home-energy-programs/",
+      "https://dhs.maryland.gov/office-of-home-energy-programs/about-energy-assistance/",
+      "https://dhs.maryland.gov/office-of-home-energy-programs/about-energy-assistance/acceptable-documents-energy-assistance/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

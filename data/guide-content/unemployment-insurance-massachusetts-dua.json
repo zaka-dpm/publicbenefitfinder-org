@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Massachusetts DUA provides unemployment insurance to eligible workers who lose work or have substantially reduced hours. Apply through Unemployment Services for Workers and fi",
+  "introduction": "Massachusetts DUA provides unemployment insurance to eligible workers who lose work or have substantially reduced hours. Apply through Unemployment Services for Workers and file weekly claims afterwards.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Workers with sufficient covered wages and a qualifying job separation or reduction in hours.",
+      "Weekly eligibility includes work availability and required job search activity; DUA decides the circumstances of each claim."
+    ],
+    "get": "<p>Temporary weekly payments based on the wage record and weekly eligibility. Report work and earnings even if you expect a reduced payment.</p>",
+    "docs": "<p>Prepare employer names, dates and reasons for separation, identity and contact details, and payment account information. Federal or military workers and noncitizens may need additional records listed by DUA.</p>",
+    "apply": "<ol><li>Use the state application page to create or access Unemployment Services for Workers through MyMassGov.</li><li>Select File an unemployment insurance claim and complete the application.</li><li>For a telephone application call 877-626-6800, Monday–Thursday, 8:30 a.m.–4:30 p.m.</li><li>Start weekly claims the week after applying, even while review is pending.</li></ol>",
+    "after": "<p>Respond to DUA requests and check the account. Report at least three work search activities per week unless participating in DUA-approved training. Activities are entered online; a paper log is no longer required for online claims. The initial eligible claim week is unpaid.</p>",
+    "sources": "<ul><li><a href=\"https://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits\">DUA application route and records</a></li><li><a href=\"https://www.mass.gov/info-details/faqs-about-unemployment-insurance-for-workers\">DUA current weekly claim FAQ</a></li><li><a href=\"https://www.mass.gov/info-details/unemployment-insurance-eligibility\">UI eligibility</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-massachusetts-dua/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is the old UI Online name the current application route?",
+      "The current state page directs workers to Unemployment Services for Workers using MyMassGov."
+    ],
+    [
+      "Can I phone on Friday?",
+      "The call center is closed Friday; the listed application phone hours are Monday–Thursday."
+    ],
+    [
+      "Should I wait for approval before weekly claims?",
+      "No, DUA directs workers to start the week after applying."
+    ],
+    [
+      "How many weekly work search activities are required?",
+      "The current FAQ lists at least three, with a DUA-approved training exception."
+    ],
+    [
+      "Must I upload a paper search log online?",
+      "No; enter activities in the online account."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-massachusetts-dua",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-massachusetts-dua/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits",
+      "https://www.mass.gov/info-details/faqs-about-unemployment-insurance-for-workers",
+      "https://www.mass.gov/info-details/unemployment-insurance-eligibility"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

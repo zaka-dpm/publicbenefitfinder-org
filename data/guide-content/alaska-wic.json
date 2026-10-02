@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska WIC offers food benefits, nutrition services and breastfeeding support to eligible families. Apply through the clinic serving your community; a parent or other caregive",
+  "introduction": "Alaska WIC offers food benefits, nutrition services and breastfeeding support to eligible families. Apply through the clinic serving your community; a parent or other caregiver can apply for a young child.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Applicants must live in Alaska, meet income rules and have a nutritional need assessed by WIC. The program serves pregnancy and breastfeeding categories and children younger than five.",
+      "A father, grandparent, foster parent or other guardian can apply for an eligible child. Working families can qualify. Income eligibility for SNAP, Medicaid, Denali KidCare or ATAP meets the WIC income test, while the other WIC conditions still apply."
+    ],
+    "get": "<p>WIC provides approved foods through eWIC, nutrition assessment and education, breastfeeding support and referrals. It supplements food needs rather than providing unrestricted cash for groceries.</p>",
+    "docs": "<p>The state asks for completed forms, proof of identification and income verification. It accepts qualifying benefit-program proof or recent household pay records for income. Ask the clinic about suitable identification and any measurement arrangements before the visit.</p>",
+    "apply": "<ol><li>Use <a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/wic/\">the Alaska WIC page</a> to find your clinic and the appropriate family or participant forms.</li><li>Call the clinic to request an application appointment and its exact preparation instructions.</li><li>Submit the forms and verification and complete the nutrition assessment. Ask how to activate and use the eWIC card if approved.</li></ol>",
+    "after": "<p>Keep clinic appointments and ask when the next certification is due. Review the approved foods and available balance before shopping. Contact the clinic for food-package questions or breastfeeding support rather than treating an eWIC shopping problem as a new application.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/wic/\">Alaska WIC eligibility, forms and first-visit checklist</a></li><li><a href=\"https://usaassistance.org/programs/alaska-wic/\">USA Assistance WIC preparation topics</a></li><li><a href=\"https://usaassistance.org/programs/alaska-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a father apply for his child?",
+      "Yes. Alaska WIC allows parents and other caregivers to apply for an eligible child younger than five."
+    ],
+    [
+      "Does having a job rule us out?",
+      "No. Working families may qualify if they meet the income and other conditions."
+    ],
+    [
+      "Does SNAP enrollment replace the nutrition assessment?",
+      "No. Qualifying benefit enrollment establishes the income test, but WIC still checks the other conditions."
+    ],
+    [
+      "How do I spend food benefits?",
+      "Approved foods are purchased using the eWIC card. Ask the clinic for card activation and approved-food instructions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-wic",
+    "source_url": "https://usaassistance.org/programs/alaska-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/wic/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/wic/",
+      "https://usaassistance.org/programs/alaska-wic/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

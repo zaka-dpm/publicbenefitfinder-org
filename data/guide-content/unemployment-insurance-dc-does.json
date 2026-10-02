@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "DC unemployment insurance provides temporary support for qualifying workers. DOES lists initial claims, weekly certifications and account services separately.",
+  "description": "DC unemployment insurance provides temporary support for qualifying workers. DOES lists initial claims, weekly certifications and account services separately.",
+  "sections": {
+    "who": "<p>DOES assesses wages, job separation and ongoing eligibility. Follow the current claimant handbook for work-search, availability and earnings-reporting duties.</p>",
+    "get": "<p>Payments depend on an approved claim and continued eligibility. Review the determination for the amount and payment arrangements.</p>",
+    "docs": "<ul><li>Employer, employment-date and wage history.</li><li>Information about separation or reduced hours.</li><li>Identity and account records requested during filing.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start through DOES</h3><p>Follow the DCNetworks claim link on <a href=\"https://does.dc.gov/service/start-your-unemployment-compensation-process\">DOES Start Your Unemployment Process</a>.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Use the listed weekly-claim instructions, answering the questions for each claimed week.</p></li><li><h3 class=\"pbf-h3\">Check account tasks</h3><p>Review requests, payment history and notices. Claim help is listed at 202-724-7000 or 877-319-7346.</p></li></ol>",
+    "after": "<p>Keep confirmations and the determination. If wages or eligibility appear incorrect, use the review or appeal instructions promptly.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://does.dc.gov/service/start-your-unemployment-compensation-process\">DOES claim and account services</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the first claim enough for future payments?",
+      "No. Weekly certifications are a separate requirement."
+    ],
+    [
+      "Where is payment history?",
+      "DOES lists it among account-management services."
+    ],
+    [
+      "Can I arrange direct deposit?",
+      "The page links to direct-deposit instructions."
+    ],
+    [
+      "Where can I get claim assistance?",
+      "Call 202-724-7000 or 877-319-7346."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://does.dc.gov/service/start-your-unemployment-compensation-process"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-dc-does/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

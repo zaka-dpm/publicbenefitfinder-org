@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah’s Family Employment Program combines temporary cash help with employment support. Eligibility and employment counseling are handled by different workers.",
+  "description": "Utah’s Family Employment Program combines temporary cash help with employment support. Eligibility and employment counseling are handled by different workers.",
+  "sections": {
+    "who": "<p>DWS reviews family composition, finances and program requirements. Tell the counselor if two parents who can work live in the home so the correct route is considered.</p>",
+    "get": "<p>Temporary cash assistance and employment support for an eligible family.</p>",
+    "docs": "<ul><li>Household-member information.</li><li>Income and citizenship verification requested by DWS.</li><li>Records of cash assistance received in another state.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit intake</h3><p>Apply via <a href=\"https://jobs.utah.gov/customereducation/apply/index.html\">myCase or a DWS employment center</a>.</p></li><li><h3 class=\"pbf-h3\">Work with eligibility</h3><p>Return the listed financial and family verification.</p></li><li><h3 class=\"pbf-h3\">Meet the counselor</h3><p>Discuss employment responsibilities and child-support cooperation, including safety concerns.</p></li></ol>",
+    "after": "<p>Keep appointments and respond to both workers. Raise any safety concerns about seeking child support directly with the counselor.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://jobs.utah.gov/customereducation/services/financialhelp/family/program.html\">FEP support and responsibilities</a>, <a href=\"https://jobs.utah.gov/customereducation/services/financialhelp/family/qualify.html\">FEP verification</a>, <a href=\"https://jobs.utah.gov/customereducation/apply/index.html\">Application methods</a>. <a href=\"https://usaassistance.org/programs/family-employment-program-utah-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are the two workers interchangeable?",
+      "No. Eligibility and FEP employment counseling have different roles."
+    ],
+    [
+      "Is this indefinite assistance?",
+      "The state describes temporary assistance with lifetime limits and program conditions."
+    ],
+    [
+      "What if pursuing child support is unsafe?",
+      "DWS asks applicants to tell the employment counselor about safety concerns."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://jobs.utah.gov/customereducation/services/financialhelp/family/program.html",
+      "https://jobs.utah.gov/customereducation/services/financialhelp/family/qualify.html",
+      "https://jobs.utah.gov/customereducation/apply/index.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi unemployment insurance provides temporary payments to eligible unemployed workers. MDES determines eligibility and processes weekly certifications.",
+  "description": "Mississippi unemployment insurance provides temporary payments to eligible unemployed workers. MDES determines eligibility and processes weekly certifications.",
+  "sections": {
+    "who": "<p>Work history, separation and ongoing availability requirements affect the claim. Follow MDES’s current work-search instructions.</p>",
+    "get": "<p>A claim calculation and eligibility review determine payable benefits. Payments are not automatic after registration.</p>",
+    "docs": "<ul><li>Recent employer and separation information.</li><li>Identity and contact information.</li><li>Weekly work, earnings and search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start through MDES</h3><p>Use <a href=\"https://www.mdes.ms.gov/unemployment-claims/\">Unemployment Claims</a> and its current online claim link.</p></li><li><h3 class=\"pbf-h3\">Complete the claim</h3><p>Answer accurately and read determinations.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Submit each weekly certification and required work-search details.</p></li></ol>",
+    "after": "<p>Keep records and respond to notices. For filing help call 601-493-9427.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.mdes.ms.gov/unemployment-claims/\">MDES claims</a>; <a href=\"https://mdes.ms.gov/worksearch\">Work-search reporting</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is registration enough for weekly payment?",
+      "No. Weekly certification is required."
+    ],
+    [
+      "Where do I find the current portal?",
+      "Follow MDES’s Unemployment Claims link."
+    ],
+    [
+      "Must I report work?",
+      "Answer the weekly questions accurately."
+    ],
+    [
+      "Who helps with filing?",
+      "MDES Contact Center at 601-493-9427."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.mdes.ms.gov/unemployment-claims/",
+      "https://mdes.ms.gov/worksearch"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-mississippi-mdes/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Colorado’s earned income tax credit supports eligible workers through their state income-tax return. Additional state rules can cover some ITIN filers and certain younger workers.",
+  "description": "Colorado’s earned income tax credit supports eligible workers through their state income-tax return. Additional state rules can cover some ITIN filers and certain younger workers.",
+  "sections": {
+    "who": "<p>Federal EITC eligibility generally provides the starting point. Colorado also has an expanded eligibility checklist for some filers who cannot claim the federal credit. Income, residency and family circumstances still matter.</p>",
+    "get": "<p>The credit is refundable. Its calculation changes by tax year, so use the applicable state schedule rather than assuming a previous year’s percentage applies.</p>",
+    "docs": "<ul><li>Federal return, wage statements and self-employment records.</li><li>Tax identification details for you, a spouse and dependents.</li><li>Residency and qualifying-child records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check standard or expanded eligibility</h3><p>Use the relevant year’s Colorado instructions. If federal EITC is unavailable because of an ITIN or certain under-25 rules, review DR 0104TN.</p></li><li><h3 class=\"pbf-h3\">Complete the schedules</h3><p>Claim the state credit on DR 0104CR with DR 0104. Complete DR 0104TN when the expanded-credit instructions require it.</p></li><li><h3 class=\"pbf-h3\">File and retain your calculation</h3><p>Use <a href=\"https://tax.colorado.gov/individual-income-tax-forms\">Colorado’s individual tax forms</a> and keep a copy of all worksheets.</p></li></ol>",
+    "after": "<p>Answer any request for supporting records using the deadline on the notice. Filing does not guarantee a refund until the return is processed.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://tax.colorado.gov/sites/tax/files/documents/ITT_Earned_Income_Tax_Credit_Apr_2025.pdf\">State EITC guidance</a>; <a href=\"https://tax.colorado.gov/individual-income-tax-forms\">Individual income-tax forms</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can an ITIN filer qualify?",
+      "Some can under Colorado’s expanded rules. DR 0104TN checks the applicable conditions."
+    ],
+    [
+      "Can someone under 25 qualify?",
+      "Certain filers without a qualifying child can qualify under the expanded rules; age alone is not sufficient."
+    ],
+    [
+      "Which return claims it?",
+      "The Colorado individual income-tax return, with DR 0104CR and any required DR 0104TN."
+    ],
+    [
+      "Is the percentage fixed?",
+      "No. The state’s guidance assigns percentages by tax year; use the correct year’s calculation."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://tax.colorado.gov/sites/tax/files/documents/ITT_Earned_Income_Tax_Credit_Apr_2025.pdf",
+      "https://tax.colorado.gov/individual-income-tax-forms"
+    ],
+    "background_source": "https://usaassistance.org/programs/colorado-earned-income-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

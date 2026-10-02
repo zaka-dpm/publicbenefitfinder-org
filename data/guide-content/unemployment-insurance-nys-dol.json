@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "New York unemployment insurance provides temporary payments to eligible workers. Initial claims and weekly certifications are separate.",
+  "description": "New York unemployment insurance provides temporary payments to eligible workers. Initial claims and weekly certifications are separate.",
+  "sections": {
+    "who": "<p>Work history, job separation and ongoing ability and availability affect eligibility. Work-search rules apply unless exempt.</p>",
+    "get": "<p>The Department of Labor determines payable benefits. A calculator does not establish eligibility.</p>",
+    "docs": "<ul><li>Identity and employer details.</li><li>Job-separation records.</li><li>Weekly work, earnings and search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File a claim</h3><p>Use <a href=\"https://dol.ny.gov/unemployment/unemployment-insurance-assistance\">DOL’s current claim links</a>.</p></li><li><h3 class=\"pbf-h3\">Complete requested tasks</h3><p>Follow account and identity-verification instructions.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Claim each eligible week and record required work-search activities.</p></li></ol>",
+    "after": "<p>Read determinations and appeal instructions; respond to agency requests.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dol.ny.gov/unemployment/unemployment-insurance-assistance\">DOL unemployment services</a>; <a href=\"https://dol.ny.gov/services/ui/wsr\">Work-search requirements</a>; <a href=\"https://dol.ny.gov/node/1621\">Search exemptions and plans</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does the first claim cover weekly certifications?",
+      "No."
+    ],
+    [
+      "How many search activities are generally required?",
+      "DOL lists at least3 qualifying activities unless exempt."
+    ],
+    [
+      "Can a work-search plan differ?",
+      "Follow the approved plan’s instructions."
+    ],
+    [
+      "Is the benefit calculator approval?",
+      "No."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dol.ny.gov/unemployment/unemployment-insurance-assistance",
+      "https://dol.ny.gov/services/ui/wsr",
+      "https://dol.ny.gov/node/1621"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-nys-dol/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

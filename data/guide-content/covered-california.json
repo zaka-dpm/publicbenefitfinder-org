@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Covered California is the state health-insurance marketplace. Compare plans, check financial help and use its application to screen for marketplace coverage or Medi-Cal.",
+  "introduction": "Covered California is the state health-insurance marketplace. Compare plans, check financial help and use its application to screen for marketplace coverage or Medi-Cal.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Marketplace eligibility and savings depend on household and coverage circumstances. Open enrollment is November 1–January 31; qualifying life events may permit special enrollment outside that period.</p>",
+    "get": "<p>Plans cover medical care and other included benefits. Financial help depends on household size and income; a sample price is not a quote for your household.</p>",
+    "docs": "<p>Prepare household income, tax information, applicants’ SSNs if available and relevant immigration documents. The marketplace says it asks for specific evidence if electronic checks do not confirm information.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Use <a href=\"https://www.coveredca.com/\">Covered California</a> to compare plans and start the application. Review doctors, prescriptions, premiums and out-of-pocket costs before choosing.</p></li><li><p>Ask for free certified enrollment help through the Get Help page or call 800-300-1506 for English assistance. Confirm special-enrollment eligibility if applying outside open enrollment.</p></li></ol>",
+    "after": "<p>Read the eligibility result and plan-start instructions. Complete any first-payment and verification steps. Report household or income changes so financial help remains accurate.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.coveredca.com/enrollment\">Enrollment periods and preparation</a>, <a href=\"https://www.coveredca.com/get-help\">Certified and telephone help</a>, <a href=\"https://www.coveredca.com/\">Plans and application</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/covered-california/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can I enroll at any time?",
+      "Open enrollment has set dates; special enrollment requires a qualifying circumstance. Medi-Cal applications are available year-round."
+    ],
+    [
+      "Must I upload all evidence at the start?",
+      "Covered California first checks available records and requests specific documents if needed."
+    ],
+    [
+      "Are the displayed sample prices my price?",
+      "No. Complete the household application and compare your actual options."
+    ],
+    [
+      "Can I get application help?",
+      "Yes. Use the marketplace’s certified help and language-specific contact options."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.coveredca.com/enrollment",
+      "https://www.coveredca.com/get-help",
+      "https://www.coveredca.com/"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

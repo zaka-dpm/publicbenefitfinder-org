@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "WorkForce West Virginia administers unemployment insurance for eligible workers. File an initial claim, enroll in Job Service and continue weekly certifications while eligibil",
+  "introduction": "WorkForce West Virginia administers unemployment insurance for eligible workers. File an initial claim, enroll in Job Service and continue weekly certifications while eligibility is reviewed.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Workers with sufficient covered wages and a qualifying separation who meet weekly eligibility requirements.",
+      "Claimants generally must be available for full-time work and actively seek it; the agency lists specific work-search exceptions."
+    ],
+    "get": "<p>Weekly temporary income based on the wage record and eligible claim weeks. A monetary determination shows potential benefits and is not an approval.</p>",
+    "docs": "<p>Prepare employment history, dates and reasons for separation, identity information and wage records. Keep proof of each job search activity and records of work and earnings during claimed weeks.</p>",
+    "apply": "<ol><li>Go to uc.workforcewv.org and select the new or additional unemployment claim option.</li><li>Enroll in WorkForce West Virginia Job Service as required.</li><li>Submit weekly certifications for each prior week claimed and report all earnings.</li><li>Ask the agency promptly about an incorrect or missing wage record.</li></ol>",
+    "after": "<p>Complete four weekly work search activities unless an applicable exception is confirmed. Retain proof for the benefit year plus six months; uploads during weekly certification are available. Claim the unpaid waiting week and read decisions for appeal deadlines.</p>",
+    "sources": "<ul><li><a href=\"https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/frequently-asked-questions/\">WorkForce WV claimant FAQ</a></li><li><a href=\"https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/unemployment-basics/\">Weekly certification and waiting week</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-workforce-west-virginia/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is a monetary determination approval?",
+      "No; it explains potential amounts based on wages."
+    ],
+    [
+      "How many work search activities are required?",
+      "The current agency guidance lists four per week unless an applicable exception applies."
+    ],
+    [
+      "Can I upload search proof?",
+      "Yes, the agency offers upload during weekly certification."
+    ],
+    [
+      "Must I report tips and commissions?",
+      "The agency requires reporting all work and earnings for the claim week."
+    ],
+    [
+      "Do I need to claim the waiting week?",
+      "Yes, it must be claimed to receive waiting-week credit even though it is unpaid."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-workforce-west-virginia",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-workforce-west-virginia/",
+    "source_updated": "August 2026",
+    "primary_url": "https://uc.workforcewv.org/consumer/?lang=en",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/frequently-asked-questions/",
+      "https://workforcewv.org/unemployment-insurance-benefits/unemployment-resources/unemployment-basics/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

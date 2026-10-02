@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas 2-1-1 connects residents with community services. A referral helps identify a provider; it does not approve benefits.",
+  "description": "Texas 2-1-1 connects residents with community services. A referral helps identify a provider; it does not approve benefits.",
+  "sections": {
+    "who": "<p>Anyone seeking information can use the free, anonymous service.</p>",
+    "get": "<p>County-appropriate referrals for food, housing, utility and other needs.</p>",
+    "docs": "<ul><li>Your city or county.</li><li>A description of the need and urgency.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact the network</h3><p>Call 211 or 877-541-7905, or search <a href=\"https://www.211texas.org/\">the directory</a>.</p></li><li><h3 class=\"pbf-h3\">Explain your situation</h3><p>Ask which provider serves your location and whether you need an appointment.</p></li><li><h3 class=\"pbf-h3\">Contact the provider</h3><p>Confirm its own application requirements.</p></li></ol>",
+    "after": "<p>Save the referral and contact the provider directly about availability.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.211texas.org/about-2-1-1/\">Texas 211 service</a>. <a href=\"https://usaassistance.org/programs/2-1-1-texas/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is community referral available overnight?",
+      "The network describes availability around the clock, every day."
+    ],
+    [
+      "Is a referral an award?",
+      "No. The organization receiving the referral makes its own decision."
+    ],
+    [
+      "Can I remain anonymous?",
+      "The network describes its service as anonymous."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.211texas.org/about-2-1-1/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "status": "reviewed",
+  "description": "WVCHIP provides health coverage for eligible West Virginia children who do not qualify for Medicaid. Start through WV PATH, HealthCare.gov or a local DoHS office.",
+  "introduction": "WVCHIP provides health coverage for eligible West Virginia children who do not qualify for Medicaid. Start through WV PATH, HealthCare.gov or a local DoHS office.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Children under 19 living in West Virginia whose household meets the program’s income and status rules.",
+      "Applicants are screened for Medicaid eligibility. Tell the worker about existing insurance and any offered employer coverage.",
+      "The current WVCHIP homepage also describes a pregnancy coverage pathway; ask the helpline which application and eligibility rules apply."
+    ],
+    "get": "<p>Approved health coverage delivered through the program’s current arrangements. Confirm plan, provider, pharmacy and any premium or copay before receiving non-emergency services.</p>",
+    "docs": "<p>Prepare child identity, household income and tax household details, insurance information and requested status documentation. Ask the eligibility worker about any missing record.</p>",
+    "apply": "<ol><li>Apply online through WV PATH or HealthCare.gov.</li><li>For paper filing, use the official application and mail it to the local DoHS office as instructed.</li><li>Call WVCHIP at 877-982-2447 for guidance, or find a county enrollment partner through the application page.</li></ol>",
+    "after": "<p>Review the mailed decision and enrollment instructions. Contact the local DoHS office about a denied eligibility determination or fair hearing. Report changes using the state’s accepted update route and keep renewal notices.</p>",
+    "sources": "<ul><li><a href=\"https://chip.wv.gov/\">WVCHIP current program overview</a></li><li><a href=\"https://chip.wv.gov/eligibility\">WVCHIP child eligibility</a></li><li><a href=\"https://chip.wv.gov/page/apply\">WVCHIP application routes</a></li><li><a href=\"https://chip.wv.gov/eligibility/eligibility-and-enrollment-faq\">WVCHIP eligibility review FAQ</a></li><li><a href=\"https://usaassistance.org/programs/wv-chip-childrens-health-insurance-program/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a parent be insured by a child’s WVCHIP membership?",
+      "Ask about adult coverage separately; children’s enrollment does not cover the whole family."
+    ],
+    [
+      "Can I get help completing the form?",
+      "The application page lists county outreach sites and community partners."
+    ],
+    [
+      "Where do I report household changes?",
+      "DoHS Customer Service is 877-716-1212, and the application page links online changes."
+    ],
+    [
+      "Can I appeal a denial?",
+      "The eligibility FAQ lists a fair hearing through the local DoHS office."
+    ],
+    [
+      "What if I am pregnant?",
+      "The current homepage describes pregnancy coverage; contact the helpline for the correct pathway."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wv-chip-childrens-health-insurance-program",
+    "source_url": "https://usaassistance.org/programs/wv-chip-childrens-health-insurance-program/",
+    "source_updated": "August 2026",
+    "primary_url": "https://chip.wv.gov/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://chip.wv.gov/",
+      "https://chip.wv.gov/eligibility",
+      "https://chip.wv.gov/page/apply",
+      "https://chip.wv.gov/eligibility/eligibility-and-enrollment-faq"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

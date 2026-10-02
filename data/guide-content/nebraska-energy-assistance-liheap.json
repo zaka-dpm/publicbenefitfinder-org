@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska LIHEAP has heating, cooling and crisis components. If a heating shutoff is imminent, DHHS currently directs households to call 800-383-4278 about assistance.",
+  "description": "Nebraska LIHEAP has heating, cooling and crisis components. If a heating shutoff is imminent, DHHS currently directs households to call 800-383-4278 about assistance.",
+  "sections": {
+    "who": "<p>Applicants must meet household financial, residency and status rules and be responsible for home energy utilities. Cooling and crisis help have additional conditions; qualifying for one component does not establish eligibility for all.</p>",
+    "get": "<p>Payments offset qualifying energy costs, generally through the utility provider. The current page says automatic heating payments depend on receiving federal funds.</p>",
+    "docs": "<ul><li>Current heating or cooling bill.</li><li>A shutoff or reconnection notice where applicable.</li><li>Income and household records requested by DHHS.</li><li>Any medical statement requested for cooling eligibility.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact DHHS or apply</h3><p>Use <a href=\"https://iserve.nebraska.gov/\">iServe</a> or a DHHS office. Explain an urgent heating notice by calling the published assistance number.</p></li><li><h3 class=\"pbf-h3\">Specify the component</h3><p>State whether you need heating, cooling or crisis help and describe who is responsible for the bill.</p></li><li><h3 class=\"pbf-h3\">Supply requested proof</h3><p>Follow DHHS’s checklist and read the decision and utility-payment information.</p></li></ol>",
+    "after": "<p>Ask whether funds have been authorized and sent. Discuss the balance and pending shutoff with the utility; eligibility does not itself establish immediate payment.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/Energy-Assistance.aspx\">Nebraska LIHEAP component and current payment guidance</a>, <a href=\"https://dhhs.ne.gov/Pages/DHHS-LIHEAP-Heating-Season-Ending-Soon.aspx\">Application route and existing-case requests</a>. <a href=\"https://usaassistance.org/programs/nebraska-energy-assistance-liheap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is cooling available to every financially eligible household?",
+      "No. DHHS lists additional household or medically verified conditions for cooling assistance."
+    ],
+    [
+      "Is crisis intake seasonal?",
+      "The state describes year-round crisis payments, with additional crisis eligibility conditions."
+    ],
+    [
+      "Are last program year’s dollar limits current?",
+      "The page still displays a table ending September 30, 2026. Ask DHHS for the current period rather than using that table as an October 2026 limit."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/Energy-Assistance.aspx",
+      "https://dhhs.ne.gov/Pages/DHHS-LIHEAP-Heating-Season-Ending-Soon.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

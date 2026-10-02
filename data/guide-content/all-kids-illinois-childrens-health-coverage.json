@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "All Kids provides health coverage for eligible children living in Illinois. Apply through ABE and use the All Kids hotline for program questions.",
+  "description": "All Kids provides health coverage for eligible children living in Illinois. Apply through ABE and use the All Kids hotline for program questions.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>The program serves children through age 18, subject to its applicable household and eligibility rules. HFS’s current overview explains changes to the former Share and Premium levels; use that overview rather than an old premium chart.</p>",
+    "get": "<p>The changed All Kids Assist coverage includes comprehensive Medicaid benefits. HFS says the affected children have no premiums or co-payments and can qualify with current or recent private insurance, with Medicaid as secondary payer.</p>",
+    "docs": "<ul><li>Child and household names and birth dates.</li><li>Income and existing insurance details.</li><li>Applicant information and verification requested by the state.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the application</h3><p>Select health coverage through <a href=\"https://abe.illinois.gov/\">ABE</a>.</p></li><li><h3 class=\"pbf-h3\">Request help if needed</h3><p>Call the All Kids hotline at 866-255-5437.</p></li><li><h3 class=\"pbf-h3\">Follow the coverage notice</h3><p>Confirm the child’s approved coverage, start date and any plan instructions.</p></li></ol>",
+    "after": "<p>Keep the child’s contact and insurance information current. Ask HFS about prior medical bills and whether retroactive coverage applies to the case.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://hfs.illinois.gov/medicalprograms/allkids.html\">current All Kids coverage changes</a>, <a href=\"https://hfs.illinois.gov/medicalclients/health/parentorchild.html\">children’s coverage pathways</a>, <a href=\"https://hfs.illinois.gov/medicalclients/medicaidguide/applying.html\">health application instructions</a>. The administering organization decides eligibility.</p>"
+  },
+  "faqs": [
+    [
+      "Are the old Premium Level charges current?",
+      "The current overview says former Share and Premium Level children moved to All Kids Assist from July 2022."
+    ],
+    [
+      "Can private insurance prevent every application?",
+      "No. HFS says the affected All Kids Assist children can qualify with current or recent private insurance."
+    ],
+    [
+      "Where can I get All Kids help?",
+      "Call 866-255-5437; the state also lists a TTY contact."
+    ],
+    [
+      "Can prior medical bills be considered?",
+      "HFS says eligible affected children may apply for three months of retroactive coverage. Ask about your child’s case."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hfs.illinois.gov/medicalprograms/allkids.html",
+      "https://hfs.illinois.gov/medicalclients/health/parentorchild.html",
+      "https://hfs.illinois.gov/medicalclients/medicaidguide/applying.html"
+    ]
+  }
+}

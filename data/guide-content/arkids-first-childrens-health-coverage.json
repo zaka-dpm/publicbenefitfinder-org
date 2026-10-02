@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "ARKids First provides health coverage for eligible Arkansas children through two income-based options. ARKids A and ARKids B differ in cost sharing; one application lets DHS d",
+  "introduction": "ARKids First provides health coverage for eligible Arkansas children through two income-based options. ARKids A and ARKids B differ in cost sharing; one application lets DHS determine the appropriate coverage.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "DHS checks the child’s age, household income and other health-coverage eligibility requirements. Use the current standards for the child’s category.",
+      "The two ARKids options depend on family income. Do not assume an older screenshot’s dollar limit is still current; apply for an actual determination."
+    ],
+    "get": "<p>Coverage includes preventive and medical care such as well-child visits, immunizations, eye exams and dental care. ARKids A has no charge; ARKids B requires copayments for some services.</p>",
+    "docs": "<p>Gather child and household information, income records and current insurance details. Keep identification and any requested coverage records ready. Ask DHS which documents apply to your case instead of assuming every child needs the same paperwork.</p>",
+    "apply": "<ol><li>Apply for health coverage at <a href=\"https://access.arkansas.gov/\">Access Arkansas</a>.</li><li>Complete the family and income questions for each child seeking coverage and save confirmation.</li><li>Provide the records DHS requests. For ARKids questions, use the hotline at 1-888-474-8275.</li></ol>",
+    "after": "<p>Read the notice to see whether the child is enrolled in A or B, the effective date and any cost sharing. Check participating providers before care and keep renewal/contact information current.</p>",
+    "sources": "<ul><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids/\">ARKids overview, costs and application</a></li><li><a href=\"https://humanservices.arkansas.gov/divisions-shared-services/county-operations/medicaid-quick-reference-chart/\">Current category standards</a></li><li><a href=\"https://usaassistance.org/programs/arkids-first-childrens-health-coverage/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "What is the difference between A and B?",
+      "DHS identifies two income-based options. ARKids A has no charge; B has copayments for some services."
+    ],
+    [
+      "Does it cover preventive visits?",
+      "Yes. DHS lists well-child checkups and immunizations among covered services."
+    ],
+    [
+      "Where do I apply?",
+      "DHS directs applicants to Access Arkansas."
+    ],
+    [
+      "Who can answer an ARKids question?",
+      "The ARKids hotline is 1-888-474-8275. Check the DHS page for current service hours."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arkids-first-childrens-health-coverage",
+    "source_url": "https://usaassistance.org/programs/arkids-first-childrens-health-coverage/",
+    "source_updated": "August 2026",
+    "primary_url": "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids-first/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://humanservices.arkansas.gov/divisions-shared-services/medical-services/healthcare-programs/arkids/",
+      "https://humanservices.arkansas.gov/divisions-shared-services/county-operations/medicaid-quick-reference-chart/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

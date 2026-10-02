@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi weatherization applications belong with the agency serving your county. HCAP is the Honolulu provider; residents of other islands should use the state’s county-agency directory.",
+  "description": "Hawaiʻi weatherization applications belong with the agency serving your county. HCAP is the Honolulu provider; residents of other islands should use the state’s county-agency ",
+  "sections": {
+    "who": "<p>The program serves eligible low-income households and prioritizes specified households, including older people, people with disabilities, families with children and homes with high energy burdens. The provider checks eligibility and the home’s suitability.</p>",
+    "get": "<p>An assessment identifies appropriate efficiency measures and energy-conservation advice. Possible measures include lighting, water-saving fixtures and selected efficient equipment; the home assessment determines the approved work.</p>",
+    "docs": "<ul><li>Prepare income and household information.</li><li>Have your utility records and address available.</li><li>Ask about ownership or tenancy records and any required owner permission.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the county provider</h3><p>Use the <a href=\"https://labor.hawaii.gov/ocs/service-programs-index/weatherization-assistance-program/\">Office of Community Services directory</a> for Honolulu, Hawaiʻi, Maui or Kauaʻi.</p></li><li><h3 class=\"pbf-h3\">Request intake</h3><p>Honolulu residents can contact <a href=\"https://www.hcapweb.org/weatherization-assistance-program/\">HCAP’s weatherization program</a>. Confirm application availability and the provider’s checklist.</p></li><li><h3 class=\"pbf-h3\">Arrange the home assessment</h3><p>Explain energy problems and follow the provider’s audit and scheduling instructions.</p></li></ol>",
+    "after": "<p>Confirm the approved scope before work starts. Ask the provider about timing, access and any safety issue discovered during assessment.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://labor.hawaii.gov/ocs/service-programs-index/weatherization-assistance-program/\">State weatherization eligibility and county directory</a>, <a href=\"https://www.hcapweb.org/weatherization-assistance-program/\">HCAP weatherization program</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-hawaii/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does HCAP serve every island?",
+      "The state lists separate county agencies. Use the provider serving your county."
+    ],
+    [
+      "Is weatherization a cash grant?",
+      "It provides selected efficiency services and education, rather than an unrestricted cash payment."
+    ],
+    [
+      "Will all appliances be replaced?",
+      "No automatic replacement is promised. Measures depend on eligibility, the assessment and program approval."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://labor.hawaii.gov/ocs/service-programs-index/weatherization-assistance-program/",
+      "https://www.hcapweb.org/weatherization-assistance-program/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "SSI and SSDI are different Social Security benefits. SSDI depends on insured work history; SSI is based on limited income and resources as well as age, blindness or disability",
+  "introduction": "SSI and SSDI are different Social Security benefits. SSDI depends on insured work history; SSI is based on limited income and resources as well as age, blindness or disability.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "SSDI requires qualifying work history and disability. SSI can cover adults or children who are blind or disabled, and people age 65 or older, subject to financial and other requirements."
+    ],
+    "get": "<p>Eligible applicants may receive monthly cash benefits. Some people can qualify for both programs; Social Security decides which benefit pathways apply.</p>",
+    "docs": "<p>Prepare your work history, medical providers and information about your condition. For SSI, also prepare financial and living-arrangement information. Ask Social Security what evidence is needed for your application rather than delaying solely to assemble every possible record.</p>",
+    "apply": "<p>Start at <a href=\"https://www.ssa.gov/disability/disability.html\">Social Security’s disability application page</a>. Ask about SSI and alternative application methods by calling <a href=\"tel:8007721213\">800-772-1213</a>.</p>",
+    "after": "<p>Save the application reference and respond to evidence requests. Read the decision notice for any appeal instructions and deadline. Report changes as instructed if benefits are awarded.</p>",
+    "sources": "<ul><li><a href=\"https://www.ssa.gov/disability/disability.html\">SSA disability information and applications</a></li><li><a href=\"https://www.ssa.gov/blog/en/posts/2025-06-12.html\">SSA explanation of SSI and SSDI</a></li><li><a href=\"https://www.ssa.gov/redbook/eng/overview-disability.htm?tl=1\">SSA concurrent benefits explanation</a></li><li><a href=\"https://usaassistance.org/programs/social-security-ssi-ssdi/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Are SSI and SSDI the same?",
+      "No. SSDI depends on insured work history; SSI has financial eligibility rules."
+    ],
+    [
+      "Can a child receive SSI?",
+      "Children who meet disability and other SSI requirements can qualify."
+    ],
+    [
+      "Can someone age 65 qualify for SSI without a disability?",
+      "Yes, subject to SSI’s other requirements."
+    ],
+    [
+      "Can I receive both?",
+      "Concurrent eligibility is possible; Social Security evaluates each program."
+    ],
+    [
+      "Can everyone apply for SSI online?",
+      "Online SSI applications have specific restrictions. Ask Social Security about the correct route for you."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "social-security-ssi-ssdi",
+    "source_url": "https://usaassistance.org/programs/social-security-ssi-ssdi/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.ssa.gov/disability",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.ssa.gov/disability/disability.html",
+      "https://www.ssa.gov/blog/en/posts/2025-06-12.html",
+      "https://www.ssa.gov/redbook/eng/overview-disability.htm?tl=1"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky Medicaid and KCHIP provide health coverage through eligibility pathways for children, families and other qualifying residents. DCBS handles applications, including th",
+  "introduction": "Kentucky Medicaid and KCHIP provide health coverage through eligibility pathways for children, families and other qualifying residents. DCBS handles applications, including those submitted through kynect.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility varies by age, income, pregnancy, disability and other circumstances. Children may qualify for KCHIP even when an adult in the household does not qualify.",
+      "KCHIP provides free coverage for eligible uninsured children younger than 19; Kentucky also describes eligible pregnancy and postpartum coverage on its KCHIP site."
+    ],
+    "get": "<p>Approved coverage helps pay for health services under the applicable program. Check the assigned plan and participating providers before arranging nonemergency care.</p>",
+    "docs": "<p>Prepare household members’ information and income records, including wages, self-employment and benefits. Resource questions can apply to some eligibility categories. Explain the coverage you need rather than assuming every Medicaid category uses the same financial rules.</p>",
+    "apply": "<ol><li>Apply at <a href=\"https://kynect.ky.gov/\">kynect</a>, with a kynector, by calling 855-306-8959, or at a DCBS office.</li><li>Complete household and financial questions and submit requested verification.</li><li>Read the decision for each applicant and follow instructions for coverage and plan enrollment.</li></ol>",
+    "after": "<p>Keep contact details current and respond to renewal requests. Kentucky’s 2026 notices discuss future community-engagement changes; the member page currently says no action is needed for that notice. Follow the instructions and effective dates in your own case rather than applying future rules early.</p>",
+    "sources": "<ul><li><a href=\"https://www.chfs.ky.gov/agencies/dms/member/Pages/Apply.aspx\">Apply for Kentucky Medicaid</a></li><li><a href=\"https://kidshealth.ky.gov/Pages/index.aspx\">KCHIP</a></li><li><a href=\"https://www.chfs.ky.gov/agencies/dms/member/Pages/default.aspx\">Medicaid member notices</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-medicaid-and-kchip/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I apply for just my child?",
+      "Yes. Provide the household information requested so DCBS can evaluate the child’s coverage."
+    ],
+    [
+      "Can someone help me apply online?",
+      "A kynector can assist, and DCBS offers telephone and office applications."
+    ],
+    [
+      "Are all Medicaid applicants subject to an asset limit?",
+      "Financial rules depend on the eligibility category. Answer the application questions and ask DCBS which rules apply."
+    ],
+    [
+      "Do the 2026 community-engagement notices require immediate action?",
+      "The current member notice says no action is needed at this time. Read later notices for any effective date and individual requirements."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-medicaid-and-kchip",
+    "source_url": "https://usaassistance.org/programs/kentucky-medicaid-and-kchip/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.chfs.ky.gov/agencies/dms/member/Pages/default.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.chfs.ky.gov/agencies/dms/member/Pages/Apply.aspx",
+      "https://kidshealth.ky.gov/Pages/index.aspx",
+      "https://www.chfs.ky.gov/agencies/dms/member/Pages/default.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

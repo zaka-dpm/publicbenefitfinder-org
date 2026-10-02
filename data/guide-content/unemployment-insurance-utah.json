@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah unemployment requires an initial online claim and separate weekly filings. File eligible weeks while a decision is pending rather than waiting for an award.",
+  "description": "Utah unemployment requires an initial online claim and separate weekly filings. File eligible weeks while a decision is pending rather than waiting for an award.",
+  "sections": {
+    "who": "<p>DWS reviews qualifying wages, separation and ongoing ability, availability and work-search conditions.</p>",
+    "get": "<p>Temporary wage-replacement payments for eligible claimed weeks.</p>",
+    "docs": "<ul><li>Employment and wage history.</li><li>Separation details.</li><li>Weekly work, earnings and job-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File online</h3><p>Use <a href=\"https://jobs.utah.gov/ui/home\">my Unemployment</a>.</p></li><li><h3 class=\"pbf-h3\">Read claim notices</h3><p>Check wage and eligibility decisions and respond to requests.</p></li><li><h3 class=\"pbf-h3\">File each week</h3><p>Use File Weekly Claim and answer every reporting question accurately.</p></li></ol>",
+    "after": "<p>Keep filing while awaiting a decision and follow reporting and work-search instructions. Use CARE Live Chat for trouble filing online.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://jobs.utah.gov/ui/jobseeker/claimguide.html\">Current claimant guide</a>, <a href=\"https://jobs.utah.gov/ui/home\">Online claim service</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-utah/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I start the claim by telephone?",
+      "The current claimant guide says claims are not taken by phone and directs online filing."
+    ],
+    [
+      "Should I wait for approval to file weeks?",
+      "No. The guide instructs weekly filing while a decision is pending."
+    ],
+    [
+      "Is a wage determination approval for every week?",
+      "Ongoing eligibility is also assessed; read the separate notices and weekly questions."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://jobs.utah.gov/ui/jobseeker/claimguide.html",
+      "https://jobs.utah.gov/ui/home"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

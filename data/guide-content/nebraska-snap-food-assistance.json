@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska SNAP supports eligible households with food benefits. Apply through iServe and use current DHHS instructions, since verification and food-restriction information changed during 2026.",
+  "description": "Nebraska SNAP supports eligible households with food benefits. Apply through iServe and use current DHHS instructions, since verification and food-restriction information chan",
+  "sections": {
+    "who": "<p>DHHS assesses households that purchase and prepare food together, including a person living alone. Financial, status and applicable participation requirements are part of the review.</p>",
+    "get": "<p>Approved households receive benefits through EBT. For purchase questions, check Nebraska’s current notices: the state reports that its food-restriction waivers were vacated by a June 2026 court decision and retailer updates can take time.</p>",
+    "docs": "<ul><li>Prepare household composition and current income records.</li><li>Have housing and utility-expense information available.</li><li>Keep any evidence relevant to a work-rule exception and answer the case-specific verification request.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply in iServe</h3><p>Use <a href=\"https://iserve.nebraska.gov/\">iServe Nebraska</a> and select food assistance.</p></li><li><h3 class=\"pbf-h3\">Complete agency follow-up</h3><p>Save the application confirmation. Respond to any interview and document request from DHHS.</p></li><li><h3 class=\"pbf-h3\">Read the decision</h3><p>Check the EBT, reporting and review instructions for your household.</p></li></ol>",
+    "after": "<p>Use current DHHS notices rather than an older shopping-rule summary. Ask about an unclear verification request before its deadline.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/SNAP.aspx\">Current Nebraska SNAP overview and notices</a>, <a href=\"https://dhhs.ne.gov/iServe%20Training%20Documents/How%20to%20Complete%20the%20EA%20Recertification%20Application%20on%20iServe%20Nebraska.pdf\">iServe application and follow-up guidance</a>. <a href=\"https://usaassistance.org/programs/nebraska-snap-food-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Who belongs to the SNAP household?",
+      "Explain who routinely buys and prepares food together; DHHS determines the household assessment."
+    ],
+    [
+      "Can I rely on older Nebraska soda-restriction articles?",
+      "No. DHHS’s current SNAP page reports a June 2026 court decision affecting the waivers and ongoing retailer changes."
+    ],
+    [
+      "Have verification requirements changed?",
+      "The SNAP page describes updates during 2026. Follow the request issued for your case."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/SNAP.aspx",
+      "https://dhhs.ne.gov/iServe%20Training%20Documents/How%20to%20Complete%20the%20EA%20Recertification%20Application%20on%20iServe%20Nebraska.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

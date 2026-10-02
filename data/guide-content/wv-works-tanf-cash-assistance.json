@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "WV WORKS is West Virginia’s TANF cash assistance program for eligible families. Apply through WV PATH or the county DoHS office and discuss the family’s work and support needs",
+  "introduction": "WV WORKS is West Virginia’s TANF cash assistance program for eligible families. Apply through WV PATH or the county DoHS office and discuss the family’s work and support needs.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Families whose household circumstances and finances meet WV WORKS eligibility rules.",
+      "Eligible adults and work-eligible participants take part in orientation, assessment and a personal responsibility contract."
+    ],
+    "get": "<p>Monthly cash assistance and potentially employment-related supports. The state notes that SNAP and Medicaid are not guaranteed solely because a family receives WV WORKS.</p>",
+    "docs": "<p>Prepare child and caregiver information, income, household expenses and relevant custody records. List child care, transportation, health or safety issues that could affect the family’s participation plan.</p>",
+    "apply": "<ol><li>Select WV WORKS cash assistance on WV PATH, or contact the county DoHS office.</li><li>Complete the interview and supply the worker’s requested verification.</li><li>Discuss the personal responsibility contract, applicable work requirements and supports needed to meet them.</li></ol>",
+    "after": "<p>Keep a copy of the contract and decision. Ask how to report earnings and changes, and which activities or exceptions apply to each adult. Before a missed activity, contact the worker about the reason and any available accommodation or support.</p>",
+    "sources": "<ul><li><a href=\"https://bfa.wv.gov/media/1496/download?inline=\">BFA WV WORKS resource guide</a></li><li><a href=\"https://code.wvlegislature.gov/9-9-9/\">WV WORKS contract law</a></li><li><a href=\"https://bfa.wv.gov/office-ebt\">WV WORKS EBT delivery</a></li><li><a href=\"https://usaassistance.org/programs/wv-works-tanf-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does WV WORKS automatically approve SNAP?",
+      "No, the state says associated SNAP or Medicaid receipt is not guaranteed."
+    ],
+    [
+      "What is the personal responsibility contract?",
+      "It sets the family’s assessed requirements, work plan and available supports."
+    ],
+    [
+      "Should I report that child care prevents an activity?",
+      "Discuss the barrier with the worker promptly and ask about supports."
+    ],
+    [
+      "Can I apply at the county office?",
+      "Yes, the state lists the county office and WV PATH application routes."
+    ],
+    [
+      "Can I use the benefit without a paper check?",
+      "WV WORKS cash benefits are delivered through the state EBT system."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wv-works-tanf-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/wv-works-tanf-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.wvpath.wv.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://bfa.wv.gov/media/1496/download?inline=",
+      "https://code.wvlegislature.gov/9-9-9/",
+      "https://bfa.wv.gov/office-ebt"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "GeorgiaLegalAid directs residents to civil legal help according to their county. Tell the intake provider immediately if you have an eviction notice, court response deadline or hearing.",
+  "description": "GeorgiaLegalAid directs residents to civil legal help according to their county. Tell the intake provider immediately if you have an eviction notice, court response deadline o",
+  "sections": {
+    "who": "<p>The legal-aid provider reviews eligibility, case type and available capacity. The website is an information and referral route; it does not automatically assign a lawyer.</p>",
+    "get": "<p>Residents can find legal information and contact the organization serving their area. Representation depends on the provider’s assessment.</p>",
+    "docs": "<ul><li>Prepare the notice, lease and any court documents.</li><li>Write a short timeline of events and identify the next deadline.</li><li>Keep payment records and correspondence relevant to the dispute.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the county pathway</h3><p>For Fulton, Clayton, Cobb, Gwinnett or DeKalb, the directory points to Atlanta Legal Aid. Other Georgia counties are directed to Georgia Legal Services Program.</p></li><li><h3 class=\"pbf-h3\">Request intake</h3><p>Use the <a href=\"https://www.georgialegalaid.org/find-legal-help\">Find Legal Help page</a> for the appropriate online application or phone contact.</p></li><li><h3 class=\"pbf-h3\">Confirm the next step</h3><p>Ask whether your case has been accepted and what you must do about any deadline while the request is pending.</p></li></ol>",
+    "after": "<p>Keep copies of the intake and provider response. Continue tracking court dates unless the provider gives specific instructions for your case.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.georgialegalaid.org/find-legal-help\">GeorgiaLegalAid county intake directory</a>. <a href=\"https://usaassistance.org/programs/georgialegalaid-org-eviction-and-legal-help/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Which organization serves my county?",
+      "Atlanta Legal Aid serves the five counties identified above; the directory directs other counties to Georgia Legal Services Program."
+    ],
+    [
+      "Is there a service for older residents?",
+      "The directory lists the Georgia Senior Legal Hotline at 888-257-9519 for people aged 60 or older."
+    ],
+    [
+      "Will submitting a request stop an eviction case?",
+      "Do not assume so. Ask the provider about your court papers and deadlines."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.georgialegalaid.org/find-legal-help"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

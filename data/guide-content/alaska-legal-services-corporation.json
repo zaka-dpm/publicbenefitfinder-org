@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Legal Services Corporation reviews requests for civil legal aid. You can apply online, by telephone or with an office-specific paper application; case acceptance depend",
+  "introduction": "Alaska Legal Services Corporation reviews requests for civil legal aid. You can apply online, by telephone or with an office-specific paper application; case acceptance depends on eligibility and program priorities.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "The organization checks its eligibility requirements and the type of legal issue. Read the eligibility information linked from its application page.",
+      "ALSC excludes criminal matters, tickets or citations, personal-injury cases and workers’ compensation claims. It cannot accept every application."
+    ],
+    "get": "<p>Accepted applicants receive the help ALSC agrees to provide. Applicants can also use AlaskaLawHelp self-help resources and the legal-clinic calendar. Ask intake staff what service is available for your issue.</p>",
+    "docs": "<p>Have the parties’ names, your contact information and relevant notices or court papers ready. Put any hearing or response deadline in your first message. Use the paper form’s questions to identify records you may need; do not send original documents unless instructed.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.alsc-law.org/apply/\">ALSC’s Apply for Help page</a> or call 1-888-478-2572.</li><li>If those methods are unavailable, use the <a href=\"https://www.alsc-law.org/application/\">paper application for your nearest office</a>.</li><li>Complete the intake questions and state urgent deadlines. Request an interpreter if needed; ALSC says interpretation is provided without charge.</li></ol>",
+    "after": "<p>Confirm whether ALSC has accepted the matter and what assistance it will provide. Track court deadlines while intake is pending. If the case falls outside its priorities, ask about a clinic, self-help resource or lawyer referral.</p>",
+    "sources": "<ul><li><a href=\"https://www.alsc-law.org/apply/\">ALSC application and exclusions</a></li><li><a href=\"https://www.alsc-law.org/application/\">Office-specific paper forms</a></li><li><a href=\"https://usaassistance.org/programs/alaska-legal-services-corporation/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can ALSC help with a criminal charge?",
+      "Its application page lists criminal matters among the issues it cannot handle."
+    ],
+    [
+      "Can I apply without the internet?",
+      "Call the statewide intake number or use the paper application for the nearest office."
+    ],
+    [
+      "Is interpretation available?",
+      "Yes. Tell ALSC that you need an interpreter; its application page says one will be supplied at no cost."
+    ],
+    [
+      "Does a completed application guarantee a lawyer?",
+      "No. ALSC reviews eligibility and priorities and has limited resources."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-legal-services-corporation",
+    "source_url": "https://usaassistance.org/programs/alaska-legal-services-corporation/",
+    "source_updated": "August 2026",
+    "primary_url": "https://alsc-law.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.alsc-law.org/apply/",
+      "https://www.alsc-law.org/application/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

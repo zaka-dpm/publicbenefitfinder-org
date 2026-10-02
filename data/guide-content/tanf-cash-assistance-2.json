@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania TANF helps eligible pregnant participants and families caring for dependent children meet basic needs.",
+  "description": "Pennsylvania TANF helps eligible pregnant participants and families caring for dependent children meet basic needs.",
+  "sections": {
+    "who": "<p>The county assistance office checks income, resources, residence, status and family relationships. Child and work-participation rules apply, with case-specific exceptions.</p>",
+    "get": "<p>Temporary cash support is available under program rules. The state describes a usual lifetime limit of 60 months.</p>",
+    "docs": "<ul><li>Family and child relationship information.</li><li>Income and resource evidence.</li><li>Requested identity, status and Social Security records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.compass.dhs.pa.gov/\">COMPASS</a> or return the state application to your county assistance office.</p></li><li><h3 class=\"pbf-h3\">Discuss a plan</h3><p>Complete the Agreement of Mutual Responsibility with your caseworker, including any participation barriers.</p></li><li><h3 class=\"pbf-h3\">Review the notice</h3><p>Check the decision, duties and application status at trackmybenefits.pa.gov.</p></li></ol>",
+    "after": "<p>Discuss work, child care, transport or health changes with the worker. Ask about related support when cash assistance ends.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dhs/apply-for-temporary-assistance-for-needy-families-tanf\">Pennsylvania TANF</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative caregiver apply?",
+      "The program includes eligible relatives caring for dependent children."
+    ],
+    [
+      "Is support unlimited?",
+      "The state lists a usual lifetime limit of five years."
+    ],
+    [
+      "What is the AMR?",
+      "It records the plan and responsibilities agreed with the caseworker."
+    ],
+    [
+      "What if disability affects participation?",
+      "Tell the worker and ask about applicable exceptions or support."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dhs/apply-for-temporary-assistance-for-needy-families-tanf"
+    ],
+    "background_source": "https://usaassistance.org/programs/tanf-cash-assistance-2/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

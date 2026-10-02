@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Medicaid covers eligible low-income residents through several categories, including children and adults. Denali KidCare is the children’s coverage pathway; the state ch",
+  "introduction": "Alaska Medicaid covers eligible low-income residents through several categories, including children and adults. Denali KidCare is the children’s coverage pathway; the state checks the category and financial rules for each applicant.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Potential eligibility groups include children, pregnancy, families, adults without dependent children ages 19–64, and older, blind or disabled residents. Income and other requirements differ by category.",
+      "A pre-screening result does not establish coverage. Use the current standards linked from the state application page and submit the application for a determination."
+    ],
+    "get": "<p>Approved coverage pays for eligible health services under the applicant’s category. Confirm that the provider accepts Alaska Medicaid and whether a service requires prior approval before receiving care.</p>",
+    "docs": "<p>Gather household and contact information, income records and current insurance details. Ask about additional medical or financial records if seeking disability-related or long-term-care coverage. Keep a copy of submitted records and any verification request.</p>",
+    "apply": "<ol><li>Start at <a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/\">Alaska’s Apply for Medicaid page</a>.</li><li>Choose the linked HealthCare.gov application or Alaska Connect option. Answer the questions for each household member requesting coverage.</li><li>Save confirmation and respond to DPA’s requests. Ask the worker about the correct application route for long-term-care needs.</li></ol>",
+    "after": "<p>Read the decision for effective dates and renewal instructions. Keep your mailing and contact information current. The state announces further changes beginning January 2027; follow the notices for your eligibility group rather than applying future rules prematurely.</p>",
+    "sources": "<ul><li><a href=\"https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/\">Application routes and coverage categories</a></li><li><a href=\"https://www.healthcare.gov/Alaska/\">Federal Alaska coverage information</a></li><li><a href=\"https://usaassistance.org/programs/alaska-medicaid-and-denali-kidcare/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a working family qualify?",
+      "Yes. The state says many working families can qualify, depending on the category and income rules."
+    ],
+    [
+      "Can adults without children apply?",
+      "Alaska lists an adult expansion category for eligible people ages 19–64 without dependent children. Other requirements apply."
+    ],
+    [
+      "Are all applicants reviewed under the same rules?",
+      "No. Age, disability, pregnancy and family categories can have different financial and coverage requirements."
+    ],
+    [
+      "What should I check before an appointment?",
+      "Confirm the provider accepts Alaska Medicaid and ask whether the planned service needs approval."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "alaska-medicaid-and-denali-kidcare",
+    "source_url": "https://usaassistance.org/programs/alaska-medicaid-and-denali-kidcare/",
+    "source_updated": "August 2026",
+    "primary_url": "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://health.alaska.gov/en/services/division-of-public-assistance-dpa-services/apply-for-medicaid/",
+      "https://www.healthcare.gov/Alaska/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

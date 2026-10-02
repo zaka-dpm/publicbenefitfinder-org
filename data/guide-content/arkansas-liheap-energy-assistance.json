@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Arkansas LIHEAP helps eligible residential households with heating or cooling bills. Submit applications to the community-based organization serving your county; the Arkansas ",
+  "introduction": "Arkansas LIHEAP helps eligible residential households with heating or cooling bills. Submit applications to the community-based organization serving your county; the Arkansas Energy Office does not process household applications.",
+  "service_type": "energy",
+  "sections": {
+    "who": [
+      "Residential households must meet the current program income and other requirements. Businesses are not eligible.",
+      "The county provider determines eligibility and funding availability. Contact it about the current intake window rather than assuming a typical seasonal date proves intake is open."
+    ],
+    "get": "<p>Regular assistance helps with energy bills; crisis assistance can address disconnection, service restoration or depleted fuel under program rules. The provider discusses which type is appropriate.</p>",
+    "docs": "<p>The state checklist includes photo identification, Social Security cards for adults and numbers for minors, recent utility bills, income proof and residency proof. Additional records may be requested. Keep an urgent shutoff notice available.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.adeq.state.ar.us/energy/assistance/caad.aspx\">the county provider locator</a>.</li><li>Contact that organization for its application method and current opening.</li><li>Submit the signed form and records to the provider, not the Arkansas Energy Office. Report an urgent fuel or disconnection situation at intake.</li></ol>",
+    "after": "<p>Follow up with the local organization and respond to verification requests. Do not submit duplicate applications unless instructed. Continue discussing a payment arrangement with the utility while help is pending.</p>",
+    "sources": "<ul><li><a href=\"https://adeq.state.ar.us/energy/assistance/liheap.aspx\">Arkansas LIHEAP rules and checklist</a></li><li><a href=\"https://www.adeq.state.ar.us/energy/assistance/caad.aspx\">County provider locator</a></li><li><a href=\"https://usaassistance.org/programs/arkansas-liheap-energy-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Where do I submit the application?",
+      "To the community-based organization serving your county, rather than the Arkansas Energy Office."
+    ],
+    [
+      "Does it charge an application fee?",
+      "The state says Arkansas LIHEAP never charges customers for applications or services."
+    ],
+    [
+      "Can a business apply?",
+      "No. LIHEAP serves residential applicants."
+    ],
+    [
+      "What if I need service restored?",
+      "Ask the provider about crisis assistance and disclose the shutoff details. Eligibility and funding still require review."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arkansas-liheap-energy-assistance",
+    "source_url": "https://usaassistance.org/programs/arkansas-liheap-energy-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.acaaa.org/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://adeq.state.ar.us/energy/assistance/liheap.aspx",
+      "https://www.adeq.state.ar.us/energy/assistance/caad.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

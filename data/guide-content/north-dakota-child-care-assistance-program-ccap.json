@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota CCAP helps qualifying families with child-care costs. New applications can be placed on a waiting list, so confirm the current position before arranging care on the assumption of a subsidy.",
+  "description": "North Dakota CCAP helps qualifying families with child-care costs. New applications can be placed on a waiting list, so confirm the current position before arranging care on t",
+  "sections": {
+    "who": "<p>The state reviews income, resources, the need for care and provider requirements. Age and attendance rules depend on the child and provider arrangement.</p>",
+    "get": "<p>Approved payments help with eligible care, but a family may owe a balance above the program payment.</p>",
+    "docs": "<ul><li>Child identity or birth records.</li><li>Income and requested asset information.</li><li>Work or other care-need records and provider details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through the state</h3><p>Use <a href=\"https://www.hhs.nd.gov/applyforhelp/ccap\">CCAP’s portal or paper route</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the provider and child rules</h3><p>Ask how the April 2026 attendance and age changes affect your arrangement, including special-needs or tribal care.</p></li><li><h3 class=\"pbf-h3\">Follow waiting-list instructions</h3><p>Keep your contact information current and respond if funding becomes available.</p></li></ol>",
+    "after": "<p>Check the authorization dates and family share before care begins. The state says waiting-list time is not backdated for payment.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hhs.nd.gov/applyforhelp/ccap\">Current CCAP rules and waiting list</a>. <a href=\"https://usaassistance.org/programs/north-dakota-child-care-assistance-program-ccap/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is a child’s Social Security number required?",
+      "The state describes it as optional and says withholding it does not affect participation."
+    ],
+    [
+      "Does every applicant wait?",
+      "The state identifies exceptions including TANF and Crossroads participants, with priority arrangements for qualifying homeless families."
+    ],
+    [
+      "Does approval always pay the entire provider charge?",
+      "No. Families can owe charges beyond the approved subsidy."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hhs.nd.gov/applyforhelp/ccap"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

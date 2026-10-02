@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska Medicaid applications can be submitted through iServe, by phone or on paper. Heritage Health is the managed-care arrangement for many approved members, not a separate shortcut to eligibility.",
+  "description": "Nebraska Medicaid applications can be submitted through iServe, by phone or on paper. Heritage Health is the managed-care arrangement for many approved members, not a separate",
+  "sections": {
+    "who": "<p>DHHS assesses coverage categories and financial circumstances. Children, pregnancy, age or disability, and Heritage Health Adult expansion have different rules. Current expansion work requirements and exemptions must also be considered for that category.</p>",
+    "get": "<p>Medicaid pays for qualifying healthcare services. The decision and health-plan packet identify coverage and enrollment arrangements.</p>",
+    "docs": "<ul><li>Prepare applicant identity, household and income information.</li><li>Have current insurance and requested status records available.</li><li>Keep any relevant activity, medical or exemption information if applying under expansion.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the Medicaid route</h3><p>Apply through <a href=\"https://iserve.nebraska.gov/\">iServe</a> or use phone/paper options on the <a href=\"https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx\">Medicaid application overview</a>.</p></li><li><h3 class=\"pbf-h3\">Answer eligibility requests</h3><p>Respond for each applicant. The state publishes changed noncitizen eligibility effective October 1, 2026; ask DHHS to assess the current rule.</p></li><li><h3 class=\"pbf-h3\">Read coverage and plan notices</h3><p>Review the individual decision and Heritage Health information, then confirm provider participation.</p></li></ol>",
+    "after": "<p>Keep iServe contact information current. The state’s expansion work-requirement page includes exemptions, temporary hardships and timing rules; follow your own verification notice.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx\">Nebraska Medicaid application overview</a>, <a href=\"https://dhhs.ne.gov/Pages/WorkRequirements.aspx\">Expansion work requirements and exceptions</a>. <a href=\"https://usaassistance.org/programs/nebraska-medicaid-heritage-health/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Are work requirements relevant to every Medicaid member?",
+      "No. Nebraska says they apply to expansion coverage, with exemptions and temporary hardships."
+    ],
+    [
+      "Are Nebraska expansion requirements only a future change?",
+      "The state identifies May 1, 2026 as the start, with particular renewal timing rules."
+    ],
+    [
+      "Can I apply on paper?",
+      "Yes. DHHS lists a completed paper application sent to a DHHS office among the application routes."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx",
+      "https://dhhs.ne.gov/Pages/WorkRequirements.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

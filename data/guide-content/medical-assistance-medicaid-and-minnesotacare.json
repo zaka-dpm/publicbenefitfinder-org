@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Medical Assistance and MinnesotaCare provide health coverage for eligible Minnesota residents. The application route depends on age and care needs.",
+  "description": "Medical Assistance and MinnesotaCare provide health coverage for eligible Minnesota residents. The application route depends on age and care needs.",
+  "sections": {
+    "who": "<p>Household income, residency, age and pregnancy affect eligibility. Immigration rules differ by category; use DHS’s current noncitizen guidance.</p>",
+    "get": "<p>Medical Assistance and MinnesotaCare offer health coverage at little or no cost. MinnesotaCare premiums and copays can apply.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Existing insurance details.</li><li>Requested identity and eligibility records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the application</h3><p>Visit <a href=\"https://mn.gov/dhs/online/\">DHS online access</a>. Individuals under 65 and families use Resident login; separate links serve older, blind, disabled or long-term-care applicants.</p></li><li><h3 class=\"pbf-h3\">Submit and save</h3><p>Create the appropriate account, complete the application and save its confirmation.</p></li><li><h3 class=\"pbf-h3\">Respond to verification</h3><p>Read requests from the agency and send the requested records.</p></li></ol>",
+    "after": "<p>Review the decision and coverage start date; report changes and complete renewals as directed.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://mn.gov/dhs/online/\">DHS health application and eligibility</a>; <a href=\"https://www.mnsure.org/assister-central/navigator-one-stop/apply/index.jsp\">MNsure application routes</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is MNbenefits the health application?",
+      "Use DHS’s health-care application route."
+    ],
+    [
+      "Do older applicants use the same route?",
+      "DHS provides separate application links."
+    ],
+    [
+      "Are income limits the same for everyone?",
+      "No. Age, pregnancy and household circumstances matter."
+    ],
+    [
+      "Does applying mean coverage starts immediately?",
+      "Read the agency’s decision and start date."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://mn.gov/dhs/online/",
+      "https://www.mnsure.org/assister-central/navigator-one-stop/apply/index.jsp"
+    ],
+    "background_source": "https://usaassistance.org/programs/medical-assistance-medicaid-and-minnesotacare/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

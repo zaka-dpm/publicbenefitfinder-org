@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Idaho unemployment applications are filed through the Department of Labor Claimant Portal. The department does not accept claims by telephone; local Labor offices can help with online filing.",
+  "description": "Idaho unemployment applications are filed through the Department of Labor Claimant Portal. The department does not accept claims by telephone; local Labor offices can help wit",
+  "sections": {
+    "who": "<p>The agency reviews wage history, separation or reduced-hours circumstances and continuing weekly eligibility. Report your situation accurately, including earnings and availability for work.</p>",
+    "get": "<p>Approved claimants receive temporary payments through direct deposit or a benefit card. A new claim includes an unpaid waiting week that must still be certified and meet eligibility rules.</p>",
+    "docs": "<ul><li>Identity and Social Security information.</li><li>Employer, wage and separation records.</li><li>Work-search and weekly earnings records.</li><li>Bank information if choosing direct deposit.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Sign in and verify identity</h3><p>Start from the <a href=\"https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/\">current filing instructions</a> and follow the Claimant Portal’s ID.me process.</p></li><li><h3 class=\"pbf-h3\">Apply during the relevant week</h3><p>The state advises applying during the week you seek payment, rather than waiting until it has ended.</p></li><li><h3 class=\"pbf-h3\">Certify each week</h3><p>Complete weekly certification and the applicable work-search requirements, including for the waiting week.</p></li></ol>",
+    "after": "<p>Use Manage Claims to check payment status. Keep account and contact details current and respond to agency questions about wages or the separation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/\">Idaho filing instructions</a>, <a href=\"https://www.labor.idaho.gov/unemployment-benefits/payment-information/\">Payment and waiting-week guidance</a>, <a href=\"https://www2.labor.idaho.gov/claimantportal\">Claimant Portal</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-idaho/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I file the claim over the phone?",
+      "No. Idaho’s filing page directs claims online, with local Labor-office assistance if needed."
+    ],
+    [
+      "Do I certify the waiting week?",
+      "Yes. The waiting week is unpaid but requires a valid certification and eligibility."
+    ],
+    [
+      "Where can I see a payment’s status?",
+      "The state directs claimants to Manage Claims in the Claimant Portal."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.labor.idaho.gov/unemployment-benefits/how-to-apply/",
+      "https://www.labor.idaho.gov/unemployment-benefits/payment-information/",
+      "https://www2.labor.idaho.gov/claimantportal"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

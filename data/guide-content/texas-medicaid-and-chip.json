@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas medical coverage applications are reviewed person by person. Children are assessed for Medicaid before CHIP when their application fits the CHIP route.",
+  "description": "Texas medical coverage applications are reviewed person by person. Children are assessed for Medicaid before CHIP when their application fits the CHIP route.",
+  "sections": {
+    "who": "<p>CHIP serves qualifying children younger than nineteen whose income exceeds children’s Medicaid limits but meets CHIP rules. Other Medicaid pathways have their own conditions.</p>",
+    "get": "<p>Health coverage under the approved program; review the plan and benefit notices for applicable services and costs.</p>",
+    "docs": "<ul><li>Household and income information.</li><li>Identity and requested status evidence.</li><li>Pregnancy or other category information when relevant.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply for health coverage</h3><p>Use <a href=\"https://www.yourtexasbenefits.com/\">Your Texas Benefits</a> or request H1205/H1010.</p></li><li><h3 class=\"pbf-h3\">Supply verification</h3><p>Give HHS records for each person seeking coverage.</p></li><li><h3 class=\"pbf-h3\">Review the program decision</h3><p>Read whether Medicaid, CHIP or another route was assessed.</p></li></ol>",
+    "after": "<p>Follow enrollment instructions and renewals on the case notice. Ask HHS about the appropriate pathway if adult eligibility differs from a child’s.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/d-110-general-policy\">CHIP program policy</a>, <a href=\"https://fhb.hhs.texas.gov/forms/1000-1999/form-h1205-texas-streamlined-application\">Medical application form</a>, <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-210-general-policy\">Medical household rules</a>. <a href=\"https://usaassistance.org/programs/texas-medicaid-and-chip/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must I file federal taxes to apply?",
+      "HHS says a tax return is not required for medical-program application."
+    ],
+    [
+      "Is CHIP the first test for a child?",
+      "The handbook directs assessment for Medicaid first."
+    ],
+    [
+      "Can household members receive different decisions?",
+      "Medical household composition and eligibility can differ by individual."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/d-110-general-policy",
+      "https://fhb.hhs.texas.gov/forms/1000-1999/form-h1205-texas-streamlined-application",
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-210-general-policy"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

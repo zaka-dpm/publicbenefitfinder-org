@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Apply for Georgia Medicaid through Georgia Gateway. The state reviews each applicant’s coverage category and financial circumstances, so different family members may receive different results.",
+  "description": "Apply for Georgia Medicaid through Georgia Gateway. The state reviews each applicant’s coverage category and financial circumstances, so different family members may receive d",
+  "sections": {
+    "who": "<p>Relevant circumstances can include age, pregnancy, disability or blindness, income, assets and citizenship or eligible immigration status. Georgia describes emergency medical assistance as a separate possibility for some people who do not meet status rules for full coverage.</p>",
+    "get": "<p>Approved Medicaid coverage helps with qualifying health services. The decision and plan information explain coverage dates and how to access care.</p>",
+    "docs": "<ul><li>Prepare applicant names, dates of birth and household information.</li><li>Have income, current insurance and any requested identity or status records available.</li><li>Report existing medical bills and ask the eligibility worker how they should be considered.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Select Medical Assistance</h3><p>Use <a href=\"https://gateway.ga.gov/\">Georgia Gateway</a>. Phone, county DFCS and paper application routes are also available through the state’s application instructions.</p></li><li><h3 class=\"pbf-h3\">Provide requested evidence</h3><p>Save the submission confirmation and answer the eligibility specialist’s questions about each person applying.</p></li><li><h3 class=\"pbf-h3\">Read the determination</h3><p>Check the result for every applicant and follow any plan-enrollment or further-verification instructions.</p></li></ol>",
+    "after": "<p>Use Gateway to check status and report changes. Keep contact details current so renewal and verification notices reach you.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://medicaid.georgia.gov/how-apply\">Georgia Medicaid application overview</a>, <a href=\"https://georgia.gov/apply-medicaid\">State application instructions</a>. <a href=\"https://usaassistance.org/programs/georgia-medicaid/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Should I apply if I am unsure about eligibility?",
+      "Georgia’s Medicaid page encourages people needing coverage to apply so their circumstances can be assessed."
+    ],
+    [
+      "Can a child qualify when the parent does not?",
+      "Yes. Coverage categories and income rules differ, so review individual decisions."
+    ],
+    [
+      "How can I apply without online access?",
+      "The state lists phone, local DFCS and paper routes; call 877-423-4746 to ask about application help."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://medicaid.georgia.gov/how-apply",
+      "https://georgia.gov/apply-medicaid"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

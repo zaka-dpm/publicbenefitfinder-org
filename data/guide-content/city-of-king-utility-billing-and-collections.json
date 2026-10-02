@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "City of King Utility Billing handles water and sewer account questions. Contact the billing office early if a balance or service problem needs attention.",
+  "introduction": "City of King Utility Billing handles water and sewer account questions. Contact the billing office early if a balance or service problem needs attention.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>This office serves customers with City of King utility accounts. Check the provider name on your bill; a King-area address alone does not establish who bills your water.</p>",
+    "get": "<p>The office handles account questions, payments and service changes. It is not a published grant program. Ask directly what arrangements, if any, are available for a bill you cannot pay.</p>",
+    "docs": "<p>Have your account number, service address, recent bill, payment history and any disconnection notice ready. Note the amount you can pay and the date a promised outside payment may arrive.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call billing at 336-985-1100, weekdays 8:30 a.m.–5 p.m. Explain the account issue and urgent date.</p></li><li><p>Ask for the amount needed, whether any arrangement is available, and its conditions. Request confirmation of an agreed arrangement.</p></li><li><p>For payment, use the links on the city’s utility page or its published phone payment line, 844-778-1892. Review processing fees before paying.</p></li></ol>",
+    "after": "<p>Keep receipts and confirm the account balance. For an actual water or sewer service emergency after hours, the city lists 336-924-8363; this is not a promise of after-hours financial assistance.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.ci.king.nc.us/utilitybilling\">Billing, payment routes and emergency contacts</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/city-of-king-utility-billing-and-collections/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does the city promise a payment plan?",
+      "Its public page does not publish a general payment-plan entitlement. Ask billing about your account."
+    ],
+    [
+      "Can I pay by phone?",
+      "The city lists 844-778-1892 for utility payments."
+    ],
+    [
+      "Are there card fees?",
+      "The published March 2026 processor fee is 2.95%, with a $2.95 minimum. Confirm the total displayed before payment."
+    ],
+    [
+      "Who handles an after-hours service emergency?",
+      "The city lists 336-924-8363 for water or sewer service emergencies outside office hours."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.ci.king.nc.us/utilitybilling"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

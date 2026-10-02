@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Kern General Assistance provides limited support to county residents without another means of support. DHS handles applications locally.",
+  "description": "Kern General Assistance provides limited support to county residents without another means of support. DHS handles applications locally.",
+  "sections": {
+    "who": "<p>Single adults and couples without minor children may qualify. DHS checks financial circumstances and other program conditions.</p>",
+    "get": "<p>Support may address rent, utilities, transportation and personal needs. A Disability Advocate can help GA applicants pursue SSI.</p>",
+    "docs": "<ul><li>Ask DHS for its current verification checklist.</li><li>Income, resources, residence and relevant medical information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Obtain intake</h3><p>Use the forms on <a href=\"https://www.kcdhs.org/services/apply-for-benefits/general-assistance\">Kern General Assistance</a>.</p></li><li><h3 class=\"pbf-h3\">Apply locally</h3><p>Visit DHS or call 661-631-6000 or877-410-8812. Listed intake hours are weekdays 7:30 a.m.–4 p.m.</p></li><li><h3 class=\"pbf-h3\">Complete review</h3><p>Return documents and discuss other benefit or disability-advocacy options.</p></li></ol>",
+    "after": "<p>Read the decision and ongoing conditions. Ask DHS about any repayment obligation before accepting assistance.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.kcdhs.org/services/apply-for-benefits/general-assistance\">Kern General Assistance</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is GA the same as CalWORKs?",
+      "GA targets qualifying adults without minor children."
+    ],
+    [
+      "Can I apply by phone?",
+      "Kern DHS lists phone intake."
+    ],
+    [
+      "Can I also seek food or health coverage?",
+      "DHS notes potential CalFresh and Medi-Cal eligibility."
+    ],
+    [
+      "Is disability help available?",
+      "Ask about the DHS Disability Advocate program."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.kcdhs.org/services/apply-for-benefits/general-assistance"
+    ],
+    "background_source": "https://usaassistance.org/programs/general-assistance-kern-county-dhs/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

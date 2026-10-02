@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Ohio unemployment compensation provides temporary payments to eligible workers after qualifying unemployment. The state decides monetary and weekly eligibility separately.",
+  "description": "Ohio unemployment compensation provides temporary payments to eligible workers after qualifying unemployment. The state decides monetary and weekly eligibility separately.",
+  "sections": {
+    "who": "<p>Work and wage history, separation circumstances and weekly eligibility affect the claim. Generally you must be able, available and seeking suitable work unless an exception applies.</p>",
+    "get": "<p>Approved weekly payments replace part of lost earnings. Filing an initial claim alone does not establish entitlement for every later week.</p>",
+    "docs": "<ul><li>Identity and contact information.</li><li>Recent employer details, work dates and wage records.</li><li>The reason employment ended and any requested supporting evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open the claim</h3><p>Use <a href=\"https://unemployment.cmt.ohio.gov/cmtview/\">Ohio claimant self-service</a> with an OHID, or call 877-644-6562.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Certify the application and follow identity-verification instructions.</p></li><li><h3 class=\"pbf-h3\">File weekly requests</h3><p>Answer the weekly questions accurately, including earnings and work-search information.</p></li></ol>",
+    "after": "<p>Read every determination and request for information. Keep filing eligible weeks as instructed while a decision is pending; follow any appeal notice if you disagree.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/EBS/Programs%20Rules%20and%20Resources/OUIO/Filing_Applications_for_Benefits.pdf\">State filing policy</a>; <a href=\"https://codes.ohio.gov/ohio-revised-code/section-4141.29\">Ohio benefit eligibility statute</a>; <a href=\"https://unemployment.cmt.ohio.gov/cmtview/\">Claimant portal</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the employer tax portal for my claim?",
+      "No. Use claimant self-service."
+    ],
+    [
+      "Can I file by phone?",
+      "The state filing policy lists 877-644-6562."
+    ],
+    [
+      "Do I report cash earnings?",
+      "Yes. The claimant portal requires employment and self-employment earnings to be reported."
+    ],
+    [
+      "Does the first application cover future weeks?",
+      "No. Weekly claims and continuing eligibility are separate requirements."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/EBS/Programs%20Rules%20and%20Resources/OUIO/Filing_Applications_for_Benefits.pdf",
+      "https://codes.ohio.gov/ohio-revised-code/section-4141.29",
+      "https://unemployment.cmt.ohio.gov/cmtview/"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-benefits-ohio/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

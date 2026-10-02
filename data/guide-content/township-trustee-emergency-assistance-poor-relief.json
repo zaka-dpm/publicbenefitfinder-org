@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "For township assistance in Indiana, contact the trustee serving your home address. The Indiana Township Association provides tools to locate the correct office.",
+  "introduction": "For township assistance in Indiana, contact the trustee serving your home address. The Indiana Township Association provides tools to locate the correct office.",
+  "service_type": "navigation",
+  "sections": {
+    "who": "<p>The local trustee reviews the assistance request and applicable standards. Start with your actual township; a nearby office may serve a different area. Ask about the type of help needed and current intake requirements.</p>",
+    "get": "<p>The association directs people seeking help with rent, utilities, food or medical bills to township trustees. The association’s membership or website help desk does not handle household benefit applications.</p>",
+    "docs": "<ul><li>Your home address and a way to contact you.</li><li>The bill or notice showing the need and deadline.</li><li>Income, expense and household records requested by the trustee.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Locate your township</h3><p>Use Find My Township or Find My Trustee on the <a href=\"https://www.ita-in.org/\">Indiana Township Association website</a>.</p></li><li><h3 class=\"pbf-h3\">Contact the trustee</h3><p>Ask how to apply and whether an appointment is required.</p></li><li><h3 class=\"pbf-h3\">Explain the urgent need</h3><p>State the date on any notice and ask what evidence is required. Keep the application and decision.</p></li></ol>",
+    "after": "<p>Read the written decision and ask the trustee about any review or appeal process. If the office cannot help, use Indiana 211 to ask about other local resources.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.ita-in.org/\">township assistance and trustee lookup</a>, <a href=\"https://www.in.gov/fssa/indiana-211/\">Indiana 211 referrals</a>. The provider makes eligibility decisions.</p>"
+  },
+  "faqs": [
+    [
+      "Do I apply to the association?",
+      "No. Its website directs assistance requests to your local township trustee."
+    ],
+    [
+      "How do I find the correct trustee?",
+      "Use the association’s township or trustee lookup for your address."
+    ],
+    [
+      "Will a trustee referral guarantee payment?",
+      "No. The office must assess the request under its standards."
+    ],
+    [
+      "What should I mention first?",
+      "Give your address, the help needed and the deadline on any urgent notice."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.ita-in.org/",
+      "https://www.in.gov/fssa/indiana-211/"
+    ],
+    "facts_verified": true
+  }
+}

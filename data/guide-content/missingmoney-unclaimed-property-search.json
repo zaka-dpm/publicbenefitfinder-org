@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "MissingMoney searches participating state unclaimed-property databases. Use it to locate possible property, then follow the responsible state’s process to establish ownership.",
+  "introduction": "MissingMoney searches participating state unclaimed-property databases. Use it to locate possible property, then follow the responsible state’s process to establish ownership.",
+  "service_type": "property",
+  "sections": {
+    "who": [
+      "A matching name is a lead, not proof that the property belongs to you. The state holding the property determines who may claim it, including any estate or heir requirements."
+    ],
+    "get": "<p>NAUPA manages the free MissingMoney search for participating states. Its state directory also helps you reach individual state programs.</p>",
+    "docs": "<p>Check the name and reported address carefully. Before submitting personal documents, confirm that you are using the responsible state’s claim system. Ask that state about identity, address, ownership or estate evidence for your particular claim.</p>",
+    "apply": "<p>Search <a href=\"https://www.missingmoney.com/\">MissingMoney</a>. For a state-specific search or a state not covered by the results, use <a href=\"https://unclaimed.org/\">NAUPA’s state directory</a>.</p>",
+    "after": "<p>Keep the claim number and copies of what you submit. Respond to the state’s requests rather than assuming a search result guarantees payment. Check old names and states where you previously lived when searching again.</p>",
+    "sources": "<ul><li><a href=\"https://unclaimed.org/\">NAUPA unclaimed property search</a></li><li><a href=\"https://www.missingmoney.com/\">MissingMoney search</a></li><li><a href=\"https://usaassistance.org/programs/missingmoney-unclaimed-property-search/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is searching free?",
+      "NAUPA describes MissingMoney as a free search website."
+    ],
+    [
+      "Does a name match guarantee payment?",
+      "No. The holding state must establish ownership."
+    ],
+    [
+      "Can I search more than one state?",
+      "MissingMoney searches participating state databases. NAUPA also links to state programs."
+    ],
+    [
+      "What if the property belonged to a deceased relative?",
+      "Ask the holding state about its estate or heir claim requirements before submitting documents."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "missingmoney-unclaimed-property-search",
+    "source_url": "https://usaassistance.org/programs/missingmoney-unclaimed-property-search/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.missingmoney.com",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://unclaimed.org/",
+      "https://www.missingmoney.com/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

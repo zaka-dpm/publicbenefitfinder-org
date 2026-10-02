@@ -1,0 +1,19 @@
+{
+ "status":"reviewed",
+ "description":"Alabama WIC offers food and nutrition support for pregnancy and young children. Find out how to arrange a clinic appointment and prepare documents.",
+ "sections":{
+  "who":"<p>Alabama WIC serves pregnant or breastfeeding women, women within six months of giving birth, infants and children younger than five. Applicants must live in Alabama, meet income requirements and have a nutritional risk assessed by a clinic health professional.</p>",
+  "get":"<p>WIC provides supplemental nutrition support. Alabama uses an eWIC card to hold food benefits electronically. The clinic explains your food package and how to use the card.</p>",
+  "docs":"<ul><li>Identification for the parent or caretaker and each applicant, such as a driver’s license, birth certificate or hospital birth card.</li><li>A record showing your street address, such as a lease or bill.</li><li>Evidence of Medicaid, SNAP or Family Assistance enrollment, or household income records covering everyone who worked during the previous month.</li></ul>",
+  "apply":"<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Arrange a clinic appointment</h3><p>Contact your county health department. Call <a href=\"tel:18889424673\">1-888-942-4673</a> if you need help finding the nearest agency.</p></li><li><h3 class=\"pbf-h3\">Bring the applicants and records</h3><p>The state instructs applicants to attend with the infant or child applying, where applicable. Confirm the appointment arrangements with your clinic.</p></li><li><h3 class=\"pbf-h3\">Complete the assessment</h3><p>Clinic staff review the records and assess nutritional risk before determining eligibility.</p></li></ol>",
+  "after":"<p>Ask your clinic about your benefits, follow-up appointments and nutrition education. Use the state’s eWIC instructions for card questions.</p>",
+  "sources":"<p>Reviewed October 1, 2026 using Alabama Public Health’s <a href=\"https://www.alabamapublichealth.gov/wic/\">WIC overview</a>, <a href=\"https://www.alabamapublichealth.gov/wic/apply.html\">application instructions</a> and <a href=\"https://www.alabamapublichealth.gov/wic/ewic.html\">eWIC information</a>. The clinic makes eligibility decisions.</p>"
+ },
+ "faqs":[
+  ["Where can I arrange an appointment?","Start with your county health department or call 1-888-942-4673 to locate a WIC agency."],
+  ["Do I bring my child?","Yes, the application instructions say to bring the person applying for WIC, including the infant or child."],
+  ["What if I already receive SNAP or Medicaid?","Bring evidence of enrollment. The state lists it as an alternative to current household income records for the appointment."],
+  ["How do I enroll a newborn?","If you received WIC while pregnant, the state provides a newborn enrollment form. Mobile and Jefferson County participants should ask their clinic for instructions. Other new applicants follow the standard appointment process."],
+  ["Can I get language or communication assistance?","The state offers free communication assistance at WIC clinics. Tell staff what support you need when arranging the visit."]
+ ]
+}

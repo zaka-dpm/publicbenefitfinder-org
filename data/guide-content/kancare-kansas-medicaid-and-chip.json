@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "KanCare is Kansas’s Medicaid and CHIP coverage system. Use the medical application portal and the form appropriate to your household.",
+  "introduction": "KanCare is Kansas’s Medicaid and CHIP coverage system. Use the medical application portal and the form appropriate to your household.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Coverage is limited to specified eligibility groups, such as children, pregnant applicants, qualifying caretakers, older adults and people with disabilities. Low income alone does not establish an adult eligibility category. Income and resource rules vary by pathway.</p>",
+    "get": "<p>Approved members receive healthcare coverage. CHIP serves eligible uninsured children above Medicaid limits. Tell the eligibility office about other health insurance.</p>",
+    "docs": "<p>Use the family/children or elderly/disability application checklist. Prepare household income, identities, insurance and any required disability or asset evidence.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Open <a href=\"https://www.kancare.ks.gov/apply-now\">KanCare Apply Now</a> and follow its medical portal link. Call 800-792-4884 to request a paper form or ask which application fits.</p></li><li><p>If requesting long-term care or in-home waiver services, answer the application’s question about nursing-home or in-home care needs. Follow verification requests.</p></li></ol>",
+    "after": "<p>Read the eligibility and enrollment notices. Keep your mailing address current for annual reviews and respond to requests about immigration status or other evidence.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.kancare.ks.gov/apply-now/eligibility\">KanCare eligibility</a>, <a href=\"https://www.kancare.ks.gov/apply-now\">KanCare applications</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kancare-kansas-medicaid-and-chip/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does every adult with low income qualify?",
+      "No. Kansas medical assistance requires an eligible coverage category."
+    ],
+    [
+      "Where do I request a paper form?",
+      "Call the KanCare Clearinghouse at 800-792-4884."
+    ],
+    [
+      "Can I apply for in-home care on the application?",
+      "Indicate the need for nursing-home or in-home care and follow the applicable screening."
+    ],
+    [
+      "Do benefits renew automatically forever?",
+      "No. Read review notices and keep contact information current."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.kancare.ks.gov/apply-now/eligibility",
+      "https://www.kancare.ks.gov/apply-now"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

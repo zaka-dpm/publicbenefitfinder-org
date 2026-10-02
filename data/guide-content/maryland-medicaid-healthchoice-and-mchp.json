@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maryland Medicaid and the Maryland Children’s Health Program provide eligible residents health coverage. Many members receive services through a HealthChoice managed care orga",
+  "introduction": "Maryland Medicaid and the Maryland Children’s Health Program provide eligible residents health coverage. Many members receive services through a HealthChoice managed care organization.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Income, household size, age, pregnancy and other conditions determine the applicable coverage pathway. Children and pregnant applicants can use different limits from other adults.",
+      "MCHP serves eligible children younger than 19. Ask for guidance if disability, Medicare or long-term-care needs require another Medicaid application pathway."
+    ],
+    "get": "<p>Coverage includes eligible medical services. After approval, check which managed care organizations your doctors accept before selecting a plan.</p>",
+    "docs": "<p>Prepare household, income and insurance information. Maryland Health Connection will issue a notice if verification documents are needed. Keep the requested proof and deadline together.</p>",
+    "apply": "<ol><li>Apply through <a href=\"https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/\">Maryland Health Connection</a>, the Enroll MHC app or by calling 855-642-8572.</li><li>You can request a paper application through that number.</li><li>Submit any requested verification, then choose the doctor and managed care organization according to the approval instructions.</li></ol>",
+    "after": "<p>Keep contact information current and read renewal and change notices. Health coverage enrollment and plan selection are separate steps. Check the effective date before using coverage and ask the plan about service authorization.</p>",
+    "sources": "<ul><li><a href=\"https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/\">Maryland Medicaid and MCHP enrollment</a></li><li><a href=\"https://usaassistance.org/programs/maryland-medicaid-healthchoice-and-mchp/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is Medicaid restricted to fall open enrollment?",
+      "No. Medicaid and MCHP enrollment is available throughout the year."
+    ],
+    [
+      "Can I apply using my phone?",
+      "Yes. Enroll MHC supports applications and document uploads."
+    ],
+    [
+      "Do I choose a doctor before applying?",
+      "You can investigate networks beforehand; follow the coverage approval and plan-enrollment steps after applying."
+    ],
+    [
+      "Who can help with a paper form?",
+      "Call Maryland Health Connection at 855-642-8572 to request one and ask about enrollment help."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-medicaid-healthchoice-and-mchp",
+    "source_url": "https://usaassistance.org/programs/maryland-medicaid-healthchoice-and-mchp/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.marylandhealthconnection.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.marylandhealthconnection.gov/how-to-enroll/medicaid/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

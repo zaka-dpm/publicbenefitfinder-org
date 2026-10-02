@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Pennsylvania SNAP provides grocery assistance to eligible households. DHS encourages people to apply even when they are unsure about eligibility.",
+  "description": "Pennsylvania SNAP provides grocery assistance to eligible households. DHS encourages people to apply even when they are unsure about eligibility.",
+  "sections": {
+    "who": "<p>Income, household size, disability and applicable work rules affect eligibility. DHS reviews the application rather than requiring you to decide in advance.</p>",
+    "get": "<p>Approved benefits help pay for eligible food. The agency determines the amount from the household’s circumstances.</p>",
+    "docs": "<ul><li>Identity and household information.</li><li>Income and relevant expense records.</li><li>Any additional verification the county requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit a request</h3><p>Apply through <a href=\"https://www.compass.dhs.pa.gov/\">COMPASS</a>, or mail or deliver a paper application to your county assistance office.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>Attend the requested interview and provide the document checklist. Explain any urgent lack of food.</p></li><li><h3 class=\"pbf-h3\">Track the case</h3><p>Check <a href=\"https://trackmybenefits.pa.gov/\">Track My Benefits</a> and read the notice.</p></li></ol>",
+    "after": "<p>Follow reporting, work-rule and renewal instructions for your case. Keep submission records and ask the county to explain any unclear requirement.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.pa.gov/services/dhs/apply-for-the-supplemental-nutrition-assistance-program-snap\">Pennsylvania SNAP application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I know I qualify first?",
+      "No. DHS encourages an application for a decision."
+    ],
+    [
+      "Can someone apply on my behalf?",
+      "A designated authorized representative can apply."
+    ],
+    [
+      "Is online intake the only option?",
+      "Paper applications can be mailed or delivered to the county office."
+    ],
+    [
+      "Where can I check progress?",
+      "The state provides Track My Benefits."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.pa.gov/services/dhs/apply-for-the-supplemental-nutrition-assistance-program-snap"
+    ],
+    "background_source": "https://usaassistance.org/programs/snap-food-stamps-pennsylvania/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

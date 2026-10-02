@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin Works, or W-2, combines employment services with possible cash assistance while preparing for work. Apply through ACCESS or the local W-2 agency serving your area.",
+  "introduction": "Wisconsin Works, or W-2, combines employment services with possible cash assistance while preparing for work. Apply through ACCESS or the local W-2 agency serving your area.",
+  "service_type": "cash",
+  "sections": {
+    "who": [
+      "Parents with a child younger than 18 living with them who meet income and asset limits.",
+      "The local agency determines eligibility and the suitable employment service or placement."
+    ],
+    "get": "<p>Employment planning, job matching, training, education connections and possibly cash assistance. Ask which placement and payment rules apply rather than assuming every participant receives the same grant.</p>",
+    "docs": "<p>Prepare household, income and asset information and child details. Describe work history and barriers such as child care, transportation, disability or safety issues for the assessment.</p>",
+    "apply": "<ol><li>Select Wisconsin Works through ACCESS, or contact the local W-2 agency.</li><li>Complete the application and eligibility assessment.</li><li>Discuss the employment plan and activities, including support needed to participate.</li><li>Ask about referrals to FoodShare or other programs separately.</li></ol>",
+    "after": "<p>Keep the employment plan and notices. Report problems meeting an activity before a missed appointment if possible. If you disagree with an eligibility decision, the program lists a Fact Finding Review. DCF customer service is 855-757-4539.</p>",
+    "sources": "<ul><li><a href=\"https://dcf.wisconsin.gov/w2/parents/w2\">W-2 parent program and review rights</a></li><li><a href=\"https://dcf.wisconsin.gov/manuals/w-2-manual/Production/01/01.4.1_Where_to_Apply_for_W-2.htm\">W-2 agency application rules</a></li><li><a href=\"https://usaassistance.org/programs/wisconsin-works-w-2-cash-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is W-2 only a cash benefit?",
+      "No; it provides employment services and some participants may receive cash assistance."
+    ],
+    [
+      "Does an ACCESS screening decide eligibility?",
+      "The local W-2 agency makes the decision after application."
+    ],
+    [
+      "Can I apply without online access?",
+      "Contact the local agency to complete the process."
+    ],
+    [
+      "Can a domestic abuse survivor contact another agency?",
+      "The current manual permits applying at any W-2 agency in that circumstance."
+    ],
+    [
+      "Can I challenge the decision?",
+      "Ask for the program’s Fact Finding Review instructions."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wisconsin-works-w-2-cash-assistance",
+    "source_url": "https://usaassistance.org/programs/wisconsin-works-w-2-cash-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://access.wisconsin.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dcf.wisconsin.gov/w2/parents/w2",
+      "https://dcf.wisconsin.gov/manuals/w-2-manual/Production/01/01.4.1_Where_to_Apply_for_W-2.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "New Hampshire unemployment claims are managed through the NHUIS claimant system. File the initial claim and continue requesting each eligible week separately.",
+  "description": "New Hampshire unemployment claims are managed through the NHUIS claimant system. File the initial claim and continue requesting each eligible week separately.",
+  "sections": {
+    "who": "<p>NH Employment Security reviews covered earnings, separation circumstances and ongoing ability, availability and work-search requirements. Explain any severance or continued employment rather than assuming it has no effect.</p>",
+    "get": "<p>Approved benefits provide temporary income based on the claim determination. A claim record alone does not request payment for every future week.</p>",
+    "docs": "<ul><li>Identity and Social Security details.</li><li>Employer names, employment dates and separation information.</li><li>Weekly earnings and other payments to report.</li><li>Work-search records and filing confirmations.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Open the claimant application</h3><p>Use <a href=\"https://nhuis.nh.gov/claimant/login\">NHUIS claimant login</a> or the File a Claim link through NH Employment Security.</p></li><li><h3 class=\"pbf-h3\">Complete the claim</h3><p>Answer the employment and payment questions and save the confirmation number.</p></li><li><h3 class=\"pbf-h3\">File weekly</h3><p>Report the agency’s Sunday–Saturday calendar week. Follow continuing eligibility and work-search instructions for your case.</p></li></ol>",
+    "after": "<p>Read determinations and any appeal instructions promptly. If you resume work then become unemployed again within the same claim year, ask about reopening rather than automatically starting a duplicate claim.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nhes.nh.gov/forms/documents/uc-r-and-o.pdf\">NHES claimant handbook</a>, <a href=\"https://www.gc.nh.gov/rules/state_agencies/emp100-500.html\">State filing-system rules</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-new-hampshire/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is weekly reporting based on my employer’s payroll week?",
+      "The state handbook says to use its Sunday–Saturday claim week."
+    ],
+    [
+      "Should I keep filing confirmations?",
+      "Yes. The handbook says completed initial and weekly claims produce confirmation numbers."
+    ],
+    [
+      "What if I receive severance?",
+      "Report it and ask NHES about its effect; the handbook says filing timing can depend on separation pay."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nhes.nh.gov/forms/documents/uc-r-and-o.pdf",
+      "https://www.gc.nh.gov/rules/state_agencies/emp100-500.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

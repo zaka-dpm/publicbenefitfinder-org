@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Alaska’s weatherization program provides approved energy improvements at no cost to qualifying households. Apply through the service provider covering your area, rather than a",
+  "introduction": "Alaska’s weatherization program provides approved energy improvements at no cost to qualifying households. Apply through the service provider covering your area, rather than arranging repairs yourself.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Homeowners and renters can apply if they meet the current income limits. The program also includes condos.",
+      "If the home belongs to a state-designated regional housing authority, AHFC directs applicants to that authority. The provider determines eligibility and suitable work."
+    ],
+    "get": "<p>The provider assesses the home and arranges approved weatherization services. Work is provided without charge to qualified applicants; it is not a general cash grant for any renovation you choose.</p>",
+    "docs": "<p>Ask the provider for income and occupancy verification requirements. Renters should discuss the landlord-tenant agreement and permission to enter before an assessment. Prepare records requested by intake and keep the provider’s contact for scheduling.</p>",
+    "apply": "<ol><li>Open <a href=\"https://www.ahfc.us/efficiency/weatherization\">AHFC’s weatherization page</a> and its Service Providers link.</li><li>Contact the provider for your area, or your regional housing authority where applicable.</li><li>Submit its application and records. Coordinate assessment access and any rental permissions before work begins.</li></ol>",
+    "after": "<p>Ask about selection, waiting time and the approved work. Keep the assessment and completion information for your records. Do not independently hire a contractor expecting reimbursement from this program.</p>",
+    "sources": "<ul><li><a href=\"https://www.ahfc.us/efficiency/weatherization\">AHFC weatherization and provider locator</a></li><li><a href=\"https://www.ahfc.us/efficiency/education-and-events/manuals-forms-and-workbooks/weatherization-operations-manual\">Current program forms and manual</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-alaska-housing-finance-corporation/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "Yes. AHFC says renters and homeowners may apply; rental permissions and program eligibility still matter."
+    ],
+    [
+      "Are condos excluded?",
+      "No. AHFC’s FAQ says condos are included."
+    ],
+    [
+      "Who do housing-authority tenants contact?",
+      "AHFC directs residents of homes owned by a state-designated regional housing authority to contact that authority."
+    ],
+    [
+      "Can an already weatherized home apply?",
+      "Ask the provider about re-weatherization eligibility and priority. AHFC’s FAQ distinguishes previously weatherized homes from homes never served."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-alaska-housing-finance-corporation",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-alaska-housing-finance-corporation/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.ahfc.us/efficiency/energy-programs/weatherization",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.ahfc.us/efficiency/weatherization",
+      "https://www.ahfc.us/efficiency/education-and-events/manuals-forms-and-workbooks/weatherization-operations-manual"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

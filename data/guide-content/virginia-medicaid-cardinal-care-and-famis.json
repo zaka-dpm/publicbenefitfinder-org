@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia Cardinal Care and FAMIS provide health coverage through qualifying Medicaid and children’s coverage categories. Apply for a full eligibility review.",
+  "description": "Virginia Cardinal Care and FAMIS provide health coverage through qualifying Medicaid and children’s coverage categories. Apply for a full eligibility review.",
+  "sections": {
+    "who": "<p>Age, income, household, status and other category rules apply. FAMIS covers qualifying uninsured children younger than 19; some disability categories have different rules.</p>",
+    "get": "<p>Coverage includes medical care and related services. Children’s Medicaid and FAMIS have no costs for covered services under the current state information.</p>",
+    "docs": "<ul><li>Names, birth dates and requested identity or status records.</li><li>Family income and tax information.</li><li>Current insurance and job-based coverage details.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://commonhelp.virginia.gov/\">CommonHelp</a>, Cover Virginia at 833-522-5582, or a paper form through local DSS.</p></li><li><h3 class=\"pbf-h3\">Provide requested evidence</h3><p>Follow the document-request letter and use its submission instructions.</p></li><li><h3 class=\"pbf-h3\">Review coverage</h3><p>Check effective dates and follow managed-care enrollment instructions.</p></li></ol>",
+    "after": "<p>Keep the case current and respond to renewals. Ask for an application assister if the process is difficult.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dmas.virginia.gov/for-applicants/applying-for-medicaid/\">DMAS application</a>; <a href=\"https://coverva.dmas.virginia.gov/learn/coverage-for-children/medicaid-for-children-and-famis/\">Children and FAMIS</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can a child qualify when adults do not?",
+      "Eligibility categories differ; apply for a full review."
+    ],
+    [
+      "Is every category governed by the same income limit?",
+      "No. Category and household circumstances matter."
+    ],
+    [
+      "Can I apply by phone?",
+      "Cover Virginia lists 833-522-5582."
+    ],
+    [
+      "Does submission start insurance?",
+      "Check the approval and effective dates."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dmas.virginia.gov/for-applicants/applying-for-medicaid/",
+      "https://coverva.dmas.virginia.gov/learn/coverage-for-children/medicaid-for-children-and-famis/"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-medicaid-cardinal-care-and-famis/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

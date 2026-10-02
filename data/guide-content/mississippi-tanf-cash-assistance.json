@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Mississippi TANF provides temporary assistance for qualifying families with dependent children. MDHS handles applications and case decisions.",
+  "description": "Mississippi TANF provides temporary assistance for qualifying families with dependent children. MDHS handles applications and case decisions.",
+  "sections": {
+    "who": "<p>Income, household and program requirements apply. Work-program participation may be required unless an exception applies.</p>",
+    "get": "<p>TANF provides assistance for eligible families; the TANF Work Program offers employment-related support.</p>",
+    "docs": "<ul><li>Income and household records.</li><li>Dependent-child information.</li><li>Requested identity, residence and resource evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.mdhs.ms.gov/help/tanf/applying-for-tanf/\">MDHS’s TANF application page</a> or contact the local county office.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Follow any interview and verification instructions.</p></li><li><h3 class=\"pbf-h3\">Discuss the work program</h3><p>Ask the caseworker about participation, exemptions and employment support.</p></li></ol>",
+    "after": "<p>Keep notices and respond by their deadlines. Contact the county about reporting changes.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.mdhs.ms.gov/help/tanf/applying-for-tanf/\">TANF application</a>; <a href=\"https://www.mdhs.ms.gov/workforce/twp/\">TANF Work Program</a>; <a href=\"https://www.mdhs.ms.gov/help/snap/forms/\">Joint application forms</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply locally?",
+      "Yes, through the MDHS county office."
+    ],
+    [
+      "Is TANF unemployment insurance?",
+      "No. It is family assistance with separate rules."
+    ],
+    [
+      "Who explains work requirements?",
+      "Your county caseworker."
+    ],
+    [
+      "Can I request SNAP on the same form?",
+      "MDHS lists a joint SNAP/TANF application."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.mdhs.ms.gov/help/tanf/applying-for-tanf/",
+      "https://www.mdhs.ms.gov/workforce/twp/",
+      "https://www.mdhs.ms.gov/help/snap/forms/"
+    ],
+    "background_source": "https://usaassistance.org/programs/mississippi-tanf-cash-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

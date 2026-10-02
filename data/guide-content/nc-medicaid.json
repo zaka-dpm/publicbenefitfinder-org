@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "NC Medicaid provides health coverage for eligible residents. ePASS calls the program Medical Assistance.",
+  "description": "NC Medicaid provides health coverage for eligible residents. ePASS calls the program Medical Assistance.",
+  "sections": {
+    "who": "<p>Income, age, household and care needs affect eligibility. Older, blind, disabled or long-term-care applicants may need additional forms.</p>",
+    "get": "<p>Approved coverage helps pay eligible health-care costs. Read the notice for coverage and enrollment instructions.</p>",
+    "docs": "<ul><li>Identity, residency and household details.</li><li>Income and insurance records.</li><li>Requested eligibility or care information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://medicaid.ncdhhs.gov/apply\">Medicaid application guidance</a>: ePASS, county DSS or HealthCare.gov.</p></li><li><h3 class=\"pbf-h3\">Identify your needs</h3><p>Tell DSS about disability, older-age or long-term-care circumstances.</p></li><li><h3 class=\"pbf-h3\">Respond to requests</h3><p>Check mail and account notices and send proof.</p></li></ol>",
+    "after": "<p>Keep contact information current and complete renewal steps.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://medicaid.ncdhhs.gov/apply\">NC Medicaid application routes</a>; <a href=\"https://medicaid.ncdhhs.gov/eligibility\">Eligibility</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply anytime?",
+      "Yes, throughout the year."
+    ],
+    [
+      "What is the name in ePASS?",
+      "Medical Assistance."
+    ],
+    [
+      "Should I apply if unsure?",
+      "The state recommends applying for a decision."
+    ],
+    [
+      "Can I get language help?",
+      "Ask county DSS for an interpreter."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://medicaid.ncdhhs.gov/apply",
+      "https://medicaid.ncdhhs.gov/eligibility"
+    ],
+    "background_source": "https://usaassistance.org/programs/nc-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

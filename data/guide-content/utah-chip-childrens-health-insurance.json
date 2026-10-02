@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah CHIP is a health-coverage route for uninsured children and teens. Use the state application and review the family’s actual eligibility decision.",
+  "description": "Utah CHIP is a health-coverage route for uninsured children and teens. Use the state application and review the family’s actual eligibility decision.",
+  "sections": {
+    "who": "<p>The state assesses the child’s coverage and family circumstances under CHIP rules.</p>",
+    "get": "<p>Low-cost or free health coverage for qualifying Utah children.</p>",
+    "docs": "<ul><li>Child and household information.</li><li>Income records.</li><li>Existing insurance information and requested identity evidence.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online</h3><p>Use <a href=\"https://chip.utah.gov/\">Utah CHIP’s application link</a>.</p></li><li><h3 class=\"pbf-h3\">Complete review</h3><p>Answer verification requests about the child and household.</p></li><li><h3 class=\"pbf-h3\">Review enrollment</h3><p>Read the decision and any plan or premium instructions.</p></li></ol>",
+    "after": "<p>Use CHIP member resources for coverage questions and respond to renewal notices.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://chip.utah.gov/\">CHIP purpose and intake</a>, <a href=\"https://chip.utah.gov/resource-and-materials/\">Paper applications and member information</a>. <a href=\"https://usaassistance.org/programs/utah-chip-childrens-health-insurance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Where can I ask questions?",
+      "The site lists 1-877-KIDS-NOW and a contact page."
+    ],
+    [
+      "Can I obtain a paper application?",
+      "The resources page provides English and Spanish application links."
+    ],
+    [
+      "Is approval decided by this guide?",
+      "No. State eligibility review determines coverage."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://chip.utah.gov/",
+      "https://chip.utah.gov/resource-and-materials/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Kansas’s Successful Families Program combines TANF cash assistance with employment and support services for eligible families raising children.",
+  "introduction": "Kansas’s Successful Families Program combines TANF cash assistance with employment and support services for eligible families raising children.",
+  "service_type": "cash",
+  "sections": {
+    "who": "<p>A family must include a child under 18, including an unborn baby under the state’s published guidance, and meet income/resource requirements. Qualifying relative or court-appointed caregivers may apply.</p>",
+    "get": "<p>Cash amounts depend on income, household size, living arrangement and county. Employment support can include training, transportation and help addressing barriers.</p>",
+    "docs": "<p>Prepare child/caregiver details, household finances and prior TANF history. Tell the worker about caregiving or health circumstances affecting work participation.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply through the <a href=\"https://cssp.kees.ks.gov/apspssp/sspNonMed.portal/login/doView\">DCF Self-Service Portal</a> or contact DCF Benefits Assistance at 888-369-4777 for a paper form.</p></li><li><p>Complete screening and discuss work activities and child-support cooperation. DCF lists exceptions for caring for a baby under two months or a disabled household member; ask how the rule applies.</p></li></ol>",
+    "after": "<p>The published lifetime limit is 24 months, with specified hardship provisions in the policy manual. Ask how previous assistance is counted. Follow reporting and participation notices.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.dcf.ks.gov/services/ees/Pages/Cash/TANF.aspx\">Successful Families eligibility</a>, <a href=\"https://content.dcf.ks.gov/ees/keesm/current/keesm2243.htm\">Hardship policy</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/kansas-tanf-cash-assistance-successful-families-program/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Can a relative caregiver apply?",
+      "The program includes qualifying relatives and certain court-appointed caregivers."
+    ],
+    [
+      "Is the payment identical in every county?",
+      "No. County and living arrangement affect the cash table."
+    ],
+    [
+      "Is everyone required to work?",
+      "Work participation rules have specified exceptions; discuss your circumstances with DCF."
+    ],
+    [
+      "Is 24 months an absolute limit without exceptions?",
+      "The policy manual includes hardship provisions requiring DCF assessment."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.dcf.ks.gov/services/ees/Pages/Cash/TANF.aspx",
+      "https://content.dcf.ks.gov/ees/keesm/current/keesm2243.htm"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

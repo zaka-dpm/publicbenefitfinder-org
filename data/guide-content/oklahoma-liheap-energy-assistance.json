@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Oklahoma energy assistance has scheduled enrollment periods. Check OKDHSLive before applying; a separate telephone route handles qualifying life-threatening crises year-round.",
+  "description": "Oklahoma energy assistance has scheduled enrollment periods. Check OKDHSLive before applying; a separate telephone route handles qualifying life-threatening crises year-round.",
+  "sections": {
+    "who": "<p>The state assesses income, household size and responsibility for energy costs. People sharing one meter apply together.</p>",
+    "get": "<p>Programs support heating, cooling and qualifying energy emergencies. Funding and the approved component determine assistance.</p>",
+    "docs": "<ul><li>Household income and members.</li><li>Energy account and responsibility for the bill.</li><li>Crisis notices and any medical verification requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check current enrollment</h3><p>Use <a href=\"https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html\">the agency guidance</a> and OKDHSLive.</p></li><li><h3 class=\"pbf-h3\">Explain a life-threatening crisis</h3><p>Call 405-522-5050 and select energy assistance; do not rely on a routine seasonal application.</p></li><li><h3 class=\"pbf-h3\">Supply verification</h3><p>Match records to the agency request and keep your submission confirmation.</p></li></ol>",
+    "after": "<p>Follow case notices and contact the utility about its own arrangements while assistance is pending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html\">Energy components and current intake</a>. <a href=\"https://usaassistance.org/programs/oklahoma-liheap-energy-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is ordinary cooling assistance an emergency service?",
+      "No. The agency distinguishes routine seasonal help from crisis assistance."
+    ],
+    [
+      "Can I receive the same component from the state and a tribal program?",
+      "The state prohibits duplicate assistance for the same component in the same federal fiscal year."
+    ],
+    [
+      "Is life-threatening intake seasonal?",
+      "The agency provides a year-round telephone route for qualifying life-threatening crises."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.oklahoma.gov/okdhs/services/liheap/utilityservicesliheapmain.html"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

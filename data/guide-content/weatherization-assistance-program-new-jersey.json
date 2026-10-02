@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Jersey weatherization accepts applications through DCAid and county-serving WAP agencies. The program assesses eligible homes for selected energy-saving improvements.",
+  "description": "New Jersey weatherization accepts applications through DCAid and county-serving WAP agencies. The program assesses eligible homes for selected energy-saving improvements.",
+  "sections": {
+    "who": "<p>Eligibility considers household circumstances, program income rules and the property. Discuss tenancy and owner permission with the local agency before arranging work.</p>",
+    "get": "<p>Approved work improves energy efficiency and may address qualifying heating-system or health-and-safety issues. The audit determines suitable measures; this is not an unrestricted renovation grant.</p>",
+    "docs": "<ul><li>Household income and identity records requested at intake.</li><li>Property address and residence information.</li><li>Ownership or lease details.</li><li>Utility information and landlord contact if requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the WAP request</h3><p>Use <a href=\"https://www.nj.gov/dca/dcaid\">DCAid</a>; the state says its weatherization portal is open year-round.</p></li><li><h3 class=\"pbf-h3\">Complete the portal application</h3><p>Fill in qualifications, open the program application, upload records and sign before submitting.</p></li><li><h3 class=\"pbf-h3\">Work with the local agency</h3><p>Contact the <a href=\"https://www.nj.gov/dca/dhcr/offices/wap.shtml\">agency serving your county</a> about eligibility, property assessment and scheduling.</p></li></ol>",
+    "after": "<p>Save the application ID. If the portal shows an existing incomplete request, resume it rather than creating another. Ask the provider about waiting and approved work.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/dca/dhcr/offices/wap.shtml\">New Jersey WAP purpose and agency route</a>, <a href=\"https://www.nj.gov/dca/dcaid\">Portal availability</a>, <a href=\"https://dcaid.dca.nj.gov/en-US/WeatherizationProgramFAQs.pdf\">WAP application FAQ</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-new-jersey/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without internet access?",
+      "The state FAQ directs applicants to their local agency for application assistance."
+    ],
+    [
+      "Is the online qualification screen the whole application?",
+      "No. Complete the program application and submission steps too."
+    ],
+    [
+      "Does weatherization pay my current utility debt?",
+      "It arranges efficiency work; utility-bill assistance has a separate application."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/dca/dhcr/offices/wap.shtml",
+      "https://www.nj.gov/dca/dcaid",
+      "https://dcaid.dca.nj.gov/en-US/WeatherizationProgramFAQs.pdf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

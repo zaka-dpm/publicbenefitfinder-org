@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota’s refundable Child Tax Credit is claimed through the state income-tax return. Qualifying children must be younger than 18.",
+  "description": "Minnesota’s refundable Child Tax Credit is claimed through the state income-tax return. Qualifying children must be younger than 18.",
+  "sections": {
+    "who": "<p>Use Schedule M1DQC to identify qualifying children and M1CWFC to calculate the credit. Income and residency affect eligibility.</p>",
+    "get": "<p>A refundable credit can produce a refund without tax due. Eligible filers can elect advance payments under separate rules.</p>",
+    "docs": "<ul><li>Child and dependent records.</li><li>Income and residency information.</li><li>Any advance-payment records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the correct tax year</h3><p>Read <a href=\"https://www.revenue.state.mn.us/child-tax-credit\">Revenue’s Child Tax Credit guidance</a>.</p></li><li><h3 class=\"pbf-h3\">Complete the schedules</h3><p>Use M1DQC and M1CWFC with the Minnesota return; part-year residents also need the applicable allocation.</p></li><li><h3 class=\"pbf-h3\">File the return</h3><p>Submit electronically or by mail, retaining copies.</p></li></ol>",
+    "after": "<p>Check advance-payment rules before electing them and retain records for the following return.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.revenue.state.mn.us/child-tax-credit\">Minnesota Child Tax Credit</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it refundable?",
+      "Yes."
+    ],
+    [
+      "Can I claim a child over 17?",
+      "Use the separate older-child credit rules instead."
+    ],
+    [
+      "Can part-year residents qualify?",
+      "Yes, with the required allocation."
+    ],
+    [
+      "Does claiming it require a state return?",
+      "Yes."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.revenue.state.mn.us/child-tax-credit"
+    ],
+    "background_source": "https://usaassistance.org/programs/minnesota-child-tax-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "status": "reviewed",
+  "description": "Louisiana’s earned income credit is claimed on a state income tax return. For the 2025 return currently supported by published instructions, the refundable credit equals five ",
+  "introduction": "Louisiana’s earned income credit is claimed on a state income tax return. For the 2025 return currently supported by published instructions, the refundable credit equals five percent of the federal earned income credit.",
+  "service_type": "tax",
+  "sections": {
+    "who": [
+      "The 2025 Louisiana instructions link eligibility to the federal earned income credit claimed for that year.",
+      "Use the form and rules for the tax year being filed. Do not use a proposed bill or an old worksheet as proof that another tax year follows the same rules."
+    ],
+    "get": "<p>A refundable credit can reduce tax and contribute to a refund. The actual state amount follows the federal credit and the Louisiana worksheet; it is not a separate assistance application.</p>",
+    "docs": "<p>Prepare the completed federal return, earned-income records and information supporting any qualifying children. Keep your federal credit calculation and use the Louisiana earned income credit worksheet for the same year.</p>",
+    "apply": "<ol><li>Determine the federal earned income credit using the applicable IRS return instructions or qualified tax help.</li><li>For a 2025 Louisiana resident return, complete the Louisiana earned income credit worksheet and enter the credit on Form IT-540, line 16.</li><li>Attach the worksheet as instructed and file through the method listed by <a href=\"https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/\">the Department of Revenue</a>.</li></ol>",
+    "after": "<p>Save both returns, the worksheet and filing confirmation. Respond to any verification request. For an omitted credit or prior year, ask about an amended return using that year’s instructions. Check new instructions before filing a 2026 return.</p>",
+    "sources": "<ul><li><a href=\"https://dam.ldr.la.gov/taxforms/IT540i-WEB-2025.pdf\">2025 Louisiana resident return instructions</a></li><li><a href=\"https://www.legis.la.gov/legis/Law.aspx?d=453085\">Louisiana earned income credit statute</a></li><li><a href=\"https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/\">Louisiana individual tax filing</a></li><li><a href=\"https://usaassistance.org/programs/louisiana-earned-income-tax-credit/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I apply through the benefits portal?",
+      "No. Claim the credit on the Louisiana income tax return."
+    ],
+    [
+      "How is the 2025 credit calculated?",
+      "The published 2025 instructions specify five percent of the federal earned income credit and require the Louisiana worksheet."
+    ],
+    [
+      "Do I need a worksheet?",
+      "The 2025 Form IT-540 instructions require the Louisiana earned income credit worksheet to be attached."
+    ],
+    [
+      "Can I reuse a 2025 form for 2026?",
+      "No. Use the form and instructions for the actual tax year. Recheck the current rules when those instructions are published."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "louisiana-earned-income-tax-credit",
+    "source_url": "https://usaassistance.org/programs/louisiana-earned-income-tax-credit/",
+    "source_updated": "August 2026",
+    "primary_url": "https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dam.ldr.la.gov/taxforms/IT540i-WEB-2025.pdf",
+      "https://www.legis.la.gov/legis/Law.aspx?d=453085",
+      "https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

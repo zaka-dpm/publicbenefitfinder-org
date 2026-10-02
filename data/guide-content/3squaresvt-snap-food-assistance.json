@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "3SquaresVT is Vermont’s SNAP food-assistance program. DCF reviews household eligibility and provides benefits for approved cases.",
+  "description": "3SquaresVT is Vermont’s SNAP food-assistance program. DCF reviews household eligibility and provides benefits for approved cases.",
+  "sections": {
+    "who": "<p>Income and household circumstances affect eligibility. Households with an older or disabled member may qualify under different rules; ask DCF rather than relying on an old table.</p>",
+    "get": "<p>Monthly help buys eligible food. Most households use EBT; the state lists a cash-deposit route for households consisting entirely of people age 65 or older or receiving SSI.</p>",
+    "docs": "<ul><li>Household identity information.</li><li>Income and relevant expense evidence.</li><li>Requested status and other verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use the myBenefits link on <a href=\"https://dcf.vermont.gov/benefits/3SquaresVT\">3SquaresVT</a> or request Form 202 at 800-479-6151.</p></li><li><h3 class=\"pbf-h3\">Submit signed records</h3><p>Return paper forms by the listed mail, district-office or document-upload route.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>Respond to the interview and verification requests, explaining urgent food needs.</p></li></ol>",
+    "after": "<p>Read the decision and case-specific reporting instructions. Older or disabled households can ask about simplified intake.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dcf.vermont.gov/benefits/3SquaresVT\">DCF 3SquaresVT</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is this SNAP?",
+      "Yes. Vermont calls it 3SquaresVT."
+    ],
+    [
+      "Can I apply on paper?",
+      "Request or print Form 202."
+    ],
+    [
+      "Does everyone use an EBT card?",
+      "Some all-older or SSI households receive cash deposits under state rules."
+    ],
+    [
+      "What if I am unsure about income eligibility?",
+      "Apply or call the Benefits Service Center for assessment."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dcf.vermont.gov/benefits/3SquaresVT"
+    ],
+    "background_source": "https://usaassistance.org/programs/3squaresvt-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

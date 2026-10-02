@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "MaineCare is Maine’s Medicaid coverage. The Office for Family Independence decides eligibility, while the Office of MaineCare Services handles covered services and billing.",
+  "introduction": "MaineCare is Maine’s Medicaid coverage. The Office for Family Independence decides eligibility, while the Office of MaineCare Services handles covered services and billing.",
+  "service_type": "health",
+  "sections": {
+    "who": [
+      "Eligibility depends on household composition, income and the coverage category. Children, young adults, pregnant participants and adults use different rules.",
+      "Additional pathways cover disability, certain health conditions, former foster youth and long-term care. Ask about the appropriate pathway if the basic income table does not fit your circumstances."
+    ],
+    "get": "<p>Coverage can include medical visits, prescriptions, emergency care and substance-use treatment. Confirm provider participation and any approval requirement for a particular service.</p>",
+    "docs": "<p>Prepare household identities, income and existing insurance information. OFI may request pay records or immigration documents. If applying for disability or long-term-care coverage, ask what additional information is required.</p>",
+    "apply": "<ol><li>Apply through the My Maine Connection link on <a href=\"https://www.maine.gov/dhhs/ofi/programs-services/health-care-assistance\">MaineCare’s eligibility page</a>.</li><li>Alternatively submit the paper application by mail, email to Farmington.DHHS@Maine.gov, fax to 207-778-8429 or at a DHHS office.</li><li>Respond to verification requests and retain the decision letter.</li></ol>",
+    "after": "<p>Keep contact details current and follow renewal instructions. Direct eligibility questions to OFI and questions about using coverage or finding providers to MaineCare Services. Read notices about future federal changes according to their effective dates.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/dhhs/ofi/programs-services/health-care-assistance\">MaineCare eligibility and applications</a></li><li><a href=\"https://usaassistance.org/programs/mainecare-maine-medicaid/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a child qualify when a parent cannot?",
+      "Yes. Categories have different income and eligibility rules, so submit the requested information for each applicant."
+    ],
+    [
+      "Who answers a question about my eligibility?",
+      "The Office for Family Independence determines eligibility and ongoing enrollment."
+    ],
+    [
+      "Who handles a provider or billing question?",
+      "The Office of MaineCare Services handles the program’s services and billing after enrollment."
+    ],
+    [
+      "What if the main income chart says I am over the limit?",
+      "Other coverage categories may apply. Ask OFI about disability, health-condition or long-term-care pathways before assuming there is no option."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "mainecare-maine-medicaid",
+    "source_url": "https://usaassistance.org/programs/mainecare-maine-medicaid/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/dhhs/ofi/programs-services/health-care-assistance",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/dhhs/ofi/programs-services/health-care-assistance"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

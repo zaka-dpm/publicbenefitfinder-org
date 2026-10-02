@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Maryland’s earned income tax credit is claimed through a state income tax return. Check the state calculation even if a federal credit was already claimed.",
+  "introduction": "Maryland’s earned income tax credit is claimed through a state income tax return. Check the state calculation even if a federal credit was already claimed.",
+  "service_type": "tax",
+  "sections": {
+    "who": [
+      "Earned income, residency, filing status and family circumstances affect eligibility.",
+      "Maryland has pathways for otherwise eligible ITIN filers and some younger childless adults who cannot claim the federal credit. Use the state’s year-specific instructions."
+    ],
+    "get": "<p>An eligible credit can reduce tax or increase a refund. The screening tool estimates possible eligibility rather than awarding a guaranteed amount.</p>",
+    "docs": "<p>Prepare the federal return, earned-income records, taxpayer identifiers and any qualifying-child information. Use the Maryland tax booklet for the year being filed and retain the state credit calculation.</p>",
+    "apply": "<ol><li>Use <a href=\"https://www.marylandcomptroller.gov/EarnedIt.html\">the Comptroller’s Earned It page</a> for the screening tool and tax-preparation assistance.</li><li>Complete the Maryland earned income credit section using the applicable state return instructions.</li><li>Check that the credit is included before filing, even when tax software or a preparer completes the return.</li></ol>",
+    "after": "<p>Save both returns and filing confirmation. Respond to requests for proof rather than treating an estimate as final approval. For a missed prior-year credit, ask about the correct amended-return procedure for that year.</p>",
+    "sources": "<ul><li><a href=\"https://www.marylandcomptroller.gov/EarnedIt.html\">Maryland earned income credit guidance</a></li><li><a href=\"https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2025/resident-booklet.pdf\">2025 Maryland resident instructions</a></li><li><a href=\"https://usaassistance.org/programs/maryland-earned-income-tax-credit/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does claiming the federal credit automatically file the state claim?",
+      "No. You still must file the Maryland return and claim the state credit."
+    ],
+    [
+      "Can an ITIN filer qualify?",
+      "Maryland allows an eligibility pathway for otherwise qualifying ITIN filers. Apply the state instructions."
+    ],
+    [
+      "Is the screener result a payment promise?",
+      "No. The actual return and full tax circumstances determine eligibility and amount."
+    ],
+    [
+      "Where can I find free tax help?",
+      "The Earned It page links to free or low-cost preparation services, including qualifying VITA assistance."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maryland-earned-income-tax-credit",
+    "source_url": "https://usaassistance.org/programs/maryland-earned-income-tax-credit/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.marylandtaxes.gov/earnedit/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.marylandcomptroller.gov/EarnedIt.html",
+      "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2025/resident-booklet.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": "reviewed",
+  "introduction": "New Jersey unemployment begins with an initial claim and requires separate weekly certification. Use the state’s current application instructions and check both email and postal notices.",
+  "description": "New Jersey unemployment begins with an initial claim and requires separate weekly certification. Use the state’s current application instructions and check both email and post",
+  "sections": {
+    "who": "<p>The Division of Unemployment Insurance assesses wage history, separation circumstances and continuing eligibility. Report reduced work, other payments and any issue affecting availability accurately.</p>",
+    "get": "<p>Approved benefits provide temporary income. The claim decision establishes entitlement, while weekly answers determine whether a particular week can be paid.</p>",
+    "docs": "<ul><li>Identity and Social Security details.</li><li>Employer contacts, dates and separation information.</li><li>Weekly gross earnings and hours.</li><li>Work-search records and agency notices.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Prepare and create the account</h3><p>Follow <a href=\"https://www.nj.gov/labor/myunemployment/before/about/howtoapply/applyonline.shtml\">the state’s online claim instructions</a>.</p></li><li><h3 class=\"pbf-h3\">Submit the initial claim</h3><p>Save its confirmation and complete any verification or e-Adjudication request.</p></li><li><h3 class=\"pbf-h3\">Certify weekly</h3><p>Use the current certification schedule and answer the questions for the correct week. Report work and gross earnings, even if payment is later.</p></li></ol>",
+    "after": "<p>Read mailed and emailed determinations. Ask whether to reopen an existing claim after a work interruption; do not automatically submit a duplicate new claim.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.nj.gov/labor/myunemployment/before/about/howtoapply/applyonline.shtml\">Online initial-claim steps</a>, <a href=\"https://www.nj.gov/labor/myunemployment/before/about/howtoapply/howtocertify.shtml\">Weekly certification guidance</a>, <a href=\"https://www.nj.gov/labor/myunemployment/before/about/howtoapply/morehelp_ph.shtml\">Hours and gross earnings reporting</a>, <a href=\"https://www.nj.gov/labor/myunemployment/apply/reopen.shtml\">Reopening or reapplying</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-new-jersey/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does applying request each week’s payment?",
+      "No. New Jersey requires weekly certification for the weeks you request."
+    ],
+    [
+      "Where will agency notices arrive?",
+      "The state says forms and notices may arrive by postal mail as well as email."
+    ],
+    [
+      "What if I returned to work and now need benefits again?",
+      "Use the state’s reopening guidance to determine whether to reopen or reapply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.nj.gov/labor/myunemployment/before/about/howtoapply/applyonline.shtml",
+      "https://www.nj.gov/labor/myunemployment/before/about/howtoapply/howtocertify.shtml",
+      "https://www.nj.gov/labor/myunemployment/before/about/howtoapply/morehelp_ph.shtml",
+      "https://www.nj.gov/labor/myunemployment/apply/reopen.shtml"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

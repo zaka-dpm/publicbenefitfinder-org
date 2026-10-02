@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky’s Child Care Assistance Program helps qualifying families pay for approved child care. DCBS determines family eligibility, while the Division of Child Care handles pr",
+  "introduction": "Kentucky’s Child Care Assistance Program helps qualifying families pay for approved child care. DCBS determines family eligibility, while the Division of Child Care handles provider participation.",
+  "service_type": "childcare",
+  "sections": {
+    "who": [
+      "Eligibility follows Kentucky’s child care assistance rules and the family’s circumstances. Use the kynect screening tool as an estimate rather than an approval.",
+      "The chosen provider must be eligible to receive CCAP payments. Confirm this before agreeing to care."
+    ],
+    "get": "<p>CCAP pays toward eligible care. Families can owe an income-based copayment, tuition above the state payment maximum and some optional fees. Ask for the full family charge in writing.</p>",
+    "docs": "<p>Prepare household income, children’s information and the work or activity schedule that creates the need for care. Ask DCBS for its current checklist and tell the provider the hours of care needed.</p>",
+    "apply": "<ol><li>Apply through <a href=\"https://kynect.ky.gov/\">kynect benefits</a> or call DCBS at 855-306-8959.</li><li>Provide requested verification and discuss eligibility and the care schedule with the worker.</li><li>Confirm the provider’s CCAP participation and the authorized start date before expecting a subsidy.</li></ol>",
+    "after": "<p>Check that the authorization matches the child, provider and schedule. Report changes using your case instructions. If a bill seems wrong, ask the provider to separate the copayment, overage and fees rather than treating the whole balance as a government charge.</p>",
+    "sources": "<ul><li><a href=\"https://www.chfs.ky.gov/agencies/dcbs/dcc/pages/ccap.aspx\">Kentucky CCAP</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-child-care-assistance-program-ccap/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Will CCAP cover the provider’s entire bill?",
+      "Not necessarily. You may owe a copayment and the difference between tuition and the state maximum payment."
+    ],
+    [
+      "Does the online screening approve me?",
+      "No. It estimates possible eligibility; DCBS makes the decision after the application and verification."
+    ],
+    [
+      "Who handles my application?",
+      "The Division of Family Support handles family eligibility. Provider matters are handled through the Division of Child Care."
+    ],
+    [
+      "Can I request an interpreter?",
+      "Kentucky advertises free interpreter services at 866-291-8931. Tell DCBS if you need language assistance."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-child-care-assistance-program-ccap",
+    "source_url": "https://usaassistance.org/programs/kentucky-child-care-assistance-program-ccap/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.chfs.ky.gov/agencies/dcbs/dcc/Pages/ccap.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.chfs.ky.gov/agencies/dcbs/dcc/pages/ccap.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

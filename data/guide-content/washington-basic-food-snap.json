@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Basic Food is Washington’s SNAP program. It supplements an eligible household’s grocery budget.",
+  "description": "Basic Food is Washington’s SNAP program. It supplements an eligible household’s grocery budget.",
+  "sections": {
+    "who": "<p>Applicants must live in Washington and meet household-income and applicable status rules. Other requirements depend on the case.</p>",
+    "get": "<p>Approved food benefits help buy eligible groceries. The agency calculates the household amount.</p>",
+    "docs": "<ul><li>Ask DSHS for the verification checklist.</li><li>Prepare household income and relevant expense records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply</h3><p>Use <a href=\"https://www.washingtonconnection.org/\">Washington Connection</a>, call 877-501-2233 or visit a Community Services Office.</p></li><li><h3 class=\"pbf-h3\">Complete the interview</h3><p>Explain household circumstances and an urgent shortage of food.</p></li><li><h3 class=\"pbf-h3\">Return evidence</h3><p>Meet the document deadline and read the decision.</p></li></ol>",
+    "after": "<p>Keep review notices and report changes as instructed. Contact local food resources while waiting.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.dshs.wa.gov/family-food-and-housing-services/food-assistance/basic-food-benefits\">DSHS Basic Food</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is Basic Food SNAP?",
+      "Yes. Basic Food is the Washington program name."
+    ],
+    [
+      "Must I apply online?",
+      "Phone, office and mail routes are available."
+    ],
+    [
+      "Does submitting the form complete intake?",
+      "An interview and verification may still be needed."
+    ],
+    [
+      "Can an old income table rule me out?",
+      "Ask DSHS to assess the current household circumstances."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.dshs.wa.gov/family-food-and-housing-services/food-assistance/basic-food-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-basic-food-snap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

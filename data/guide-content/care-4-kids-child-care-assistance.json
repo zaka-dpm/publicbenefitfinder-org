@@ -1,0 +1,46 @@
+{
+  "status": "reviewed",
+  "introduction": "Care 4 Kids helps eligible Connecticut families pay for child care. Families apply through the Parent Portal and arrange an approved provider agreement.",
+  "description": "Care 4 Kids helps eligible Connecticut families pay for child care. Families apply through the Parent Portal and arrange an approved provider agreement.",
+  "sections": {
+    "who": "<p>Applicants must meet Connecticut residency, income and approved activity rules. The program serves children under 13, or under 19 with special needs. A screening result is not final approval.</p>",
+    "get": "<p>An approved Child Care Certificate authorizes payment. The amount depends on case details and provider arrangements, and an enrollment list can affect when assistance begins.</p>",
+    "docs": "<ul><li>Pay stubs and evidence of work or an approved training or education activity.</li><li>Children’s ages and household information.</li><li>A Parent-Provider Agreement for each provider, once a provider is chosen.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start through the Parent Portal</h3><p>Use the eligibility screener and application links at <a href=\"https://www.ctcare4kids.com/\">Care 4 Kids</a>.</p></li><li><h3 class=\"pbf-h3\">Arrange the provider paperwork</h3><p>You can submit an application before choosing care. Submit the completed Parent-Provider Agreement afterward; a certificate cannot be issued without it.</p></li><li><h3 class=\"pbf-h3\">Check portal action items</h3><p>Review notices, application status and requested records. Call 888-214-5437 if you need help with the case.</p></li></ol>",
+    "after": "<p>Use the portal for changes and redetermination. Fax service ended in June 2026; the program announces a fully paperless process beginning January 1, 2027.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.ctcare4kids.com/care-4-kids-program/family-information/\">Family application and provider requirements</a>; <a href=\"https://www.ctcare4kids.com/\">Current portal and paperless notices</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Must I choose a provider before applying?",
+      "No. Apply first if necessary, then submit the provider agreement."
+    ],
+    [
+      "Can a relative provide care?",
+      "Some close-relative arrangements qualify; check the program’s provider rules before relying on payment."
+    ],
+    [
+      "Does the screener approve my case?",
+      "No. The application and provider records must be reviewed."
+    ],
+    [
+      "Can I still fax documents?",
+      "No. Care 4 Kids announced that fax service ended June 30, 2026."
+    ],
+    [
+      "Where can I view notices?",
+      "Use the Parent Portal, which also supports changes and redeterminations."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.ctcare4kids.com/care-4-kids-program/family-information/",
+      "https://www.ctcare4kids.com/"
+    ],
+    "background_source": "https://usaassistance.org/programs/care-4-kids-child-care-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

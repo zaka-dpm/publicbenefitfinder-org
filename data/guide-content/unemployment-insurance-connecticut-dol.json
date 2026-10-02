@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut unemployment claims are managed in ReEmployCT. A new claim and an ongoing weekly certification are different actions in the system.",
+  "description": "Connecticut unemployment claims are managed in ReEmployCT. A new claim and an ongoing weekly certification are different actions in the system.",
+  "sections": {
+    "who": "<p>The Department of Labor assesses recent wages, job separation and ongoing eligibility. Continue to follow work-search and earnings-reporting instructions for the claim.</p>",
+    "get": "<p>Qualifying claims receive temporary unemployment payments. An account or submitted application is not an approval.</p>",
+    "docs": "<ul><li>Employment dates, employer details and wage records.</li><li>The reason work ended or hours changed.</li><li>Identity and payment information requested by ReEmployCT.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start the correct claim action</h3><p>Use the <a href=\"https://portal.ct.gov/dol/unemployment-benefits\">DOL unemployment page</a> to reach ReEmployCT. Old-system users need a ReEmployCT account.</p></li><li><h3 class=\"pbf-h3\">File weekly certifications</h3><p>For an active continuous claim, choose Weekly Certification in Quick Links. Report wages when earned, following the state instructions.</p></li><li><h3 class=\"pbf-h3\">Get help through the contact center</h3><p>Use DOL’s callback scheduler or online case option for account and filing problems. Check claim messages for requests.</p></li></ol>",
+    "after": "<p>Save claim confirmations and read determinations. Weekly certification is required separately from starting a claim.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/DOLUI/reemployctclaimants\">ReEmployCT claimant instructions</a>; <a href=\"https://portal.ct.gov/dol/unemployment-benefits\">DOL claim services and contact center</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do I file a new claim each week?",
+      "No. Use Weekly Certification for an active continuous claim."
+    ],
+    [
+      "Can I use an old-system username?",
+      "DOL says users of the old unemployment system need a ReEmployCT account."
+    ],
+    [
+      "When do I report wages?",
+      "The state directs filers to report wages as earned."
+    ],
+    [
+      "Who handles an account lockout?",
+      "Use the Consumer Contact Center resources or callback scheduler; appeals staff do not handle technical filing problems."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/DOLUI/reemployctclaimants",
+      "https://portal.ct.gov/dol/unemployment-benefits"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-connecticut-dol/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

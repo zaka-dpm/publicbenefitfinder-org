@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Health First Colorado is Colorado’s Medicaid program. The application also helps identify other coverage options, including Child Health Plan Plus where appropriate.",
+  "description": "Health First Colorado is Colorado’s Medicaid program. The application also helps identify other coverage options, including Child Health Plan Plus where appropriate.",
+  "sections": {
+    "who": "<p>Eligibility depends on the applicant’s age, income, family circumstances and applicable residency or status rules. Children, pregnant applicants, older adults and people with disabilities may use different pathways. Ask about current rules rather than relying on an old income table.</p>",
+    "get": "<p>Coverage helps pay for eligible medical services. After approval, use the member information to understand covered services and find a participating provider.</p>",
+    "docs": "<ul><li>Household names, birth dates and contact information.</li><li>Income, Colorado address and requested identity or status evidence.</li><li>Information about current health coverage and any additional records the application requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through PEAK</h3><p>Start from <a href=\"https://www.healthfirstcolorado.gov/apply-now\">Health First Colorado’s application page</a>. You can check application status online.</p></li><li><h3 class=\"pbf-h3\">Use another route if needed</h3><p>The state lists phone applications at 800-221-3943, paper applications and county offices or assistance sites.</p></li><li><h3 class=\"pbf-h3\">Read the eligibility notice</h3><p>Supply any further requested records. If you do not qualify, review the coverage options linked from the state page.</p></li></ol>",
+    "after": "<p>Keep contact information current, check renewal notices and confirm a provider accepts your coverage before an appointment.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.healthfirstcolorado.gov/apply-now\">Health First Colorado application options</a>; <a href=\"https://www.healthfirstcolorado.gov/\">Coverage updates</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply without using the internet?",
+      "Yes. The state lists phone, mail and in-person options."
+    ],
+    [
+      "Does every family member have the same limit?",
+      "No. Different coverage pathways may apply to different household members."
+    ],
+    [
+      "Where do I check progress?",
+      "PEAK provides online application-status access."
+    ],
+    [
+      "What if I am denied?",
+      "Read the decision and its review instructions, and check the state’s other coverage options."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.healthfirstcolorado.gov/apply-now",
+      "https://www.healthfirstcolorado.gov/"
+    ],
+    "background_source": "https://usaassistance.org/programs/health-first-colorado-medicaid-and-chp/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

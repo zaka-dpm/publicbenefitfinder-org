@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "New Mexico unemployment uses the Workforce Solutions online claims system or its phone application route. The initial claim and weekly certifications are separate requirements.",
+  "description": "New Mexico unemployment uses the Workforce Solutions online claims system or its phone application route. The initial claim and weekly certifications are separate requirements",
+  "sections": {
+    "who": "<p>DWS assesses covered earnings, unemployment circumstances and ongoing eligibility. Follow the ability, availability and work-search instructions assigned to your claim.</p>",
+    "get": "<p>Approved benefits provide temporary financial support. Each weekly certification supplies information needed to assess payment for that week.</p>",
+    "docs": "<ul><li>Identity and Social Security information.</li><li>Employer contacts, employment dates and separation details.</li><li>Weekly earnings and hours.</li><li>Work-search evidence and agency messages.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply online or by phone</h3><p>Use <a href=\"https://www.jobs.dws.nm.gov/\">the DWS system</a> or call 877-664-6984 during the agency’s published weekday hours.</p></li><li><h3 class=\"pbf-h3\">Complete the claim review</h3><p>Answer eligibility questions and follow any verification notice. Save confirmations.</p></li><li><h3 class=\"pbf-h3\">Certify each week</h3><p>Submit the weekly request and report work, earnings and availability accurately.</p></li></ol>",
+    "after": "<p>Check the claim account and correspondence. Keep evidence of work-search activities so it is available for review, and ask DWS about a disputed decision or interruption in filing.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.dws.state.nm.us/Unemployment/Unemployment-for-an-individual\">DWS initial and weekly filing routes</a>, <a href=\"https://www.dws.state.nm.us/Work-Search-Requirement-Information\">Work-search records and local help</a>, <a href=\"https://www.jobs.dws.nm.gov/vosnet/default.aspx\">Current online system</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-new-mexico/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the initial application request all future payments?",
+      "No. The agency requires weekly certification."
+    ],
+    [
+      "Is there a phone route?",
+      "The current agency page lists 877-664-6984, weekdays 8 a.m.–4:30 p.m."
+    ],
+    [
+      "Where can I get job-search support?",
+      "DWS links local America’s Job Centers and work-search resources alongside the claims process."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.dws.state.nm.us/Unemployment/Unemployment-for-an-individual",
+      "https://www.dws.state.nm.us/Work-Search-Requirement-Information",
+      "https://www.jobs.dws.nm.gov/vosnet/default.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

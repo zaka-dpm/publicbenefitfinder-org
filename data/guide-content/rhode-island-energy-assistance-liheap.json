@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Rhode Island LIHEAP helps eligible households meet heating costs. Local community action agencies guide applicants through intake.",
+  "description": "Rhode Island LIHEAP helps eligible households meet heating costs. Local community action agencies guide applicants through intake.",
+  "sections": {
+    "who": "<p>The agency checks household income and heating circumstances against the current season’s rules. Confirm the current eligibility checklist locally.</p>",
+    "get": "<p>Assistance supplements heating costs and may include a separate crisis assessment. The agency determines the approved support.</p>",
+    "docs": "<ul><li>Household and income records.</li><li>Heating bills or fuel supplier details.</li><li>Any shutoff notice or urgent lack of fuel.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find local intake</h3><p>Use the community action links on <a href=\"https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-1\">DHS LIHEAP</a>.</p></li><li><h3 class=\"pbf-h3\">Confirm the season</h3><p>Ask about current appointments, required documents and available assistance.</p></li><li><h3 class=\"pbf-h3\">Explain an emergency</h3><p>Give the exact shutoff or fuel deadline and ask about crisis assessment.</p></li></ol>",
+    "after": "<p>Keep your submission record and contact the supplier about arrangements. Assistance is not confirmed until the agency decides.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-1\">DHS LIHEAP</a>; <a href=\"https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating\">DHS heating programs</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Who handles local applications?",
+      "Community action agencies provide intake guidance."
+    ],
+    [
+      "Will it pay every heating bill?",
+      "It is supplemental help, subject to program rules and funding."
+    ],
+    [
+      "What if I have no fuel?",
+      "Tell intake immediately and ask about emergency assistance."
+    ],
+    [
+      "Should I use an old income table?",
+      "Ask for the current season’s rules."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating/low-income-home-energy-assistance-1",
+      "https://dhs.ri.gov/programs-and-services/energy-assistance-programs-heating"
+    ],
+    "background_source": "https://usaassistance.org/programs/rhode-island-energy-assistance-liheap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

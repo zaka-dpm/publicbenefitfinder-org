@@ -1,0 +1,53 @@
+{
+  "status": "reviewed",
+  "description": "Alaska Unemployment Insurance takes initial claims through myAlaska. Once a claim is open, weekly filings and the state’s eligibility instructions determine which weeks can be",
+  "introduction": "Alaska Unemployment Insurance takes initial claims through myAlaska. Once a claim is open, weekly filings and the state’s eligibility instructions determine which weeks can be paid.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "The state reviews wages and the circumstances of unemployment. Workers unemployed or working less than full time can apply for a determination.",
+      "You must generally be able and available for suitable full-time work and follow the work-search instructions unless told otherwise. Report barriers that affect accepting work."
+    ],
+    "get": "<p>The monetary determination sets the potential weekly payment and duration. Actual payment also requires weekly eligibility; a monetary determination alone is not approval for every week.</p>",
+    "docs": "<p>Prepare your Social Security number, last employer’s contact details, employment dates, last-week hours and gross earnings, and any severance, vacation or retirement information. The state also identifies immigration/work authorization information where applicable and special federal or military records for recent service.</p>",
+    "apply": "<ol><li>Sign into <a href=\"https://my.alaska.gov/\">myAlaska</a> and choose Unemployment Insurance Benefits. An existing myAlaska account can be used.</li><li>File a new claim or reopen the existing claim as appropriate. Complete the final certification and save the confirmation number.</li><li>Read all instructions, including any request to contact the claim center. Continue weekly filings and the required work search.</li></ol>",
+    "after": "<p>Use the claim system to check status and maintain payment details. A representative contacts you if more information is needed. Review determinations and any appeal deadline. Keep records of earnings and work searches for each claimed week.</p>",
+    "sources": "<ul><li><a href=\"https://labor.alaska.gov/unemployment/home.htm\">Current claim entry and confirmation guidance</a></li><li><a href=\"https://labor.alaska.gov/unemployment/ui-general-info.htm\">Eligibility and preparation checklist</a></li><li><a href=\"https://labor.alaska.gov/unemployment/ui-handbook.html\">Claimant handbook</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-alaska/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Do I need a separate myAlaska account?",
+      "Use your existing myAlaska account if you already have one. Reset a forgotten password before starting."
+    ],
+    [
+      "How do I know the initial claim went through?",
+      "The state says a confirmation number at the end means the application was accepted for processing."
+    ],
+    [
+      "Are weekly filings required?",
+      "Yes. Current online guidance requires a filing each week after the claim is opened. Follow your account’s instructions."
+    ],
+    [
+      "Can I get language help?",
+      "The UI claim centers provide free interpreters on request. Check their contact page for current phone hours."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-alaska",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-alaska/",
+    "source_updated": "August 2026",
+    "primary_url": "https://labor.alaska.gov/unemployment/",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "primary_notes_reviewed_on": "2026-10-01",
+    "primary_notes_url": "https://labor.alaska.gov/unemployment/",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://labor.alaska.gov/unemployment/home.htm",
+      "https://labor.alaska.gov/unemployment/ui-general-info.htm",
+      "https://labor.alaska.gov/unemployment/ui-handbook.html"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

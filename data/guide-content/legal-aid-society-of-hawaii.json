@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Legal Aid Society of Hawaiʻi provides free civil legal assistance to eligible low-income residents. Start with phone intake; the organization currently says it is not accepting walk-in intake.",
+  "description": "Legal Aid Society of Hawaiʻi provides free civil legal assistance to eligible low-income residents. Start with phone intake; the organization currently says it is not acceptin",
+  "sections": {
+    "who": "<p>Legal Aid assesses financial eligibility, the type of civil issue and whether it can assist. Tell intake staff about an imminent hearing or response deadline.</p>",
+    "get": "<p>Help may include legal advice or other civil legal services accepted by the organization. A request for intake does not itself confirm representation.</p>",
+    "docs": "<ul><li>Keep court documents, notices and relevant agreements together.</li><li>Prepare a short timeline and the next deadline.</li><li>Have income and household details ready for intake screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call the correct intake number</h3><p>Oʻahu callers can use 808-536-4302; neighbor-island callers can use 1-800-499-4302.</p></li><li><h3 class=\"pbf-h3\">Check the contact hours</h3><p>The <a href=\"https://www.legalaidhawaii.org/\">current Legal Aid website</a> lists weekday phone intake from 9–11:30 a.m. and 1–3:30 p.m.</p></li><li><h3 class=\"pbf-h3\">Confirm the assistance offered</h3><p>Explain your documents and deadline. Ask whether the case is accepted and what you must do while waiting.</p></li></ol>",
+    "after": "<p>Keep a record of the response and continue tracking deadlines. Request disability-related accommodation if the usual intake method is unsuitable.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.legalaidhawaii.org/\">Legal Aid Society of Hawaiʻi intake information</a>. <a href=\"https://usaassistance.org/programs/legal-aid-society-of-hawaii/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can I walk into an office to apply?",
+      "The current website says physical offices are not open for walk-in intake; begin by phone."
+    ],
+    [
+      "Are accepted legal services charged to clients?",
+      "Legal Aid says its civil legal assistance to eligible clients is free."
+    ],
+    [
+      "Is intake the same as representation?",
+      "No. Ask the organization to confirm what assistance it has agreed to provide."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.legalaidhawaii.org/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

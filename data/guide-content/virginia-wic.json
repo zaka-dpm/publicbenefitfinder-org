@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Virginia WIC provides food benefits, nutrition education and breastfeeding support. A local clinic reviews eligibility and nutritional needs.",
+  "description": "Virginia WIC provides food benefits, nutrition education and breastfeeding support. A local clinic reviews eligibility and nutritional needs.",
+  "sections": {
+    "who": "<p>Applicants must meet participant-category, residence, income and nutrition-risk rules. Qualifying groups include pregnant and postpartum participants, infants and children younger than five.</p>",
+    "get": "<p>Assigned nutritious foods are purchased with eWIC at authorized stores. Counseling and referrals are also available.</p>",
+    "docs": "<ul><li>Identity and address records.</li><li>Income or benefit evidence requested by the clinic.</li><li>Pregnancy or child information for assessment.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use Apply Now on <a href=\"https://www.vdh.virginia.gov/wic/\">Virginia WIC</a>, which links to myvawic.org.</p></li><li><h3 class=\"pbf-h3\">Arrange certification</h3><p>Ask the clinic what records to bring and who must attend.</p></li><li><h3 class=\"pbf-h3\">Review the package</h3><p>Staff explain the approved foods, card use and follow-up needs.</p></li></ol>",
+    "after": "<p>Keep appointments and check the benefit period before shopping. An initial online request is not a completed eligibility decision.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.vdh.virginia.gov/wic/\">Virginia WIC</a>; <a href=\"https://www.vdh.virginia.gov/wic/about/\">State eligibility overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I use WIC at any shop?",
+      "Use an authorized WIC store."
+    ],
+    [
+      "Are all grocery items covered?",
+      "Only assigned eligible foods are covered."
+    ],
+    [
+      "Is online intake final approval?",
+      "The clinic must complete the eligibility review."
+    ],
+    [
+      "Does WIC provide breastfeeding help?",
+      "Yes. It includes breastfeeding promotion and support."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.vdh.virginia.gov/wic/",
+      "https://www.vdh.virginia.gov/wic/about/"
+    ],
+    "background_source": "https://usaassistance.org/programs/virginia-wic/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

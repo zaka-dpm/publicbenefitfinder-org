@@ -1,0 +1,40 @@
+{
+  "status": "reviewed",
+  "description": "Hawki is Iowa’s Children’s Health Insurance Program for eligible children whose family income is above Medicaid limits.",
+  "introduction": "Hawki is Iowa’s Children’s Health Insurance Program for eligible children whose family income is above Medicaid limits.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Children must be under 19 and meet CHIP requirements. Current HHS guidance describes working families unable to afford private health or dental insurance and children not enrolled in other coverage.</p>",
+    "get": "<p>Health and dental coverage are available. Income determines premiums: some families pay nothing, and the listed maximum family monthly premium is $40.</p>",
+    "docs": "<p>Prepare household income and information about the child and existing insurance. Use the application’s evidence checklist.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Apply through the <a href=\"https://hhsservices.iowa.gov/\">Iowa HHS Services Portal</a>, or download the health-coverage application from HHS’s Hawki page.</p></li><li><p>Respond to eligibility requests. For coverage questions, contact Hawki Member Services at 800-257-8563.</p></li></ol>",
+    "after": "<p>Read the approval and plan information. If billed, the ClickPay instructions require account, case and invoice numbers. Eligibility ends on the first day of the month after the child turns 19.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://hhs.iowa.gov/medicaid/plans-programs/hawki\">Hawki coverage, income guidance and application</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/hawki-healthy-and-well-kids-in-iowa/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Is Hawki the same as Medicaid?",
+      "It is CHIP coverage for qualifying children above Medicaid income limits."
+    ],
+    [
+      "Does every family pay a premium?",
+      "No. Some pay nothing; income determines the charge."
+    ],
+    [
+      "Can adults enroll in Hawki?",
+      "Hawki is for children under 19."
+    ],
+    [
+      "Where can I ask about my child’s coverage?",
+      "Hawki Member Services: 800-257-8563."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://hhs.iowa.gov/medicaid/plans-programs/hawki"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

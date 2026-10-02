@@ -1,0 +1,48 @@
+{
+  "status": "reviewed",
+  "description": "Call or text 988 for support with emotional distress, a mental health crisis, or concerns about alcohol or drugs. You can also contact the service when worried about someone e",
+  "introduction": "Call or text 988 for support with emotional distress, a mental health crisis, or concerns about alcohol or drugs. You can also contact the service when worried about someone else.",
+  "service_type": "crisis",
+  "sections": {
+    "who": [
+      "988 is available to anyone who needs crisis support, including people seeking help for another person."
+    ],
+    "get": "<p>The Lifeline offers free, confidential support 24 hours a day, every day. A counselor can listen and help you work through the immediate situation.</p>",
+    "docs": "<p>You can explain what is happening in your own words. If you are seeking help for another person, describe what concerns you and whether you are with them. If there is immediate physical danger or a medical emergency, call 911.</p>",
+    "apply": "<p>Call or text <a href=\"tel:988\">988</a>, or start a conversation through <a href=\"https://chat.988lifeline.org/\">988 online chat</a>.</p>",
+    "after": "<p>Tell the counselor if a suggestion is not practical for you. Before ending the conversation, clarify the next step and how you can get support again. Confidentiality is not a promise that emergency intervention can never occur.</p>",
+    "sources": "<ul><li><a href=\"https://988lifeline.org/\">988 Lifeline</a></li><li><a href=\"https://usaassistance.org/programs/988-suicide-and-crisis-lifeline/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Must I be suicidal?",
+      "No. Emotional distress, mental health concerns and alcohol or drug concerns are also reasons to contact 988."
+    ],
+    [
+      "Can I text rather than call?",
+      "Yes. Text 988 or use the online chat."
+    ],
+    [
+      "Can I call for a friend?",
+      "Yes. Explain your concern about the person and ask how to help."
+    ],
+    [
+      "Is it open overnight?",
+      "The national service is available 24 hours a day, 365 days a year."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "988-suicide-and-crisis-lifeline",
+    "source_url": "https://usaassistance.org/programs/988-suicide-and-crisis-lifeline/",
+    "source_updated": "August 2026",
+    "primary_url": "https://988lifeline.org",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://988lifeline.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Aloha United Way’s 211 service connects Hawaiʻi residents with local resources. Specialists are available from 7 a.m. to 10 p.m. daily; the online directory can be searched at any time.",
+  "description": "Aloha United Way’s 211 service connects Hawaiʻi residents with local resources. Specialists are available from 7 a.m. to 10 p.m. daily; the online directory can be searched at",
+  "sections": {
+    "who": "<p>You can ask for a referral without first qualifying for a public benefit. The organization you are referred to determines its own eligibility, service area and intake requirements.</p>",
+    "get": "<p>211 provides information and referrals, with phone, text and live-chat contact options. It does not issue an approval for rent, food or utility payments.</p>",
+    "docs": "<ul><li>Know your island, town or ZIP code.</li><li>Describe the immediate need and any deadline.</li><li>Keep a record of the suggested agencies and contact information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose a contact method</h3><p>Dial 211 in Hawaiʻi, or use <a href=\"https://www.auw.org/about/211-hawaii/\">Aloha United Way’s current contact page</a> for phone, text and chat options.</p></li><li><h3 class=\"pbf-h3\">Describe the situation</h3><p>Explain which assistance is needed and whether you have already tried a provider.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Confirm the receiving agency’s location, eligibility and application arrangements before traveling.</p></li></ol>",
+    "after": "<p>If the first option cannot help, ask for another referral. For online searching outside specialist hours, use the directory linked from Aloha United Way.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.auw.org/about/211-hawaii/\">Aloha United Way 211 contact information</a>. <a href=\"https://usaassistance.org/programs/aloha-united-way-211-hawaii/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is a specialist available 24 hours?",
+      "The published specialist hours are 7 a.m. to 10 p.m., seven days a week. Online directory searches remain available around the clock."
+    ],
+    [
+      "Does 211 make the benefit decision?",
+      "No. It connects you with organizations that decide their own applications."
+    ],
+    [
+      "Can I contact 211 without making a voice call?",
+      "Aloha United Way lists text and live-chat options on its current contact page."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.auw.org/about/211-hawaii/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

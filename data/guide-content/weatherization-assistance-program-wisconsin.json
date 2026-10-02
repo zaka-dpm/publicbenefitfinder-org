@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin weatherization begins with a WHEAP application. Eligible households may be referred to a local weatherization agency, which assesses the home before selecting energy",
+  "introduction": "Wisconsin weatherization begins with a WHEAP application. Eligible households may be referred to a local weatherization agency, which assesses the home before selecting energy improvements.",
+  "service_type": "weatherization",
+  "sections": {
+    "who": [
+      "Households meeting weatherization eligibility based on their energy assistance application.",
+      "Property and funding requirements also matter; public-benefits funding is restricted to buildings served by participating utilities."
+    ],
+    "get": "<p>Home improvements such as air sealing or insulation where appropriate, determined by the energy audit. Work differs by property condition and construction.</p>",
+    "docs": "<p>Prepare the household and energy details requested for WHEAP. List drafts, insulation concerns and heating problems, and ask about landlord or property access documents if renting.</p>",
+    "apply": "<ol><li>Submit the WHEAP application through Home Energy Plus or the local agency.</li><li>Ask whether the household will be referred for weatherization.</li><li>If selected, arrange an energy audit with the weatherization agency.</li><li>Discuss approved work and property requirements before work begins.</li></ol>",
+    "after": "<p>A referral is followed by selection and assessment rather than immediate construction. Keep the local provider’s contact details and ask about scheduling, any necessary repairs before work and completion inspection.</p>",
+    "sources": "<ul><li><a href=\"https://energyandhousing.wi.gov/Pages/CustomerResources/assistance.aspx\">Household weatherization referral and audit</a></li><li><a href=\"https://energyandhousing.wi.gov/Pages/AgencyResources/weatherization.aspx\">Current state weatherization program</a></li><li><a href=\"https://usaassistance.org/programs/weatherization-assistance-program-wisconsin/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Is it a utility bill payment?",
+      "No; weatherization improves the home, while WHEAP addresses energy costs."
+    ],
+    [
+      "How does the referral happen?",
+      "Eligible WHEAP application information is sent to the local weatherization agency."
+    ],
+    [
+      "Are improvements identical in every home?",
+      "No; the agency selects work based on the home’s construction and condition."
+    ],
+    [
+      "Will an auditor visit?",
+      "The agency arranges an energy audit for households selected for potential services."
+    ],
+    [
+      "Does the electric utility matter?",
+      "Some public-benefits funding is limited to participating utility territories."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "weatherization-assistance-program-wisconsin",
+    "source_url": "https://usaassistance.org/programs/weatherization-assistance-program-wisconsin/",
+    "source_updated": "August 2026",
+    "primary_url": "https://energybenefit.wi.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://energyandhousing.wi.gov/Pages/CustomerResources/assistance.aspx",
+      "https://energyandhousing.wi.gov/Pages/AgencyResources/weatherization.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

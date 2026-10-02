@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "CLEAR and Washington LawHelp offer routes to civil legal assistance and self-help information. Intake does not guarantee representation.",
+  "description": "CLEAR and Washington LawHelp offer routes to civil legal assistance and self-help information. Intake does not guarantee representation.",
+  "sections": {
+    "who": "<p>CLEAR screens eligible low-income applicants for civil legal problems. County and issue affect the appropriate referral.</p>",
+    "get": "<p>Help may include advice, referral or representation. Washington LawHelp offers legal information and forms.</p>",
+    "docs": "<ul><li>Court papers and notices with deadlines.</li><li>Relevant correspondence and income details for screening.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Identify the intake route</h3><p>Outside King County, call CLEAR at 888-201-1014, weekdays 9:15 a.m.–12:15 p.m. King County residents can start with 211.</p></li><li><h3 class=\"pbf-h3\">Explain the deadline</h3><p>State the issue, county and any hearing or response date.</p></li><li><h3 class=\"pbf-h3\">Use self-help resources</h3><p>Search <a href=\"https://www.washingtonlawhelp.org/\">Washington LawHelp</a> while awaiting intake.</p></li></ol>",
+    "after": "<p>Keep seeking timely help if intake cannot accept the case. A pending request does not extend a court deadline.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.courts.wa.gov/self-help/get-legal-help/\">Washington courts legal-help routes</a>; <a href=\"https://kingcounty.gov/en/dept/pao/courts-jails-legal-system/adult-defendant-resources/find-attorney\">King County attorney resources</a>; <a href=\"https://www.washingtonlawhelp.org/\">Washington LawHelp</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is criminal defense handled here?",
+      "Use the appropriate criminal-defense or public-defense route."
+    ],
+    [
+      "Does intake promise a lawyer?",
+      "No. Screening and capacity affect assistance."
+    ],
+    [
+      "Why does county matter?",
+      "King County has a different initial referral route."
+    ],
+    [
+      "What should I state first?",
+      "Any imminent court or notice deadline."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.courts.wa.gov/self-help/get-legal-help/",
+      "https://kingcounty.gov/en/dept/pao/courts-jails-legal-system/adult-defendant-resources/find-attorney",
+      "https://www.washingtonlawhelp.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-legal-aid-clear-northwest-justice-project/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Georgia SNAP provides monthly food assistance to eligible households. Apply through Georgia Gateway or a listed alternative, then complete the DFCS telephone interview.",
+  "description": "Georgia SNAP provides monthly food assistance to eligible households. Apply through Georgia Gateway or a listed alternative, then complete the DFCS telephone interview.",
+  "sections": {
+    "who": "<p>DFCS assesses low-income households. People who regularly buy and prepare food together may be treated as one household, including unrelated people sharing a home. Financial and other SNAP rules still apply.</p>",
+    "get": "<p>Approved households receive food benefits through EBT. The certification notice explains the award and review period.</p>",
+    "docs": "<ul><li>Prepare household names, contact information and current income records.</li><li>Have housing and other relevant expense records available for the interview.</li><li>Use DFCS’s verification request to identify the documents due for your case.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Select Apply for Benefits at <a href=\"https://gateway.ga.gov/\">Georgia Gateway</a>. DFCS also lists telephone and paper options.</p></li><li><h3 class=\"pbf-h3\">Complete the telephone interview</h3><p>A household member who knows the household’s circumstances should answer the DFCS eligibility worker’s questions.</p></li><li><h3 class=\"pbf-h3\">Provide evidence and keep notices</h3><p>Upload requested verification through Gateway where possible. Save the confirmation and read the eligibility decision.</p></li></ol>",
+    "after": "<p>Renew when directed. Gateway can be used for renewal forms and requested records; keep the household contact details current.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dfcs.georgia.gov/services/snap\">Georgia DFCS SNAP application and renewal instructions</a>. <a href=\"https://usaassistance.org/programs/snap-food-stamps-georgia-gateway/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is an interview required?",
+      "Georgia’s SNAP instructions call for a telephone interview after filing."
+    ],
+    [
+      "Can unrelated people form a SNAP household?",
+      "Yes, if they routinely purchase and prepare meals together; explain your arrangement to DFCS."
+    ],
+    [
+      "Is there a simpler process for seniors?",
+      "Georgia lists Senior SNAP as a simplified application pathway. Ask DFCS whether it applies to your circumstances."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dfcs.georgia.gov/services/snap"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

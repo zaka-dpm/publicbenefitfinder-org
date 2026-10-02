@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Maine SNAP provides monthly food benefits through EBT. Apply through My Maine Connection or the Office for Family Independence, then complete the required interview.",
+  "introduction": "Maine SNAP provides monthly food benefits through EBT. Apply through My Maine Connection or the Office for Family Independence, then complete the required interview.",
+  "service_type": "snap",
+  "sections": {
+    "who": [
+      "The state assesses income, household composition, allowable expenses and other rules. Household members generally buy and prepare meals together.",
+      "Spouses and children under 22 living with a parent must be included together even when meals are separate. Ask OFI about student or work-rule exemptions that apply to you."
+    ],
+    "get": "<p>Approved benefits buy eligible food. The decision letter states the award and reporting duties. Maine’s current EBT restriction limits transactions to Maine, New Hampshire and Vermont unless OFI arranges other-state use.</p>",
+    "docs": "<p>Prepare identity, income and household expense records, such as rent, utilities and dependent-care costs. Submit the items requested in the verification letter and contact OFI if you cannot obtain them by the deadline.</p>",
+    "apply": "<ol><li>Apply through My Maine Connection linked from <a href=\"https://www.maine.gov/dhhs/ofi/programs-services/food-supplement\">Maine SNAP</a>, or call 855-797-4357.</li><li>A paper application can also be submitted to OFI by mail, email, fax or at a regional office.</li><li>Complete the telephone or in-person interview and respond to verification requests.</li></ol>",
+    "after": "<p>Keep the decision and follow its reporting and renewal instructions. The current ABAWD time-limit period resets October 1, 2026 and runs through September 30, 2029; ask OFI to document any exemption rather than assuming the reset removes work obligations.</p>",
+    "sources": "<ul><li><a href=\"https://www.maine.gov/dhhs/ofi/programs-services/food-supplement\">Maine SNAP application and current notices</a></li><li><a href=\"https://usaassistance.org/programs/maine-snap-food-supplement/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I use the EBT card when traveling?",
+      "Current Maine restrictions limit transactions to Maine, New Hampshire and Vermont. Call OFI at 855-797-4357 before requesting use elsewhere."
+    ],
+    [
+      "Is an interview needed?",
+      "Yes. Maine requires a SNAP interview, by telephone or in person."
+    ],
+    [
+      "Can a prescreening result approve me?",
+      "No. Submit an application for an OFI decision."
+    ],
+    [
+      "What if I cannot get a requested receipt?",
+      "Contact OFI before the deadline to ask about an accepted alternative. Keep a record of the response."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "maine-snap-food-supplement",
+    "source_url": "https://usaassistance.org/programs/maine-snap-food-supplement/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.maine.gov/dhhs/ofi/programs-services/food-supplement",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.maine.gov/dhhs/ofi/programs-services/food-supplement"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

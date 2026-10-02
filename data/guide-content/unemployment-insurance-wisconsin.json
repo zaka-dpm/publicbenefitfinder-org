@@ -1,0 +1,55 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin unemployment insurance provides temporary payments to eligible workers. File an initial application in the claimant portal and continue weekly claims and work search",
+  "introduction": "Wisconsin unemployment insurance provides temporary payments to eligible workers. File an initial application in the claimant portal and continue weekly claims and work search reporting.",
+  "service_type": "unemployment",
+  "sections": {
+    "who": [
+      "Workers meeting wage and job-separation requirements and eligible for each week claimed.",
+      "Job Center registration and work search duties apply when required by DWD; ask about an applicable waiver."
+    ],
+    "get": "<p>Weekly temporary income based on the covered wage record and eligibility. Report all required work and earnings in the weekly claim.</p>",
+    "docs": "<p>Prepare employer and wage history, dates and reasons for separation, identity and payment information. Record each work search action and retain supporting evidence.</p>",
+    "apply": "<ol><li>Apply through my.unemployment.wisconsin.gov.</li><li>If required, fully register with Job Center of Wisconsin within 14 days, including an active résumé.</li><li>File a weekly claim each week and enter required work search actions.</li><li>Read requests and decisions in the portal.</li></ol>",
+    "after": "<p>Unless waived, perform at least four suitable work search actions weekly. Enter them during the week using Enter Work Search or with the weekly claim. Keep proof for one year. Confirm any waiver rather than assuming an employer recall removes the requirement.</p>",
+    "sources": "<ul><li><a href=\"https://dwd.wisconsin.gov/dwd/publications/ui/ucb-19687-p.pdf?031725=\">UI application overview</a></li><li><a href=\"https://dwd.wisconsin.gov/uiben/worksearch-requirements.htm\">Work search and documentation</a></li><li><a href=\"https://www.dwd.wisconsin.gov/uiben/faqs/registration.htm\">Job Center registration</a></li><li><a href=\"https://usaassistance.org/programs/unemployment-insurance-wisconsin/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "How many weekly searches are required?",
+      "At least four work search actions unless DWD grants an applicable waiver."
+    ],
+    [
+      "Is Job Center registration the same as applying for UI?",
+      "No; follow the separate registration requirement when directed."
+    ],
+    [
+      "When is registration due?",
+      "DWD lists 14 days after the initial claim for those required to register."
+    ],
+    [
+      "Can I enter searches before Sunday?",
+      "Yes, Enter Work Search records actions during the current week."
+    ],
+    [
+      "How long should I keep proof?",
+      "The work search guidance says one year."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "unemployment-insurance-wisconsin",
+    "source_url": "https://usaassistance.org/programs/unemployment-insurance-wisconsin/",
+    "source_updated": "August 2026",
+    "primary_url": "https://my.unemployment.wisconsin.gov/",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://dwd.wisconsin.gov/dwd/publications/ui/ucb-19687-p.pdf?031725=",
+      "https://dwd.wisconsin.gov/uiben/worksearch-requirements.htm",
+      "https://www.dwd.wisconsin.gov/uiben/faqs/registration.htm"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "Idaho weatherization applications go to the local Community Action Agency. The program assesses the household and property before arranging qualifying efficiency work.",
+  "description": "Idaho weatherization applications go to the local Community Action Agency. The program assesses the household and property before arranging qualifying efficiency work.",
+  "sections": {
+    "who": "<p>Applicants must live in Idaho, meet household financial rules and provide identity and utility-expense evidence. The state requires proof of ownership or written permission for qualifying rentals. It also excludes dwellings weatherized during the preceding 15 years.</p>",
+    "get": "<p>Weatherization provides approved energy-efficiency services. It is distinct from a heating-bill payment and does not establish that every requested repair will be covered.</p>",
+    "docs": "<ul><li>Identity and household income records.</li><li>Proof of utility expense.</li><li>Ownership records or written rental-unit permission.</li><li>Available information about previous weatherization work.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find the local agency</h3><p>Use the contact route on <a href=\"https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization\">DHW’s weatherization application page</a>.</p></li><li><h3 class=\"pbf-h3\">Complete energy-assistance intake</h3><p>The state links an energy-assistance form for LIHEAP and WAP. Identify that you are requesting weatherization.</p></li><li><h3 class=\"pbf-h3\">Arrange assessment</h3><p>Discuss the property, prior work and requested services, and follow the local agency’s assessment instructions.</p></li></ol>",
+    "after": "<p>Ask the provider about the approved work and schedule. Do not assume a private repair payment will be reimbursed without program authorization.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization\">Idaho weatherization eligibility and application</a>. <a href=\"https://usaassistance.org/programs/weatherization-assistance-program-idaho/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters apply?",
+      "The state allows qualifying rentals with written permission; the provider must assess the property and application."
+    ],
+    [
+      "Can a recently weatherized dwelling qualify again?",
+      "The current application page excludes homes that received weatherization during the preceding 15 years."
+    ],
+    [
+      "Is the energy-assistance form only for bill payments?",
+      "No. Idaho says the linked form can be used for LIHEAP and weatherization."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heating-and-utility-assistance/apply-weatherization"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

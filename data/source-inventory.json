@@ -1,0 +1,5045 @@
+{
+  "source": "/Users/muhammadwaseemrafi/Sites/publicbenefitfinder",
+  "help_pages": [
+    {
+      "slug": "alabama",
+      "programs": [
+        "211-connects-alabama",
+        "alabama-family-assistance-tanf-cash-assistance",
+        "alabama-medicaid",
+        "legal-services-alabama",
+        "all-kids-alabama-chip",
+        "alabama-community-action-agencies",
+        "liheap-energy-assistance-alabama",
+        "weatherization-assistance-program-alabama",
+        "alabama-snap-food-assistance",
+        "alabama-wic",
+        "unemployment-compensation-alabama"
+      ]
+    },
+    {
+      "slug": "alaska",
+      "programs": [
+        "alaska-2-1-1",
+        "alaska-legal-services-corporation",
+        "weatherization-assistance-alaska-housing-finance-corporation",
+        "alaska-child-care-assistance-program",
+        "alaska-temporary-assistance-program-cash-assistance",
+        "unemployment-insurance-alaska",
+        "alaska-heating-assistance-program-hap-liheap",
+        "alaska-medicaid-and-denali-kidcare",
+        "alaska-snap-food-assistance",
+        "alaska-wic",
+        "alaska-senior-benefits-program"
+      ]
+    },
+    {
+      "slug": "arizona",
+      "programs": [
+        "2-1-1-arizona",
+        "arizona-legal-aid-community-legal-services-and-azlawhelp",
+        "arizona-medicaid-ahcccs",
+        "weatherization-assistance-program-arizona",
+        "arizona-cash-assistance-tanf",
+        "kidscare-arizona-chip",
+        "arizona-liheap-and-power-az-utility-assistance",
+        "summer-utility-shutoff-protection-arizona",
+        "arizona-nutrition-assistance-snap",
+        "arizona-wic",
+        "unemployment-insurance-arizona"
+      ]
+    },
+    {
+      "slug": "arkansas",
+      "programs": [
+        "arhome-arkansas-medicaid-expansion",
+        "arkids-first-childrens-health-coverage",
+        "arkansas-211",
+        "legal-aid-of-arkansas",
+        "weatherization-assistance-program-arkansas",
+        "arkansas-liheap-energy-assistance",
+        "arkansas-snap-food-assistance",
+        "arkansas-wic",
+        "arkansas-tea-cash-assistance",
+        "unemployment-insurance-arkansas"
+      ]
+    },
+    {
+      "slug": "bakersfield-ca",
+      "programs": [
+        "211-kern-county",
+        "capk-veterans-and-supportive-services",
+        "capk-wic-women-infants-and-children",
+        "calworks-kern-county-dhs",
+        "catholic-charities-bakersfield-community-services",
+        "credit-org-free-nonprofit-credit-counseling",
+        "general-assistance-kern-county-dhs",
+        "greater-bakersfield-legal-assistance-gbla",
+        "housing-authority-of-the-county-of-kern",
+        "m-street-navigation-center-capk",
+        "the-mission-at-kern-county",
+        "the-open-door-network",
+        "americas-job-center-of-kern",
+        "unemployment-insurance-edd",
+        "capk-energy-program-help-with-utility-bills",
+        "kern-county-aging-and-adult-services-senior-information-and-referral",
+        "capk-food-bank",
+        "calfresh-food-stamps-kern-county-dhs",
+        "golden-empire-gleaners",
+        "the-salvation-army-bakersfield-corps",
+        "capk-vita-free-tax-preparation",
+        "clinica-sierra-vista",
+        "kern-behavioral-health-24-hour-crisis-hotline",
+        "kern-county-veterans-service-department",
+        "kern-medical",
+        "medi-cal-kern-county-dhs",
+        "omni-family-health"
+      ]
+    },
+    {
+      "slug": "california",
+      "programs": [
+        "care-fera-utility-bill-discounts",
+        "california-liheap-energy-assistance",
+        "caleitc-young-child-tax-credit",
+        "calfresh-california-snap",
+        "calworks-cash-aid-for-families",
+        "edd-unemployment-and-disability-insurance",
+        "california-courts-self-help-eviction",
+        "covered-california",
+        "medi-cal-california-medicaid"
+      ]
+    },
+    {
+      "slug": "colorado",
+      "programs": [
+        "211-colorado",
+        "colorado-legal-services",
+        "health-first-colorado-medicaid-and-chp",
+        "colorado-child-tax-credit",
+        "colorado-earned-income-tax-credit",
+        "colorado-leap-low-income-energy-assistance-program",
+        "weatherization-assistance-program-colorado",
+        "colorado-snap-food-assistance",
+        "colorado-wic",
+        "colorado-works-tanf-cash-assistance",
+        "unemployment-insurance-colorado"
+      ]
+    },
+    {
+      "slug": "connecticut",
+      "programs": [
+        "211-connecticut",
+        "care-4-kids-child-care-assistance",
+        "connecticut-legal-aid-statewide-legal-services",
+        "husky-health-connecticut-medicaid-and-chip",
+        "connecticut-earned-income-tax-credit",
+        "connecticut-energy-assistance-program-ceap-winter-heating",
+        "weatherization-assistance-program-connecticut",
+        "connecticut-snap-food-assistance",
+        "connecticut-wic",
+        "temporary-family-assistance-tfa-cash-assistance",
+        "unemployment-insurance-connecticut-dol"
+      ]
+    },
+    {
+      "slug": "delaware",
+      "programs": [
+        "community-legal-aid-society-clasi",
+        "delaware-211",
+        "delaware-medicaid",
+        "delaware-earned-income-tax-credit",
+        "delaware-energy-assistance-program-liheap",
+        "delaware-snap-food-supplement-program",
+        "weatherization-assistance-program-delaware",
+        "delaware-healthy-children-program-chip",
+        "delaware-tanf-cash-assistance",
+        "unemployment-insurance-delaware",
+        "delaware-wic"
+      ]
+    },
+    {
+      "slug": "federal-programs",
+      "programs": [
+        "211-community-resource-helpline",
+        "hud-housing-counseling",
+        "lawhelp-org-free-legal-aid",
+        "tanf-cash-assistance-for-families",
+        "va-benefits-veterans",
+        "988-suicide-and-crisis-lifeline",
+        "feeding-america-food-bank-locator",
+        "snap-food-stamps",
+        "wic-women-infants-and-children",
+        "health-insurance-marketplace-healthcare-gov",
+        "medicaid-and-chip",
+        "liheap-energy-bill-assistance",
+        "lifeline-phone-and-internet-discount",
+        "missingmoney-unclaimed-property-search",
+        "social-security-ssi-ssdi",
+        "usagov-benefit-finder",
+        "nfcc-nonprofit-credit-counseling"
+      ]
+    },
+    {
+      "slug": "florida",
+      "programs": [
+        "florida-211-network",
+        "florida-medicaid",
+        "floridalawhelp-org-eviction-and-legal-help",
+        "florida-kidcare",
+        "florida-wic",
+        "snap-food-assistance-access-florida",
+        "liheap-home-energy-assistance",
+        "weatherization-assistance-program-floridacommerce",
+        "reemployment-assistance-unemployment",
+        "temporary-cash-assistance-tca"
+      ]
+    },
+    {
+      "slug": "georgia",
+      "programs": [
+        "2-1-1-in-georgia-united-way-network",
+        "georgia-medicaid",
+        "georgialegalaid-org-eviction-and-legal-help",
+        "georgia-wic",
+        "snap-food-stamps-georgia-gateway",
+        "liheap-energy-assistance",
+        "weatherization-assistance-program-gefa",
+        "peachcare-for-kids",
+        "tanf-cash-assistance",
+        "unemployment-insurance-gdol"
+      ]
+    },
+    {
+      "slug": "hawaii",
+      "programs": [
+        "aloha-united-way-211-hawaii",
+        "legal-aid-society-of-hawaii",
+        "med-quest-hawaii-medicaid",
+        "hawaii-earned-income-tax-credit",
+        "hawaii-general-assistance-ga",
+        "hawaii-home-energy-assistance-program-h-heap",
+        "weatherization-assistance-program-hawaii",
+        "hawaii-snap-food-assistance",
+        "hawaii-wic",
+        "hawaii-tanf-cash-assistance",
+        "unemployment-insurance-hawaii"
+      ]
+    },
+    {
+      "slug": "idaho",
+      "programs": [
+        "idaho-careline-2-1-1",
+        "idaho-child-care-program-iccp",
+        "idaho-legal-aid-services",
+        "idaho-medicaid-expanded-coverage",
+        "tafi-temporary-assistance-for-families-in-idaho",
+        "weatherization-assistance-program-idaho",
+        "idaho-energy-assistance-liheap-heating-assistance",
+        "idaho-grocery-credit",
+        "idaho-snap-food-stamps",
+        "idaho-wic",
+        "unemployment-insurance-idaho"
+      ]
+    },
+    {
+      "slug": "illinois",
+      "programs": [
+        "211-illinois",
+        "illinois-legal-aid-online-eviction-and-legal-help",
+        "all-kids-illinois-childrens-health-coverage",
+        "medicaid-illinois-hfs",
+        "home-weatherization-assistance-program-illinois-dceo",
+        "liheap-energy-assistance-illinois",
+        "illinois-earned-income-credit",
+        "illinois-wic",
+        "snap-food-stamps-illinois",
+        "tanf-cash-assistance-illinois",
+        "unemployment-insurance-illinois-ides"
+      ]
+    },
+    {
+      "slug": "indiana",
+      "programs": [
+        "indiana-211",
+        "indiana-energy-assistance-program-eap-liheap",
+        "indiana-legal-services-free-civil-legal-aid",
+        "township-trustee-emergency-assistance-poor-relief",
+        "weatherization-assistance-program-indiana",
+        "indiana-earned-income-credit",
+        "indiana-medicaid-hoosier-healthwise-and-healthy-indiana-plan",
+        "indiana-snap-food-assistance",
+        "indiana-wic",
+        "indiana-tanf-cash-assistance",
+        "unemployment-insurance-indiana-dwd-uplink"
+      ]
+    },
+    {
+      "slug": "iowa",
+      "programs": [
+        "211-iowa",
+        "iowa-legal-aid",
+        "iowa-medicaid-and-iowa-health-and-wellness-plan",
+        "weatherization-assistance-program-iowa",
+        "hawki-healthy-and-well-kids-in-iowa",
+        "iowa-earned-income-tax-credit",
+        "iowa-energy-assistance-liheap",
+        "iowa-family-investment-program-fip-cash-assistance",
+        "unemployment-insurance-iowa-workforce-development",
+        "iowa-snap-food-assistance",
+        "iowa-wic"
+      ]
+    },
+    {
+      "slug": "kansas",
+      "programs": [
+        "kancare-kansas-medicaid-and-chip",
+        "kansas-211",
+        "kansas-child-care-assistance",
+        "kansas-legal-services",
+        "weatherization-assistance-program-kansas",
+        "kansas-earned-income-tax-credit",
+        "kansas-food-assistance-snap",
+        "kansas-wic",
+        "kansas-lieap-low-income-energy-assistance",
+        "kansas-tanf-cash-assistance-successful-families-program",
+        "unemployment-insurance-kansas"
+      ]
+    },
+    {
+      "slug": "kentucky",
+      "programs": [
+        "kentucky-211",
+        "kentucky-child-care-assistance-program-ccap",
+        "kentucky-legal-aid-civil-legal-help",
+        "kentucky-medicaid-and-kchip",
+        "weatherization-assistance-program-kentucky",
+        "kentucky-k-tap-cash-assistance",
+        "unemployment-insurance-kentucky",
+        "kentucky-liheap-home-energy-assistance",
+        "kentucky-snap-food-assistance",
+        "kentucky-wic"
+      ]
+    },
+    {
+      "slug": "king-nc",
+      "programs": [
+        "city-of-king-utility-billing-and-collections",
+        "crisis-intervention-program-cip-stokes-county-dss",
+        "king-outreach-ministry",
+        "low-income-energy-assistance-program-lieap-stokes-county-dss",
+        "crisis-control-ministry",
+        "east-stokes-outreach-ministry"
+      ]
+    },
+    {
+      "slug": "louisiana",
+      "programs": [
+        "child-care-assistance-program-louisiana-ccap",
+        "healthy-louisiana-louisiana-medicaid-and-lachip",
+        "liheap-energy-assistance-louisiana",
+        "louisiana-211",
+        "louisiana-legal-aid-louisianalawhelp-slls-acadiana",
+        "weatherization-assistance-program-louisiana",
+        "louisiana-earned-income-tax-credit",
+        "louisiana-fitap-cash-assistance",
+        "unemployment-insurance-louisiana",
+        "louisiana-snap-food-assistance",
+        "louisiana-wic"
+      ]
+    },
+    {
+      "slug": "maine",
+      "programs": [
+        "211-maine",
+        "general-assistance-maine",
+        "home-energy-assistance-program-heap-liheap",
+        "mainecare-maine-medicaid",
+        "pine-tree-legal-assistance",
+        "weatherization-assistance-program-maine",
+        "maine-earned-income-tax-credit",
+        "maine-snap-food-supplement",
+        "maine-wic-nutrition-program",
+        "maine-tanf-cash-assistance",
+        "unemployment-insurance-maine-department-of-labor"
+      ]
+    },
+    {
+      "slug": "maryland",
+      "programs": [
+        "211-maryland",
+        "maryland-legal-aid",
+        "maryland-medicaid-healthchoice-and-mchp",
+        "weatherization-assistance-program-maryland",
+        "maryland-earned-income-tax-credit",
+        "maryland-energy-assistance-office-of-home-energy-programs-ohep",
+        "maryland-snap-food-supplement-program",
+        "maryland-temporary-cash-assistance-tca",
+        "unemployment-insurance-maryland",
+        "maryland-temporary-disability-assistance-program-tdap",
+        "maryland-wic"
+      ]
+    },
+    {
+      "slug": "massachusetts",
+      "programs": [
+        "fuel-assistance-liheap-massachusetts",
+        "weatherization-assistance-program-massachusetts",
+        "mass-211",
+        "masshealth-medicaid-and-childrens-medical-security-plan",
+        "massachusetts-legal-aid-masslegalhelp-masslrf",
+        "raft-residential-assistance-for-families-in-transition",
+        "massachusetts-earned-income-tax-credit",
+        "massachusetts-snap-food-assistance",
+        "massachusetts-wic-nutrition-program",
+        "massachusetts-tafdc-cash-assistance",
+        "unemployment-insurance-massachusetts-dua"
+      ]
+    },
+    {
+      "slug": "michigan",
+      "programs": [
+        "family-independence-program-michigan-cash-assistance",
+        "unemployment-benefits-michigan",
+        "food-assistance-program-michigan-snap",
+        "michigan-wic",
+        "michigan-211",
+        "michigan-legal-help",
+        "michigan-medicaid-and-healthy-michigan-plan",
+        "state-emergency-relief-michigan-ser",
+        "michigan-earned-income-tax-credit",
+        "michigan-home-heating-credit",
+        "weatherization-assistance-program-michigan"
+      ]
+    },
+    {
+      "slug": "minnesota",
+      "programs": [
+        "medical-assistance-medicaid-and-minnesotacare",
+        "minnesota-211-united-way",
+        "minnesota-energy-assistance-program-eap",
+        "minnesota-family-investment-program-mfip",
+        "minnesota-legal-aid-mid-minnesota-legal-aid-lawhelpmn",
+        "weatherization-assistance-program-minnesota",
+        "minnesota-child-tax-credit",
+        "minnesota-working-family-credit",
+        "minnesota-snap-food-support",
+        "minnesota-wic",
+        "unemployment-insurance-minnesota"
+      ]
+    },
+    {
+      "slug": "mississippi",
+      "programs": [
+        "mississippi-211",
+        "mississippi-center-for-legal-services-south-mississippi-legal-aid",
+        "mississippi-child-care-payment-program-ccpp",
+        "mississippi-medicaid-and-chip",
+        "north-mississippi-rural-legal-services-north-mississippi-legal-aid",
+        "weatherization-assistance-program-mississippi",
+        "mississippi-liheap-home-energy-assistance",
+        "mississippi-snap-food-assistance",
+        "mississippi-wic",
+        "mississippi-tanf-cash-assistance",
+        "unemployment-insurance-mississippi-mdes"
+      ]
+    },
+    {
+      "slug": "missouri",
+      "programs": [
+        "mo-healthnet-missouri-medicaid",
+        "missouri-legal-aid-free-civil-legal-help",
+        "united-way-211-missouri",
+        "missouri-energy-assistance-liheap-and-ecip",
+        "weatherization-assistance-program-missouri",
+        "missouri-snap-food-stamps",
+        "missouri-wic",
+        "missouri-temporary-assistance-cash-assistance",
+        "unemployment-insurance-missouri",
+        "missouri-working-family-tax-credit"
+      ]
+    },
+    {
+      "slug": "montana",
+      "programs": [
+        "montana-211",
+        "montana-elderly-homeowner-renter-credit",
+        "montana-legal-services-association-montana-law-help",
+        "montana-medicaid-and-healthy-montana-kids-hmk-plus",
+        "montana-wic",
+        "weatherization-assistance-program-montana",
+        "montana-earned-income-tax-credit",
+        "montana-lieap-low-income-energy-assistance-program",
+        "montana-snap-food-assistance",
+        "montana-tanf-cash-assistance",
+        "unemployment-insurance-montana"
+      ]
+    },
+    {
+      "slug": "nebraska",
+      "programs": [
+        "legal-aid-of-nebraska",
+        "nebraska-211-united-way-of-the-midlands",
+        "nebraska-child-care-subsidy",
+        "nebraska-medicaid-heritage-health",
+        "nebraska-adc-aid-to-dependent-children-tanf-cash",
+        "unemployment-insurance-nebraska",
+        "nebraska-earned-income-tax-credit",
+        "nebraska-energy-assistance-liheap",
+        "nebraska-snap-food-assistance",
+        "weatherization-assistance-program-nebraska",
+        "nebraska-wic"
+      ]
+    },
+    {
+      "slug": "nevada",
+      "programs": [
+        "nevada-211",
+        "nevada-child-care-subsidy-child-care-and-development-program",
+        "nevada-legal-aid-nevada-legal-services-and-legal-aid-center-of-southern-nevada",
+        "nevada-medicaid-and-nevada-check-up",
+        "weatherization-assistance-program-nevada",
+        "nevada-energy-assistance-program-liheap",
+        "nevada-snap-food-assistance",
+        "nevada-tanf-cash-assistance",
+        "unemployment-insurance-nevada-detr",
+        "nevada-wic"
+      ]
+    },
+    {
+      "slug": "new-hampshire",
+      "programs": [
+        "211-new-hampshire",
+        "603-legal-aid-free-civil-legal-help-in-new-hampshire",
+        "new-hampshire-emergency-assistance-housing-and-utility-crisis",
+        "new-hampshire-medicaid-and-granite-advantage",
+        "weatherization-assistance-program-new-hampshire",
+        "new-hampshire-fanf-tanf-cash-assistance",
+        "unemployment-insurance-new-hampshire",
+        "new-hampshire-fuel-assistance-program-liheap",
+        "new-hampshire-snap-food-assistance",
+        "new-hampshire-wic"
+      ]
+    },
+    {
+      "slug": "new-jersey",
+      "programs": [
+        "legal-services-of-new-jersey-lsnj-law-hotline",
+        "nj-211",
+        "work-first-new-jersey-cash-assistance",
+        "nj-familycare-medicaid-and-chip",
+        "nj-home-energy-assistance-liheap-and-usf",
+        "weatherization-assistance-program-new-jersey",
+        "nj-snap-food-assistance",
+        "new-jersey-wic",
+        "new-jersey-earned-income-tax-credit",
+        "unemployment-insurance-new-jersey"
+      ]
+    },
+    {
+      "slug": "new-mexico",
+      "programs": [
+        "nm-energy-mart-weatherization-program",
+        "new-mexico-211",
+        "new-mexico-legal-aid",
+        "new-mexico-medicaid-turquoise-care",
+        "new-mexico-works-tanf-cash-assistance",
+        "new-mexico-child-tax-credit",
+        "new-mexico-working-families-tax-credit",
+        "new-mexico-liheap-energy-assistance",
+        "new-mexico-snap-food-assistance",
+        "new-mexico-wic",
+        "unemployment-insurance-new-mexico"
+      ]
+    },
+    {
+      "slug": "new-york",
+      "programs": [
+        "2-1-1-new-york",
+        "lawhelpny-org-eviction-and-legal-help",
+        "child-health-plus",
+        "new-york-medicaid",
+        "heap-home-energy-assistance-program",
+        "weatherization-assistance-program-nys-hcr",
+        "new-york-state-earned-income-credit",
+        "new-york-wic",
+        "snap-food-benefits-new-york",
+        "temporary-assistance-family-assistance-and-safety-net",
+        "unemployment-insurance-nys-dol"
+      ]
+    },
+    {
+      "slug": "north-carolina",
+      "programs": [
+        "crisis-intervention-program-north-carolina-cip",
+        "low-income-energy-assistance-program-north-carolina-lieap",
+        "weatherization-assistance-program-north-carolina",
+        "food-and-nutrition-services-north-carolina-snap",
+        "north-carolina-wic",
+        "legal-aid-of-north-carolina",
+        "nc-211",
+        "nc-medicaid",
+        "unemployment-benefits-north-carolina",
+        "work-first-family-assistance-north-carolina-tanf"
+      ]
+    },
+    {
+      "slug": "north-dakota",
+      "programs": [
+        "legal-services-of-north-dakota",
+        "north-dakota-211-firstlink",
+        "north-dakota-child-care-assistance-program-ccap",
+        "north-dakota-liheap-energy-assistance",
+        "north-dakota-medicaid-expanded",
+        "weatherization-assistance-program-north-dakota",
+        "north-dakota-snap-food-assistance",
+        "north-dakota-wic",
+        "north-dakota-tanf-cash-assistance",
+        "unemployment-insurance-job-service-north-dakota"
+      ]
+    },
+    {
+      "slug": "ohio",
+      "programs": [
+        "heap-energy-assistance-ohio",
+        "home-weatherization-assistance-program-ohio-hwap",
+        "pipp-plus-percentage-of-income-payment-plan",
+        "medicaid-ohio",
+        "ohio-211",
+        "ohio-legal-help-eviction-and-legal-aid",
+        "ohio-earned-income-credit",
+        "ohio-wic",
+        "snap-food-assistance-ohio",
+        "ohio-works-first-cash-assistance",
+        "unemployment-benefits-ohio"
+      ]
+    },
+    {
+      "slug": "oklahoma",
+      "programs": [
+        "211-oklahoma",
+        "legal-aid-services-of-oklahoma",
+        "oklahoma-child-care-subsidy",
+        "soonercare-oklahoma-medicaid",
+        "oklahoma-earned-income-tax-credit",
+        "oklahoma-liheap-energy-assistance",
+        "oklahoma-snap-food-benefits",
+        "weatherization-assistance-program-oklahoma",
+        "oklahoma-tanf-cash-assistance",
+        "unemployment-insurance-oklahoma-oesc",
+        "oklahoma-wic"
+      ]
+    },
+    {
+      "slug": "oregon",
+      "programs": [
+        "211info-oregon-211",
+        "legal-aid-services-of-oregon",
+        "oregon-energy-assistance-liheap-oeap",
+        "weatherization-assistance-oregon",
+        "oregon-earned-income-credit",
+        "oregon-health-plan-medicaid",
+        "oregon-kids-credit",
+        "oregon-snap-food-benefits",
+        "oregon-wic",
+        "oregon-tanf-cash-assistance",
+        "unemployment-insurance-oregon"
+      ]
+    },
+    {
+      "slug": "pennsylvania",
+      "programs": [
+        "chip-childrens-health-insurance-program",
+        "medical-assistance-pennsylvania-medicaid",
+        "liheap-home-energy-assistance-2",
+        "weatherization-assistance-program-pa-dced",
+        "pa-211",
+        "palawhelp-org-eviction-and-legal-help",
+        "pennsylvania-wic",
+        "snap-food-stamps-pennsylvania",
+        "tanf-cash-assistance-2",
+        "unemployment-compensation-pa-l-and-i",
+        "working-pennsylvanians-tax-credit"
+      ]
+    },
+    {
+      "slug": "rhode-island",
+      "programs": [
+        "211-rhode-island-united-way-of-rhode-island",
+        "ri-child-care-assistance-program-ccap",
+        "ri-works-cash-assistance",
+        "rhode-island-legal-services",
+        "rhode-island-medicaid-and-rite-care",
+        "rhode-island-earned-income-credit",
+        "rhode-island-energy-assistance-liheap",
+        "rhode-island-snap-food-assistance",
+        "weatherization-assistance-program-rhode-island",
+        "rhode-island-wic",
+        "unemployment-insurance-rhode-island"
+      ]
+    },
+    {
+      "slug": "south-carolina",
+      "programs": [
+        "healthy-connections-medicaid-south-carolina",
+        "liheap-energy-assistance-south-carolina",
+        "sc-211",
+        "south-carolina-legal-services",
+        "weatherization-assistance-program-south-carolina",
+        "sc-thrive-free-help-applying-for-benefits",
+        "south-carolina-snap-food-assistance",
+        "south-carolina-wic",
+        "south-carolina-earned-income-tax-credit",
+        "south-carolina-family-independence-tanf-cash-assistance",
+        "unemployment-insurance-south-carolina-dew"
+      ]
+    },
+    {
+      "slug": "south-dakota",
+      "programs": [
+        "211-south-dakota-helpline-center",
+        "south-dakota-housing-rental-assistance",
+        "south-dakota-legal-aid-east-river-and-dakota-plains",
+        "south-dakota-medicaid-and-chip",
+        "reemployment-assistance-south-dakota-unemployment",
+        "south-dakota-child-care-assistance",
+        "south-dakota-tanf-cash-assistance",
+        "south-dakota-liheap-low-income-energy-assistance",
+        "weatherization-assistance-program-south-dakota",
+        "south-dakota-snap-food-assistance",
+        "south-dakota-wic"
+      ]
+    },
+    {
+      "slug": "tennessee",
+      "programs": [
+        "families-first-tennessee-tanf-cash-assistance",
+        "unemployment-insurance-tennessee",
+        "liheap-energy-assistance-tennessee",
+        "tn-211",
+        "tenncare-medicaid-and-coverkids-chip",
+        "tennessee-legal-aid-help4tn",
+        "weatherization-assistance-program-tennessee",
+        "tennessee-community-action-agencies-utility-and-emergency-help",
+        "tennessee-snap-food-assistance",
+        "tennessee-wic"
+      ]
+    },
+    {
+      "slug": "texas",
+      "programs": [
+        "2-1-1-texas",
+        "texaslawhelp-org-eviction-and-legal-help",
+        "ceap-comprehensive-energy-assistance-program",
+        "weatherization-assistance-program-tdhca",
+        "child-care-services-twc-scholarships",
+        "twc-unemployment-benefits",
+        "healthy-texas-women",
+        "texas-medicaid-and-chip",
+        "snap-food-benefits-lone-star-card",
+        "texas-wic",
+        "tanf-cash-help"
+      ]
+    },
+    {
+      "slug": "utah",
+      "programs": [
+        "211-utah",
+        "utah-legal-services-and-timpanogos-legal-center",
+        "utah-medicaid",
+        "weatherization-assistance-program-utah",
+        "family-employment-program-utah-cash-assistance",
+        "unemployment-insurance-utah",
+        "utah-chip-childrens-health-insurance",
+        "utah-earned-income-tax-credit",
+        "utah-heat-home-energy-assistance",
+        "utah-snap-food-assistance",
+        "utah-wic"
+      ]
+    },
+    {
+      "slug": "vermont",
+      "programs": [
+        "3squaresvt-snap-food-assistance",
+        "crisis-fuel-assistance-vermont",
+        "weatherization-assistance-program-vermont",
+        "green-mountain-care-vermont-medicaid-and-dr-dynasaur",
+        "reach-up-vermont-tanf-cash-assistance",
+        "seasonal-fuel-assistance-vermont-liheap",
+        "vermont-211",
+        "vermont-legal-aid-and-legal-services-vermont",
+        "vermont-wic",
+        "unemployment-insurance-vermont-department-of-labor",
+        "vermont-earned-income-tax-credit"
+      ]
+    },
+    {
+      "slug": "virginia",
+      "programs": [
+        "211-virginia",
+        "virginia-legal-aid-valegalaid-virginia-law-help",
+        "virginia-medicaid-cardinal-care-and-famis",
+        "weatherization-assistance-program-virginia",
+        "unemployment-insurance-virginia",
+        "virginia-tanf-cash-assistance",
+        "virginia-earned-income-tax-credit",
+        "virginia-energy-assistance-program-fuel-crisis-and-cooling",
+        "virginia-snap-food-assistance",
+        "virginia-wic"
+      ]
+    },
+    {
+      "slug": "washington",
+      "programs": [
+        "aged-blind-or-disabled-abd-cash-assistance",
+        "washington-211",
+        "washington-apple-health-medicaid",
+        "washington-legal-aid-clear-northwest-justice-project",
+        "weatherization-assistance-program-washington",
+        "unemployment-benefits-washington-esd",
+        "washington-tanf-workfirst-cash-assistance",
+        "washington-basic-food-snap",
+        "washington-wic",
+        "washington-energy-assistance-liheap",
+        "washington-working-families-tax-credit"
+      ]
+    },
+    {
+      "slug": "washington-dc",
+      "programs": [
+        "211-warmline-district-of-columbia",
+        "dc-medicaid",
+        "legal-aid-dc",
+        "dc-earned-income-tax-credit",
+        "dc-energy-assistance-liheap-and-utility-discount-program",
+        "weatherization-assistance-program-dc",
+        "dc-health-care-alliance",
+        "dc-snap-food-assistance",
+        "dc-wic",
+        "dc-tanf-cash-assistance",
+        "unemployment-insurance-dc-does"
+      ]
+    },
+    {
+      "slug": "west-virginia",
+      "programs": [
+        "lieap-low-income-energy-assistance-program",
+        "weatherization-assistance-program-west-virginia",
+        "legal-aid-of-west-virginia",
+        "west-virginia-211",
+        "west-virginia-medicaid",
+        "unemployment-insurance-workforce-west-virginia",
+        "wv-chip-childrens-health-insurance-program",
+        "wv-works-tanf-cash-assistance",
+        "west-virginia-snap-food-assistance",
+        "west-virginia-wic"
+      ]
+    },
+    {
+      "slug": "wisconsin",
+      "programs": [
+        "211-wisconsin",
+        "badgercare-plus-wisconsin-medicaid",
+        "legal-action-of-wisconsin-free-civil-legal-aid",
+        "weatherization-assistance-program-wisconsin",
+        "wisconsin-homestead-credit",
+        "wisconsin-works-w-2-cash-assistance",
+        "foodshare-wisconsin-snap",
+        "wisconsin-wic",
+        "unemployment-insurance-wisconsin",
+        "wisconsin-earned-income-credit",
+        "wisconsin-home-energy-assistance-program-wheap"
+      ]
+    },
+    {
+      "slug": "wyoming",
+      "programs": [
+        "legal-aid-of-wyoming",
+        "weatherization-assistance-program-wyoming",
+        "wyoming-211",
+        "wyoming-child-care-assistance",
+        "wyoming-kid-care-chip",
+        "wyoming-lieap-low-income-energy-assistance-program",
+        "wyoming-medicaid",
+        "wyoming-power-cash-assistance-tanf",
+        "unemployment-insurance-wyoming",
+        "wyoming-snap-food-assistance",
+        "wyoming-wic"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "slug": "2-1-1-arizona",
+      "title": "2-1-1 Arizona",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "2-1-1-in-georgia-united-way-network",
+      "title": "2-1-1 in Georgia (United Way Network)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "2-1-1-new-york",
+      "title": "2-1-1 New York",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "2-1-1-texas",
+      "title": "2-1-1 Texas",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-colorado",
+      "title": "211 Colorado",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-community-resource-helpline",
+      "title": "211 \u2014 Community Resource Helpline",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-connecticut",
+      "title": "211 Connecticut",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-connects-alabama",
+      "title": "211 Connects Alabama",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-illinois",
+      "title": "211 Illinois",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-iowa",
+      "title": "211 Iowa",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-kern-county",
+      "title": "211 Kern County",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-maine",
+      "title": "211 Maine",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-maryland",
+      "title": "211 Maryland",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-new-hampshire",
+      "title": "211 New Hampshire",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-oklahoma",
+      "title": "211 Oklahoma",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-rhode-island-united-way-of-rhode-island",
+      "title": "211 Rhode Island (United Way of Rhode Island)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-south-dakota-helpline-center",
+      "title": "211 South Dakota (Helpline Center)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-utah",
+      "title": "211 Utah",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-virginia",
+      "title": "211 Virginia",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-warmline-district-of-columbia",
+      "title": "211 Warmline (District of Columbia)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211-wisconsin",
+      "title": "211 Wisconsin",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "211info-oregon-211",
+      "title": "211info (Oregon 211)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "3squaresvt-snap-food-assistance",
+      "title": "3SquaresVT (SNAP Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "603-legal-aid-free-civil-legal-help-in-new-hampshire",
+      "title": "603 Legal Aid (Free Civil Legal Help in New Hampshire)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "988-suicide-and-crisis-lifeline",
+      "title": "988 Suicide & Crisis Lifeline",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "aged-blind-or-disabled-abd-cash-assistance",
+      "title": "Aged, Blind, or Disabled (ABD) Cash Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alabama-community-action-agencies",
+      "title": "Alabama Community Action Agencies",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alabama-family-assistance-tanf-cash-assistance",
+      "title": "Alabama Family Assistance (TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alabama-medicaid",
+      "title": "Alabama Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alabama-snap-food-assistance",
+      "title": "Alabama SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alabama-wic",
+      "title": "Alabama WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-2-1-1",
+      "title": "Alaska 2-1-1",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-child-care-assistance-program",
+      "title": "Alaska Child Care Assistance Program",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-heating-assistance-program-hap-liheap",
+      "title": "Alaska Heating Assistance Program (HAP / LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-legal-services-corporation",
+      "title": "Alaska Legal Services Corporation",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-medicaid-and-denali-kidcare",
+      "title": "Alaska Medicaid & Denali KidCare",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-senior-benefits-program",
+      "title": "Alaska Senior Benefits Program",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-snap-food-assistance",
+      "title": "Alaska SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-temporary-assistance-program-cash-assistance",
+      "title": "Alaska Temporary Assistance Program (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "alaska-wic",
+      "title": "Alaska WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "all-kids-alabama-chip",
+      "title": "ALL Kids (Alabama CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "all-kids-illinois-childrens-health-coverage",
+      "title": "All Kids (Illinois Children's Health Coverage)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "aloha-united-way-211-hawaii",
+      "title": "Aloha United Way 211 Hawaii",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "americas-job-center-of-kern",
+      "title": "America's Job Center of Kern",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arhome-arkansas-medicaid-expansion",
+      "title": "ARHOME (Arkansas Medicaid Expansion)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-cash-assistance-tanf",
+      "title": "Arizona Cash Assistance (TANF)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-legal-aid-community-legal-services-and-azlawhelp",
+      "title": "Arizona Legal Aid (Community Legal Services & AZLawHelp)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-liheap-and-power-az-utility-assistance",
+      "title": "Arizona LIHEAP & Power AZ (Utility Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-medicaid-ahcccs",
+      "title": "Arizona Medicaid (AHCCCS)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-nutrition-assistance-snap",
+      "title": "Arizona Nutrition Assistance (SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arizona-wic",
+      "title": "Arizona WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkansas-211",
+      "title": "Arkansas 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkansas-liheap-energy-assistance",
+      "title": "Arkansas LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkansas-snap-food-assistance",
+      "title": "Arkansas SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkansas-tea-cash-assistance",
+      "title": "Arkansas TEA (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkansas-wic",
+      "title": "Arkansas WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "arkids-first-childrens-health-coverage",
+      "title": "ARKids First (Children's Health Coverage)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "badgercare-plus-wisconsin-medicaid",
+      "title": "BadgerCare Plus (Wisconsin Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "caleitc-young-child-tax-credit",
+      "title": "CalEITC + Young Child Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "calfresh-california-snap",
+      "title": "CalFresh (California SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "calfresh-food-stamps-kern-county-dhs",
+      "title": "CalFresh (Food Stamps) \u2014 Kern County DHS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "california-courts-self-help-eviction",
+      "title": "California Courts Self-Help (Eviction)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "california-liheap-energy-assistance",
+      "title": "California LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "calworks-cash-aid-for-families",
+      "title": "CalWORKs (Cash Aid for Families)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "calworks-kern-county-dhs",
+      "title": "CalWORKs \u2014 Kern County DHS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "capk-energy-program-help-with-utility-bills",
+      "title": "CAPK Energy Program \u2014 Help with Utility Bills",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "capk-food-bank",
+      "title": "CAPK Food Bank",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "capk-veterans-and-supportive-services",
+      "title": "CAPK Veterans & Supportive Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "capk-vita-free-tax-preparation",
+      "title": "CAPK VITA \u2014 Free Tax Preparation",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "capk-wic-women-infants-and-children",
+      "title": "CAPK WIC (Women, Infants & Children)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "care-4-kids-child-care-assistance",
+      "title": "Care 4 Kids (Child Care Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "care-fera-utility-bill-discounts",
+      "title": "CARE / FERA (Utility Bill Discounts)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "catholic-charities-bakersfield-community-services",
+      "title": "Catholic Charities \u2014 Bakersfield Community Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ceap-comprehensive-energy-assistance-program",
+      "title": "CEAP (Comprehensive Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "child-care-assistance-program-louisiana-ccap",
+      "title": "Child Care Assistance Program (Louisiana CCAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "child-care-services-twc-scholarships",
+      "title": "Child Care Services (TWC Scholarships)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "child-health-plus",
+      "title": "Child Health Plus",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "chip-childrens-health-insurance-program",
+      "title": "CHIP (Children's Health Insurance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "city-of-king-utility-billing-and-collections",
+      "title": "City of King Utility Billing and Collections",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "clinica-sierra-vista",
+      "title": "Clinica Sierra Vista",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-child-tax-credit",
+      "title": "Colorado Child Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-earned-income-tax-credit",
+      "title": "Colorado Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-leap-low-income-energy-assistance-program",
+      "title": "Colorado LEAP (Low-income Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-legal-services",
+      "title": "Colorado Legal Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-snap-food-assistance",
+      "title": "Colorado SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-wic",
+      "title": "Colorado WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "colorado-works-tanf-cash-assistance",
+      "title": "Colorado Works (TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "community-legal-aid-society-clasi",
+      "title": "Community Legal Aid Society (CLASI)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "connecticut-earned-income-tax-credit",
+      "title": "Connecticut Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "connecticut-energy-assistance-program-ceap-winter-heating",
+      "title": "Connecticut Energy Assistance Program / CEAP (Winter Heating)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "connecticut-legal-aid-statewide-legal-services",
+      "title": "Connecticut Legal Aid (Statewide Legal Services)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "connecticut-snap-food-assistance",
+      "title": "Connecticut SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "connecticut-wic",
+      "title": "Connecticut WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "covered-california",
+      "title": "Covered California",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "credit-org-free-nonprofit-credit-counseling",
+      "title": "Credit.org \u2014 Free Nonprofit Credit Counseling",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "crisis-control-ministry",
+      "title": "Crisis Control Ministry",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "crisis-fuel-assistance-vermont",
+      "title": "Crisis Fuel Assistance (Vermont)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "crisis-intervention-program-cip-stokes-county-dss",
+      "title": "Crisis Intervention Program (CIP) \u2014 Stokes County DSS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "crisis-intervention-program-north-carolina-cip",
+      "title": "Crisis Intervention Program (North Carolina CIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-earned-income-tax-credit",
+      "title": "DC Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-energy-assistance-liheap-and-utility-discount-program",
+      "title": "DC Energy Assistance (LIHEAP & Utility Discount Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-health-care-alliance",
+      "title": "DC Health Care Alliance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-medicaid",
+      "title": "DC Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-snap-food-assistance",
+      "title": "DC SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-tanf-cash-assistance",
+      "title": "DC TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "dc-wic",
+      "title": "DC WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-211",
+      "title": "Delaware 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-earned-income-tax-credit",
+      "title": "Delaware Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-energy-assistance-program-liheap",
+      "title": "Delaware Energy Assistance Program (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-healthy-children-program-chip",
+      "title": "Delaware Healthy Children Program (CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-medicaid",
+      "title": "Delaware Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-snap-food-supplement-program",
+      "title": "Delaware SNAP (Food Supplement Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-tanf-cash-assistance",
+      "title": "Delaware TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "delaware-wic",
+      "title": "Delaware WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "east-stokes-outreach-ministry",
+      "title": "East Stokes Outreach Ministry",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "edd-unemployment-and-disability-insurance",
+      "title": "EDD Unemployment & Disability Insurance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "families-first-tennessee-tanf-cash-assistance",
+      "title": "Families First (Tennessee TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "family-employment-program-utah-cash-assistance",
+      "title": "Family Employment Program (Utah Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "family-independence-program-michigan-cash-assistance",
+      "title": "Family Independence Program (Michigan Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "feeding-america-food-bank-locator",
+      "title": "Feeding America Food Bank Locator",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "florida-211-network",
+      "title": "Florida 211 Network",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "florida-kidcare",
+      "title": "Florida KidCare",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "florida-medicaid",
+      "title": "Florida Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "florida-wic",
+      "title": "Florida WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "floridalawhelp-org-eviction-and-legal-help",
+      "title": "FloridaLawHelp.org (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "food-and-nutrition-services-north-carolina-snap",
+      "title": "Food and Nutrition Services (North Carolina SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "food-assistance-program-michigan-snap",
+      "title": "Food Assistance Program (Michigan SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "foodshare-wisconsin-snap",
+      "title": "FoodShare Wisconsin (SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "fuel-assistance-liheap-massachusetts",
+      "title": "Fuel Assistance / LIHEAP (Massachusetts)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "general-assistance-kern-county-dhs",
+      "title": "General Assistance \u2014 Kern County DHS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "general-assistance-maine",
+      "title": "General Assistance (Maine)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "georgia-medicaid",
+      "title": "Georgia Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "georgia-wic",
+      "title": "Georgia WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "georgialegalaid-org-eviction-and-legal-help",
+      "title": "GeorgiaLegalAid.org (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "golden-empire-gleaners",
+      "title": "Golden Empire Gleaners",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "greater-bakersfield-legal-assistance-gbla",
+      "title": "Greater Bakersfield Legal Assistance (GBLA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "green-mountain-care-vermont-medicaid-and-dr-dynasaur",
+      "title": "Green Mountain Care (Vermont Medicaid & Dr. Dynasaur)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-earned-income-tax-credit",
+      "title": "Hawaii Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-general-assistance-ga",
+      "title": "Hawaii General Assistance (GA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-home-energy-assistance-program-h-heap",
+      "title": "Hawaii Home Energy Assistance Program (H-HEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-snap-food-assistance",
+      "title": "Hawaii SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-tanf-cash-assistance",
+      "title": "Hawaii TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawaii-wic",
+      "title": "Hawaii WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hawki-healthy-and-well-kids-in-iowa",
+      "title": "Hawki (Healthy and Well Kids in Iowa)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "health-first-colorado-medicaid-and-chp",
+      "title": "Health First Colorado (Medicaid) & CHP+",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "health-insurance-marketplace-healthcare-gov",
+      "title": "Health Insurance Marketplace (Healthcare.gov)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "healthy-connections-medicaid-south-carolina",
+      "title": "Healthy Connections Medicaid (South Carolina)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "healthy-louisiana-louisiana-medicaid-and-lachip",
+      "title": "Healthy Louisiana (Louisiana Medicaid) & LaCHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "healthy-texas-women",
+      "title": "Healthy Texas Women",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "heap-energy-assistance-ohio",
+      "title": "HEAP Energy Assistance (Ohio)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "heap-home-energy-assistance-program",
+      "title": "HEAP (Home Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "home-energy-assistance-program-heap-liheap",
+      "title": "Home Energy Assistance Program (HEAP / LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "home-weatherization-assistance-program-illinois-dceo",
+      "title": "Home Weatherization Assistance Program (Illinois DCEO)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "home-weatherization-assistance-program-ohio-hwap",
+      "title": "Home Weatherization Assistance Program (Ohio HWAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "housing-authority-of-the-county-of-kern",
+      "title": "Housing Authority of the County of Kern",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "hud-housing-counseling",
+      "title": "HUD Housing Counseling",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "husky-health-connecticut-medicaid-and-chip",
+      "title": "HUSKY Health (Connecticut Medicaid & CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-careline-2-1-1",
+      "title": "Idaho CareLine 2-1-1",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-child-care-program-iccp",
+      "title": "Idaho Child Care Program (ICCP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-energy-assistance-liheap-heating-assistance",
+      "title": "Idaho Energy Assistance (LIHEAP Heating Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-grocery-credit",
+      "title": "Idaho Grocery Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-legal-aid-services",
+      "title": "Idaho Legal Aid Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-medicaid-expanded-coverage",
+      "title": "Idaho Medicaid (Expanded Coverage)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-snap-food-stamps",
+      "title": "Idaho SNAP (Food Stamps)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "idaho-wic",
+      "title": "Idaho WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "illinois-earned-income-credit",
+      "title": "Illinois Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "illinois-legal-aid-online-eviction-and-legal-help",
+      "title": "Illinois Legal Aid Online (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "illinois-wic",
+      "title": "Illinois WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-211",
+      "title": "Indiana 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-earned-income-credit",
+      "title": "Indiana Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-energy-assistance-program-eap-liheap",
+      "title": "Indiana Energy Assistance Program (EAP / LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-legal-services-free-civil-legal-aid",
+      "title": "Indiana Legal Services (Free Civil Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-medicaid-hoosier-healthwise-and-healthy-indiana-plan",
+      "title": "Indiana Medicaid (Hoosier Healthwise & Healthy Indiana Plan)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-snap-food-assistance",
+      "title": "Indiana SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-tanf-cash-assistance",
+      "title": "Indiana TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "indiana-wic",
+      "title": "Indiana WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-earned-income-tax-credit",
+      "title": "Iowa Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-energy-assistance-liheap",
+      "title": "Iowa Energy Assistance (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-family-investment-program-fip-cash-assistance",
+      "title": "Iowa Family Investment Program (FIP Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-legal-aid",
+      "title": "Iowa Legal Aid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-medicaid-and-iowa-health-and-wellness-plan",
+      "title": "Iowa Medicaid & Iowa Health and Wellness Plan",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-snap-food-assistance",
+      "title": "Iowa SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "iowa-wic",
+      "title": "Iowa WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kancare-kansas-medicaid-and-chip",
+      "title": "KanCare (Kansas Medicaid & CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-211",
+      "title": "Kansas 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-child-care-assistance",
+      "title": "Kansas Child Care Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-earned-income-tax-credit",
+      "title": "Kansas Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-food-assistance-snap",
+      "title": "Kansas Food Assistance (SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-legal-services",
+      "title": "Kansas Legal Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-lieap-low-income-energy-assistance",
+      "title": "Kansas LIEAP (Low Income Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-tanf-cash-assistance-successful-families-program",
+      "title": "Kansas TANF Cash Assistance (Successful Families Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kansas-wic",
+      "title": "Kansas WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-211",
+      "title": "Kentucky 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-child-care-assistance-program-ccap",
+      "title": "Kentucky Child Care Assistance Program (CCAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-k-tap-cash-assistance",
+      "title": "Kentucky K-TAP (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-legal-aid-civil-legal-help",
+      "title": "Kentucky Legal Aid (Civil Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-liheap-home-energy-assistance",
+      "title": "Kentucky LIHEAP (Home Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-medicaid-and-kchip",
+      "title": "Kentucky Medicaid & KCHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-snap-food-assistance",
+      "title": "Kentucky SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kentucky-wic",
+      "title": "Kentucky WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kern-behavioral-health-24-hour-crisis-hotline",
+      "title": "Kern Behavioral Health 24-Hour Crisis Hotline",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kern-county-aging-and-adult-services-senior-information-and-referral",
+      "title": "Kern County Aging & Adult Services \u2014 Senior Information & Referral",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kern-county-veterans-service-department",
+      "title": "Kern County Veterans Service Department",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kern-medical",
+      "title": "Kern Medical",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "kidscare-arizona-chip",
+      "title": "KidsCare (Arizona CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "king-outreach-ministry",
+      "title": "King Outreach Ministry",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "lawhelp-org-free-legal-aid",
+      "title": "LawHelp.org (Free Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "lawhelpny-org-eviction-and-legal-help",
+      "title": "LawHelpNY.org (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-action-of-wisconsin-free-civil-legal-aid",
+      "title": "Legal Action of Wisconsin (Free Civil Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-dc",
+      "title": "Legal Aid DC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-of-arkansas",
+      "title": "Legal Aid of Arkansas",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-of-nebraska",
+      "title": "Legal Aid of Nebraska",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-of-north-carolina",
+      "title": "Legal Aid of North Carolina",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-of-west-virginia",
+      "title": "Legal Aid of West Virginia",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-of-wyoming",
+      "title": "Legal Aid of Wyoming",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-services-of-oklahoma",
+      "title": "Legal Aid Services of Oklahoma",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-services-of-oregon",
+      "title": "Legal Aid Services of Oregon",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-aid-society-of-hawaii",
+      "title": "Legal Aid Society of Hawaii",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-services-alabama",
+      "title": "Legal Services Alabama",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-services-of-new-jersey-lsnj-law-hotline",
+      "title": "Legal Services of New Jersey (LSNJ-LAW Hotline)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "legal-services-of-north-dakota",
+      "title": "Legal Services of North Dakota",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "lieap-low-income-energy-assistance-program",
+      "title": "LIEAP (Low Income Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "lifeline-phone-and-internet-discount",
+      "title": "Lifeline (Phone & Internet Discount)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance",
+      "title": "LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance-alabama",
+      "title": "LIHEAP Energy Assistance (Alabama)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance-illinois",
+      "title": "LIHEAP Energy Assistance (Illinois)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance-louisiana",
+      "title": "LIHEAP Energy Assistance (Louisiana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance-south-carolina",
+      "title": "LIHEAP Energy Assistance (South Carolina)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-assistance-tennessee",
+      "title": "LIHEAP Energy Assistance (Tennessee)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-energy-bill-assistance",
+      "title": "LIHEAP (Energy Bill Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-home-energy-assistance",
+      "title": "LIHEAP (Home Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "liheap-home-energy-assistance-2",
+      "title": "LIHEAP (Home Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-211",
+      "title": "Louisiana 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-earned-income-tax-credit",
+      "title": "Louisiana Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-fitap-cash-assistance",
+      "title": "Louisiana FITAP (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-legal-aid-louisianalawhelp-slls-acadiana",
+      "title": "Louisiana Legal Aid (LouisianaLawHelp / SLLS / Acadiana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-snap-food-assistance",
+      "title": "Louisiana SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "louisiana-wic",
+      "title": "Louisiana WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "low-income-energy-assistance-program-lieap-stokes-county-dss",
+      "title": "Low Income Energy Assistance Program (LIEAP) \u2014 Stokes County DSS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "low-income-energy-assistance-program-north-carolina-lieap",
+      "title": "Low Income Energy Assistance Program (North Carolina LIEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "m-street-navigation-center-capk",
+      "title": "M Street Navigation Center (CAPK)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maine-earned-income-tax-credit",
+      "title": "Maine Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maine-snap-food-supplement",
+      "title": "Maine SNAP (Food Supplement)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maine-tanf-cash-assistance",
+      "title": "Maine TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maine-wic-nutrition-program",
+      "title": "Maine WIC Nutrition Program",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mainecare-maine-medicaid",
+      "title": "MaineCare (Maine Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-earned-income-tax-credit",
+      "title": "Maryland Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-energy-assistance-office-of-home-energy-programs-ohep",
+      "title": "Maryland Energy Assistance / Office of Home Energy Programs (OHEP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-legal-aid",
+      "title": "Maryland Legal Aid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-medicaid-healthchoice-and-mchp",
+      "title": "Maryland Medicaid (HealthChoice) & MCHP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-snap-food-supplement-program",
+      "title": "Maryland SNAP (Food Supplement Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-temporary-cash-assistance-tca",
+      "title": "Maryland Temporary Cash Assistance (TCA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-temporary-disability-assistance-program-tdap",
+      "title": "Maryland Temporary Disability Assistance Program (TDAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "maryland-wic",
+      "title": "Maryland WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mass-211",
+      "title": "Mass 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "massachusetts-earned-income-tax-credit",
+      "title": "Massachusetts Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "massachusetts-legal-aid-masslegalhelp-masslrf",
+      "title": "Massachusetts Legal Aid (MassLegalHelp / MassLRF)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "massachusetts-snap-food-assistance",
+      "title": "Massachusetts SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "massachusetts-tafdc-cash-assistance",
+      "title": "Massachusetts TAFDC (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "massachusetts-wic-nutrition-program",
+      "title": "Massachusetts WIC Nutrition Program",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "masshealth-medicaid-and-childrens-medical-security-plan",
+      "title": "MassHealth (Medicaid) & Children's Medical Security Plan",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "med-quest-hawaii-medicaid",
+      "title": "Med-QUEST (Hawaii Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medi-cal-california-medicaid",
+      "title": "Medi-Cal (California Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medi-cal-kern-county-dhs",
+      "title": "Medi-Cal \u2014 Kern County DHS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medicaid-and-chip",
+      "title": "Medicaid & CHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medicaid-illinois-hfs",
+      "title": "Medicaid (Illinois HFS)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medicaid-ohio",
+      "title": "Medicaid (Ohio)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medical-assistance-medicaid-and-minnesotacare",
+      "title": "Medical Assistance (Medicaid) & MinnesotaCare",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "medical-assistance-pennsylvania-medicaid",
+      "title": "Medical Assistance (Pennsylvania Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-211",
+      "title": "Michigan 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-earned-income-tax-credit",
+      "title": "Michigan Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-home-heating-credit",
+      "title": "Michigan Home Heating Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-legal-help",
+      "title": "Michigan Legal Help",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-medicaid-and-healthy-michigan-plan",
+      "title": "Michigan Medicaid & Healthy Michigan Plan",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "michigan-wic",
+      "title": "Michigan WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-211-united-way",
+      "title": "Minnesota 211 (United Way)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-child-tax-credit",
+      "title": "Minnesota Child Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-energy-assistance-program-eap",
+      "title": "Minnesota Energy Assistance Program (EAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-family-investment-program-mfip",
+      "title": "Minnesota Family Investment Program (MFIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-legal-aid-mid-minnesota-legal-aid-lawhelpmn",
+      "title": "Minnesota Legal Aid (Mid-Minnesota Legal Aid / LawHelpMN)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-snap-food-support",
+      "title": "Minnesota SNAP (Food Support)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-wic",
+      "title": "Minnesota WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "minnesota-working-family-credit",
+      "title": "Minnesota Working Family Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missingmoney-unclaimed-property-search",
+      "title": "MissingMoney (Unclaimed Property Search)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-211",
+      "title": "Mississippi 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-center-for-legal-services-south-mississippi-legal-aid",
+      "title": "Mississippi Center for Legal Services (South Mississippi Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-child-care-payment-program-ccpp",
+      "title": "Mississippi Child Care Payment Program (CCPP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-liheap-home-energy-assistance",
+      "title": "Mississippi LIHEAP (Home Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-medicaid-and-chip",
+      "title": "Mississippi Medicaid & CHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-snap-food-assistance",
+      "title": "Mississippi SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-tanf-cash-assistance",
+      "title": "Mississippi TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mississippi-wic",
+      "title": "Mississippi WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-energy-assistance-liheap-and-ecip",
+      "title": "Missouri Energy Assistance (LIHEAP & ECIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-legal-aid-free-civil-legal-help",
+      "title": "Missouri Legal Aid (Free Civil Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-snap-food-stamps",
+      "title": "Missouri SNAP (Food Stamps)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-temporary-assistance-cash-assistance",
+      "title": "Missouri Temporary Assistance (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-wic",
+      "title": "Missouri WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "missouri-working-family-tax-credit",
+      "title": "Missouri Working Family Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "mo-healthnet-missouri-medicaid",
+      "title": "MO HealthNet (Missouri Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-211",
+      "title": "Montana 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-earned-income-tax-credit",
+      "title": "Montana Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-elderly-homeowner-renter-credit",
+      "title": "Montana Elderly Homeowner/Renter Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-legal-services-association-montana-law-help",
+      "title": "Montana Legal Services Association (Montana Law Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-lieap-low-income-energy-assistance-program",
+      "title": "Montana LIEAP (Low Income Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-medicaid-and-healthy-montana-kids-hmk-plus",
+      "title": "Montana Medicaid & Healthy Montana Kids (HMK) Plus",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-snap-food-assistance",
+      "title": "Montana SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-tanf-cash-assistance",
+      "title": "Montana TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "montana-wic",
+      "title": "Montana WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nc-211",
+      "title": "NC 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nc-medicaid",
+      "title": "NC Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-211-united-way-of-the-midlands",
+      "title": "Nebraska 211 (United Way of the Midlands)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-adc-aid-to-dependent-children-tanf-cash",
+      "title": "Nebraska ADC (Aid to Dependent Children / TANF Cash)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-child-care-subsidy",
+      "title": "Nebraska Child Care Subsidy",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-earned-income-tax-credit",
+      "title": "Nebraska Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-energy-assistance-liheap",
+      "title": "Nebraska Energy Assistance (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-medicaid-heritage-health",
+      "title": "Nebraska Medicaid (Heritage Health)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-snap-food-assistance",
+      "title": "Nebraska SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nebraska-wic",
+      "title": "Nebraska WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-211",
+      "title": "Nevada 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-child-care-subsidy-child-care-and-development-program",
+      "title": "Nevada Child Care Subsidy (Child Care and Development Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-energy-assistance-program-liheap",
+      "title": "Nevada Energy Assistance Program (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-legal-aid-nevada-legal-services-and-legal-aid-center-of-southern-nevada",
+      "title": "Nevada Legal Aid (Nevada Legal Services & Legal Aid Center of Southern Nevada)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-medicaid-and-nevada-check-up",
+      "title": "Nevada Medicaid & Nevada Check Up",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-snap-food-assistance",
+      "title": "Nevada SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-tanf-cash-assistance",
+      "title": "Nevada TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nevada-wic",
+      "title": "Nevada WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-emergency-assistance-housing-and-utility-crisis",
+      "title": "New Hampshire Emergency Assistance (Housing & Utility Crisis)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-fanf-tanf-cash-assistance",
+      "title": "New Hampshire FANF / TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-fuel-assistance-program-liheap",
+      "title": "New Hampshire Fuel Assistance Program (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-medicaid-and-granite-advantage",
+      "title": "New Hampshire Medicaid & Granite Advantage",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-snap-food-assistance",
+      "title": "New Hampshire SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-hampshire-wic",
+      "title": "New Hampshire WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-jersey-earned-income-tax-credit",
+      "title": "New Jersey Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-jersey-wic",
+      "title": "New Jersey WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-211",
+      "title": "New Mexico 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-child-tax-credit",
+      "title": "New Mexico Child Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-legal-aid",
+      "title": "New Mexico Legal Aid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-liheap-energy-assistance",
+      "title": "New Mexico LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-medicaid-turquoise-care",
+      "title": "New Mexico Medicaid (Turquoise Care)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-snap-food-assistance",
+      "title": "New Mexico SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-wic",
+      "title": "New Mexico WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-working-families-tax-credit",
+      "title": "New Mexico Working Families Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-mexico-works-tanf-cash-assistance",
+      "title": "New Mexico Works (TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-york-medicaid",
+      "title": "New York Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-york-state-earned-income-credit",
+      "title": "New York State Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "new-york-wic",
+      "title": "New York WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nfcc-nonprofit-credit-counseling",
+      "title": "NFCC Nonprofit Credit Counseling",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nj-211",
+      "title": "NJ 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nj-familycare-medicaid-and-chip",
+      "title": "NJ FamilyCare (Medicaid & CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nj-home-energy-assistance-liheap-and-usf",
+      "title": "NJ Home Energy Assistance (LIHEAP & USF)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nj-snap-food-assistance",
+      "title": "NJ SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "nm-energy-mart-weatherization-program",
+      "title": "NM Energy$mart Weatherization Program",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-carolina-wic",
+      "title": "North Carolina WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-211-firstlink",
+      "title": "North Dakota 211 (FirstLink)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-child-care-assistance-program-ccap",
+      "title": "North Dakota Child Care Assistance Program (CCAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-liheap-energy-assistance",
+      "title": "North Dakota LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-medicaid-expanded",
+      "title": "North Dakota Medicaid (Expanded)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-snap-food-assistance",
+      "title": "North Dakota SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-tanf-cash-assistance",
+      "title": "North Dakota TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-dakota-wic",
+      "title": "North Dakota WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "north-mississippi-rural-legal-services-north-mississippi-legal-aid",
+      "title": "North Mississippi Rural Legal Services (North Mississippi Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ohio-211",
+      "title": "Ohio 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ohio-earned-income-credit",
+      "title": "Ohio Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ohio-legal-help-eviction-and-legal-aid",
+      "title": "Ohio Legal Help (Eviction & Legal Aid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ohio-wic",
+      "title": "Ohio WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ohio-works-first-cash-assistance",
+      "title": "Ohio Works First (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-child-care-subsidy",
+      "title": "Oklahoma Child Care Subsidy",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-earned-income-tax-credit",
+      "title": "Oklahoma Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-liheap-energy-assistance",
+      "title": "Oklahoma LIHEAP (Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-snap-food-benefits",
+      "title": "Oklahoma SNAP (Food Benefits)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-tanf-cash-assistance",
+      "title": "Oklahoma TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oklahoma-wic",
+      "title": "Oklahoma WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "omni-family-health",
+      "title": "Omni Family Health",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-earned-income-credit",
+      "title": "Oregon Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-energy-assistance-liheap-oeap",
+      "title": "Oregon Energy Assistance (LIHEAP / OEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-health-plan-medicaid",
+      "title": "Oregon Health Plan (Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-kids-credit",
+      "title": "Oregon Kids Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-snap-food-benefits",
+      "title": "Oregon SNAP (Food Benefits)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-tanf-cash-assistance",
+      "title": "Oregon TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "oregon-wic",
+      "title": "Oregon WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "pa-211",
+      "title": "PA 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "palawhelp-org-eviction-and-legal-help",
+      "title": "PALawHelp.org (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "peachcare-for-kids",
+      "title": "PeachCare for Kids",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "pennsylvania-wic",
+      "title": "Pennsylvania WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "pine-tree-legal-assistance",
+      "title": "Pine Tree Legal Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "pipp-plus-percentage-of-income-payment-plan",
+      "title": "PIPP Plus (Percentage of Income Payment Plan)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "raft-residential-assistance-for-families-in-transition",
+      "title": "RAFT (Residential Assistance for Families in Transition)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "reach-up-vermont-tanf-cash-assistance",
+      "title": "Reach Up (Vermont TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "reemployment-assistance-south-dakota-unemployment",
+      "title": "Reemployment Assistance (South Dakota Unemployment)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "reemployment-assistance-unemployment",
+      "title": "Reemployment Assistance (Unemployment)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-earned-income-credit",
+      "title": "Rhode Island Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-energy-assistance-liheap",
+      "title": "Rhode Island Energy Assistance (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-legal-services",
+      "title": "Rhode Island Legal Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-medicaid-and-rite-care",
+      "title": "Rhode Island Medicaid & RIte Care",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-snap-food-assistance",
+      "title": "Rhode Island SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "rhode-island-wic",
+      "title": "Rhode Island WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ri-child-care-assistance-program-ccap",
+      "title": "RI Child Care Assistance Program (CCAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "ri-works-cash-assistance",
+      "title": "RI Works (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "sc-211",
+      "title": "SC 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "sc-thrive-free-help-applying-for-benefits",
+      "title": "SC Thrive (Free Help Applying for Benefits)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "seasonal-fuel-assistance-vermont-liheap",
+      "title": "Seasonal Fuel Assistance (Vermont LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-assistance-access-florida",
+      "title": "SNAP Food Assistance (ACCESS Florida)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-assistance-ohio",
+      "title": "SNAP Food Assistance (Ohio)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-benefits-lone-star-card",
+      "title": "SNAP Food Benefits (Lone Star Card)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-benefits-new-york",
+      "title": "SNAP Food Benefits (New York)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-stamps",
+      "title": "SNAP (Food Stamps)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-stamps-georgia-gateway",
+      "title": "SNAP Food Stamps (Georgia Gateway)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-stamps-illinois",
+      "title": "SNAP Food Stamps (Illinois)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "snap-food-stamps-pennsylvania",
+      "title": "SNAP Food Stamps (Pennsylvania)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "social-security-ssi-ssdi",
+      "title": "Social Security (SSI / SSDI)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "soonercare-oklahoma-medicaid",
+      "title": "SoonerCare (Oklahoma Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-carolina-earned-income-tax-credit",
+      "title": "South Carolina Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-carolina-family-independence-tanf-cash-assistance",
+      "title": "South Carolina Family Independence (TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-carolina-legal-services",
+      "title": "South Carolina Legal Services",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-carolina-snap-food-assistance",
+      "title": "South Carolina SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-carolina-wic",
+      "title": "South Carolina WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-child-care-assistance",
+      "title": "South Dakota Child Care Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-housing-rental-assistance",
+      "title": "South Dakota Housing (Rental Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-legal-aid-east-river-and-dakota-plains",
+      "title": "South Dakota Legal Aid (East River & Dakota Plains)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-liheap-low-income-energy-assistance",
+      "title": "South Dakota LIHEAP (Low Income Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-medicaid-and-chip",
+      "title": "South Dakota Medicaid & CHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-snap-food-assistance",
+      "title": "South Dakota SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-tanf-cash-assistance",
+      "title": "South Dakota TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "south-dakota-wic",
+      "title": "South Dakota WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "state-emergency-relief-michigan-ser",
+      "title": "State Emergency Relief (Michigan SER)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "summer-utility-shutoff-protection-arizona",
+      "title": "Summer Utility Shutoff Protection (Arizona)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tafi-temporary-assistance-for-families-in-idaho",
+      "title": "TAFI (Temporary Assistance for Families in Idaho)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tanf-cash-assistance",
+      "title": "TANF Cash Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tanf-cash-assistance-2",
+      "title": "TANF Cash Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tanf-cash-assistance-for-families",
+      "title": "TANF (Cash Assistance for Families)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tanf-cash-assistance-illinois",
+      "title": "TANF Cash Assistance (Illinois)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tanf-cash-help",
+      "title": "TANF Cash Help",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "temporary-assistance-family-assistance-and-safety-net",
+      "title": "Temporary Assistance (Family Assistance & Safety Net)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "temporary-cash-assistance-tca",
+      "title": "Temporary Cash Assistance (TCA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "temporary-family-assistance-tfa-cash-assistance",
+      "title": "Temporary Family Assistance / TFA (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tenncare-medicaid-and-coverkids-chip",
+      "title": "TennCare (Medicaid) & CoverKids (CHIP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tennessee-community-action-agencies-utility-and-emergency-help",
+      "title": "Tennessee Community Action Agencies (Utility & Emergency Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tennessee-legal-aid-help4tn",
+      "title": "Tennessee Legal Aid (HELP4TN)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tennessee-snap-food-assistance",
+      "title": "Tennessee SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tennessee-wic",
+      "title": "Tennessee WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "texas-medicaid-and-chip",
+      "title": "Texas Medicaid & CHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "texas-wic",
+      "title": "Texas WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "texaslawhelp-org-eviction-and-legal-help",
+      "title": "TexasLawHelp.org (Eviction & Legal Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "the-mission-at-kern-county",
+      "title": "The Mission at Kern County",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "the-open-door-network",
+      "title": "The Open Door Network",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "the-salvation-army-bakersfield-corps",
+      "title": "The Salvation Army \u2014 Bakersfield Corps",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "tn-211",
+      "title": "TN 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "township-trustee-emergency-assistance-poor-relief",
+      "title": "Township Trustee Emergency Assistance (Poor Relief)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "twc-unemployment-benefits",
+      "title": "TWC Unemployment Benefits",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-benefits-michigan",
+      "title": "Unemployment Benefits (Michigan)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-benefits-north-carolina",
+      "title": "Unemployment Benefits (North Carolina)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-benefits-ohio",
+      "title": "Unemployment Benefits (Ohio)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-benefits-washington-esd",
+      "title": "Unemployment Benefits (Washington ESD)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-compensation-alabama",
+      "title": "Unemployment Compensation (Alabama)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-compensation-pa-l-and-i",
+      "title": "Unemployment Compensation (PA L&I)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-alaska",
+      "title": "Unemployment Insurance (Alaska)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-arizona",
+      "title": "Unemployment Insurance (Arizona)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-arkansas",
+      "title": "Unemployment Insurance (Arkansas)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-colorado",
+      "title": "Unemployment Insurance (Colorado)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-connecticut-dol",
+      "title": "Unemployment Insurance (Connecticut DOL)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-dc-does",
+      "title": "Unemployment Insurance (DC DOES)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-delaware",
+      "title": "Unemployment Insurance (Delaware)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-edd",
+      "title": "Unemployment Insurance (EDD)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-gdol",
+      "title": "Unemployment Insurance (GDOL)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-hawaii",
+      "title": "Unemployment Insurance (Hawaii)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-idaho",
+      "title": "Unemployment Insurance (Idaho)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-illinois-ides",
+      "title": "Unemployment Insurance (Illinois IDES)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-indiana-dwd-uplink",
+      "title": "Unemployment Insurance (Indiana DWD / Uplink)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-iowa-workforce-development",
+      "title": "Unemployment Insurance (Iowa Workforce Development)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-job-service-north-dakota",
+      "title": "Unemployment Insurance (Job Service North Dakota)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-kansas",
+      "title": "Unemployment Insurance (Kansas)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-kentucky",
+      "title": "Unemployment Insurance (Kentucky)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-louisiana",
+      "title": "Unemployment Insurance (Louisiana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-maine-department-of-labor",
+      "title": "Unemployment Insurance (Maine Department of Labor)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-maryland",
+      "title": "Unemployment Insurance (Maryland)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-massachusetts-dua",
+      "title": "Unemployment Insurance (Massachusetts DUA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-minnesota",
+      "title": "Unemployment Insurance (Minnesota)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-mississippi-mdes",
+      "title": "Unemployment Insurance (Mississippi MDES)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-missouri",
+      "title": "Unemployment Insurance (Missouri)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-montana",
+      "title": "Unemployment Insurance (Montana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-nebraska",
+      "title": "Unemployment Insurance (Nebraska)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-nevada-detr",
+      "title": "Unemployment Insurance (Nevada DETR)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-new-hampshire",
+      "title": "Unemployment Insurance (New Hampshire)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-new-jersey",
+      "title": "Unemployment Insurance (New Jersey)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-new-mexico",
+      "title": "Unemployment Insurance (New Mexico)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-nys-dol",
+      "title": "Unemployment Insurance (NYS DOL)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-oklahoma-oesc",
+      "title": "Unemployment Insurance (Oklahoma OESC)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-oregon",
+      "title": "Unemployment Insurance (Oregon)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-rhode-island",
+      "title": "Unemployment Insurance (Rhode Island)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-south-carolina-dew",
+      "title": "Unemployment Insurance (South Carolina DEW)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-tennessee",
+      "title": "Unemployment Insurance (Tennessee)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-utah",
+      "title": "Unemployment Insurance (Utah)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-vermont-department-of-labor",
+      "title": "Unemployment Insurance (Vermont Department of Labor)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-virginia",
+      "title": "Unemployment Insurance (Virginia)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-wisconsin",
+      "title": "Unemployment Insurance (Wisconsin)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-workforce-west-virginia",
+      "title": "Unemployment Insurance (WorkForce West Virginia)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "unemployment-insurance-wyoming",
+      "title": "Unemployment Insurance (Wyoming)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "united-way-211-missouri",
+      "title": "United Way 211 Missouri",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "usagov-benefit-finder",
+      "title": "USAGov Benefit Finder",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-chip-childrens-health-insurance",
+      "title": "Utah CHIP (Children's Health Insurance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-earned-income-tax-credit",
+      "title": "Utah Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-heat-home-energy-assistance",
+      "title": "Utah HEAT (Home Energy Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-legal-services-and-timpanogos-legal-center",
+      "title": "Utah Legal Services & Timpanogos Legal Center",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-medicaid",
+      "title": "Utah Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-snap-food-assistance",
+      "title": "Utah SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "utah-wic",
+      "title": "Utah WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "va-benefits-veterans",
+      "title": "VA Benefits (Veterans)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "vermont-211",
+      "title": "Vermont 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "vermont-earned-income-tax-credit",
+      "title": "Vermont Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "vermont-legal-aid-and-legal-services-vermont",
+      "title": "Vermont Legal Aid & Legal Services Vermont",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "vermont-wic",
+      "title": "Vermont WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-earned-income-tax-credit",
+      "title": "Virginia Earned Income Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-energy-assistance-program-fuel-crisis-and-cooling",
+      "title": "Virginia Energy Assistance Program (Fuel, Crisis & Cooling)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-legal-aid-valegalaid-virginia-law-help",
+      "title": "Virginia Legal Aid (VaLegalAid / Virginia Law Help)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-medicaid-cardinal-care-and-famis",
+      "title": "Virginia Medicaid (Cardinal Care) & FAMIS",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-snap-food-assistance",
+      "title": "Virginia SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-tanf-cash-assistance",
+      "title": "Virginia TANF (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "virginia-wic",
+      "title": "Virginia WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-211",
+      "title": "Washington 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-apple-health-medicaid",
+      "title": "Washington Apple Health (Medicaid)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-basic-food-snap",
+      "title": "Washington Basic Food (SNAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-energy-assistance-liheap",
+      "title": "Washington Energy Assistance (LIHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-legal-aid-clear-northwest-justice-project",
+      "title": "Washington Legal Aid (CLEAR / Northwest Justice Project)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-tanf-workfirst-cash-assistance",
+      "title": "Washington TANF / WorkFirst (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-wic",
+      "title": "Washington WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "washington-working-families-tax-credit",
+      "title": "Washington Working Families Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-alaska-housing-finance-corporation",
+      "title": "Weatherization Assistance (Alaska Housing Finance Corporation)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-oregon",
+      "title": "Weatherization Assistance (Oregon)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-alabama",
+      "title": "Weatherization Assistance Program (Alabama)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-arizona",
+      "title": "Weatherization Assistance Program (Arizona)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-arkansas",
+      "title": "Weatherization Assistance Program (Arkansas)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-colorado",
+      "title": "Weatherization Assistance Program (Colorado)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-connecticut",
+      "title": "Weatherization Assistance Program (Connecticut)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-dc",
+      "title": "Weatherization Assistance Program (DC)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-delaware",
+      "title": "Weatherization Assistance Program (Delaware)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-floridacommerce",
+      "title": "Weatherization Assistance Program (FloridaCommerce)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-gefa",
+      "title": "Weatherization Assistance Program (GEFA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-hawaii",
+      "title": "Weatherization Assistance Program (Hawaii)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-idaho",
+      "title": "Weatherization Assistance Program (Idaho)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-indiana",
+      "title": "Weatherization Assistance Program (Indiana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-iowa",
+      "title": "Weatherization Assistance Program (Iowa)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-kansas",
+      "title": "Weatherization Assistance Program (Kansas)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-kentucky",
+      "title": "Weatherization Assistance Program (Kentucky)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-louisiana",
+      "title": "Weatherization Assistance Program (Louisiana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-maine",
+      "title": "Weatherization Assistance Program (Maine)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-maryland",
+      "title": "Weatherization Assistance Program (Maryland)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-massachusetts",
+      "title": "Weatherization Assistance Program (Massachusetts)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-michigan",
+      "title": "Weatherization Assistance Program (Michigan)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-minnesota",
+      "title": "Weatherization Assistance Program (Minnesota)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-mississippi",
+      "title": "Weatherization Assistance Program (Mississippi)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-missouri",
+      "title": "Weatherization Assistance Program (Missouri)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-montana",
+      "title": "Weatherization Assistance Program (Montana)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-nebraska",
+      "title": "Weatherization Assistance Program (Nebraska)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-nevada",
+      "title": "Weatherization Assistance Program (Nevada)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-new-hampshire",
+      "title": "Weatherization Assistance Program (New Hampshire)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-new-jersey",
+      "title": "Weatherization Assistance Program (New Jersey)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-north-carolina",
+      "title": "Weatherization Assistance Program (North Carolina)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-north-dakota",
+      "title": "Weatherization Assistance Program (North Dakota)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-nys-hcr",
+      "title": "Weatherization Assistance Program (NYS HCR)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-oklahoma",
+      "title": "Weatherization Assistance Program (Oklahoma)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-pa-dced",
+      "title": "Weatherization Assistance Program (PA DCED)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-rhode-island",
+      "title": "Weatherization Assistance Program (Rhode Island)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-south-carolina",
+      "title": "Weatherization Assistance Program (South Carolina)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-south-dakota",
+      "title": "Weatherization Assistance Program (South Dakota)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-tdhca",
+      "title": "Weatherization Assistance Program (TDHCA)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-tennessee",
+      "title": "Weatherization Assistance Program (Tennessee)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-utah",
+      "title": "Weatherization Assistance Program (Utah)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-vermont",
+      "title": "Weatherization Assistance Program (Vermont)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-virginia",
+      "title": "Weatherization Assistance Program (Virginia)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-washington",
+      "title": "Weatherization Assistance Program (Washington)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-west-virginia",
+      "title": "Weatherization Assistance Program (West Virginia)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-wisconsin",
+      "title": "Weatherization Assistance Program (Wisconsin)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "weatherization-assistance-program-wyoming",
+      "title": "Weatherization Assistance Program (Wyoming)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "west-virginia-211",
+      "title": "West Virginia 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "west-virginia-medicaid",
+      "title": "West Virginia Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "west-virginia-snap-food-assistance",
+      "title": "West Virginia SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "west-virginia-wic",
+      "title": "West Virginia WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wic-women-infants-and-children",
+      "title": "WIC (Women, Infants & Children)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wisconsin-earned-income-credit",
+      "title": "Wisconsin Earned Income Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wisconsin-home-energy-assistance-program-wheap",
+      "title": "Wisconsin Home Energy Assistance Program (WHEAP)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wisconsin-homestead-credit",
+      "title": "Wisconsin Homestead Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wisconsin-wic",
+      "title": "Wisconsin WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wisconsin-works-w-2-cash-assistance",
+      "title": "Wisconsin Works (W-2 Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "work-first-family-assistance-north-carolina-tanf",
+      "title": "Work First Family Assistance (North Carolina TANF)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "work-first-new-jersey-cash-assistance",
+      "title": "Work First New Jersey (Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "working-pennsylvanians-tax-credit",
+      "title": "Working Pennsylvanians Tax Credit",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wv-chip-childrens-health-insurance-program",
+      "title": "WV CHIP (Children's Health Insurance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wv-works-tanf-cash-assistance",
+      "title": "WV WORKS (TANF Cash Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-211",
+      "title": "Wyoming 211",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-child-care-assistance",
+      "title": "Wyoming Child Care Assistance",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-kid-care-chip",
+      "title": "Wyoming Kid Care CHIP",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-lieap-low-income-energy-assistance-program",
+      "title": "Wyoming LIEAP (Low Income Energy Assistance Program)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-medicaid",
+      "title": "Wyoming Medicaid",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-power-cash-assistance-tanf",
+      "title": "Wyoming POWER (Cash Assistance / TANF)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-snap-food-assistance",
+      "title": "Wyoming SNAP (Food Assistance)",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    },
+    {
+      "slug": "wyoming-wic",
+      "title": "Wyoming WIC",
+      "screenshots": 0,
+      "faqs": 2,
+      "generic_eligibility": true
+    }
+  ]
+}

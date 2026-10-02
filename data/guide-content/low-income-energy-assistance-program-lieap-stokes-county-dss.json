@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "Stokes County LIEAP provides seasonal heating assistance paid to the energy provider. Check the application window and current household eligibility with DSS.",
+  "introduction": "Stokes County LIEAP provides seasonal heating assistance paid to the energy provider. Check the application window and current household eligibility with DSS.",
+  "service_type": "energy",
+  "sections": {
+    "who": "<p>Households must meet income, resource and citizenship conditions and be responsible for heating expenses. December priority covers households with a member aged 60 or older, or a disabled person receiving qualifying Division of Aging and Adult Services support.</p>",
+    "get": "<p>Eligible households receive a one-time heating payment to the vendor, which can include electricity, gas, oil or wood providers. LIEAP is separate from emergency CIP assistance.</p>",
+    "docs": "<p>Prepare the heating account and vendor details, household income and resources, and evidence requested for household eligibility or December priority. Ask DSS for the case-specific checklist.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Check the seasonal window with Stokes DSS. The county describes December priority intake and general intake from January, subject to funds, ending by March 31.</p></li><li><p>Request the current energy application. The county lists DSS at 1010 Main Street, Danbury; confirm intake arrangements before travelling.</p></li><li><p>Submit the application and requested proof. The county says households must apply and there are no automatic approvals.</p></li></ol>",
+    "after": "<p>Check the decision and vendor account for the approved credit. If an emergency cannot wait for seasonal intake, ask DSS about CIP and explain the urgent circumstances.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.co.stokes.nc.us/departments/low_income_energy_assistance_program_(lieap).php\">County LIEAP intake and eligibility</a>, <a href=\"https://policies.ncdhhs.gov/wp-content/uploads/DSS-8178-ia-Consolidated-Energy-Assistance-Program-Application.pdf\">State energy application</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/low-income-energy-assistance-program-lieap-stokes-county-dss/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "Does LIEAP pay me directly?",
+      "No. Approved payments go to the heating provider."
+    ],
+    [
+      "Can everyone apply in December?",
+      "No. December has priority criteria involving an older household member or a disabled person receiving qualifying aging-services support."
+    ],
+    [
+      "Will last year’s approval carry over?",
+      "The county says there are no automatic approvals; check the new-season application instructions."
+    ],
+    [
+      "What if heating is already at risk?",
+      "Ask DSS about the separate Crisis Intervention Program rather than waiting for LIEAP’s seasonal window."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.co.stokes.nc.us/departments/low_income_energy_assistance_program_(lieap).php",
+      "https://policies.ncdhhs.gov/wp-content/uploads/DSS-8178-ia-Consolidated-Energy-Assistance-Program-Application.pdf"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

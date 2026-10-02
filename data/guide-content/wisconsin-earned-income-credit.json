@@ -1,0 +1,54 @@
+{
+  "status": "reviewed",
+  "description": "Wisconsin’s earned income credit is a refundable state tax benefit for qualifying working families with at least one child. Claim it on the Wisconsin income tax return for the",
+  "introduction": "Wisconsin’s earned income credit is a refundable state tax benefit for qualifying working families with at least one child. Claim it on the Wisconsin income tax return for the applicable year.",
+  "service_type": "tax",
+  "sections": {
+    "who": [
+      "For the published 2025 guidance, full-year Wisconsin residents meeting federal EIC requirements and having at least one qualifying child.",
+      "Married taxpayers generally must file jointly; a qualifying head-of-household exception has specific conditions.",
+      "Wisconsin Schedule I adjustments can change the federal credit amount used for the state calculation."
+    ],
+    "get": "<p>For tax year 2025, the state lists 4% of the federal credit for one child, 11% for two, and 34% for three or more. There is no Wisconsin credit for a worker without a qualifying child.</p>",
+    "docs": "<p>Prepare the federal return, earnings records and qualifying child information. Keep residency and child household records, and check whether Schedule I adjustments apply.</p>",
+    "apply": "<ol><li>Read DOR’s credit guidance for the year of your return.</li><li>Determine the federal EIC for Wisconsin purposes, including applicable Schedule I adjustments.</li><li>Claim the Wisconsin credit on the state income tax return.</li><li>Ask a qualified preparer about filing status or a competing child claim before submitting.</li></ol>",
+    "after": "<p>Save the calculations and returns. If federal credit or income information is corrected later, ask DOR or a preparer whether the Wisconsin return needs amendment. Do not reuse a 2025 table for a later year without checking current instructions.</p>",
+    "sources": "<ul><li><a href=\"https://www.revenue.wi.gov/Pages/FAQS/ise-eic.aspx\">DOR2025 earned income credit guidance</a></li><li><a href=\"https://usaassistance.org/programs/wisconsin-earned-income-credit/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can a worker without children claim the Wisconsin credit?",
+      "Not under the published 2025 guidance; it requires a qualifying child."
+    ],
+    [
+      "Is the credit refundable?",
+      "Yes."
+    ],
+    [
+      "Can a part-year resident claim it?",
+      "The published 2025 eligibility criteria require full-year Wisconsin residency."
+    ],
+    [
+      "Is the percentage the same for every family?",
+      "It depends on the number of qualifying children."
+    ],
+    [
+      "Can Schedule I change the calculation?",
+      "Yes; Wisconsin-law income adjustments can require recomputing the federal credit used."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "wisconsin-earned-income-credit",
+    "source_url": "https://usaassistance.org/programs/wisconsin-earned-income-credit/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.revenue.wi.gov/Pages/FAQS/ise-eic.aspx",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.revenue.wi.gov/Pages/FAQS/ise-eic.aspx"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

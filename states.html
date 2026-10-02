@@ -8,12 +8,14 @@
 <meta name="theme-color" content="#142d4c">
 <meta property="og:title" content="Browse assistance programs by state | Public Benefit Finder">
 <meta property="og:description" content="Browse food, housing, utility, health care and cash assistance programs by state.">
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
-<link rel="apple-touch-icon" href="apple-touch-icon-180.png">
-<link rel="stylesheet" href="css/tokens.css">
-<link rel="stylesheet" href="css/pbf-components.css">
-<link rel="stylesheet" href="css/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon-180.png">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="/css/pbf-components.css">
+<link rel="stylesheet" href="/css/site.css">
+<link rel="canonical" href="https://www.publicbenefitfinder.org/help/">
+<meta property="og:url" content="https://www.publicbenefitfinder.org/help/">
 </head>
 <body class="pbf">
 <a class="skip-link" href="#main">Skip to content</a>
@@ -27,30 +29,30 @@
 
 <header class="pbf-header">
 <div class="pbf-wrap">
-<a class="pbf-header__logo" href="/" aria-label="Public Benefit Finder home"><img src="logo-shield.svg" alt=""><span class="pbf-header__wordmark"><span>PUBLIC BENEFIT</span><span>FINDER</span></span></a>
+<a class="pbf-header__logo" href="/" aria-label="Public Benefit Finder home"><img src="/logo-shield.svg" alt=""><span class="pbf-header__wordmark"><span>PUBLIC BENEFIT</span><span>FINDER</span></span></a>
 <nav class="pbf-nav" aria-label="Main">
-<a href="programs.html">Program guides</a>
-<a href="states.html" aria-current="page">Browse by state</a>
+<a href="/programs/">Program guides</a>
+<a href="/help/" aria-current="page">Browse by state</a>
 <a href="/#how-it-works">How it works</a>
-<a href="about.html">About</a>
+<a href="/about/">About</a>
 </nav>
-<a class="pbf-btn pbf-btn--on-band pbf-btn--sm" href="find.html">Find help</a>
+<a class="pbf-btn pbf-btn--on-band pbf-btn--sm" href="/find/">Find help</a>
 <button class="pbf-menu-btn" type="button" aria-expanded="false" aria-controls="mobile-menu" data-menu-toggle><svg class="pbf-icon" viewBox="0 0 256 256" aria-hidden="true" focusable="false"><path d="M224,128a8,8,0,0,1-8,8H40a8,8,0,0,1,0-16H216A8,8,0,0,1,224,128ZM40,72H216a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16ZM216,184H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16Z"/></svg>Menu</button>
 </div>
 <nav class="home-menu" id="mobile-menu" aria-label="Main" data-open="false"><div class="pbf-wrap">
 <ul>
-<li><a href="programs.html">Program guides</a></li>
-<li><a href="states.html" aria-current="page">Browse by state</a></li>
+<li><a href="/programs/">Program guides</a></li>
+<li><a href="/help/" aria-current="page">Browse by state</a></li>
 <li><a href="/#how-it-works">How it works</a></li>
-<li><a href="about.html">About</a></li>
+<li><a href="/about/">About</a></li>
 </ul>
-<a class="pbf-btn pbf-btn--on-band" href="find.html">Find help</a>
+<a class="pbf-btn pbf-btn--on-band" href="/find/">Find help</a>
 </div></nav>
 </header>
 <div class="pbf-stripes" aria-hidden="true"></div>
 <div class="pbf-identity"><div class="pbf-wrap">
 <span>Independent information site. Not affiliated with a government agency.</span>
-<a href="about.html">About us</a>
+<a href="/about/">About us</a>
 </div></div>
 
 
@@ -59,30 +61,30 @@
 <nav class="site-bc" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Browse by state</li></ol></nav>
 <h1 class="site-h1">Browse programs by state</h1>
 <p class="site-lede">State agencies run many federal assistance programs, and names and rules can vary. Choose a state to see the programs and agencies listed here.</p>
-<form class="site-search" action="state-arizona.html">
+<form class="site-search" action="/help/" data-state-picker>
 <label class="pbf-label" for="state">Your state</label>
-<div class="site-where__row"><select class="pbf-input" id="state" name="state"><option value="">Choose your state</option><option>Alabama</option><option>Alaska</option><option>Arizona</option><option>Arkansas</option><option>California</option><option>Colorado</option><option>Connecticut</option><option>Delaware</option><option>District of Columbia</option><option>Florida</option><option>Georgia</option><option>Hawaii</option><option>Idaho</option><option>Illinois</option><option>Indiana</option><option>Iowa</option><option>Kansas</option><option>Kentucky</option><option>Louisiana</option><option>Maine</option><option>Maryland</option><option>Massachusetts</option><option>Michigan</option><option>Minnesota</option><option>Mississippi</option><option>Missouri</option><option>Montana</option><option>Nebraska</option><option>Nevada</option><option>New Hampshire</option><option>New Jersey</option><option>New Mexico</option><option>New York</option><option>North Carolina</option><option>North Dakota</option><option>Ohio</option><option>Oklahoma</option><option>Oregon</option><option>Pennsylvania</option><option>Rhode Island</option><option>South Carolina</option><option>South Dakota</option><option>Tennessee</option><option>Texas</option><option>Utah</option><option>Vermont</option><option>Virginia</option><option>Washington</option><option>West Virginia</option><option>Wisconsin</option><option>Wyoming</option></select><button class="pbf-btn pbf-btn--primary" type="submit">Go</button></div>
+<div class="site-where__row"><select class="pbf-input" id="state" name="state"><option value="">Choose your state</option><option value="alabama">Alabama</option><option value="alaska">Alaska</option><option value="arizona">Arizona</option><option value="arkansas">Arkansas</option><option value="california">California</option><option value="colorado">Colorado</option><option value="connecticut">Connecticut</option><option value="delaware">Delaware</option><option value="washington-dc">District of Columbia</option><option value="florida">Florida</option><option value="georgia">Georgia</option><option value="hawaii">Hawaii</option><option value="idaho">Idaho</option><option value="illinois">Illinois</option><option value="indiana">Indiana</option><option value="iowa">Iowa</option><option value="kansas">Kansas</option><option value="kentucky">Kentucky</option><option value="louisiana">Louisiana</option><option value="maine">Maine</option><option value="maryland">Maryland</option><option value="massachusetts">Massachusetts</option><option value="michigan">Michigan</option><option value="minnesota">Minnesota</option><option value="mississippi">Mississippi</option><option value="missouri">Missouri</option><option value="montana">Montana</option><option value="nebraska">Nebraska</option><option value="nevada">Nevada</option><option value="new-hampshire">New Hampshire</option><option value="new-jersey">New Jersey</option><option value="new-mexico">New Mexico</option><option value="new-york">New York</option><option value="north-carolina">North Carolina</option><option value="north-dakota">North Dakota</option><option value="ohio">Ohio</option><option value="oklahoma">Oklahoma</option><option value="oregon">Oregon</option><option value="pennsylvania">Pennsylvania</option><option value="rhode-island">Rhode Island</option><option value="south-carolina">South Carolina</option><option value="south-dakota">South Dakota</option><option value="tennessee">Tennessee</option><option value="texas">Texas</option><option value="utah">Utah</option><option value="vermont">Vermont</option><option value="virginia">Virginia</option><option value="washington">Washington</option><option value="west-virginia">West Virginia</option><option value="wisconsin">Wisconsin</option><option value="wyoming">Wyoming</option></select><button class="pbf-btn pbf-btn--primary" type="submit">Go</button></div>
 </form>
 </div></section>
 <section class="site-body"><div class="pbf-wrap">
 <h2 class="pbf-h2 site-az__title">All states and D.C.</h2>
-<div class="site-az"><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">A</h2><ul><li><a href="state-arizona.html">Alabama</a></li><li><a href="state-arizona.html">Alaska</a></li><li><a href="state-arizona.html">Arizona</a></li><li><a href="state-arizona.html">Arkansas</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">C</h2><ul><li><a href="state-arizona.html">California</a></li><li><a href="state-arizona.html">Colorado</a></li><li><a href="state-arizona.html">Connecticut</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">D</h2><ul><li><a href="state-arizona.html">Delaware</a></li><li><a href="state-arizona.html">District of Columbia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">F</h2><ul><li><a href="state-arizona.html">Florida</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">G</h2><ul><li><a href="state-arizona.html">Georgia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">H</h2><ul><li><a href="state-arizona.html">Hawaii</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">I</h2><ul><li><a href="state-arizona.html">Idaho</a></li><li><a href="state-arizona.html">Illinois</a></li><li><a href="state-arizona.html">Indiana</a></li><li><a href="state-arizona.html">Iowa</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">K</h2><ul><li><a href="state-arizona.html">Kansas</a></li><li><a href="state-arizona.html">Kentucky</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">L</h2><ul><li><a href="state-arizona.html">Louisiana</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">M</h2><ul><li><a href="state-arizona.html">Maine</a></li><li><a href="state-arizona.html">Maryland</a></li><li><a href="state-arizona.html">Massachusetts</a></li><li><a href="state-arizona.html">Michigan</a></li><li><a href="state-arizona.html">Minnesota</a></li><li><a href="state-arizona.html">Mississippi</a></li><li><a href="state-arizona.html">Missouri</a></li><li><a href="state-arizona.html">Montana</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">N</h2><ul><li><a href="state-arizona.html">Nebraska</a></li><li><a href="state-arizona.html">Nevada</a></li><li><a href="state-arizona.html">New Hampshire</a></li><li><a href="state-arizona.html">New Jersey</a></li><li><a href="state-arizona.html">New Mexico</a></li><li><a href="state-arizona.html">New York</a></li><li><a href="state-arizona.html">North Carolina</a></li><li><a href="state-arizona.html">North Dakota</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">O</h2><ul><li><a href="state-arizona.html">Ohio</a></li><li><a href="state-arizona.html">Oklahoma</a></li><li><a href="state-arizona.html">Oregon</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">P</h2><ul><li><a href="state-arizona.html">Pennsylvania</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">R</h2><ul><li><a href="state-arizona.html">Rhode Island</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">S</h2><ul><li><a href="state-arizona.html">South Carolina</a></li><li><a href="state-arizona.html">South Dakota</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">T</h2><ul><li><a href="state-arizona.html">Tennessee</a></li><li><a href="state-arizona.html">Texas</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">U</h2><ul><li><a href="state-arizona.html">Utah</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">V</h2><ul><li><a href="state-arizona.html">Vermont</a></li><li><a href="state-arizona.html">Virginia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">W</h2><ul><li><a href="state-arizona.html">Washington</a></li><li><a href="state-arizona.html">West Virginia</a></li><li><a href="state-arizona.html">Wisconsin</a></li><li><a href="state-arizona.html">Wyoming</a></li></ul></div></div>
+<div class="site-az"><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">A</h2><ul><li><a href="/help/alabama/">Alabama</a></li><li><a href="/help/alaska/">Alaska</a></li><li><a href="/help/arizona/">Arizona</a></li><li><a href="/help/arkansas/">Arkansas</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">C</h2><ul><li><a href="/help/california/">California</a></li><li><a href="/help/colorado/">Colorado</a></li><li><a href="/help/connecticut/">Connecticut</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">D</h2><ul><li><a href="/help/delaware/">Delaware</a></li><li><a href="/help/washington-dc/">District of Columbia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">F</h2><ul><li><a href="/help/florida/">Florida</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">G</h2><ul><li><a href="/help/georgia/">Georgia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">H</h2><ul><li><a href="/help/hawaii/">Hawaii</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">I</h2><ul><li><a href="/help/idaho/">Idaho</a></li><li><a href="/help/illinois/">Illinois</a></li><li><a href="/help/indiana/">Indiana</a></li><li><a href="/help/iowa/">Iowa</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">K</h2><ul><li><a href="/help/kansas/">Kansas</a></li><li><a href="/help/kentucky/">Kentucky</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">L</h2><ul><li><a href="/help/louisiana/">Louisiana</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">M</h2><ul><li><a href="/help/maine/">Maine</a></li><li><a href="/help/maryland/">Maryland</a></li><li><a href="/help/massachusetts/">Massachusetts</a></li><li><a href="/help/michigan/">Michigan</a></li><li><a href="/help/minnesota/">Minnesota</a></li><li><a href="/help/mississippi/">Mississippi</a></li><li><a href="/help/missouri/">Missouri</a></li><li><a href="/help/montana/">Montana</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">N</h2><ul><li><a href="/help/nebraska/">Nebraska</a></li><li><a href="/help/nevada/">Nevada</a></li><li><a href="/help/new-hampshire/">New Hampshire</a></li><li><a href="/help/new-jersey/">New Jersey</a></li><li><a href="/help/new-mexico/">New Mexico</a></li><li><a href="/help/new-york/">New York</a></li><li><a href="/help/north-carolina/">North Carolina</a></li><li><a href="/help/north-dakota/">North Dakota</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">O</h2><ul><li><a href="/help/ohio/">Ohio</a></li><li><a href="/help/oklahoma/">Oklahoma</a></li><li><a href="/help/oregon/">Oregon</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">P</h2><ul><li><a href="/help/pennsylvania/">Pennsylvania</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">R</h2><ul><li><a href="/help/rhode-island/">Rhode Island</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">S</h2><ul><li><a href="/help/south-carolina/">South Carolina</a></li><li><a href="/help/south-dakota/">South Dakota</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">T</h2><ul><li><a href="/help/tennessee/">Tennessee</a></li><li><a href="/help/texas/">Texas</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">U</h2><ul><li><a href="/help/utah/">Utah</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">V</h2><ul><li><a href="/help/vermont/">Vermont</a></li><li><a href="/help/virginia/">Virginia</a></li></ul></div><div class="site-az__group"><h2 class="site-az__letter" aria-hidden="true">W</h2><ul><li><a href="/help/washington/">Washington</a></li><li><a href="/help/west-virginia/">West Virginia</a></li><li><a href="/help/wisconsin/">Wisconsin</a></li><li><a href="/help/wyoming/">Wyoming</a></li></ul></div></div>
 </div></section>
 </main>
 <footer class="pbf-footer"><div class="pbf-wrap">
 <div class="pbf-footer__top">
 <div class="pbf-footer__brand">
-<a href="/" aria-label="Public Benefit Finder home"><img src="logo-shield.svg" alt=""><span class="pbf-footer__wordmark"><span>PUBLIC BENEFIT</span><span>FINDER</span></span></a>
+<a href="/" aria-label="Public Benefit Finder home"><img src="/logo-shield.svg" alt=""><span class="pbf-footer__wordmark"><span>PUBLIC BENEFIT</span><span>FINDER</span></span></a>
 <p>Clear, reliable guidance to assistance programs across America.</p><div class="pbf-footer__verified"><span aria-hidden="true">✓</span>Information from trusted sources</div>
 </div>
-<nav aria-labelledby="f-find"><h2 id="f-find">Find help</h2><ul><li><a href="find.html">Find help</a></li><li><a href="states.html">Browse by state</a></li><li><a href="programs.html">Program guides</a></li></ul></nav>
-<nav aria-labelledby="f-about"><h2 id="f-about">About</h2><ul><li><a href="about.html">Our mission</a></li><li><a href="/#how-it-works">How it works</a></li><li><a href="about.html#contact">Contact us</a></li></ul></nav>
+<nav aria-labelledby="f-find"><h2 id="f-find">Find help</h2><ul><li><a href="/find/">Find help</a></li><li><a href="/help/">Browse by state</a></li><li><a href="/programs/">Program guides</a></li></ul></nav>
+<nav aria-labelledby="f-about"><h2 id="f-about">About</h2><ul><li><a href="/about/">Our mission</a></li><li><a href="/#how-it-works">How it works</a></li><li><a href="/about/#contact">Contact us</a></li></ul></nav>
 </div>
 <div class="pbf-footer__base"><span>Public Benefit Finder is an independent information site. We are not affiliated with a government agency, do not process applications and do not decide eligibility. Program agencies set their own rules and make all eligibility decisions. Contact the agency for current information.</span>
 <span>© 2026 Public Benefit Finder &nbsp; <a href="#">Privacy</a> &nbsp; <a href="#">Terms</a></span></div>
 </div></footer>
-<script src="js/pbf.js"></script>
-<script src="js/site.js"></script>
+<script src="/js/pbf.js"></script>
+<script src="/js/site.js"></script>
 
 </body>
 </html>

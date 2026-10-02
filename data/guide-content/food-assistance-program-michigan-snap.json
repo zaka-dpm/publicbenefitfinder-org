@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Michigan’s Food Assistance Program is SNAP. Apply and manage the case through MI Bridges; approved benefits use the Bridge Card.",
+  "description": "Michigan’s Food Assistance Program is SNAP. Apply and manage the case through MI Bridges; approved benefits use the Bridge Card.",
+  "sections": {
+    "who": "<p>MDHHS assesses household finances and applicable student, status and work rules. People living together who purchase and prepare food together generally form a household group.</p>",
+    "get": "<p>SNAP supplements grocery costs at approved retailers. The amount depends on the eligible household and calculation.</p>",
+    "docs": "<ul><li>Identity and income records.</li><li>Household composition and address information.</li><li>Housing, utility, care or eligible medical expenses relevant to the case.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through MI Bridges</h3><p>Use the application link on <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/food\">MDHHS Food Assistance</a>.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>Respond to interview and verification requests. Explain urgent food needs.</p></li><li><h3 class=\"pbf-h3\">Keep the account current</h3><p>Report required changes and read renewal tasks in MI Bridges.</p></li></ol>",
+    "after": "<p>The state announces upgraded Bridge Cards later in 2026. Keep the mailing address current so replacement information reaches you.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.michigan.gov/mdhhs/assistance-programs/food\">Michigan SNAP overview and application</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I work and apply?",
+      "The agency assesses income and other eligibility conditions; employment alone does not answer eligibility."
+    ],
+    [
+      "Where do I report a new address?",
+      "Use Report Changes in MI Bridges."
+    ],
+    [
+      "Do all adults face the same work rules?",
+      "No. Review current rules and exemptions with MDHHS."
+    ],
+    [
+      "Is the Bridge Card the application?",
+      "No. It is the benefit card issued after approval."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.michigan.gov/mdhhs/assistance-programs/food"
+    ],
+    "background_source": "https://usaassistance.org/programs/food-assistance-program-michigan-snap/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

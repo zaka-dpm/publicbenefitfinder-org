@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Texas SNAP applications use Your Texas Benefits or a paper H1010 form. Explain who purchases and prepares food together so HHS can assess the correct household.",
+  "description": "Texas SNAP applications use Your Texas Benefits or a paper H1010 form. Explain who purchases and prepares food together so HHS can assess the correct household.",
+  "sections": {
+    "who": "<p>HHS reviews household finances and program conditions. Required household members can affect the application even if food arrangements differ.</p>",
+    "get": "<p>Approved food benefits are issued on a Lone Star Card.</p>",
+    "docs": "<ul><li>Income and household information.</li><li>Identity and residence evidence.</li><li>Requested expense and resource verification.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit an application</h3><p>Use <a href=\"https://www.yourtexasbenefits.com/\">Your Texas Benefits</a> or request H1010 through HHS.</p></li><li><h3 class=\"pbf-h3\">Complete requested review</h3><p>Answer interview and verification requests.</p></li><li><h3 class=\"pbf-h3\">Read the notice</h3><p>Check the decision and case-reporting instructions.</p></li></ol>",
+    "after": "<p>Keep submission confirmation and respond to HHS messages. Review renewal dates on your case notice.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-230-supplemental-nutrition-assistance-program\">SNAP household policy</a>, <a href=\"https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-110-application-procedures\">Application methods</a>, <a href=\"https://familyresources.texas.gov/family-care-support/applying-for-benefits\">Lone Star benefit description</a>. <a href=\"https://usaassistance.org/programs/snap-food-benefits-lone-star-card/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Must an interview happen before filing?",
+      "HHS policy allows filing before the interview."
+    ],
+    [
+      "Can I submit paper records?",
+      "HHS lists office, mail and fax submission as alternatives to online intake."
+    ],
+    [
+      "Are roommates always one household?",
+      "Food purchasing and preparation matter, but mandatory-member rules also apply."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-230-supplemental-nutrition-assistance-program",
+      "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/a-110-application-procedures",
+      "https://familyresources.texas.gov/family-care-support/applying-for-benefits"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

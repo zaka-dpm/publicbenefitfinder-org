@@ -1,0 +1,43 @@
+{
+  "status": "reviewed",
+  "introduction": "Minnesota unemployment insurance provides temporary partial wage replacement for eligible workers who lose work or have substantially reduced hours.",
+  "description": "Minnesota unemployment insurance provides temporary partial wage replacement for eligible workers who lose work or have substantially reduced hours.",
+  "sections": {
+    "who": "<p>DEED reviews work history and eligibility. Weekly requirements continue after the initial claim.</p>",
+    "get": "<p>The benefit-account determination shows the calculated amount; a separate eligibility decision may also be needed.</p>",
+    "docs": "<ul><li>Employment and separation information.</li><li>Identity and contact details.</li><li>Records needed for weekly payment requests.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Use the current site</h3><p>Go to <a href=\"https://ui.mn.gov/applicants/\">ui.mn.gov</a>. It replaced uimn.org; existing login details still work.</p></li><li><h3 class=\"pbf-h3\">Apply for benefits</h3><p>Complete the application and review all notices in the account.</p></li><li><h3 class=\"pbf-h3\">Request weekly payments</h3><p>Follow the payment-request instructions and accurately report work and earnings.</p></li></ol>",
+    "after": "<p>Read eligibility decisions and requests promptly. An account calculation alone does not establish payable eligibility.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.uimn.org/applicants/needtoknow/news-updates/new-website.jsp\">Current UI website notice</a>; <a href=\"https://ui.mn.gov/applicants/howapply/application-process/index.jsp\">Application process</a>; <a href=\"https://ui.mn.gov/applicants/index.jsp\">Applicant information</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Has the website changed?",
+      "Yes. The current address is ui.mn.gov."
+    ],
+    [
+      "Do I need a new account because of the change?",
+      "No. Existing login information still works."
+    ],
+    [
+      "Can reduced hours qualify?",
+      "DEED invites workers with greatly reduced hours to apply."
+    ],
+    [
+      "Does the initial claim request every weekly payment?",
+      "No. Follow the weekly payment-request process."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.uimn.org/applicants/needtoknow/news-updates/new-website.jsp",
+      "https://ui.mn.gov/applicants/howapply/application-process/index.jsp",
+      "https://ui.mn.gov/applicants/index.jsp"
+    ],
+    "background_source": "https://usaassistance.org/programs/unemployment-insurance-minnesota/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

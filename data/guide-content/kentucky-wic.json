@@ -1,0 +1,50 @@
+{
+  "status": "reviewed",
+  "description": "Kentucky WIC provides nutrition support for pregnant, postpartum and breastfeeding participants, infants and children younger than five. Enrollment is handled through local WI",
+  "introduction": "Kentucky WIC provides nutrition support for pregnant, postpartum and breastfeeding participants, infants and children younger than five. Enrollment is handled through local WIC clinics.",
+  "service_type": "wic",
+  "sections": {
+    "who": [
+      "Applicants must live in Kentucky, fall within an eligible WIC category and meet income and nutrition-screening requirements.",
+      "Proof of SNAP, KTAP or Medicaid can establish income eligibility in the circumstances listed in Kentucky’s application instructions. The clinic still completes the other checks."
+    ],
+    "get": "<p>WIC offers specific nutritious foods, nutrition education, breastfeeding support and referrals. The clinic selects the food package for the participant; it is not an unrestricted grocery payment.</p>",
+    "docs": "<p>Bring identification and Kentucky residency proof. Prepare household income records or qualifying benefit proof. Ask the clinic what to bring for the child or pregnancy appointment and whether the participant must attend.</p>",
+    "apply": "<ol><li>Contact your local health department using the directory linked from <a href=\"https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx\">Kentucky WIC</a>.</li><li>Request a WIC eligibility appointment and the current document checklist.</li><li>Complete the income review and health-and-diet screening. Ask for free language assistance if needed.</li></ol>",
+    "after": "<p>Keep clinic appointments and ask how to use the food benefits and shopper app. Check approved foods before shopping. Tell the clinic about feeding concerns or trouble accessing an item; do not substitute an unapproved product without guidance.</p>",
+    "sources": "<ul><li><a href=\"https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx\">Kentucky WIC</a></li><li><a href=\"https://www.chfs.ky.gov/agencies/dph/dmch/nsb/wnm/HowtoapplyforWIC.pdf\">Kentucky WIC application instructions</a></li><li><a href=\"https://usaassistance.org/programs/kentucky-wic/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does SNAP enrollment automatically finish WIC enrollment?",
+      "No. It can help establish income eligibility, but WIC also checks category, residency and nutrition risk."
+    ],
+    [
+      "Can I get breastfeeding help?",
+      "Yes. Kentucky WIC offers breastfeeding support, including designated breastfeeding experts. Ask your clinic how to reach them."
+    ],
+    [
+      "Is help available in another language?",
+      "Free language assistance can be requested through the clinic or state WIC office at 877-597-0367."
+    ],
+    [
+      "Where do I apply?",
+      "Start with the WIC program at your local health department. The state website links to the department directory."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "kentucky-wic",
+    "source_url": "https://usaassistance.org/programs/kentucky-wic/",
+    "source_updated": "August 2026",
+    "primary_url": "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx",
+    "primary_retrieved": false,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/Pages/wic.aspx",
+      "https://www.chfs.ky.gov/agencies/dph/dmch/nsb/wnm/HowtoapplyforWIC.pdf"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

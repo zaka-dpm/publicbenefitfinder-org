@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Missouri weatherization improves efficiency in eligible homes. Local agencies handle applications, audits and installation.",
+  "description": "Missouri weatherization improves efficiency in eligible homes. Local agencies handle applications, audits and installation.",
+  "sections": {
+    "who": "<p>The local agency verifies eligibility using income documentation and applicable rules. Confirm renter and property conditions.</p>",
+    "get": "<p>An energy audit identifies work producing suitable energy savings. It is not a general renovation grant.</p>",
+    "docs": "<ul><li>Income records.</li><li>Energy bills.</li><li>Homeownership or landlord information requested.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Find your agency</h3><p>Use <a href=\"https://dnr.mo.gov/energy/weatherization/local-agencies\">DNR’s local agency directory</a>.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Submit the agency’s forms and income proof.</p></li><li><h3 class=\"pbf-h3\">Arrange the audit</h3><p>After eligibility review, an auditor assesses the home.</p></li></ol>",
+    "after": "<p>A quality-control inspector checks completed work. Ask about waiting lists.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://dnr.mo.gov/energy/weatherization/low-income-assistance\">Missouri weatherization process</a>; <a href=\"https://dnr.mo.gov/energy/weatherization/local-agencies\">Local agencies</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Do I apply directly to a contractor?",
+      "Start with the designated local agency."
+    ],
+    [
+      "Who decides the measures?",
+      "The agency uses an energy audit."
+    ],
+    [
+      "Is work checked afterward?",
+      "Yes, through quality-control inspection."
+    ],
+    [
+      "Are dollar income limits permanent?",
+      "Ask for current guidelines."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://dnr.mo.gov/energy/weatherization/low-income-assistance",
+      "https://dnr.mo.gov/energy/weatherization/local-agencies"
+    ],
+    "background_source": "https://usaassistance.org/programs/weatherization-assistance-program-missouri/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

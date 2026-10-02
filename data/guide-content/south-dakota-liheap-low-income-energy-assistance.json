@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota energy assistance accepts online or paper applications. Make sure the household application has the required adult signatures.",
+  "description": "South Dakota energy assistance accepts online or paper applications. Make sure the household application has the required adult signatures.",
+  "sections": {
+    "who": "<p>The state reviews income, household size and responsibility for heating costs.</p>",
+    "get": "<p>Approved heating payments go to the energy supplier.</p>",
+    "docs": "<ul><li>Prior three calendar months of household income.</li><li>Heating and electric bills or landlord heating statement.</li><li>Required adult signatures.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through DSS</h3><p>Use <a href=\"https://dss.sd.gov/economicassistance/energy_weatherization_assistance.aspx\">the energy application links</a>.</p></li><li><h3 class=\"pbf-h3\">Provide records</h3><p>Submit income and heating evidence using the agency instructions.</p></li><li><h3 class=\"pbf-h3\">Flag a crisis</h3><p>Call 800-233-8503 about a disconnect notice or fuel shortage.</p></li></ol>",
+    "after": "<p>Watch mailed decisions and document requests; use the agency status option if needed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dss.sd.gov/economicassistance/energy_weatherization_assistance.aspx\">Heating assistance and crisis intake</a>. <a href=\"https://usaassistance.org/programs/south-dakota-liheap-low-income-energy-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Who receives the payment?",
+      "The state pays the energy supplier."
+    ],
+    [
+      "What if heat is in my rent?",
+      "The checklist accepts a landlord statement explaining heating charges."
+    ],
+    [
+      "Should I mention a disconnect notice?",
+      "Yes. Contact the energy office about crisis screening."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dss.sd.gov/economicassistance/energy_weatherization_assistance.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

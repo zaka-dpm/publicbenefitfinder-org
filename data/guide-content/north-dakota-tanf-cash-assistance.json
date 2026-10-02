@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "North Dakota TANF supports qualifying families with dependent children. The Self-Service Portal and paper application routes begin the state’s eligibility review.",
+  "description": "North Dakota TANF supports qualifying families with dependent children. The Self-Service Portal and paper application routes begin the state’s eligibility review.",
+  "sections": {
+    "who": "<p>The state considers income, resources, children’s ages, caregiver relationships and deprivation conditions. Some pregnancy situations may qualify.</p>",
+    "get": "<p>Approved cash is delivered through an Electronic Payment Card. Eligible participants may also receive employment-related help through JOBS.</p>",
+    "docs": "<ul><li>Identity, residence and children’s ages.</li><li>Caregiver relationship records.</li><li>Current and previous-month income, requested assets and allowable expenses.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply for TANF</h3><p>Use <a href=\"https://www.hhs.nd.gov/applyforhelp/tanf\">the state application options</a> or request a mailed form.</p></li><li><h3 class=\"pbf-h3\">Complete the case review</h3><p>Respond to the eligibility worker’s requests and explain caregiving, school and employment circumstances.</p></li><li><h3 class=\"pbf-h3\">Discuss participation</h3><p>Ask about any JOBS or child-support cooperation requirement and how to report a barrier or safety concern.</p></li></ol>",
+    "after": "<p>Review the cash decision and participation plan separately. Keep records of required activities and report changes as instructed.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://www.hhs.nd.gov/applyforhelp/tanf\">TANF categories, documents and application</a>. <a href=\"https://usaassistance.org/programs/north-dakota-tanf-cash-assistance/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is the cash card the SNAP food card?",
+      "The state identifies TANF delivery through an Electronic Payment Card."
+    ],
+    [
+      "Can an older teenager count?",
+      "The state includes a school and expected-graduation condition for certain children approaching age 19."
+    ],
+    [
+      "Where can I ask about missing records?",
+      "The Customer Support Center lists 866-614-6005 and applyforhelp@nd.gov."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://www.hhs.nd.gov/applyforhelp/tanf"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

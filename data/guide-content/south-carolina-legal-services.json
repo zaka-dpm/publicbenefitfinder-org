@@ -1,0 +1,36 @@
+{
+  "status": "reviewed",
+  "introduction": "South Carolina Legal Services screens requests for free civil legal help. Apply online or use its statewide telephone intake line.",
+  "description": "South Carolina Legal Services screens requests for free civil legal help. Apply online or use its statewide telephone intake line.",
+  "sections": {
+    "who": "<p>Eligibility depends on income, assets and the legal issue. Special grants can affect the financial screening. The provider does not handle criminal cases.</p>",
+    "get": "<p>SCLS assesses whether legal assistance is available for the qualifying civil matter.</p>",
+    "docs": "<ul><li>Household finances.</li><li>Parties’ names and contact information.</li><li>Court papers, notices and approaching dates.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Start intake</h3><p>Use <a href=\"https://sclegal.org/services/\">SCLS intake instructions</a> or call 888-346-5592 Monday–Thursday, 9 a.m.–6 p.m.</p></li><li><h3 class=\"pbf-h3\">Explain your issue</h3><p>Tell staff about deadlines and provide requested evidence.</p></li><li><h3 class=\"pbf-h3\">Clarify the next step</h3><p>Ask whether your case has been accepted and how the local office will contact you.</p></li></ol>",
+    "after": "<p>Keep copies and follow court instructions while intake is pending.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://sclegal.org/services/\">SCLS eligibility and intake</a>. <a href=\"https://usaassistance.org/programs/south-carolina-legal-services/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does SCLS defend criminal charges?",
+      "No. It describes civil, non-criminal assistance."
+    ],
+    [
+      "Is telephone intake legal advice?",
+      "The provider says it does not give legal advice over that intake line."
+    ],
+    [
+      "What if I need a language other than English or Spanish?",
+      "The provider directs you to contact a local SCLS office."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://sclegal.org/services/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

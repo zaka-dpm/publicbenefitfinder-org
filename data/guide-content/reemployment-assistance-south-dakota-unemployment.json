@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "South Dakota calls unemployment insurance Reemployment Assistance. Apply through the RA Benefits Portal or the Claims Call Center, then request payments weekly.",
+  "description": "South Dakota calls unemployment insurance Reemployment Assistance. Apply through the RA Benefits Portal or the Claims Call Center, then request payments weekly.",
+  "sections": {
+    "who": "<p>DLR assesses covered earnings, job loss and ongoing ability and availability for full-time work. It describes the benefit as employment insurance rather than financial-need assistance.</p>",
+    "get": "<p>Eligible claimed weeks receive temporary payments after the waiting week.</p>",
+    "docs": "<ul><li>Identity and employment information.</li><li>Employer and separation details.</li><li>Weekly earnings and work-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">File the initial claim</h3><p>Use <a href=\"https://dlr.sd.gov/ra/individuals/default.aspx\">the portal link</a> or call 605-626-3179 during published weekday hours.</p></li><li><h3 class=\"pbf-h3\">Monitor correspondence</h3><p>Complete assigned verification and work-registration steps.</p></li><li><h3 class=\"pbf-h3\">Request each week</h3><p>Use the portal or automated 605-626-3212 route after the week ends.</p></li></ol>",
+    "after": "<p>Keep filing eligible weeks while awaiting a decision or appeal. Save the request confirmation and report gross earnings accurately.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dlr.sd.gov/ra/individuals/default.aspx\">Initial claim and eligibility overview</a>, <a href=\"https://dlr.sd.gov/ra/individuals/file_weekly_request_for_payment.aspx\">Weekly payment requests</a>. <a href=\"https://usaassistance.org/programs/reemployment-assistance-south-dakota-unemployment/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Should I wait for approval before weekly filing?",
+      "No. DLR says to file weekly requests while eligibility is pending or a denial is being appealed."
+    ],
+    [
+      "How do I know a weekly request was filed?",
+      "The state says a request without confirmation has not been filed."
+    ],
+    [
+      "Is the first eligible week paid?",
+      "The first eligible weekly request is the unpaid waiting week."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dlr.sd.gov/ra/individuals/default.aspx",
+      "https://dlr.sd.gov/ra/individuals/file_weekly_request_for_payment.aspx"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

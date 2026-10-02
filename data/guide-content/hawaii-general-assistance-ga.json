@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Hawaiʻi General Assistance is a temporary cash program for certain adults with a disabling condition and little or no income. DHS uses a medical assessment as well as financial eligibility checks.",
+  "description": "Hawaiʻi General Assistance is a temporary cash program for certain adults with a disabling condition and little or no income. DHS uses a medical assessment as well as financia",
+  "sections": {
+    "who": "<p>The state describes adults aged 18–64 without minor dependents who are temporarily disabled, do not qualify for Social Security and do not qualify under a federal assistance category. A DHS medical board must certify inability to undertake substantial employment of at least 30 hours weekly for at least 60 days. Asset rules also apply.</p>",
+    "get": "<p>GA helps with essentials such as food, clothing and shelter. State funding is limited, and the benefit amount can change during the year.</p>",
+    "docs": "<ul><li>Prepare income, asset and household information.</li><li>Have available medical records and the treating provider’s contact details.</li><li>Ask DHS what medical certification forms and identity records are needed for your case.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Ask about a financial-assistance application</h3><p>Use the DHS BESSD contact route or call 1-855-643-1643. State clearly that you are asking about General Assistance.</p></li><li><h3 class=\"pbf-h3\">Explain the disability and household</h3><p>Describe the condition, work limitations and whether any minor dependents live with you.</p></li><li><h3 class=\"pbf-h3\">Complete the agency’s medical review</h3><p>Provide the requested records and follow the instructions for the DHS medical-board assessment.</p></li></ol>",
+    "after": "<p>Keep benefit notices and respond to medical or financial review requests. Ask DHS about a different assistance category if your household or disability circumstances change.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://humanservices.hawaii.gov/bessd/ga/\">Hawaiʻi GA eligibility overview</a>, <a href=\"https://humanservices.hawaii.gov/bessd/\">BESSD contact and program information</a>. <a href=\"https://usaassistance.org/programs/hawaii-general-assistance-ga/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Is having no job enough to qualify?",
+      "No. GA has disability, age, household and financial requirements, including DHS medical certification."
+    ],
+    [
+      "Can the monthly amount change?",
+      "Yes. DHS says the program’s annual funding can require benefit adjustments."
+    ],
+    [
+      "Is GA intended for families with minor children?",
+      "The published GA category is for adults without minor dependents. Ask DHS about the appropriate family program."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://humanservices.hawaii.gov/bessd/ga/",
+      "https://humanservices.hawaii.gov/bessd/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Nebraska unemployment claims are filed through NEworks. A weekly claim is required for each week you request benefits or waiting-week credit, even while an eligibility issue remains pending.",
+  "description": "Nebraska unemployment claims are filed through NEworks. A weekly claim is required for each week you request benefits or waiting-week credit, even while an eligibility issue r",
+  "sections": {
+    "who": "<p>The Department of Labor reviews covered wages, job separation or reduced hours and continuing eligibility. NEworks registration and the applicable reemployment requirements are part of the process.</p>",
+    "get": "<p>Approved claimants receive temporary benefit payments. The amount and case status are shown in the NEworks claim summary.</p>",
+    "docs": "<ul><li>Identity and Social Security information.</li><li>Employment dates, wage details and employer contacts.</li><li>Records of reemployment activity and gross earnings for each claimed week.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Register and file</h3><p>Start with <a href=\"https://dol.nebraska.gov/UIBenefits/Claims/FAQ\">NDOL’s application instructions</a> and access NEworks.</p></li><li><h3 class=\"pbf-h3\">Complete the claim review</h3><p>Answer the wage and separation questions and read requests for further information.</p></li><li><h3 class=\"pbf-h3\">Claim each week</h3><p>File for the preceding week during the published Sunday–Saturday window. Follow the reemployment instructions applicable to you.</p></li></ol>",
+    "after": "<p>Report gross earnings for the week in which the work was performed, even if paid later. Continue weekly filing while the agency resolves eligibility or an appeal.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://dol.nebraska.gov/UIBenefits/Claims/FAQ\">NDOL application route</a>, <a href=\"https://dol.nebraska.gov/UIBenefits/Claims/FAQ/WeeklyClaims\">Weekly claim requirements</a>, <a href=\"https://dol.nebraska.gov/UIBenefits/UIBenefitsOverview/WeeklyClaim\">Reporting weekly earnings</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-nebraska/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Do I file weekly while the initial claim is pending?",
+      "NDOL says yes, for each week you want payment or waiting-week credit."
+    ],
+    [
+      "Where do I see my award?",
+      "The agency points to the NEworks Unemployment Services Claim Summary."
+    ],
+    [
+      "When do I report earnings?",
+      "Report gross wages for the week the work was performed, not just the later payday."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://dol.nebraska.gov/UIBenefits/Claims/FAQ",
+      "https://dol.nebraska.gov/UIBenefits/Claims/FAQ/WeeklyClaims",
+      "https://dol.nebraska.gov/UIBenefits/UIBenefitsOverview/WeeklyClaim"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

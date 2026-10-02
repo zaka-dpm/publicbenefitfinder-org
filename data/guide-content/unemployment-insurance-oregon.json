@@ -1,0 +1,38 @@
+{
+  "status": "reviewed",
+  "introduction": "Oregon unemployment applications and weekly claims use Frances Online. Complete the initial application before requesting individual weeks.",
+  "description": "Oregon unemployment applications and weekly claims use Frances Online. Complete the initial application before requesting individual weeks.",
+  "sections": {
+    "who": "<p>The Employment Department reviews covered work, separation circumstances and ongoing eligibility. Follow the ability, availability and work-search instructions for your claim.</p>",
+    "get": "<p>Approved benefits cover eligible claimed weeks. The system provides claim-status messages and a way to contact the agency.</p>",
+    "docs": "<ul><li>Identity and employment records.</li><li>Employer details and separation information.</li><li>Weekly earnings, availability and work-search records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Apply through Frances</h3><p>Use <a href=\"https://unemployment.oregon.gov/file-a-claim\">the state filing guide</a> to reach the claimant system.</p></li><li><h3 class=\"pbf-h3\">Keep the confirmation</h3><p>The agency sends a confirmation email after online submission. Check account requests.</p></li><li><h3 class=\"pbf-h3\">File weekly claims</h3><p>Use the weekly claim guide and accurately report that week’s circumstances.</p></li></ol>",
+    "after": "<p>Monitor Frances messages and complete employment-service registration when instructed. Send a portal message if you need to correct a filing error.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://unemployment.oregon.gov/file-a-claim\">Initial filing guide</a>, <a href=\"https://unemployment.oregon.gov/frances/weekly-claim\">Weekly filing guide</a>, <a href=\"https://unemployment.oregon.gov/frances\">Frances account and corrections</a>. <a href=\"https://usaassistance.org/programs/unemployment-insurance-oregon/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does the application request every later week?",
+      "No. Weekly claims are separate."
+    ],
+    [
+      "Where can I correct an error?",
+      "The agency directs you to message through Frances Online."
+    ],
+    [
+      "Is Frances used for other programs too?",
+      "It also supports Paid Leave Oregon; select the unemployment claim route for unemployment benefits."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://unemployment.oregon.gov/file-a-claim",
+      "https://unemployment.oregon.gov/frances/weekly-claim",
+      "https://unemployment.oregon.gov/frances"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

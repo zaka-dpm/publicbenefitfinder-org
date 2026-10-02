@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "Vermont 211 connects residents with community resources for food, shelter, transport and other needs. Current live referral hours are 8 a.m. to 10 p.m. daily.",
+  "description": "Vermont 211 connects residents with community resources for food, shelter, transport and other needs. Current live referral hours are 8 a.m. to 10 p.m. daily.",
+  "sections": {
+    "who": "<p>People seeking local resources can use the free, confidential service. Referred organizations make their own eligibility decisions.</p>",
+    "get": "<p>You receive resource information and provider contacts. Vermont 211 no longer issues after-hours General Assistance emergency-housing intake or vouchers.</p>",
+    "docs": "<ul><li>Town or ZIP code.</li><li>The need and any immediate deadline.</li><li>Language or accessibility needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Request referrals</h3><p>Call 211, text your ZIP code to 898211 or search <a href=\"https://vermont211.org/\">Vermont 211</a>.</p></li><li><h3 class=\"pbf-h3\">Use the correct housing route</h3><p>The provider directs GA emergency-housing eligibility to ESD at 800-775-0506 during its published weekday hours.</p></li><li><h3 class=\"pbf-h3\">Check providers</h3><p>Ask referred services about availability and intake.</p></li></ol>",
+    "after": "<p>If one referral cannot help, ask for another. Check current hours before relying on after-hours assistance.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://vermont211.org/\">Vermont 211 current service notice</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is live 211 service around the clock?",
+      "The current provider page lists 8 a.m.–10 p.m. daily."
+    ],
+    [
+      "Can 211 issue after-hours GA housing vouchers?",
+      "The provider says that role ended September 1."
+    ],
+    [
+      "Is the directory free?",
+      "Vermont 211 describes its information service as free."
+    ],
+    [
+      "Does a referral reserve assistance?",
+      "No. Contact the provider to confirm."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://vermont211.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/vermont-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

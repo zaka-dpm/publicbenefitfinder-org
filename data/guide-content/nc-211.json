@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "NC211 provides free, confidential information about community health and human services. It is operated through United Way.",
+  "description": "NC211 provides free, confidential information about community health and human services. It is operated through United Way.",
+  "sections": {
+    "who": "<p>Anyone can request referrals. Providers have separate eligibility conditions.</p>",
+    "get": "<p>Specialists and the online search identify resources for local needs. A referral does not guarantee financial help.</p>",
+    "docs": "<ul><li>ZIP code or town.</li><li>The need and deadline.</li><li>Language or access needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call</h3><p>Dial211 or888-892-1162.</p></li><li><h3 class=\"pbf-h3\">Describe your circumstances</h3><p>Ask about providers accepting applications now.</p></li><li><h3 class=\"pbf-h3\">Search or follow up</h3><p>Use <a href=\"https://nc211.org/\">NC211</a> and contact the provider.</p></li></ol>",
+    "after": "<p>Confirm required documents and hours before visiting.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://nc211.org/\">NC211 resources</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it free?",
+      "Yes."
+    ],
+    [
+      "Does211 approve benefits?",
+      "No."
+    ],
+    [
+      "Can I search by location?",
+      "Yes."
+    ],
+    [
+      "Is a benefits screener an application?",
+      "No. Apply with the relevant program."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://nc211.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/nc-211/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

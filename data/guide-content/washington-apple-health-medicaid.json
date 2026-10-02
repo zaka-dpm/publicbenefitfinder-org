@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Apple Health is Washington’s Medicaid coverage. The correct application system depends on the coverage category.",
+  "description": "Apple Health is Washington’s Medicaid coverage. The correct application system depends on the coverage category.",
+  "sections": {
+    "who": "<p>Income and household circumstances matter. Age, pregnancy, disability, Medicare and long-term-care needs can change the eligibility route.</p>",
+    "get": "<p>Approved coverage pays for eligible health services. Review assigned coverage and provider arrangements.</p>",
+    "docs": "<ul><li>Household, income and identity details.</li><li>Insurance and category-specific evidence requested during intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose the application route</h3><p>Adults, children, families and pregnant applicants generally use <a href=\"https://www.wahealthplanfinder.org/\">Washington Healthplanfinder</a>.</p></li><li><h3 class=\"pbf-h3\">Use Classic Medicaid intake when applicable</h3><p>Aged, blind, disabled or Medicare-related applicants use <a href=\"https://www.washingtonconnection.org/\">Washington Connection</a>; ask HCA about long-term services.</p></li><li><h3 class=\"pbf-h3\">Complete review</h3><p>Return requested evidence and check the coverage notice.</p></li></ol>",
+    "after": "<p>Use the appropriate account for renewals and changes. Confirm providers with the assigned plan before arranging care.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.hca.wa.gov/free-or-low-cost-health-care/apple-health-you\">HCA coverage management</a>; <a href=\"https://www.hca.wa.gov/free-or-low-cost-health-care/i-need-medical-dental-or-vision-care/aged-blind-or-disabled\">Aged, blind or disabled coverage</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is Apple Health Medicaid?",
+      "Yes. It is Washington’s Medicaid program."
+    ],
+    [
+      "Does every applicant use Healthplanfinder?",
+      "No. Classic Medicaid uses Washington Connection."
+    ],
+    [
+      "Where are renewal dates listed?",
+      "Check the coverage notice and correct account."
+    ],
+    [
+      "Does the HCA website itself hold my account?",
+      "Use the linked application systems."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.hca.wa.gov/free-or-low-cost-health-care/apple-health-you",
+      "https://www.hca.wa.gov/free-or-low-cost-health-care/i-need-medical-dental-or-vision-care/aged-blind-or-disabled"
+    ],
+    "background_source": "https://usaassistance.org/programs/washington-apple-health-medicaid/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

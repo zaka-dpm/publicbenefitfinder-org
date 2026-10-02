@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "CLASI provides free civil legal help to eligible Delaware residents. Start with the office serving your county.",
+  "description": "CLASI provides free civil legal help to eligible Delaware residents. Start with the office serving your county.",
+  "sections": {
+    "who": "<p>CLASI serves qualifying low-income residents, older adults, people with disabilities and other specified groups. It accepts only issues within its practice areas and resources.</p>",
+    "get": "<p>Help can concern housing, benefits, family, domestic violence or other civil matters. Criminal and personal-injury cases are excluded.</p>",
+    "docs": "<ul><li>Related notices or court papers.</li><li>A list of deadlines and hearing dates.</li><li>Household and income information for intake.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call the county office</h3><p>New Castle: 302-575-0660; Kent: 302-674-8500; Sussex: 302-856-0038. See <a href=\"https://www.declasi.org/legal-services/\">CLASI Legal Services</a>.</p></li><li><h3 class=\"pbf-h3\">Complete intake</h3><p>Staff collect basic information. If eligible, legal staff review the issue and contact you.</p></li><li><h3 class=\"pbf-h3\">Ask about alternatives</h3><p>If CLASI cannot assist, ask about another provider or use Delaware Legal Help Link.</p></li></ol>",
+    "after": "<p>Clarify whether representation has been accepted. Keep your own deadline calendar while waiting.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.declasi.org/legal-services/\">CLASI eligibility and intake</a>; <a href=\"https://www.declasi.org/\">CLASI program overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Does CLASI handle criminal charges?",
+      "No. It also excludes personal-injury cases."
+    ],
+    [
+      "Is a lawyer guaranteed?",
+      "No. Issue eligibility, funding and resources affect acceptance."
+    ],
+    [
+      "What should I prepare first?",
+      "Gather the notice and note the next deadline."
+    ],
+    [
+      "Which office should I call?",
+      "Use the office for your county."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.declasi.org/legal-services/",
+      "https://www.declasi.org/"
+    ],
+    "background_source": "https://usaassistance.org/programs/community-legal-aid-society-clasi/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

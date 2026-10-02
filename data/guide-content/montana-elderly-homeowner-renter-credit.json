@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Montana’s Elderly Homeowner/Renter Credit is refundable property-tax relief claimed through the income-tax system.",
+  "description": "Montana’s Elderly Homeowner/Renter Credit is refundable property-tax relief claimed through the income-tax system.",
+  "sections": {
+    "who": "<p>Applicants must be62+ at year-end, meet Montana and home-occupancy duration rules and pass the total-household-income test.</p>",
+    "get": "<p>The amount depends on household income, rent and property tax. Renters and homeowners can qualify.</p>",
+    "docs": "<ul><li>Income for all household members.</li><li>Rent or property-tax records.</li><li>Age and occupancy information.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Check eligibility</h3><p>Use <a href=\"https://revenue.mt.gov/property/property-tax-help/montana-elderly-homeowner-renter-credit\">Revenue’s credit page</a> for the claim year.</p></li><li><h3 class=\"pbf-h3\">Choose filing method</h3><p>Use Form2 and Schedule2EC; eligible people without another filing requirement can use TAP’s credit route.</p></li><li><h3 class=\"pbf-h3\">Submit and save</h3><p>Retain calculations and the filing confirmation.</p></li></ol>",
+    "after": "<p>A person without a normal income-tax filing requirement still needs to claim the credit.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://revenue.mt.gov/property/property-tax-help/montana-elderly-homeowner-renter-credit\">Elderly credit eligibility</a>; <a href=\"https://revenue.mt.gov/taxes/individual-income-tax/filing-options\">TAP filing options</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can renters qualify?",
+      "Yes."
+    ],
+    [
+      "Is it refundable?",
+      "Yes."
+    ],
+    [
+      "Does only my income count?",
+      "The rule uses total household income."
+    ],
+    [
+      "Can nonfilers claim it?",
+      "Eligible people can use the designated credit filing route."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://revenue.mt.gov/property/property-tax-help/montana-elderly-homeowner-renter-credit",
+      "https://revenue.mt.gov/taxes/individual-income-tax/filing-options"
+    ],
+    "background_source": "https://usaassistance.org/programs/montana-elderly-homeowner-renter-credit/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

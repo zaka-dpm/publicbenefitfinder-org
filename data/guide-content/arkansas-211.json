@@ -1,0 +1,52 @@
+{
+  "status": "authored",
+  "description": "Arkansas 211 has changed operators and coverage. Its current About page says Hark at Excellerate Foundation serves Benton, Madison and Washington counties; older statewide sta",
+  "introduction": "Arkansas 211 has changed operators and coverage. Its current About page says Hark at Excellerate Foundation serves Benton, Madison and Washington counties; older statewide statements on the same website should not be treated as confirmation of statewide intake.",
+  "service_type": "referral",
+  "sections": {
+    "who": [
+      "The current operator notice limits service to Benton, Madison and Washington counties. Ask the service about an address outside those counties before relying on a referral.",
+      "Referred providers have their own eligibility and application rules. A referral does not reserve funding or approve a benefit."
+    ],
+    "get": "<p>The service offers information and contacts for local resources. The site provides telephone and ZIP-text options, but conflicting legacy content means current operating hours should be confirmed when contacting it.</p>",
+    "docs": "<p>Prepare your county or ZIP code, the kind of assistance needed and any deadline. Note providers already contacted. These details help the specialist locate relevant resources rather than acting as a benefit document checklist.</p>",
+    "apply": "<ol><li>Call 211 or 866-489-6983, or text your ZIP code to 898211.</li><li>Confirm that the current operator serves your county and ask about its hours.</li><li>Explain the need and request provider contact and intake details. Contact the provider directly for application and funding information.</li></ol>",
+    "after": "<p>Save referral details and follow up with each provider. If your county is outside the current coverage, use the relevant state program\u2019s county office or provider locator. For immediate danger, use emergency services rather than waiting for a referral.</p>",
+    "sources": "<ul><li><a href=\"https://arkansas211.org/\">Current operator and coverage notice</a></li><li><a href=\"https://usaassistance.org/programs/arkansas-211/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Does Arkansas 211 currently serve every county?",
+      "The current operator notice says it can only serve Benton, Madison and Washington counties, despite older statewide language elsewhere on the page."
+    ],
+    [
+      "What is the alternative phone number?",
+      "The website lists 866-489-6983 alongside 211."
+    ],
+    [
+      "Can I text for resources?",
+      "The listed text option is your ZIP code to 898211. Confirm service availability for your county."
+    ],
+    [
+      "Does the referral guarantee assistance?",
+      "No. The agency you contact evaluates eligibility and available help."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "arkansas-211",
+    "source_url": "https://usaassistance.org/programs/arkansas-211/",
+    "source_updated": "August 2026",
+    "primary_url": "https://arkansas211.org/",
+    "primary_retrieved": true,
+    "facts_verified": false,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://arkansas211.org/"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published.",
+    "blockers": [
+      "Current operator limits coverage to three counties, while legacy statewide/24-hour copy remains on primary page. Hours need confirmation."
+    ]
+  }
+}

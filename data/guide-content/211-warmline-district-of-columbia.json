@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "introduction": "DC’s 211 Warmline helps residents find social-service resources. It is a referral line for non-emergency needs.",
+  "description": "DC’s 211 Warmline helps residents find social-service resources. It is a referral line for non-emergency needs.",
+  "sections": {
+    "who": "<p>District residents can use the Warmline. Individual referred programs assess their own eligibility.</p>",
+    "get": "<p>An agent helps identify local services. Live hours are Monday–Friday, 9 a.m.–5 p.m.; after-hours voicemail calls are returned within one to two business days.</p>",
+    "docs": "<ul><li>Your neighborhood or ZIP code.</li><li>The help needed and any deadline.</li><li>A callback number if leaving voicemail.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Call the Warmline</h3><p>Dial 211 in the District, or 202-463-6211 while outside DC.</p></li><li><h3 class=\"pbf-h3\">Describe the need</h3><p>Explain whether you need food, family support or another community service.</p></li><li><h3 class=\"pbf-h3\">Follow up with the referral</h3><p>Ask the provider about current intake and evidence requirements.</p></li></ol>",
+    "after": "<p>Keep referral names and numbers. For an emergency call 911; for mental-health distress or thoughts of self-harm, call 988.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://211warmline.dc.gov/page/get-help\">211 Warmline hours and contact</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is the Warmline an emergency service?",
+      "No. Use 911 for an emergency."
+    ],
+    [
+      "Can I call from outside DC?",
+      "Use 202-463-6211."
+    ],
+    [
+      "What happens after hours?",
+      "Leave a detailed voicemail for a callback within one to two business days."
+    ],
+    [
+      "Does a referral approve benefits?",
+      "No. The service provider decides."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://211warmline.dc.gov/page/get-help"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-warmline-district-of-columbia/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

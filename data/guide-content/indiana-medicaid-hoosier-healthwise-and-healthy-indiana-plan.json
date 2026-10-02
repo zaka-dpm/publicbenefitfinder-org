@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "description": "Indiana offers several Medicaid coverage pathways, including Hoosier Healthwise and the Healthy Indiana Plan. DFR processes applications for health coverage.",
+  "introduction": "Indiana offers several Medicaid coverage pathways, including Hoosier Healthwise and the Healthy Indiana Plan. DFR processes applications for health coverage.",
+  "service_type": "health",
+  "sections": {
+    "who": "<p>Children and pregnant applicants typically use Hoosier Healthwise; many other adults use HIP. Older, blind, disabled or institutionalized applicants may use different programs. Income, household and other requirements depend on the pathway, so use the state eligibility guide for each person.</p>",
+    "get": "<p>Your approved program and health plan determine covered care, providers and any premiums or contributions. Check the enrollment notice before booking care that depends on coverage.</p>",
+    "docs": "<p>Prepare applicant and household information, income evidence and the records DFR requests for your coverage pathway. Disability or long-term-care applications may require additional information.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Choose an application method</h3><p>Apply through the <a href=\"https://fssabenefits.in.gov/bp/\">FSSA Benefits Portal</a>, a DFR office, mail or phone. DFR lists 800-403-0864 for phone applications.</p></li><li><h3 class=\"pbf-h3\">Complete verification</h3><p>Return the required documents. A certified navigator can help with the application.</p></li><li><h3 class=\"pbf-h3\">Track the request</h3><p>Use the portal or DFR phone line and keep your case number available.</p></li></ol>",
+    "after": "<p>Read the eligibility and plan notices. Pregnancy-related presumptive eligibility can provide temporary coverage in some circumstances, but a full application remains necessary for ongoing coverage.</p>",
+    "sources": "<p>Reviewed October 1, 2026 using <a href=\"https://www.in.gov/medicaid/members/apply-for-medicaid/eligibility-guide/\">Indiana coverage eligibility guide</a>, <a href=\"https://www.in.gov/medicaid/members/apply-for-medicaid/\">application methods</a>, <a href=\"https://www.in.gov/medicaid/members/\">member and plan contacts</a>, <a href=\"https://secure.in.gov/medicaid/members/apply-for-medicaid/presumptive-eligibility/\">presumptive eligibility</a>. The provider makes eligibility decisions.</p>"
+  },
+  "faqs": [
+    [
+      "Does a screening result enroll me?",
+      "No. The state says a full application is needed to determine eligibility."
+    ],
+    [
+      "Can I get application help?",
+      "Yes. The state links to certified navigators by location."
+    ],
+    [
+      "Is 877-438-4479 the general application line?",
+      "The member site lists it for HIP health-plan selection. DFR’s application line is 800-403-0864."
+    ],
+    [
+      "Is temporary presumptive eligibility a full approval?",
+      "No. Complete the full health coverage application to seek continuing coverage."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.in.gov/medicaid/members/apply-for-medicaid/eligibility-guide/",
+      "https://www.in.gov/medicaid/members/apply-for-medicaid/",
+      "https://www.in.gov/medicaid/members/",
+      "https://secure.in.gov/medicaid/members/apply-for-medicaid/presumptive-eligibility/"
+    ],
+    "facts_verified": true
+  }
+}

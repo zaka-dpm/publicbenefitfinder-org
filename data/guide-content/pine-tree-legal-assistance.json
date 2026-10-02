@@ -1,0 +1,49 @@
+{
+  "status": "reviewed",
+  "description": "Pine Tree Legal Assistance provides free civil legal help across Maine. Intake determines whether the organization can advise you or accept further work on the case.",
+  "introduction": "Pine Tree Legal Assistance provides free civil legal help across Maine. Intake determines whether the organization can advise you or accept further work on the case.",
+  "service_type": "legal",
+  "sections": {
+    "who": [
+      "Eligibility depends on income, assets, funding rules, the legal issue and conflicts of interest.",
+      "The program handles civil issues such as housing and benefits; it does not take criminal, traffic or personal injury matters. General family-law calls are not accepted, with certain abuse-related matters using advocacy referrals."
+    ],
+    "get": "<p>Help may include advice or accepted representation. A request alone does not mean an attorney has agreed to handle the case.</p>",
+    "docs": "<p>Keep notices, court papers and deadlines beside you. Prepare names of the parties, contact information and household financial details. Explain a safe contact method if the issue involves abuse.</p>",
+    "apply": "<ol><li>Call 207-942-8322 during posted intake hours: Monday noon–2:30 p.m., Tuesday or Thursday 9–11:30 a.m.</li><li>For an office visit, check <a href=\"https://www.ptla.org/contact-us\">current walk-in hours and closures</a> before traveling.</li><li>Request a free interpreter if needed and complete intake.</li></ol>",
+    "after": "<p>Confirm what help is offered and any next contact. Keep meeting deadlines while awaiting acceptance. If the organization cannot help, ask for a referral or self-help information relevant to the problem.</p>",
+    "sources": "<ul><li><a href=\"https://www.ptla.org/contact-us\">Pine Tree legal aid intake</a></li><li><a href=\"https://usaassistance.org/programs/pine-tree-legal-assistance/\">USA Assistance background and screenshots</a></li></ul>"
+  },
+  "faqs": [
+    [
+      "Can I ask for an interpreter?",
+      "Yes. Pine Tree provides interpreters without a fee. Ask immediately when you call or arrive."
+    ],
+    [
+      "Can I visit any office at any time?",
+      "No. Walk-in hours vary and current closures are posted on the contact page. Check before traveling."
+    ],
+    [
+      "Can it help challenge a benefits decision?",
+      "Benefits issues are among its civil practice areas, subject to eligibility and case acceptance. Bring the notice and deadline."
+    ],
+    [
+      "Does it handle an ordinary divorce call?",
+      "The current intake page says general family-law calls are not taken. Some abuse-related family matters use referrals through local advocacy organizations."
+    ]
+  ],
+  "provenance": {
+    "local_intro": "pine-tree-legal-assistance",
+    "source_url": "https://usaassistance.org/programs/pine-tree-legal-assistance/",
+    "source_updated": "August 2026",
+    "primary_url": "https://ptla.org/contact-us",
+    "primary_retrieved": true,
+    "facts_verified": true,
+    "adapted_on": "2026-10-01",
+    "reviewed_on": "2026-10-01",
+    "primary_urls": [
+      "https://www.ptla.org/contact-us"
+    ],
+    "review_scope": "Program purpose, eligibility pathway and application methods; no unverified dollar limits published."
+  }
+}

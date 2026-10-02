@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "Connecticut SNAP helps eligible households buy food with an EBT card. DSS accepts online, mailed and in-person applications.",
+  "description": "Connecticut SNAP helps eligible households buy food with an EBT card. DSS accepts online, mailed and in-person applications.",
+  "sections": {
+    "who": "<p>DSS assesses household composition, income and applicable student or work rules. Provide the household’s actual circumstances rather than using an old income table to rule yourself out.</p>",
+    "get": "<p>Approved households receive a monthly food benefit. Verified housing, utility, dependent-care or eligible medical expenses may affect the calculation.</p>",
+    "docs": "<ul><li>Identity, Social Security number and Connecticut address records requested by DSS.</li><li>Recent pay stubs and other income evidence.</li><li>Applicable student or status records and expenses relevant to the benefit calculation.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Submit the application</h3><p>Use the online link on <a href=\"https://portal.ct.gov/dss/snap/supplemental-nutrition-assistance-program---snap/apply?language=en_US\">DSS SNAP Apply</a>, mail a paper form, or visit a DSS Resource Center.</p></li><li><h3 class=\"pbf-h3\">Send verification</h3><p>Use myDSS, the DSS Scanning Center or a resource center. Include your Client ID and Case number on mailed documents if no cover sheet is available.</p></li><li><h3 class=\"pbf-h3\">Complete follow-up</h3><p>DSS may call for an interview. If you have not heard after two weeks, the page lists 855-626-6632 for interview follow-up. Describe urgent food needs for expedited assessment.</p></li></ol>",
+    "after": "<p>Read the decision and keep review dates. Use 211 Connecticut or Connecticut Foodshare for food while the claim is pending.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://portal.ct.gov/dss/snap/supplemental-nutrition-assistance-program---snap/apply?language=en_US\">DSS SNAP application and verification</a>; <a href=\"https://portal.ct.gov/dss/snap\">DSS SNAP overview</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Can I apply on paper?",
+      "Yes. DSS lists mail and in-person options."
+    ],
+    [
+      "Where do I upload evidence?",
+      "Use the myDSS document-submission option linked from the application page."
+    ],
+    [
+      "Why provide expense records?",
+      "Eligible expenses can affect the SNAP calculation, even when they are not needed to establish basic income."
+    ],
+    [
+      "What if I need food now?",
+      "Tell DSS about the emergency and ask about expedited processing; also contact local food resources."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://portal.ct.gov/dss/snap/supplemental-nutrition-assistance-program---snap/apply?language=en_US",
+      "https://portal.ct.gov/dss/snap"
+    ],
+    "background_source": "https://usaassistance.org/programs/connecticut-snap-food-assistance/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "description": "East Stokes Outreach Ministry provides pantry food and other crisis support in eastern Stokes County. Its food pantry is in Walnut Cove.",
+  "introduction": "East Stokes Outreach Ministry provides pantry food and other crisis support in eastern Stokes County. Its food pantry is in Walnut Cove.",
+  "service_type": "navigation",
+  "sections": {
+    "who": "<p>The ministry describes its service area as eastern Stokes County. Contact the office about your address and the screening for the particular help you need.</p>",
+    "get": "<p>Its services include food, clothing and emergency financial assistance. Ask about current availability; the public site does not promise payment for every bill. Its thrift store raises support for the pantry.</p>",
+    "docs": "<p>Before visiting, ask what residence and household information the pantry needs. For financial assistance, have the bill, deadline and a brief explanation of the crisis ready; confirm the actual checklist with staff.</p>",
+    "apply": "<ol class=\"site-apply-steps\"><li><p>Call the office and food pantry at 336-591-3237. Explain whether you need food or financial help.</p></li><li><p>Confirm intake arrangements for 301 W. 3rd Street, Walnut Cove. Posted pantry hours are Monday–Friday, 9–11:30 a.m.</p></li><li><p>Discuss the request with staff and provide the records they ask for. Ask about other resources if the ministry cannot cover the need.</p></li></ol>",
+    "after": "<p>Follow the pantry’s return-visit instructions. For bill help, confirm the decision and any arrangements with the provider rather than assuming a request suspends a deadline.</p>",
+    "sources": "<p>Application and program details: <a href=\"https://www.eaststokesoutreachministry.com/\">Pantry contact and hours</a>, <a href=\"https://www.eaststokesoutreachministry.com/about\">Service area and purpose</a>.</p><p>Historical screenshots and background: <a href=\"https://usaassistance.org/programs/east-stokes-outreach-ministry/\">USA Assistance</a>. Screenshots may show an earlier application interface.</p>"
+  },
+  "faqs": [
+    [
+      "What is the pantry phone number?",
+      "336-591-3237. The separate thrift-store number is 336-591-3238."
+    ],
+    [
+      "Where is the pantry?",
+      "301 W. 3rd Street in Walnut Cove."
+    ],
+    [
+      "What are the pantry hours?",
+      "The website lists weekdays, 9–11:30 a.m.; confirm holiday or weather closures before travelling."
+    ],
+    [
+      "Which bills are covered?",
+      "The ministry describes emergency financial assistance but does not publish a complete bill list. Ask about your specific expense."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "facts_verified": true,
+    "primary_urls": [
+      "https://www.eaststokesoutreachministry.com/",
+      "https://www.eaststokesoutreachministry.com/about"
+    ],
+    "method": "Manual program-specific rewrite; primary instructions checked; historical source retained for screenshots."
+  }
+}

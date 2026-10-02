@@ -1,0 +1,37 @@
+{
+  "status": "reviewed",
+  "introduction": "Utah WIC starts through the local clinic by call or text. A nutrition appointment determines eligibility before the clinic issues a WIC card.",
+  "description": "Utah WIC starts through the local clinic by call or text. A nutrition appointment determines eligibility before the clinic issues a WIC card.",
+  "sections": {
+    "who": "<p>WIC serves qualifying pregnant, postpartum or breastfeeding people and children younger than five. Income, local residence and nutrition conditions apply; the clinic assesses certification periods.</p>",
+    "get": "<p>Supplemental foods and nutrition services rather than a complete food budget.</p>",
+    "docs": "<ul><li>Identity for each applicant.</li><li>Address evidence.</li><li>Income or qualifying Medicaid, SNAP or FEP records.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Contact your local clinic</h3><p>Use <a href=\"https://wic.utah.gov/about/apply/\">Utah WIC’s clinic links</a>.</p></li><li><h3 class=\"pbf-h3\">Prepare for the appointment</h3><p>Ask which records to bring for each person applying.</p></li><li><h3 class=\"pbf-h3\">Complete nutrition review</h3><p>Discuss health and food needs and learn the card rules if approved.</p></li></ol>",
+    "after": "<p>Follow clinic appointments and certification instructions. Ask staff about variable or self-employment income documentation.</p>",
+    "sources": "<p>Checked October 1, 2026 using <a href=\"https://wic.utah.gov/about/apply/\">WIC application, records and nutrition assessment</a>, <a href=\"https://wic.utah.gov/about/\">Supplemental benefit purpose</a>. <a href=\"https://usaassistance.org/programs/utah-wic/\">USA Assistance background guide</a>. Program staff determine eligibility and available assistance.</p>"
+  },
+  "faqs": [
+    [
+      "Does immigration status determine WIC eligibility?",
+      "Utah WIC says citizenship and immigration status do not affect eligibility."
+    ],
+    [
+      "Can I show electronic pay records?",
+      "The clinic guidance allows electronic income verification shown on a device."
+    ],
+    [
+      "Does Medicaid mean enrollment is complete?",
+      "It can establish income eligibility, but clinic assessment remains necessary."
+    ]
+  ],
+  "provenance": {
+    "checked": "2026-10-01",
+    "primary_sources": [
+      "https://wic.utah.gov/about/apply/",
+      "https://wic.utah.gov/about/"
+    ],
+    "facts_verified": true,
+    "scope": "Published eligibility, service purpose and application pathway; no unverified financial limits or deadlines included.",
+    "blockers": []
+  }
+}

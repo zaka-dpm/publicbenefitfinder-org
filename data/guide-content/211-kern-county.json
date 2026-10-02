@@ -1,0 +1,42 @@
+{
+  "status": "reviewed",
+  "introduction": "CAPK’s 211 Kern County connects residents with local assistance. The service operates around the clock.",
+  "description": "CAPK’s 211 Kern County connects residents with local assistance. The service operates around the clock.",
+  "sections": {
+    "who": "<p>People seeking services in Kern County can request referrals. Each provider determines its own eligibility.</p>",
+    "get": "<p>A navigator helps identify food, housing, health and other resources. A referral is not a benefit award.</p>",
+    "docs": "<ul><li>ZIP code and type of need.</li><li>Urgent deadlines or access needs.</li></ul>",
+    "apply": "<ol class=\"site-apply-steps\"><li><h3 class=\"pbf-h3\">Connect</h3><p>Dial 211 or 800-273-2275, or use <a href=\"https://www.capk.org/211kerncounty/\">211 Kern County</a>.</p></li><li><h3 class=\"pbf-h3\">Describe the problem</h3><p>Explain what help is needed and when.</p></li><li><h3 class=\"pbf-h3\">Follow the referral</h3><p>Confirm availability and the provider’s intake process.</p></li></ol>",
+    "after": "<p>Keep the contact information and ask for alternatives if a referral cannot help.</p>",
+    "sources": "<p>Content checked October 1, 2026 using <a href=\"https://www.capk.org/211kerncounty/\">CAPK 211</a>; <a href=\"https://www.capk.org/food-bank/\">CAPK food referral contact</a>. Current eligibility and the final decision remain with the program.</p>"
+  },
+  "faqs": [
+    [
+      "Is it available overnight?",
+      "CAPK describes 24-hour, seven-day service."
+    ],
+    [
+      "Does 211 pay bills?",
+      "It provides referrals to assistance providers."
+    ],
+    [
+      "Will every referral accept me?",
+      "The provider checks eligibility and capacity."
+    ],
+    [
+      "What is useful to prepare?",
+      "Your location, need and deadline."
+    ]
+  ],
+  "provenance": {
+    "reviewed_on": "2026-10-01",
+    "primary_sources": [
+      "https://www.capk.org/211kerncounty/",
+      "https://www.capk.org/food-bank/"
+    ],
+    "background_source": "https://usaassistance.org/programs/211-kern-county/",
+    "local_source_used": true,
+    "facts_verified": true,
+    "review_blockers": []
+  }
+}
