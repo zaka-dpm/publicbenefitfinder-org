@@ -1,7 +1,5 @@
 DirectoryIndex index.html
-Options -MultiViews
 
-<IfModule mod_rewrite.c>
 RewriteEngine On
 
 RewriteRule ^programs/snap\-food\-stamps/$ /programs/snap/ [R=301,L]
@@ -2610,4 +2608,3 @@ RewriteRule ^programs/wyoming\-snap\-food\-assistance$ /programs/wyoming-snap-fo
 RewriteRule ^programs/wyoming\-snap\-food\-assistance/$ guide-wyoming-snap-food-assistance.html [L]
 RewriteRule ^programs/wyoming\-wic$ /programs/wyoming-wic/ [R=301,L]
 RewriteRule ^programs/wyoming\-wic/$ guide-wyoming-wic.html [L]
-</IfModule>

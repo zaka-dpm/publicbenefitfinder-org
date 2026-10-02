@@ -43,7 +43,7 @@ def shell(template, main, title, description, route):
 
 def write_routes(routes):
     (ROOT / 'data/routes.json').write_text(json.dumps(routes, indent=2) + '\n')
-    lines = ['DirectoryIndex index.html', 'Options -MultiViews', '', '<IfModule mod_rewrite.c>', 'RewriteEngine On', '']
+    lines = ['DirectoryIndex index.html', '', 'RewriteEngine On', '']
     redirects_path = ROOT / 'data/redirects.json'
     redirects = json.loads(redirects_path.read_text()) if redirects_path.exists() else {}
     for old, target in redirects.items():
@@ -56,7 +56,7 @@ def write_routes(routes):
         if route != '/':
             path = route.strip('/')
             lines += [f'RewriteRule ^{re.escape(path)}$ /{path}/ [R=301,L]', f'RewriteRule ^{re.escape(path)}/$ {filename} [L]']
-    (ROOT / '.htaccess').write_text('\n'.join(lines + ['</IfModule>', '']))
+    (ROOT / '.htaccess').write_text('\n'.join(lines + ['']))
     published = [route for route, filename in routes.items() if 'content="noindex,follow"' not in (ROOT / filename).read_text()]
     (ROOT / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'  <url><loc>https://www.publicbenefitfinder.org{route}</loc></url>\n' for route in published) + '</urlset>\n')
 
