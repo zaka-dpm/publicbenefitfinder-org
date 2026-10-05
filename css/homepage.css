@@ -8,3 +8,8 @@
 .home-reassurance li { display: flex; align-items: center; gap: 8px; font-size: 13px; line-height: 20px; font-weight: 600; }
 .home-reassurance svg { width: 18px; height: 18px; flex: none; fill: none; stroke: var(--navy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 @media (max-width: 900px) { .home-reassurance { margin-top: 0; gap: 12px 24px; } }
+
+.home-hero__programs { display: inline-flex; align-items: center; gap: 10px; color: var(--navy); font-size: 16px; line-height: 22px; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.home-hero__programs:visited { color: var(--navy); }
+.home-hero__programs:hover { color: var(--navy-hover); }
+.home-hero__programs span { font-size: 20px; line-height: 1; }

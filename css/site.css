@@ -267,3 +267,6 @@ img, svg { max-width: 100%; }
   .site-finder-title h1 { font-size: 28px; }
   .site-finder-card { padding: 24px 20px; }
 }
+
+.site-pagehead--programs .site-bc,
+.site-pagehead--programs .site-bc a { color: var(--on-band-muted); }
