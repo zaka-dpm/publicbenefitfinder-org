@@ -1,10 +1,10 @@
 .home-hero__callout { margin: 0; color: var(--red); font-size: 14px; line-height: 20px; font-weight: 700; letter-spacing: .06em; }
+.home-hero__actions { display: flex; align-items: center; flex-wrap: wrap; gap: 16px 24px; }
 .home-hero__cta { align-self: flex-start; }
 .home-faq { margin-top: 24px; }
 .home-faq details { display: block; border-bottom: 1px solid var(--line); padding: 20px 0; }
 .home-faq p { max-width: 780px; margin: 16px 0 0; color: var(--ink-muted); font-size: 16px; line-height: 26px; }
 .home-reassurance { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 24px; list-style: none; margin: 0; padding: 0; color: var(--ink-muted); }
-.home-reassurance li { display: flex; align-items: center; gap: 10px; font-size: 15px; line-height: 24px; font-weight: 600; }
-.home-reassurance svg { width: 22px; height: 22px; flex: none; fill: none; stroke: var(--navy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.home-reassurance li { display: flex; align-items: center; gap: 8px; font-size: 13px; line-height: 20px; font-weight: 600; }
+.home-reassurance svg { width: 18px; height: 18px; flex: none; fill: none; stroke: var(--navy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 @media (max-width: 900px) { .home-reassurance { margin-top: 0; gap: 12px 24px; } }
-@media (max-width: 640px) { .home-reassurance li { font-size: 14px; } }

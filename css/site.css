@@ -13,9 +13,11 @@ img, svg { max-width: 100%; }
 /* Mobile menu panel */
 .home-menu { display: none; background: var(--band); border-top: 1px solid rgb(255 255 255 / .12); }
 .home-menu[data-open="true"] { display: block; }
+.pbf-header .home-menu .pbf-wrap { display: block; min-height: 0; padding-top: 16px; padding-bottom: 8px; }
 .home-menu ul { list-style: none; margin: 0; padding: 8px 0 16px; }
 .home-menu a { display: block; padding: 12px 0; min-height: 24px; color: var(--on-band); font-weight: 600; font-size: 18px; text-decoration: none; }
-.home-menu .pbf-btn { margin-top: 8px; width: 100%; }
+.pbf-header .home-menu .pbf-btn { display: flex; justify-content: center; margin: 0 0 8px; padding: 12px 22px; width: 100%; box-sizing: border-box; background: var(--on-band); color: var(--band); }
+.pbf-header .home-menu .pbf-btn:hover { background: var(--surface-alt); }
 @media (min-width: 901px) { .home-menu { display: none !important; } }
 
 /* Hero */
@@ -232,4 +234,36 @@ img, svg { max-width: 100%; }
   .site-tab { flex: none; }
   .site-body { padding: 32px 0 56px; }
   .site-cta { padding: 24px; }
+}
+
+/* Program directory header, matching the reference site's navy hero. */
+.site-pagehead--programs { background: var(--band); color: var(--on-band); padding: 64px 0; border-bottom: 4px solid var(--red); }
+.site-pagehead--programs .site-h1 { color: var(--on-band); }
+.site-pagehead--programs .site-lede,
+.site-pagehead--programs .pbf-small { color: var(--on-band-muted); }
+.site-pagehead--programs .pbf-label { color: var(--on-band); }
+.site-pagehead--programs .pbf-input { background: #fff; color: #192b3d; }
+.site-pagehead--programs .pbf-btn { background: var(--on-band); color: var(--band); }
+.site-pagehead--programs .pbf-btn:hover { background: #dbe7f2; }
+@media (max-width: 900px) { .site-pagehead--programs { padding: 40px 0; } }
+
+/* Centered finder layout shared with the .com reference. */
+.site-finder-shell { min-height: 760px; box-sizing: border-box; background: #f5f8fc; padding: 44px 20px 80px; }
+.site-finder-title { text-align: center; max-width: 620px; margin: 0 auto 30px; }
+.site-finder-title h1 { font-size: 34px; line-height: 1.16; font-weight: 800; color: var(--navy); letter-spacing: -.03em; margin: 0 0 11px; }
+.site-finder-title p { color: var(--ink-muted); margin: 0; line-height: 1.55; }
+.site-finder-card { width: min(560px, 100%); box-sizing: border-box; margin: 0 auto; padding: 24px 36px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); box-shadow: 0 8px 24px rgb(20 45 76 / .08); gap: 16px; }
+.site-finder-card .site-wizard-stepbar { font-size: 12px; color: var(--ink-muted); }
+.site-finder-card > h2 { font-size: 24px; line-height: 1.25; text-align: center; }
+.site-finder-card > h2 + p { text-align: center; font-size: 14px; line-height: 1.5; }
+.site-finder-card .site-wizard-options { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+.site-finder-card .site-wizard-option { box-sizing: border-box; min-height: 50px; padding: 13px 16px; border-radius: 11px; font-size: 14px; line-height: 20px; font-weight: 600; }
+.site-finder-card .site-wizard-option:has(input:checked) { background: var(--navy); color: #fff; border-color: var(--navy); }
+.site-finder-card .pbf-input { width: 100%; box-sizing: border-box; border-radius: 10px; }
+.site-finder-card .site-wizard-actions { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+.site-finder-card .site-wizard-actions .pbf-btn { padding: 14px; border-radius: 10px; }
+@media (max-width: 540px) {
+  .site-finder-shell { min-height: 0; padding: 32px 16px 48px; }
+  .site-finder-title h1 { font-size: 28px; }
+  .site-finder-card { padding: 24px 20px; }
 }
