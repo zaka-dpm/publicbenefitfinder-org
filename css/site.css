@@ -270,3 +270,38 @@ img, svg { max-width: 100%; }
 
 .site-pagehead--programs .site-bc,
 .site-pagehead--programs .site-bc a { color: var(--on-band-muted); }
+
+/* Question flow from the local .com finder. */
+.site-finder-card { display: block; padding: 0; overflow: hidden; }
+.site-finder-card .progress { height: 6px; background: var(--line); }
+.site-finder-card .progress i { display: block; height: 100%; background: var(--navy); transition: width .2s ease; }
+.site-finder-card .finder-stepbar { display: flex; justify-content: space-between; padding: 18px 36px 0; font-size: 12px; color: var(--ink-muted); font-weight: 700; }
+.site-finder-card .finder-stepbar b { color: var(--navy); }
+.site-finder-card .wizard-head { padding: 20px 36px; text-align: center; }
+.site-finder-card .wizard-head b { display: block; font-size: 24px; line-height: 1.25; color: var(--navy); }
+.site-finder-card .wizard-head p { margin: 8px 0 0; font-size: 14px; line-height: 1.5; color: var(--ink-muted); }
+.site-finder-card .question { padding: 0 36px 24px; }
+.site-finder-card .question input { width: 100%; box-sizing: border-box; padding: 14px; border: 2px solid var(--line); border-radius: 10px; text-align: center; letter-spacing: .15em; font: inherit; background: var(--surface); color: var(--ink); }
+.site-finder-card .question > button,
+.site-finder-card .question form button { width: 100%; padding: 14px; background: var(--navy); color: white; border: 0; border-radius: 10px; font: 700 16px/22px var(--font-sans); margin-top: 16px; cursor: pointer; }
+.site-finder-card .flow-options { display: grid; gap: 10px; }
+.site-finder-card .flow-options button { width: 100%; min-height: 50px; display: flex; align-items: center; justify-content: space-between; text-align: left; border: 2px solid var(--line); border-radius: 11px; padding: 13px 16px; background: var(--surface); color: var(--ink); font: 600 14px/20px var(--font-sans); cursor: pointer; }
+.site-finder-card .flow-options button:hover { border-color: var(--navy); }
+.site-finder-card .flow-options button.selected,
+.site-finder-card .flow-options button.true { background: var(--navy); border-color: var(--navy); color: white; }
+.site-finder-card .flow-options button span { opacity: 0; }
+.site-finder-card .flow-options button.true span { opacity: 1; }
+.site-finder-card .flow-back { display: block; margin: 0 auto 16px; background: transparent; border: 0; color: var(--ink-muted); cursor: pointer; font: 600 14px var(--font-sans); }
+.site-finder-card .flow-privacy { text-align: center; font-size: 12px; line-height: 1.5; color: var(--ink-muted); padding: 0 20px 24px; }
+.site-finder-card .flow-error { color: var(--red); font-size: 14px; margin-top: 12px; }
+.site-finder-card .flow-error:empty { display: none; }
+.site-finder-card .results { text-align: center; padding: 36px; }
+.site-finder-card .result-check { font-size: 40px; color: var(--navy); }
+.site-finder-card .results > span { font-size: 12px; font-weight: 700; color: var(--ink-muted); }
+.site-finder-card .results h2 { color: var(--navy); }
+.site-finder-card .results .button { display: inline-flex; margin-top: 24px; padding: 14px 20px; background: var(--navy); color: white; text-decoration: none; border-radius: 10px; font-weight: 700; }
+@media (max-width: 540px) {
+  .site-finder-card .finder-stepbar { padding: 18px 20px 0; }
+  .site-finder-card .wizard-head { padding: 20px; }
+  .site-finder-card .question { padding: 0 20px 24px; }
+}
